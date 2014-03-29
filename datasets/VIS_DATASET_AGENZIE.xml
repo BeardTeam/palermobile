@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <DATA_RECORD>
+    <ID>10</ID>
+    <DENOMINAZIONE>I Colori del Mondo</DENOMINAZIONE>
+    <DIPENDENZA>della DA.NI.MA s.a.s di Lo Cascio Nicoletta &amp; C.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Leonardo Da Vinci, 32</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0919768143</TELEFONO>
+    <FAX>0919768145</FAX>
+    <EMAIL>icoloridelmondo@pinguinoviaggi.net</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>26</ID>
+    <DENOMINAZIONE>Kinos Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Capricorno '75 S.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Sampolo, 73</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091307036</TELEFONO>
+    <FAX>091309624</FAX>
+    <EMAIL>info@kinosviaggi.com</EMAIL>
+    <WEB>www.kinosviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>30</ID>
+    <DENOMINAZIONE>L &amp; T viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della L &amp; T srl</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso delle Province, 149</INDIRIZZO>
+    <CAP>90128</CAP>
+    <TELEFONO>0952880709</TELEFONO>
+    <FAX>0952880709</FAX>
+    <EMAIL>ltviaggi@hotmail.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>35</ID>
+    <DENOMINAZIONE>Ausonia Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Ausoniaviaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Gaetano Daita, 66</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091/585555</TELEFONO>
+    <FAX>091320578</FAX>
+    <EMAIL>info@ausoniaviaggi.it</EMAIL>
+    <WEB>www.ausoniaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>40</ID>
+    <DENOMINAZIONE>Manfre' Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Manfre' Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Empedocle Restivo, 34/36</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091525442</TELEFONO>
+    <FAX>091525451</FAX>
+    <EMAIL>manfreviaggi@tin.it</EMAIL>
+    <WEB>www.manfreviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>46</ID>
+    <DENOMINAZIONE>Borneo Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Borneo Viaggi di Tuttoilmondo Stefania</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via G. Pipitone Federico, 33</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/7302746</TELEFONO>
+    <FAX>091/7826559</FAX>
+    <EMAIL>borneoviaggi@hotmail.it</EMAIL>
+    <WEB>www.borneoviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>55</ID>
+    <DENOMINAZIONE>Montalto Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Vincenzo Di Marco, 5/A</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>0915084407</TELEFONO>
+    <FAX>09150844407</FAX>
+    <EMAIL>montaltoadv@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>58</ID>
+    <DENOMINAZIONE>Noema Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Noema Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Gioacchino Di Marzo, 13</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091300675</TELEFONO>
+    <FAX>091302531</FAX>
+    <EMAIL>info@noemaviaggi.it</EMAIL>
+    <WEB>www.noemaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>72</ID>
+    <DENOMINAZIONE>Cocciola Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Alemarviaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ausonia, 116</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091/528322</TELEFONO>
+    <FAX>091/521887</FAX>
+    <EMAIL>info@cocciolaviaggi.it</EMAIL>
+    <WEB>www.cocciolaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>80</ID>
+    <DENOMINAZIONE>Costa delle Mimose</DENOMINAZIONE>
+    <DIPENDENZA>Costa delle Mimose S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Viale Regione Siciliana Nord Ovest, 9939</INDIRIZZO>
+    <CAP>90147</CAP>
+    <TELEFONO>091/6910644</TELEFONO>
+    <FAX>091/7481898</FAX>
+    <EMAIL>costaantonella1973@gmail.com</EMAIL>
+    <WEB>www.costadellemimose.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>93</ID>
+    <DENOMINAZIONE>SLG Travel</DENOMINAZIONE>
+    <DIPENDENZA>della SLG Travel di Bova Maria Grazia</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Montalbo, 1/e</INDIRIZZO>
+    <CAP>90142</CAP>
+    <TELEFONO>0916371872</TELEFONO>
+    <FAX>0916311686</FAX>
+    <EMAIL>info@slgtravel.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>107</ID>
+    <DENOMINAZIONE>Esedra Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Esedra viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Trapani, 12/14/16</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/323435</TELEFONO>
+    <FAX>091/326919</FAX>
+    <EMAIL>info@esedraviaggi.com</EMAIL>
+    <WEB>www.esedraviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>108</ID>
+    <DENOMINAZIONE>Tatamaro Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Tatamaro Viaggi di Ivan Vitrano</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Pietro Scaglione, 6</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916851311</TELEFONO>
+    <FAX>0916851008</FAX>
+    <EMAIL>tatamaroviaggi@hotmail.it</EMAIL>
+    <WEB>www.tatamaroviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>110</ID>
+    <DENOMINAZIONE>Tour and Travelling</DENOMINAZIONE>
+    <DIPENDENZA>della Mondi e Culture Viaggi e Turismo s.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Messina, 7/a</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091331841</TELEFONO>
+    <FAX>0916123403</FAX>
+    <EMAIL>info@tourandtravelling.it</EMAIL>
+    <WEB>www.weddingtosicily.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>114</ID>
+    <DENOMINAZIONE>Fevi Tour</DENOMINAZIONE>
+    <DIPENDENZA>Briuccia Travel By Fevi Tour di Pietro Catalano</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Briuccia, 84</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091/512649</TELEFONO>
+    <FAX>091514734</FAX>
+    <EMAIL>info@fevitour.it</EMAIL>
+    <WEB>www.fevitour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>116</ID>
+    <DENOMINAZIONE>Flambò Tour</DENOMINAZIONE>
+    <DIPENDENZA>Flambò Tour S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Nicolò Garzilli, 38/a</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6254321</TELEFONO>
+    <FAX>091/348517</FAX>
+    <EMAIL>info@flambotour.it</EMAIL>
+    <WEB>www.flambotour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>117</ID>
+    <DENOMINAZIONE>Travel Sicily</DENOMINAZIONE>
+    <DIPENDENZA>della Promotour s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Largo Trinacria, 20</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091331865</TELEFONO>
+    <FAX>091326286</FAX>
+    <EMAIL>promotour@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>120</ID>
+    <DENOMINAZIONE>Furlan Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Dante Viaggi S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Dante, 56/c</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6118483</TELEFONO>
+    <FAX>091/326896</FAX>
+    <EMAIL>furlanviaggi@hotmail.it</EMAIL>
+    <WEB>www.sicilysi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>136</ID>
+    <DENOMINAZIONE>Virtus Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>della Virtus Viaggi e Turismo s.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Maqueda, 260</INDIRIZZO>
+    <CAP>90134</CAP>
+    <TELEFONO>0916014515</TELEFONO>
+    <FAX>0913809893</FAX>
+    <EMAIL>virtusviaggi@libero.it</EMAIL>
+    <WEB>www.virtusviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>138</ID>
+    <DENOMINAZIONE>World Of Tui</DENOMINAZIONE>
+    <DIPENDENZA>della Easy Market S.p.A.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Giovanni Amendola, 15</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>0916121276</TELEFONO>
+    <FAX>0916093124</FAX>
+    <EMAIL>palermo1@tui.it</EMAIL>
+    <WEB>www.tui.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>8</ID>
+    <DENOMINAZIONE>Guccione Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ammiraglio Gravina, 80</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091581146</TELEFONO>
+    <FAX>091324808</FAX>
+    <EMAIL>mail@guccioneviaggi.it</EMAIL>
+    <WEB>www.guccioneviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>17</ID>
+    <DENOMINAZIONE>Air Antoloving Viaggi e Vacanze</DENOMINAZIONE>
+    <DIPENDENZA>Air Antoloving Viaggi e Vacanze di Hossain Mamun</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Maqueda, 231</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>091/6118599</TELEFONO>
+    <FAX>091/6121472</FAX>
+    <EMAIL>antoloving@gmail.com</EMAIL>
+    <WEB>www.antoloving.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>9</ID>
+    <DENOMINAZIONE>Aeroviaggi</DENOMINAZIONE>
+    <DIPENDENZA>Aeroviaggi S.p.A.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via XII gennaio, 1/c</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/333370</TELEFONO>
+    <FAX>091/584194</FAX>
+    <EMAIL>succursale@aeroviaggi.it</EMAIL>
+    <WEB>www.aeroviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>25</ID>
+    <DENOMINAZIONE>Kalesa Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Kalesa Viaggi S.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Calatafimi, 801</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>0916572262</TELEFONO>
+    <FAX>0916572263</FAX>
+    <EMAIL>info@kalesaviaggi.it</EMAIL>
+    <WEB>www.kalesaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>27</ID>
+    <DENOMINAZIONE>Alechiari Viaggi &amp; Turismo</DENOMINAZIONE>
+    <DIPENDENZA>Mercurio S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via San Lorenzo 91/c</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091/6886365</TELEFONO>
+    <FAX>0916887133</FAX>
+    <EMAIL>alechiari@tiscali.it</EMAIL>
+    <WEB>www.alechiari-viaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>31</ID>
+    <DENOMINAZIONE>Amnesia Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>Amnesia Viaggi di Damiata Gaetano</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Nicolò Turrisi, 33</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>091/9821723</TELEFONO>
+    <FAX>091/8430778</FAX>
+    <EMAIL>booking@amnesiaviaggi.it</EMAIL>
+    <WEB>www.amnesiaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>32</ID>
+    <DENOMINAZIONE>Lai Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza San Francesco di Paola, 23</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>091583728</TELEFONO>
+    <FAX>091589995</FAX>
+    <EMAIL>info@laiviaggi.it</EMAIL>
+    <WEB>www.laiviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>33</ID>
+    <DENOMINAZIONE>Arcadelphi Viaggi Succ.</DENOMINAZIONE>
+    <DIPENDENZA>Arcadelphi Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via P. Paternostro, 10</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6118108</TELEFONO>
+    <FAX>091586607</FAX>
+    <EMAIL>giovanna.caridi@arcadelphi.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>34</ID>
+    <DENOMINAZIONE>Landolina Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Marchese di Villabianca, 82/C</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091300529</TELEFONO>
+    <FAX>0916259787</FAX>
+    <EMAIL>info@landolinaviaggi.it</EMAIL>
+    <WEB>www.landolinaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>36</ID>
+    <DENOMINAZIONE>Laurum Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Laurum Viaggi di Vernengo Vita Grazia</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Alloro, 113</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>0917817303</TELEFONO>
+    <FAX>0916171109</FAX>
+    <EMAIL>laurumviaggi@gmail.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>37</ID>
+    <DENOMINAZIONE>Azania Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Azania Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Mariano Stabile, 94</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091/321725</TELEFONO>
+    <FAX>091/325468</FAX>
+    <EMAIL>info@azaniaviaggi.eu</EMAIL>
+    <WEB>www.azaniaviaggi.eu</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>63</ID>
+    <DENOMINAZIONE>Cape Land succ.</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Terrasanta, 59</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6251081</TELEFONO>
+    <FAX>091/7309052</FAX>
+    <EMAIL>info@capelandviaggi.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>77</ID>
+    <DENOMINAZIONE>Coralia Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Essecitour S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza due Palme, 13/14</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>091/7811526</TELEFONO>
+    <FAX>091/7495213</FAX>
+    <EMAIL>coralia@essecitour.it</EMAIL>
+    <WEB>www.essecitour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>78</ID>
+    <DENOMINAZIONE>Piluna Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Francesco Lo Iacono, 61</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>09173008779</TELEFONO>
+    <FAX>0917303711</FAX>
+    <EMAIL>pilunaviaggi@yahoo.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>79</ID>
+    <DENOMINAZIONE>Pirelli Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Le Vacanze Realizzabili s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giovanni Campolo, 16</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916821888</TELEFONO>
+    <FAX>0916834355</FAX>
+    <EMAIL>mail@le-vacanze.it</EMAIL>
+    <WEB>www.le-vacanze.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>81</ID>
+    <DENOMINAZIONE>Premiere 2000 Sede</DENOMINAZIONE>
+    <DIPENDENZA>della Viaggi 2000 s.a.s</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ausonia, 95</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091519175</TELEFONO>
+    <FAX>091516180</FAX>
+    <EMAIL>info@premiere2000.it</EMAIL>
+    <WEB>www.premiere2000.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>82</ID>
+    <DENOMINAZIONE>Crilù Travel</DENOMINAZIONE>
+    <DIPENDENZA>Sicilia insolita Crilutravel Coop.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Florestano Pepe, 13</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091/6622258</TELEFONO>
+    <FAX>091/6092694</FAX>
+    <EMAIL>crilutravel@tin.it</EMAIL>
+    <WEB>www.crilutravel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>83</ID>
+    <DENOMINAZIONE>Rais Travel</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via dei Nebrodi, 10</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091528566</TELEFONO>
+    <FAX>091528572</FAX>
+    <EMAIL>rais.travel@raistravel.com</EMAIL>
+    <WEB>www.raistravel.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>84</ID>
+    <DENOMINAZIONE>CT Travel</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Roccazzo, 88</INDIRIZZO>
+    <CAP>90135</CAP>
+    <TELEFONO>091/5071399</TELEFONO>
+    <FAX>091/50771399</FAX>
+    <EMAIL>citytravelpalermo@hotmail.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>85</ID>
+    <DENOMINAZIONE>Rebayas Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Rebayas Viaggi s.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Mariano Accardo, 50</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916865313</TELEFONO>
+    <FAX>0915084748</FAX>
+    <EMAIL>info@rebayasviaggi.it</EMAIL>
+    <WEB>www.rebayasviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>86</ID>
+    <DENOMINAZIONE>Ruggieri Giovanni &amp; Figli</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Emerico Amari, 40</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091587144</TELEFONO>
+    <FAX>091588464</FAX>
+    <EMAIL>ruggieri@agenziaruggieri.it</EMAIL>
+    <WEB>www.agenziaruggieri.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>87</ID>
+    <DENOMINAZIONE>S. Tagliavia &amp; C.</DENOMINAZIONE>
+    <DIPENDENZA>della S. Tagliavia &amp; C. s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Cavour, 117</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>091582533</TELEFONO>
+    <FAX>091584240</FAX>
+    <EMAIL>mail@tagliavia.it</EMAIL>
+    <WEB>www.tagliavia.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>91</ID>
+    <DENOMINAZIONE>Daliomar Viaggi Sede</DENOMINAZIONE>
+    <DIPENDENZA>Daliomar Viaggi di Isca Pietra</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Tommaso Natale, 53</INDIRIZZO>
+    <CAP>90147</CAP>
+    <TELEFONO>091/6911579</TELEFONO>
+    <FAX>091/534000</FAX>
+    <EMAIL>daliomarviaggi@neomedia.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>92</ID>
+    <DENOMINAZIONE>Simon Travel</DENOMINAZIONE>
+    <DIPENDENZA>della Simon Travel s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Calatafimi,164</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091485171</TELEFONO>
+    <FAX>091484469</FAX>
+    <EMAIL>booking@agecoturs.com</EMAIL>
+    <WEB>www.agecoturs.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>96</ID>
+    <DENOMINAZIONE>Diodoro Travel</DENOMINAZIONE>
+    <DIPENDENZA>Diodoro Travel S.p.a.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Principe di Palagonia, 82/f</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091/6852821</TELEFONO>
+    <FAX>091/6851661</FAX>
+    <EMAIL>info@diodorotravel.it</EMAIL>
+    <WEB>www.diodorotravel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>97</ID>
+    <DENOMINAZIONE>Disegni di Viaggio</DENOMINAZIONE>
+    <DIPENDENZA>Elleti S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giuseppe Sciuti, 77/a</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/7743371</TELEFONO>
+    <FAX>091/8771459</FAX>
+    <EMAIL>disegnidiviaggio@live.it</EMAIL>
+    <WEB>www.disegnidiviaggio.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>98</ID>
+    <DENOMINAZIONE>Soleventi &amp; Tour</DENOMINAZIONE>
+    <DIPENDENZA>della Soluzione Eventi &amp; Turismo s.r.l</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Serradifalco, 206</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916813195</TELEFONO>
+    <FAX>0917486732</FAX>
+    <EMAIL>info@soleventietour.com</EMAIL>
+    <WEB>www.soleventitour.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>99</ID>
+    <DENOMINAZIONE>Sopravvoliamo Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Sopravvoliamo Viaggi di Prosp. Soc. Coop. a r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Ottavio Ziino, 32</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916851438</TELEFONO>
+    <FAX>0916851435</FAX>
+    <EMAIL>sopravv@tin.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>100</ID>
+    <DENOMINAZIONE>Eiffel Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Axia Viaggi di Badalamenti Loredana S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Costantino Nigra, 69</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091/7308443</TELEFONO>
+    <FAX>091/7829552</FAX>
+    <EMAIL>info@eiffelviaggi.it</EMAIL>
+    <WEB>www.eiffelviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>102</ID>
+    <DENOMINAZIONE>Strasburgo Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della G.M. Travel di Manlio Di Giorgi</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Olanda, 23/a</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091516434</TELEFONO>
+    <FAX>0916786692</FAX>
+    <EMAIL>strasburgoviaggi@libero.it</EMAIL>
+    <WEB>www.strasburgoviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>103</ID>
+    <DENOMINAZIONE>Eliadi Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via T. Tasso, 76</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0917828007</TELEFONO>
+    <FAX>091/7828007</FAX>
+    <EMAIL>eliadipi@eliadiviaggi.191.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>104</ID>
+    <DENOMINAZIONE>Sullivan Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Sicilia Bella s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Petrarca, 20</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0916254086</TELEFONO>
+    <FAX>091344333</FAX>
+    <EMAIL>sullivanviaggi@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>105</ID>
+    <DENOMINAZIONE>Erre2viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giuseppe Alessi, 10</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091/345563</TELEFONO>
+    <FAX>091/340321</FAX>
+    <EMAIL>ronchi@erredueviaggi.it</EMAIL>
+    <WEB>www.erredueviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>106</ID>
+    <DENOMINAZIONE>T Travel</DENOMINAZIONE>
+    <DIPENDENZA>della Placido Mancuso e Figli Tour s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Calata Marinai d'Italia Sn</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>0917573358</TELEFONO>
+    <FAX>0916118841</FAX>
+    <EMAIL>agepa.gambino@tirrenia.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>109</ID>
+    <DENOMINAZIONE>Esse Più Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Esse Più Viaggi di Sicilia Concetta</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Catania, 23</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/302439</TELEFONO>
+    <FAX>091/7826099</FAX>
+    <EMAIL>info@essepiuviaggi.it</EMAIL>
+    <WEB>www.essepiuviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>111</ID>
+    <DENOMINAZIONE>Estamar Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>P.zza Castelnuovo, 35</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/333955</TELEFONO>
+    <FAX>091/321695</FAX>
+    <EMAIL>info@coretur.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>15</ID>
+    <DENOMINAZIONE>In Vacanza</DENOMINAZIONE>
+    <DIPENDENZA>della In Vacanza S.c.a.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Viale Strasburgo, 167</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091512633</TELEFONO>
+    <FAX>0918434762</FAX>
+    <EMAIL>invacanzarl@libero.it</EMAIL>
+    <WEB>www.invacanzasicilia.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>16</ID>
+    <DENOMINAZIONE>Inpoltronissima</DENOMINAZIONE>
+    <DIPENDENZA>della Inpoltronissima S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Michele Amari, 6</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>0916115050</TELEFONO>
+    <FAX>0917817390</FAX>
+    <EMAIL>vincenzo.carlisi@inpoltronissima.it</EMAIL>
+    <WEB>www.inpoltronissima.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>18</ID>
+    <DENOMINAZIONE>Iopitur Service Itinerarium Succ.</DENOMINAZIONE>
+    <DIPENDENZA>della Centro Itinerarium di Iozzia Giuseppa &amp; C. s.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giacomo Puccini, 54</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0918873746</TELEFONO>
+    <FAX>0917486756</FAX>
+    <EMAIL>fabriziomistretta@iopitourpalermo.it</EMAIL>
+    <WEB>www.iopitourpalermo.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>28</ID>
+    <DENOMINAZIONE>Kukla Viaggi &amp; Turismo Sede</DENOMINAZIONE>
+    <DIPENDENZA>della Kukla Viaggi Soc. Coop.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Enrico Albanese, 31</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>0916124546</TELEFONO>
+    <FAX>0916124546</FAX>
+    <EMAIL>info@kuklaviaggi.com</EMAIL>
+    <WEB>www.kuklaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>41</ID>
+    <DENOMINAZIONE>Marras Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Marras Viaggi di Marras Francesco</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Alberto Amedeo, 168</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>0913222240</TELEFONO>
+    <FAX>0915072473</FAX>
+    <EMAIL>info@marrasviaggi.com</EMAIL>
+    <WEB>www.marrasviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>43</ID>
+    <DENOMINAZIONE>Mashia Travel</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Giulio Cesare, 8</INDIRIZZO>
+    <CAP>90127</CAP>
+    <TELEFONO>0916176941</TELEFONO>
+    <FAX>0916176941</FAX>
+    <EMAIL>dilorenzotravel@virgilio.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>44</ID>
+    <DENOMINAZIONE>Bopa Grandi Biglietterie</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>P.zza Giulio Cesare c/o Stazione di Palermo</INDIRIZZO>
+    <CAP>90127</CAP>
+    <TELEFONO>091/6161392</TELEFONO>
+    <FAX>0916161392</FAX>
+    <EMAIL>bgb.palermo@bopa.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>52</ID>
+    <DENOMINAZIONE>Borzì Viaggi Succ.</DENOMINAZIONE>
+    <DIPENDENZA>Borzì Viaggi della Borzì Alberto</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via F. Lo Jacono, 22/c</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091//6255522</TELEFONO>
+    <FAX>091/6255518</FAX>
+    <EMAIL>borziviaggi@borziviaggi.it</EMAIL>
+    <WEB>www.borziviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>56</ID>
+    <DENOMINAZIONE>Nashe Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Viaggiando s.r.l</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Finocchiaro Aprile, 188</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>0912531016</TELEFONO>
+    <FAX>0912531016</FAX>
+    <EMAIL>palermo1@nasheviaggi.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>57</ID>
+    <DENOMINAZIONE>Nebrofood Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>della Nebrofood s.a.s di Dario La Mantia</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Aurispa, 70/a</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0917657106</TELEFONO>
+    <FAX>0917657107</FAX>
+    <EMAIL>agenziaviaggi@nebrofood.it</EMAIL>
+    <WEB>www.nebrofood.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>59</ID>
+    <DENOMINAZIONE>Calendario Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Holding Turismo S.p.a.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>via Nunzio Morello, 21</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6114545</TELEFONO>
+    <FAX>091/6113939</FAX>
+    <EMAIL>info@calendarioviaggi.com</EMAIL>
+    <WEB>www.calendarioviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>65</ID>
+    <DENOMINAZIONE>Carthage Travel</DENOMINAZIONE>
+    <DIPENDENZA>Carthage Travel S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via M. Stabile. 97</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091/7811522</TELEFONO>
+    <FAX>091/7811522</FAX>
+    <EMAIL>infocarthagetravel@yahoo.it</EMAIL>
+    <WEB>www.carthagetravel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>115</ID>
+    <DENOMINAZIONE>Tourist Travel Panormus</DENOMINAZIONE>
+    <DIPENDENZA>della Avvenire s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Alessio Di Giovanni, 21</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091302600</TELEFONO>
+    <FAX>0913809840</FAX>
+    <EMAIL>info@ponormusviaggi.it</EMAIL>
+    <WEB>www.panormusviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>118</ID>
+    <DENOMINAZIONE>Frangi Ritt Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Frangi Ritt Viaggi e Turismo di Aldo Ciprì &amp; c. S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Viale Leonardo Da Vinci, 233</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091/400825</TELEFONO>
+    <FAX>091/409036</FAX>
+    <EMAIL>info@frangirittviaggi.com</EMAIL>
+    <WEB>www.frangirittviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>119</ID>
+    <DENOMINAZIONE>TRAVEL360</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Marchese Ugo, 72</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>0915089224</TELEFONO>
+    <FAX>0915089220</FAX>
+    <EMAIL>info@gruppo360.com</EMAIL>
+    <WEB>www.travel360palermo.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>121</ID>
+    <DENOMINAZIONE>Travelbag</DENOMINAZIONE>
+    <DIPENDENZA>della AZ Servizi di Marsia Marika</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Michele Amari, 13</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>0918431085</TELEFONO>
+    <FAX>0918431085</FAX>
+    <EMAIL>pietro.diquarto@travelbag.it</EMAIL>
+    <WEB>www.azservizi-pa.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>122</ID>
+    <DENOMINAZIONE>Traveleze</DENOMINAZIONE>
+    <DIPENDENZA>della Traveleze s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Notarbartolo, 49</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091345758</TELEFONO>
+    <FAX>0917828239</FAX>
+    <EMAIL>info@traveleze.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>123</ID>
+    <DENOMINAZIONE>Gamma Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Gamma Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Brunetto Latini, 11</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/582258</TELEFONO>
+    <FAX>091/6629016</FAX>
+    <EMAIL>gammaviaggi@gmail.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>125</ID>
+    <DENOMINAZIONE>Travellink</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Emilia, 35</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>0912523153</TELEFONO>
+    <FAX>0916195385</FAX>
+    <EMAIL>travellink.srl@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>126</ID>
+    <DENOMINAZIONE>Gianniviaggi</DENOMINAZIONE>
+    <DIPENDENZA>Sicilian Tourist Service S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Praga, 48</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091/6372519</TELEFONO>
+    <FAX>091/6372482</FAX>
+    <EMAIL>info@stsitalia.it</EMAIL>
+    <WEB>wwwstsitalia.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>127</ID>
+    <DENOMINAZIONE>Trinacria Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Maggiore Toselli, 28</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091344376</TELEFONO>
+    <FAX>091348055</FAX>
+    <EMAIL>trinacriaviaggi@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>128</ID>
+    <DENOMINAZIONE>Gigatour</DENOMINAZIONE>
+    <DIPENDENZA>Li.La S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via del Quarnaro, 14</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6851471</TELEFONO>
+    <FAX>091/229914</FAX>
+    <EMAIL>info@gigatour.it</EMAIL>
+    <WEB>www.gigatour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>129</ID>
+    <DENOMINAZIONE>Giosaltour Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Servizitalia società Coop. a.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via S. Puglisi, 15/17</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091/7302628</TELEFONO>
+    <FAX>091/303150</FAX>
+    <EMAIL>giosaltour@servizitalia.it</EMAIL>
+    <WEB>www.servizitalia.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>131</ID>
+    <DENOMINAZIONE>Globalsem Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Globalsem S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giusino, 51</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091/7848420</TELEFONO>
+    <FAX>02/30132407</FAX>
+    <EMAIL>info@globalsemviaggi.it</EMAIL>
+    <WEB>www.globalsemviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>132</ID>
+    <DENOMINAZIONE>Viaggiando con Marco Polo</DENOMINAZIONE>
+    <DIPENDENZA>della Marcopolo Viaggi S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Viale Strasburgo, 385 a/b</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>0917831570</TELEFONO>
+    <FAX>0917831569</FAX>
+    <EMAIL>viaconmarcopolo@gmail.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>135</ID>
+    <DENOMINAZIONE>Virgilio Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Controvento di Iraci Consuelo S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Virgilio, 16</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091323751</TELEFONO>
+    <FAX>0916117747</FAX>
+    <EMAIL>info@virgilioviaggi.com</EMAIL>
+    <WEB>www.virgilioviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>137</ID>
+    <DENOMINAZIONE>Volare Together</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via C. Raiti, 4</INDIRIZZO>
+    <CAP>90128</CAP>
+    <TELEFONO>091590221</TELEFONO>
+    <FAX>0916455594</FAX>
+    <EMAIL>infovolare@libero.it</EMAIL>
+    <WEB>www.volaretogether.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>139</ID>
+    <DENOMINAZIONE>Zaessen Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Zaessen Viaggi di Villafranca Rosalia</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Malaspina, 35</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916117538</TELEFONO>
+    <FAX>0916197027</FAX>
+    <EMAIL>zaessenviaggi@alice.it</EMAIL>
+    <WEB>www.zaessenviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>5</ID>
+    <DENOMINAZIONE>Tourplus Sicilia</DENOMINAZIONE>
+    <DIPENDENZA>Tour Plus Sicilia S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Libertà, 103</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091/349357</TELEFONO>
+    <FAX>091/349195</FAX>
+    <EMAIL>info@tourplus.com</EMAIL>
+    <WEB>www.tourplus.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>7</ID>
+    <DENOMINAZIONE>Adularia Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Adularia Viaggi S.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>C.so Calatafimi, 724</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091/6681856</TELEFONO>
+    <FAX>091/6681395</FAX>
+    <EMAIL>info @adulariaviaggi.com</EMAIL>
+    <WEB>www.adulariaviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>6</ID>
+    <DENOMINAZIONE>Acitour Palermo</DENOMINAZIONE>
+    <DIPENDENZA>Acitour Palermo S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Principe di Paternò, 85</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6257574</TELEFONO>
+    <FAX>091/6250543</FAX>
+    <EMAIL>info@acitour.it</EMAIL>
+    <WEB>www.acitourviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>12</ID>
+    <DENOMINAZIONE>I Viaggi del sud</DENOMINAZIONE>
+    <DIPENDENZA>della ANSA S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Napoli, 52</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>091584573</TELEFONO>
+    <FAX>091320662</FAX>
+    <EMAIL>viaggiansa@libero.it</EMAIL>
+    <WEB>www.iviaggidelsud.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>13</ID>
+    <DENOMINAZIONE>I Voyages succ.</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Valderice, 11</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091518293</TELEFONO>
+    <FAX>091518293</FAX>
+    <EMAIL>ivoyagespalermo@hotmail.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>29</ID>
+    <DENOMINAZIONE>Alternative Sicily</DENOMINAZIONE>
+    <DIPENDENZA>Alternative DMC S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Sammartino, 9</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6127093</TELEFONO>
+    <FAX>091/8041071</FAX>
+    <EMAIL>info@alternativesicily.com</EMAIL>
+    <WEB>www.alternativesicily.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>39</ID>
+    <DENOMINAZIONE>Biba Tour</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Emilia, 45</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6703133</TELEFONO>
+    <FAX>091/515155</FAX>
+    <EMAIL>info@bibatour.com</EMAIL>
+    <WEB>www.bibatour.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>47</ID>
+    <DENOMINAZIONE>Borzì Viaggi Sede</DENOMINAZIONE>
+    <DIPENDENZA>Borzì Viaggi della Borzì Alberto</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Serradifalco, 2/c</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091/225511</TELEFONO>
+    <FAX>091/6820269</FAX>
+    <EMAIL>borziviaggi@borziviaggi.it</EMAIL>
+    <WEB>www.borziviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>62</ID>
+    <DENOMINAZIONE>Novantacento Travel</DENOMINAZIONE>
+    <DIPENDENZA>della S.T.S. s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Sampolo, 125/c</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>0916371444</TELEFONO>
+    <FAX>0916315555</FAX>
+    <EMAIL>info@90100travel.it</EMAIL>
+    <WEB>www.90100travel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>68</ID>
+    <DENOMINAZIONE>Pachamama Inca</DENOMINAZIONE>
+    <DIPENDENZA>della Pachamama Inca di Bica Anna Maria Gaetana</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giovanni Pascoli, 13/15</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0917829682</TELEFONO>
+    <FAX>091304148</FAX>
+    <EMAIL>bica@pachamamainca.it</EMAIL>
+    <WEB>www.pachamamainca.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>76</ID>
+    <DENOMINAZIONE>Conca D'Oro Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Conca D'Oro Viaggi S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza indipendenza, 41</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091/487288</TELEFONO>
+    <FAX>091/487807</FAX>
+    <EMAIL>salvo@concadoroviaggi.it</EMAIL>
+    <WEB>www.concadoroviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>89</ID>
+    <DENOMINAZIONE>Si Planet</DENOMINAZIONE>
+    <DIPENDENZA>della Si Planet di Maurizia Sicurella</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Carmelo Onorato, 39</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091422212</TELEFONO>
+    <FAX>0916619093</FAX>
+    <EMAIL>info@siplanet.it</EMAIL>
+    <WEB>www.siplanet.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>90</ID>
+    <DENOMINAZIONE>Si Viaggiare</DENOMINAZIONE>
+    <DIPENDENZA>della Si Viaggiare s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via dell'Orsa Maggiore, 98</INDIRIZZO>
+    <CAP>90125</CAP>
+    <TELEFONO>0916484410</TELEFONO>
+    <FAX>0916484100</FAX>
+    <EMAIL>info@siviaggiaresrl.it</EMAIL>
+    <WEB>www.siviaggiaresrl.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>94</ID>
+    <DENOMINAZIONE>Di Maria Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>Di Maria Service S.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via dei Nebrodi, 65 e/f</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>091/6700090</TELEFONO>
+    <FAX>091/6700048</FAX>
+    <EMAIL>info@dimariaviaggi.it</EMAIL>
+    <WEB>www.dimariaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>95</ID>
+    <DENOMINAZIONE>Sogni Nel Blu</DENOMINAZIONE>
+    <DIPENDENZA>della Martello Global Company s.r.l</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Salvatore Puglisi, 55</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>0916124380</TELEFONO>
+    <FAX>091612438</FAX>
+    <EMAIL>sogninelblusicilia@sogninelblu.com</EMAIL>
+    <WEB>www.sogninelblu.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>101</ID>
+    <DENOMINAZIONE>Eleantour</DENOMINAZIONE>
+    <DIPENDENZA>Sabimar S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Uditore, 2/e</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091/405118</TELEFONO>
+    <FAX>091/405118</FAX>
+    <EMAIL>eleantour@libero.it</EMAIL>
+    <WEB>www.eleantour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>124</ID>
+    <DENOMINAZIONE>Garofalo Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Garofalo Rosalia</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Generale Francesco La Ferla, 9/11</INDIRIZZO>
+    <CAP>90123</CAP>
+    <TELEFONO>091/6216445</TELEFONO>
+    <FAX>091/6216003</FAX>
+    <EMAIL>garofaloviaggi@aliceposta.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>133</ID>
+    <DENOMINAZIONE>Vigi Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Vigi Viaggi S.a.s. di Macaluso &amp; C.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via San Lorenzo, 95/e</INDIRIZZO>
+    <CAP>90146</CAP>
+    <TELEFONO>0916883889</TELEFONO>
+    <FAX>0916883889</FAX>
+    <EMAIL>vigiviaggi@gmail.com</EMAIL>
+    <WEB>www.vigiviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>140</ID>
+    <DENOMINAZIONE>Zaid Travels</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Vittorio Emanuele, 311</INDIRIZZO>
+    <CAP>90134</CAP>
+    <TELEFONO>0917658617</TELEFONO>
+    <FAX>0917658617</FAX>
+    <EMAIL>zaidtravels@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>11</ID>
+    <DENOMINAZIONE>Aglieri Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Aglieri Turismo Viaggi e Crociere di Aglieri Ignazio</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Mendola, 2/f</INDIRIZZO>
+    <CAP>90127</CAP>
+    <TELEFONO>091/6160672</TELEFONO>
+    <FAX>091/6100091</FAX>
+    <EMAIL>aglieriviaggi@tiscali.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>19</ID>
+    <DENOMINAZIONE>Jato Travel World</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ernesto Basile, 80</INDIRIZZO>
+    <CAP>90128</CAP>
+    <TELEFONO>0916573349</TELEFONO>
+    <FAX>0916573338</FAX>
+    <EMAIL>e.basile@jatotravel.it</EMAIL>
+    <WEB>www.jatotravel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>20</ID>
+    <DENOMINAZIONE>Aish Travel</DENOMINAZIONE>
+    <DIPENDENZA>Ga.al. Viaggi S.n.c. di Migliazzo Alessio</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via A. Pacinotti, 21</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091/6811667</TELEFONO>
+    <FAX>091/6823125</FAX>
+    <EMAIL>info@aishtravel.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>21</ID>
+    <DENOMINAZIONE>Jetset</DENOMINAZIONE>
+    <DIPENDENZA>della Jetset S.p.A.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza Luigi Sturzo, 5</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091324006</TELEFONO>
+    <FAX>091332755</FAX>
+    <EMAIL>jetset@viaggijetset.com</EMAIL>
+    <WEB>www.viaggijetset.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>22</ID>
+    <DENOMINAZIONE>Journey Travel</DENOMINAZIONE>
+    <DIPENDENZA>della Baykam Tour S.n.c.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Calatafimi, 705</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091420792</TELEFONO>
+    <FAX>091485678</FAX>
+    <EMAIL>baykamtour@baykamtour.it</EMAIL>
+    <WEB>www.baykamtour.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>23</ID>
+    <DENOMINAZIONE>Albergheria Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Azimut Soc. Coop. a.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via G, Sciuti, 140/b</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/301622</TELEFONO>
+    <FAX>091/7307981</FAX>
+    <EMAIL>info@albergheriaviaggi.com</EMAIL>
+    <WEB>www.albergheriaviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>24</ID>
+    <DENOMINAZIONE>Kaimano Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della BET Travel S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giuseppe Giusti, 49</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0916258885</TELEFONO>
+    <FAX>091340054</FAX>
+    <EMAIL>info@bettravel.it</EMAIL>
+    <WEB>www.bettravel.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>38</ID>
+    <DENOMINAZIONE>Lele Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Lele Viaggi di Gabriele Mancino</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giotto, 36</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0916865050</TELEFONO>
+    <FAX>0916832779</FAX>
+    <EMAIL>leleviaggi@tiscali.it</EMAIL>
+    <WEB>www.leleviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>42</ID>
+    <DENOMINAZIONE>Marvida Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>della Aleda e C. S.a.s</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Nicolo' Turrisi, 31</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>0917794310</TELEFONO>
+    <FAX>0917794312</FAX>
+    <EMAIL>info@marvidaviaggi.it</EMAIL>
+    <WEB>www.marvidaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>45</ID>
+    <DENOMINAZIONE>Mauritania Viaggi e Turismo</DENOMINAZIONE>
+    <DIPENDENZA>della Mauritania Viaggi di Orlando Debora</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Generale Arimondi, 2/N</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>0916269861</TELEFONO>
+    <FAX>091307505</FAX>
+    <EMAIL>mauritaniaviaggi@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>48</ID>
+    <DENOMINAZIONE>Melagodo Viaggi succ.</DENOMINAZIONE>
+    <DIPENDENZA>della Southwards S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Dante, 66</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>0916123808</TELEFONO>
+    <FAX>0916123808</FAX>
+    <EMAIL>palermo@melagodoviaggi.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>49</ID>
+    <DENOMINAZIONE>Mesotour</DENOMINAZIONE>
+    <DIPENDENZA>della Il Tuareg S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Giovanni Zappalà, 22/24</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>091203445</TELEFONO>
+    <FAX>091203644</FAX>
+    <EMAIL>info@mesotourviaggi.com</EMAIL>
+    <WEB>www.mesotourviaggi.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>50</ID>
+    <DENOMINAZIONE>Mesotour</DENOMINAZIONE>
+    <DIPENDENZA>della Mesotour Viaggi Travel Network</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Vittorio Emanuele, 117</INDIRIZZO>
+    <CAP>90133</CAP>
+    <TELEFONO>0916121476</TELEFONO>
+    <FAX>0916093649</FAX>
+    <EMAIL>sun_travel@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>51</ID>
+    <DENOMINAZIONE>Mister Holiday Filiale di Palermo</DENOMINAZIONE>
+    <DIPENDENZA>della Mister Holiday S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Uditore, 12/P</INDIRIZZO>
+    <CAP>90145</CAP>
+    <TELEFONO>0917297232</TELEFONO>
+    <FAX>091227463</FAX>
+    <EMAIL>palermo@misterholiday.it</EMAIL>
+    <WEB>www.misterholiday.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>53</ID>
+    <DENOMINAZIONE>Mondolingua Tour</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Cristoforo Colombo, 30</INDIRIZZO>
+    <CAP>90142</CAP>
+    <TELEFONO>091362058</TELEFONO>
+    <FAX>0916311512</FAX>
+    <EMAIL>mondo.lingua@tiscali.it</EMAIL>
+    <WEB>www.mondolingua.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>54</ID>
+    <DENOMINAZIONE>Briaria Travel</DENOMINAZIONE>
+    <DIPENDENZA>Briaria Travel di Marcel Berke</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Piazza S. Francesco Saverio, 3</INDIRIZZO>
+    <CAP>90134</CAP>
+    <TELEFONO>091/9765138</TELEFONO>
+    <FAX>091/9765138</FAX>
+    <EMAIL>insideballaro@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>60</ID>
+    <DENOMINAZIONE>Norma Vacanze</DENOMINAZIONE>
+    <DIPENDENZA>della Norma Vacanze s.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Carbone, 139</INDIRIZZO>
+    <CAP>90151</CAP>
+    <TELEFONO>0916840754</TELEFONO>
+    <FAX>0916840330</FAX>
+    <EMAIL>info@normavacanze.it</EMAIL>
+    <WEB>www.normavacanze.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>61</ID>
+    <DENOMINAZIONE>Calpia Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Pinguino Tour S.a.S.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Maggiore Pietro Toselli, 103</INDIRIZZO>
+    <CAP>90143</CAP>
+    <TELEFONO>091/340966</TELEFONO>
+    <FAX>091/6197967</FAX>
+    <EMAIL>info@calpiaviaggi.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>64</ID>
+    <DENOMINAZIONE>Nuova Idea Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Nuova Idea Viaggi s.r.l</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Isidoro La Lumia, 56</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091333496</TELEFONO>
+    <FAX>091588852</FAX>
+    <EMAIL>info@nuovaideaviaggi.it</EMAIL>
+    <WEB>www.nuovaideaviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>66</ID>
+    <DENOMINAZIONE>Cica Blu Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>Ci.ca. S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Terrasanta 12/14</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/7829192</TELEFONO>
+    <FAX>091/6260639</FAX>
+    <EMAIL>info@cicablu.com</EMAIL>
+    <WEB>www.cicablu.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>67</ID>
+    <DENOMINAZIONE>Oikistes Viaggi &amp; Turismo</DENOMINAZIONE>
+    <DIPENDENZA>della Oikistes Viaggi &amp; Turismo by Spot s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Corso Finocchiaro Aprile, 165</INDIRIZZO>
+    <CAP>90138</CAP>
+    <TELEFONO>0917026444</TELEFONO>
+    <FAX>091591069</FAX>
+    <EMAIL>info@oikistes.191.it</EMAIL>
+    <WEB>www.oikistesviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>69</ID>
+    <DENOMINAZIONE>Cisalpina Tours - Vivere e Viaggiare</DENOMINAZIONE>
+    <DIPENDENZA>Cisalpina Tours S.p.a.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Siracusa, 3</INDIRIZZO>
+    <CAP>90141</CAP>
+    <TELEFONO>091/6252100</TELEFONO>
+    <FAX>091/3809903</FAX>
+    <EMAIL>palermo@vivereeviaggiare.it</EMAIL>
+    <WEB>www.cisalpina.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>70</ID>
+    <DENOMINAZIONE>Clamax Service</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Domenico Scinà, 106/B</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>091/6124088</TELEFONO>
+    <FAX>091/6623406</FAX>
+    <EMAIL>mesotour1@clamaxservice.191.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>71</ID>
+    <DENOMINAZIONE>Palma Nana</DENOMINAZIONE>
+    <DIPENDENZA>della Soc. Coop. a.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Archimede, 56</INDIRIZZO>
+    <CAP>90139</CAP>
+    <TELEFONO>0917434726</TELEFONO>
+    <FAX>0913809837</FAX>
+    <EMAIL>info@educazioneambientale.com</EMAIL>
+    <WEB>www.educazioneambientale.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>73</ID>
+    <DENOMINAZIONE>Coffe Travel</DENOMINAZIONE>
+    <DIPENDENZA>Capreri S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>P.zza Sant'Oliva, 43/44</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/7851896</TELEFONO>
+    <FAX>091/7851896</FAX>
+    <EMAIL>0</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>74</ID>
+    <DENOMINAZIONE>Collage Turismo Viaggi e Vacanze</DENOMINAZIONE>
+    <DIPENDENZA>Collage Turismo S.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Umberto Giordano, 37/a</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6814222</TELEFONO>
+    <FAX>091/6818309</FAX>
+    <EMAIL>info@collageturismo.it</EMAIL>
+    <WEB>www.collageturismo.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>75</ID>
+    <DENOMINAZIONE>Pietro Barbaro</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Molo Vittorio Veneto - Porto di Palermo</INDIRIZZO>
+    <CAP>90100</CAP>
+    <TELEFONO>091333333</TELEFONO>
+    <FAX>091329990</FAX>
+    <EMAIL>info@pietrobarbaro.com</EMAIL>
+    <WEB>www.pietrobarbaro.com</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>88</ID>
+    <DENOMINAZIONE>Scialo Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>0</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Luigi Pirandello, 19</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>0917219096</TELEFONO>
+    <FAX>0916264281</FAX>
+    <EMAIL>info@scialoviaggi.it</EMAIL>
+    <WEB>www.scialoviaggi.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>112</ID>
+    <DENOMINAZIONE>Fan Viaggi Forum</DENOMINAZIONE>
+    <DIPENDENZA>Viaggi Forum</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Pecoraino (c/o Centro Comm. Forum)</INDIRIZZO>
+    <CAP>90124</CAP>
+    <TELEFONO>091/6212488</TELEFONO>
+    <FAX>091/474421</FAX>
+    <EMAIL>info@viaggi-forum.it</EMAIL>
+    <WEB>www.viaggi-forum.it</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>113</ID>
+    <DENOMINAZIONE>Tourismondo</DENOMINAZIONE>
+    <DIPENDENZA>della Terre di Sicania Service Soc. Coop. a r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ammiraglio Rizzo, 50</INDIRIZZO>
+    <CAP>90142</CAP>
+    <TELEFONO>0916315628</TELEFONO>
+    <FAX>091362446</FAX>
+    <EMAIL>info@tourismondo.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>130</ID>
+    <DENOMINAZIONE>Glintour</DENOMINAZIONE>
+    <DIPENDENZA>Nuova Compagnia delle Indie di Arena R. &amp; C. S.a.s.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Ariosto, 14</INDIRIZZO>
+    <CAP>90144</CAP>
+    <TELEFONO>091/6257300</TELEFONO>
+    <FAX>091/348009</FAX>
+    <EMAIL>glintour@libero.it</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <ID>134</ID>
+    <DENOMINAZIONE>Villa Tasca Viaggi</DENOMINAZIONE>
+    <DIPENDENZA>della Villa Tasca Viaggi s.r.l.</DIPENDENZA>
+    <CATEGORIA>A ill.</CATEGORIA>
+    <CITTA>Palermo</CITTA>
+    <INDIRIZZO>Via Palmerino, 24</INDIRIZZO>
+    <CAP>90129</CAP>
+    <TELEFONO>091489518</TELEFONO>
+    <FAX>0916452797</FAX>
+    <EMAIL>villatascaviaggi@gmail.com</EMAIL>
+    <WEB>0</WEB>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </DATA_RECORD>
+</main>

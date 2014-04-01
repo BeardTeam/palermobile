@@ -1,0 +1,5 @@
+
+r
+eliminati nodi il cui valore è 0 -> considerati "nulli" e quindi non utili
+eliminati nodi i cui valori erano ridondandi (ad esempio DES con DESCRIZIONE e STELLE in TURISMO002.xml)
+rinominati i termini di categoria al singolare (es. ostelli -> ostello)

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<luoghi>
+  <luogo>
+    <id>5</id>
+    <stato>Bangladesh</stato>
+    <indirizzo>Piazza Vittorio Emanuele Orlando, 41</indirizzo>
+    <telefono>091 6111484</telefono>
+    <mobile>3356316148</mobile>
+    <fax>091 6111484</fax>
+    <email>studiolegaleditanto@libero.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Cav. Avv. Vincenzo Di Tanto Console Generale Onorario del Bangladesh Circoscrizione: Palermo, Trapani, Agrigento orari Dal lunedì al venerdì: 16.30-18.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>6</id>
+    <stato>Belgio</stato>
+    <indirizzo>Viale della Libertà, 159</indirizzo>
+    <telefono>091 305132</telefono>
+    <mobile>335 6209284</mobile>
+    <fax>091 347093</fax>
+    <email>0</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Barone Piervincenzo Mancuso Console Onorario del Belgio Circoscrizione: Sicilia occidentale, Caltanissetta ed Enna orari Dal lunedì al venerdì orari d'ufficio ordinari</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>7</id>
+    <stato>Brasile</stato>
+    <indirizzo>Via Roma, 386</indirizzo>
+    <telefono>091 588661</telefono>
+    <mobile>0</mobile>
+    <fax>091 585155</fax>
+    <email>mancuso@infcom.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig. Paolo Mancuso Console Onorario del Brasile Circoscrizione: Sicilia orari Lunedì, mercoledì e giovedì: 16.00-18.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>14</id>
+    <stato>Federazione Russa</stato>
+    <indirizzo>Viale Orfeo, 18</indirizzo>
+    <telefono>091 6113970</telefono>
+    <mobile>0</mobile>
+    <fax>091 6114899</fax>
+    <email>visa@consolatorussopa.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Vladimir Korotkov Console Generale della Federazione Russa Ministro Straordinario e Plenipotenziario Decano del Corpo Consolare Circoscrizione: Sicilia e Calabria orari Lunedì, martedì e giovedì: 8.30-12.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>17</id>
+    <stato>Danimarca</stato>
+    <indirizzo>Piazzetta Scannaserpe, 3</indirizzo>
+    <telefono>091 543506</telefono>
+    <mobile>0</mobile>
+    <fax>091 6372482</fax>
+    <email>hc@sikania.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig.ra Hanne Elisabeth Frendrup Carstensen Castellucci Console Onorario della Danimarca Consigliere di Decanato Circoscrizione: Palermo, Agrigento, Caltanissetta, Trapani orari Dal lunedì al venerdì: 9.00-13.00 e 16.00-18.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>18</id>
+    <stato>Grecia</stato>
+    <indirizzo>Via Noto, 34</indirizzo>
+    <telefono>091 6259541</telefono>
+    <mobile>0</mobile>
+    <fax>091 308996</fax>
+    <email>congr.pa@issbi.org</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Prof.ssa Renata Lavagnini Console Onorario della Grecia Circoscrizione: Palermo, Agrigento, Trapani, Messina orari Dal lunedì al venerdì: 9.00-13.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>19</id>
+    <stato>Lituania</stato>
+    <indirizzo>Via Riccardo Wagner, 9</indirizzo>
+    <telefono>0916093512 - 091589752</telefono>
+    <mobile>0</mobile>
+    <fax>0916110983</fax>
+    <email>palmigiano@consolatolituania.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Avv. Alessandro Palmigiano Console Onorario della Repubblica di Lituania Consigliere di Decanato Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.00-13.00 e 16.00-18.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>20</id>
+    <stato>Lussemburgo</stato>
+    <indirizzo>Via Siracusa, 34</indirizzo>
+    <telefono>0916256218</telefono>
+    <mobile>0</mobile>
+    <fax>0916256234</fax>
+    <email>bcc@studiobcc.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Antonio Cosenz Console Onorario del Granducato del Lussemburgo Consigliere di Decanato Circoscrizione: Sicilia orari Lunedì, mercoledì e venerdì: 9.00-12.00 e 16.00-19.00 Martedì e giovedì: 9.00-12.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>23</id>
+    <stato>Principato di Monaco</stato>
+    <indirizzo>Via Principe di Villafranca, 57</indirizzo>
+    <telefono>091333901</telefono>
+    <mobile>0</mobile>
+    <fax>091333901</fax>
+    <email>consolatomonaco.palermo@virgilio.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Avv. Emanuele Bruno Console Onorario del Principato di Monaco Circoscrizione: Sicilia orari Dal lunedì al venerdì: 14.30-17.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>9</id>
+    <stato>Burkina Faso</stato>
+    <indirizzo>Piazza S. Oliva, 28</indirizzo>
+    <telefono>091 6110329</telefono>
+    <mobile>335 6309807</mobile>
+    <fax>0</fax>
+    <email>consoleburkfasopalermo@gmail.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Antonio Tito Console Onorario di Burkina Faso Circoscrizione: Regione Sicilia orari Martedì: 15.00-19.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>10</id>
+    <stato>Capo Verde</stato>
+    <indirizzo>Via Selinunte, 1</indirizzo>
+    <telefono>091 6112144</telefono>
+    <mobile>0</mobile>
+    <fax>091 6120568</fax>
+    <email>capoverde@aacweb.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Avv. Antonietta Alongi Console Onorario di Capo Verde Circoscrizione: Sicilia orari Dal lunedì al venerdì: 16.00-20.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>11</id>
+    <stato>Cile</stato>
+    <indirizzo>Via Emerico Amari, 8</indirizzo>
+    <telefono>091 329744</telefono>
+    <mobile>0</mobile>
+    <fax>091 6113225</fax>
+    <email>consolatocilepa@gmail.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Vincenzo Chiriaco Console Onorario del Cile Circoscrizione: Palermo e provincia orari Dal lunedì al venerdì: 9.00-13.00 e 15.30-19.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>16</id>
+    <stato>Germania</stato>
+    <indirizzo>Via Principe di Villafranca, 33</indirizzo>
+    <telefono>091 9820808</telefono>
+    <mobile>0</mobile>
+    <fax>091 9820808</fax>
+    <email>palermo@hkdipio.de</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Vincenzo Militello Console Onorario della Repubblica Federale di Germania Circoscrizione: Agrigento, Caltanissetta, Enna, Palermo orari Lunedì, mercoledì, venerdì: 9.00-12.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>8</id>
+    <stato>Bulgaria</stato>
+    <indirizzo>Via Principe di Granatelli, 86</indirizzo>
+    <telefono>091 6015335</telefono>
+    <mobile>0</mobile>
+    <fax>091 6015314</fax>
+    <email>agostino.randazzo@randazzo.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Agostino Randazzo Console Onorario della Bulgaria Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.00-13.00 e 14.00-17.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>13</id>
+    <stato>Costa D'Avorio</stato>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
+    <telefono>091 332742</telefono>
+    <mobile>0</mobile>
+    <fax>091 332742</fax>
+    <email>cotedivoireconspa@alice.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig. Ferdinando Veneziani Console Onorario della Repubblica di Costa d'Avorio Circoscrizione: Sicilia orari Mercoledì: 9.00-13.00 e 15.00-18.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>15</id>
+    <stato>Francia</stato>
+    <indirizzo>Via Principe di Belmonte, 101</indirizzo>
+    <telefono>091 583405</telefono>
+    <mobile>0</mobile>
+    <fax>091 6110299</fax>
+    <email>fsalernocardillo@notariato.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Notaio Franco Salerno Cardillo Vice Console 
+Onorario della Francia Circoscrizione: Palermo orari Lunedì, mercoledì e venerdì: 9.00-13.00 Martedì e giovedì: 9.00-13.00 e 16.00-18.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>22</id>
+    <stato>Marocco</stato>
+    <indirizzo>Via Villa Verona, 35</indirizzo>
+    <telefono>0916886023</telefono>
+    <mobile>0</mobile>
+    <fax>0916881643</fax>
+    <email>c.g.m.-palermo@maec.gov.ma</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>24</id>
+    <stato>Norvegia</stato>
+    <indirizzo>Via Emerico Amari, 8</indirizzo>
+    <telefono>091587377</telefono>
+    <mobile>0</mobile>
+    <fax>091307790</fax>
+    <email>tpandi@tin.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig.ra Isabella Tagliavia Console Generale Onorario della Norvegia Circoscrizione: Palermo, Agrigento, Enna, Caltanissetta, Ragusa e Trapani orari Dal lunedì al venerdì: 9.00-13.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>26</id>
+    <stato>Pakistan</stato>
+    <indirizzo>Via Mariano Stabile, 172</indirizzo>
+    <telefono>0916110910</telefono>
+    <mobile>0</mobile>
+    <fax>0916111908</fax>
+    <email>consulatepakistan@tagliavia.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig. Angelo Tagliavia Console Onorario del Pakistan Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.00-13.00 e 15.30-19.30 Sabato: 9.00-12.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>27</id>
+    <stato>Sovrano Militare Ordine di Malta</stato>
+    <indirizzo>Via Pietro Bonanno, 26</indirizzo>
+    <telefono>091547414</telefono>
+    <mobile>0</mobile>
+    <fax>0916316439</fax>
+    <email>degregoriopaolo@libero.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Marchese Prof. Paolo de Gregorio Partecipa al Corpo Consolare in qualità di Osservatore Circoscrizione: Sicilia Occidentale orari Dal lunedì al venerdì: 8.30-13.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>12</id>
+    <stato>Corea del Sud</stato>
+    <indirizzo>Piazza Federico Chopin, 13</indirizzo>
+    <telefono>091 226178</telefono>
+    <mobile>0</mobile>
+    <fax>178 2787334</fax>
+    <email>adifres@tin.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Antonio Di Fresco Console Onorario della Corea del Sud Consigliere di Decanato Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.30-12.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>21</id>
+    <stato>Malta</stato>
+    <indirizzo>Via Principe di Belmonte, 55</indirizzo>
+    <telefono>091333333</telefono>
+    <mobile>0</mobile>
+    <fax>0917437388</fax>
+    <email>maltaconsul.palermo@gov.mt</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig. Alfredo Barbaro Console Generale Onorario di Malta Circoscrizione: Palermo, Agrigento, Trapani orari Dal lunedì al venerdì: 9.00-13.00 e 14.30-17.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>28</id>
+    <stato>Spagna</stato>
+    <indirizzo>Piazzale Ungheria, 73</indirizzo>
+    <telefono>091320954</telefono>
+    <mobile>0</mobile>
+    <fax>091583706</fax>
+    <email>info@studiocaramanna.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Avv. Ignazio Caramanna Console Onorario della Spagna Circoscrizione: Palermo, Agrigento, Caltanissetta, Enna orari Dal lunedì al venerdì: 9.00-13.00 e 16.00-19.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>31</id>
+    <stato>Ungheria</stato>
+    <indirizzo>Viale delle Alpi, 30</indirizzo>
+    <telefono>0916850947</telefono>
+    <mobile>0</mobile>
+    <fax>0916850947</fax>
+    <email>msanta@iol.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Sig.ra Adelaide Sotyi Santamarina Console Onorario dell'Ungheria Circoscrizione: Sicilia orari Lunedì, mercoledì e venerdì: 9.00-12.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>4</id>
+    <stato>Austria</stato>
+    <indirizzo>Via Leonardo da Vinci, 145</indirizzo>
+    <telefono>0916825696</telefono>
+    <mobile>0</mobile>
+    <fax>0</fax>
+    <email>consolatoaustria.pa@hotmail.it</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr.ssa Irene Salcher-Cillari Console Onorario dell'Austria Segretario Generale del Corpo Consolare Circoscrizione: Sicilia orari Dal lunedì al venerdì: 16.30-18.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>25</id>
+    <stato>Paesi Bassi</stato>
+    <indirizzo>Via Trapani, 1/d</indirizzo>
+    <telefono>0916306005</telefono>
+    <mobile>0</mobile>
+    <fax>0916304028</fax>
+    <email>s.deluca@esterminal.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Salvatore De Luca Console Onorario dei Paesi Bassi Circ.: Palermo, Trapani, Agrigento, Enna, Caltanissetta orari Dal lunedì al venerdì: 9.00-12.00</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>29</id>
+    <stato>Stati Uniti D'America</stato>
+    <indirizzo>Via Vaccarini, 1</indirizzo>
+    <telefono>091305857</telefono>
+    <mobile>0</mobile>
+    <fax>0916256026</fax>
+    <email>cucinellab@state.gov</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr.ssa Barbara Cucinella Agente Consolare Onorario degli U.S.A. Vice Decano del Corpo Consolare Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.00-12.30</ANNOTAZIONI>
+  </luogo>
+  <luogo>
+    <id>30</id>
+    <stato>Svezia</stato>
+    <indirizzo>Via Trapani, 1/d</indirizzo>
+    <telefono>0916306005</telefono>
+    <mobile>0</mobile>
+    <fax>0916304028</fax>
+    <email>s.deluca@esterminal.com</email>
+    <pec>0</pec>
+    <tipo>consolato</tipo>
+    <ANNOTAZIONI>Dr. Salvatore De Luca Console Onorario della Svezia Circoscrizione: Sicilia orari Dal lunedì al venerdì: 9.00-12.00</ANNOTAZIONI>
+  </luogo>
+</luoghi>

@@ -1,0 +1,3408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<luoghi>
+  <luogo>
+    <id>390</id>
+    <nome>Tonnara Florio (Kursal Tonnara Vergine Maria)</nome>
+    <indirizzo>Discesa Tonnara, 4</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6375611</telefono>
+    <fax>0</fax>
+    <email>discoteca@tonnaraflorio.com</email>
+    <web>http://www.tonnaraflorio.com/discoteca.htm</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:00.</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>358</id>
+    <nome>Country Disco Club</nome>
+    <indirizzo>Viale Dell' Olimpo, 3</indirizzo>
+    <cap>90149</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/304977</telefono>
+    <fax>0</fax>
+    <email>robertobianconi@inwind.it</email>
+    <web>http://www.countrydiscoclub.com</web>
+    <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>417</id>
+    <nome>Magazzini</nome>
+    <indirizzo>Lungomare Cristoforo Colombo, 132</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>339</id>
+    <nome>Rise up</nome>
+    <indirizzo>Via Ugo La Malfa, 96</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <mobile>3388137792 - 3470541647</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>523</id>
+    <nome>Baia del Corallo</nome>
+    <indirizzo>Via Plauto</indirizzo>
+    <cap>90147</cap>
+    <citta>Palermo - Sferracavallo</citta>
+    <mobile>330851289</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da venerdì a sabato dalle 21:00 alle 00:00, domenica dalle 20:00 alle 00:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>311</id>
+    <nome>Casa Cuba</nome>
+    <indirizzo>Via Messina Marine, 636</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/495153</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Discoteca</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>351</id>
+    <nome>Scalea Club</nome>
+    <indirizzo>Via Faraone, 2</indirizzo>
+    <cap>90147</cap>
+    <citta>Palermo</citta>
+    <mobile>3313153269</mobile>
+    <telefono>091/243946</telefono>
+    <fax>0</fax>
+    <email>princessscalea@tin.it</email>
+    <web>http://www.scaleaclub.com</web>
+    <ANNOTAZIONI>Aperto sabato dalle 23:00 alle 02:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>361</id>
+    <nome>Villa Partanna</nome>
+    <indirizzo>Via Castelforte, 126</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <mobile>3296212634</mobile>
+    <telefono>091/6841594</telefono>
+    <fax>0</fax>
+    <email>villapartanna@gmail.com</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da lunedì a venerdì, la domenica dalle 16:00 alle 01:30, sabato dalle 16:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>354</id>
+    <nome>Goa</nome>
+    <indirizzo>Via P.v. 46</indirizzo>
+    <cap>90151</cap>
+    <citta>Palermo</citta>
+    <mobile>3284180075 - 3933306697</mobile>
+    <telefono>330851289</telefono>
+    <fax>0</fax>
+    <email>dan.bar@tin.it</email>
+    <web>http://www.goazone.it</web>
+    <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
+    <tipo>Discoteche</tipo>
+    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>373</id>
+    <nome>Fusorario</nome>
+    <indirizzo>Piazza Bara All'olivella, 2</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 21:00 alle 04:00, escluso il martedì.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>402</id>
+    <nome>Le Cupolette</nome>
+    <indirizzo>via Monteleone 12</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6572922</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperti da martedì alla domenica dalle ore 21.00 alle ore 03.00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>327</id>
+    <nome>Di Martino Drinks &amp; Brunch</nome>
+    <indirizzo>Via Giuseppe Mazzini, 54</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6118820</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto domenica dalle 16:00 alle 02:00, da lunedì a sabato dalle 08:00 alle 02:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>337</id>
+    <nome>Cafè 442</nome>
+    <indirizzo>Piazza Don Bosco, 2</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/549431</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.cafe442.it</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>344</id>
+    <nome>Basquiat Cafè</nome>
+    <indirizzo>Piazza S. Oliva, 20</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6090090</telefono>
+    <fax>0</fax>
+    <email>basquiatcafe@libero.it</email>
+    <web>http://www.basquiatcafe.altervista.org</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>412</id>
+    <nome>Lizard Pub</nome>
+    <indirizzo>Via Lattarini Grande, 22</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@lizardpub.com</email>
+    <web>http://www.lizardpub.com</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>292</id>
+    <nome>Aboriginal Cafè</nome>
+    <indirizzo>Via Salvatore Spinuzza, 3</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6622229</telefono>
+    <fax>0</fax>
+    <email>info@aboriginalcafe.com</email>
+    <web>http://www.aboriginalcafe.com</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>383</id>
+    <nome>Jackass</nome>
+    <indirizzo>Via Sammartino, 117</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6261221</telefono>
+    <fax>0</fax>
+    <email>jackass@ristorantiitaliani.it</email>
+    <web>http://www.ristorantiitaliani.it/jackass</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 02:00.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>394</id>
+    <nome>Kovacs</nome>
+    <indirizzo>Via Della Libertà, 6</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6115151</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>415</id>
+    <nome>Lulu Pub</nome>
+    <indirizzo>Via San Basilio 37</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3282766812 - 3491936985</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>pasquale.dipollina@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da martedì a giovedì, la domenica dalle 20:00 alle 02:00, da venerdì a sabato dalle 20:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>294</id>
+    <nome>Ai bastioni</nome>
+    <indirizzo>Via Papireto, 74</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, esclusa la domenica.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>313</id>
+    <nome>CCP Agricantus Pub</nome>
+    <indirizzo>Via XX settembre, 82</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/309636</telefono>
+    <fax>0</fax>
+    <email>francesca@agricantus.org</email>
+    <web>http://www.agricantus.org</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 20:00 alle 01:30, escluso il lunedì. Teatro</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>315</id>
+    <nome>Chatoull'S Bistrot</nome>
+    <indirizzo>Via Giuseppe Mazzini, 1</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da mercoledì a domenica dalle 18:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>330</id>
+    <nome>Easy Malox</nome>
+    <indirizzo>Piazzetta della Canna, 8-9</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>291</id>
+    <nome>A scalunata</nome>
+    <indirizzo>Discesa Santamarina, 3</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>305</id>
+    <nome>Bisogno di vino</nome>
+    <indirizzo>Via Giacalone, 2</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>349 2821326</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>371</id>
+    <nome>Exit</nome>
+    <indirizzo>Piazza San Francesco Di Paola, 40</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>3487814698</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@exitdrinks.com</email>
+    <web>http://www.exitdrinks.com</web>
+    <ANNOTAZIONI>Aperto mercoledì, giovedì e sabato, domenica dalle 22:00 alle 03:00 Durante la stagione estiva il locale si trasferisce in Villa Pantelleria, Vicolo Pantelleria, 10.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>307</id>
+    <nome>Cafè Moma</nome>
+    <indirizzo>Via Gioacchino Di Marzo, 61</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/7829603</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>356</id>
+    <nome>I Candelai</nome>
+    <indirizzo>Via dei Candelai, 65</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3337002942</mobile>
+    <telefono>091/327151</telefono>
+    <fax>091327151</fax>
+    <email>candelai@candelai.it</email>
+    <web>http://www.candelai.it</web>
+    <ANNOTAZIONI>Aperto giovedì dalle 21:00 alle 01:00, da venerdì a sabato dalle 21:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>367</id>
+    <nome>Officina Di Dio</nome>
+    <indirizzo>Via Bertolino Giuseppe Puglisi, 25</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3346947185</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>ohmiodio@virgilio.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 01:00, esclusa la domenica.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>368</id>
+    <nome>Birreria Warsteiner</nome>
+    <indirizzo>Via Sciuti 79/f</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6268129</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>375</id>
+    <nome>Gentleman Loser</nome>
+    <indirizzo>Piazzale Ungheria, 33</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/320436</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>376</id>
+    <nome>Hirsch</nome>
+    <indirizzo>Via Damiani Almeyda, 32/a</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091347825</telefono>
+    <fax>0</fax>
+    <email>totoadamo@live.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>379</id>
+    <nome>Il Moro</nome>
+    <indirizzo>Piazza Monsignore Filippo Pottino, 3</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/546213 - 091/364990</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto lunedì dalle 22:00 alle 03:00, martedì dalle 22:00 alle 23:00, da mercoledì a domenica dalle 21:00 alle 04:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>293</id>
+    <nome>Abu Nawas</nome>
+    <indirizzo>Piazza Olivella, 18</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/328861</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>348</id>
+    <nome>Santa Monica</nome>
+    <indirizzo>Via Enrico Parisi, 7</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/324735</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 12:30 alle 02:30.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>369</id>
+    <nome>I Grilli Giù</nome>
+    <indirizzo>Largo Cavalieri Di Malta, 11</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3288284265</mobile>
+    <telefono>091/6111243</telefono>
+    <fax>0</fax>
+    <email>giuseppemaranzano@yahoo.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00, escluso il lunedì</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>424</id>
+    <nome>Malaluna Club</nome>
+    <indirizzo>Viale Resurrezione, 80</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <mobile>335460022</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>malaluna@malaluna.it</email>
+    <web>http://www.malaluna.it</web>
+    <ANNOTAZIONI>Aperto da venerdì a domenica dalle 22:00 alle 03:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>427</id>
+    <nome>Malavoglia</nome>
+    <indirizzo>Piazzetta Pietro Speciale, 5</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/334619</telefono>
+    <fax>0</fax>
+    <email>caffemalavoglia@hotmail.com</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 16:00 alle 02:00, escluso il martedì.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>434</id>
+    <nome>Mescal Tapas</nome>
+    <indirizzo>Via dei Candelai, 75</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Apertura da martedì a sabato dalle 19.30 alle 03.00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>451</id>
+    <nome>Pata Palo da Ignazio</nome>
+    <indirizzo>Piazza Giovanni Borgese, 3</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3928649024</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>518</id>
+    <nome>Luppolo - L'Ottavo Nano</nome>
+    <indirizzo>Via Manin, 36</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6123877</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.lottavonano.it/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 01:30, escluso il lunedì</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>519</id>
+    <nome>Taverna dell'artista</nome>
+    <indirizzo>Via Principe di Belmonte, 45</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>press@kronoseventi.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 01:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>520</id>
+    <nome>Nashville</nome>
+    <indirizzo>Via Belgio, 4</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/519846</telefono>
+    <fax>0</fax>
+    <email>bru46@msn.com</email>
+    <web>http://www.nashvillepub.it/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>514</id>
+    <nome>Mikalsa</nome>
+    <indirizzo>Via Torremuzza, 27</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3489732254</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@mikalsa.it</email>
+    <web>http://www.mikalsa.it/</web>
+    <ANNOTAZIONI>Aperto da venerdì a domenica dalle 20:30 alle 02:00, da lunedì a giovedì dalle 20:30 alle 01:00</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>500</id>
+    <nome>Villa Niscemi Pub</nome>
+    <indirizzo>Piazza Niscemi, 55</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6880820</telefono>
+    <fax>0</fax>
+    <email>info@villaniscemipub.it</email>
+    <web>http://www.villaniscemipub.it/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 02:30, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>506</id>
+    <nome>Zsa Zsa Mon Amour</nome>
+    <indirizzo>Via Filippo Angelitti, 2</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6817516</telefono>
+    <fax>0</fax>
+    <email>info@zsazsamonamour.com</email>
+    <web>http://www.zsazsamonamour.com/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 21:30 alle 03:00, escluso il lunedì</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>498</id>
+    <nome>Taco Loco</nome>
+    <indirizzo>Via Campolo, 25/35</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6823663</telefono>
+    <fax>091/6823663</fax>
+    <email>tacoloco@tacoloco.it</email>
+    <web>http://www.tacoloco.it</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>Pub e/o Discopub</tipo>
+    <tipo_specifico_1>Pub</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>372</id>
+    <nome>Fashion Club</nome>
+    <indirizzo>Via Empedocle Restivo, 106</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/517825</telefono>
+    <fax>0</fax>
+    <email>fashion106pa@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>454</id>
+    <nome>Jumeirah</nome>
+    <indirizzo>Via Ludovico Ariosto, 32</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/625 4071</telefono>
+    <fax>0</fax>
+    <email>info@jumeirahpalermo.it</email>
+    <web>http://www.jumeirahpalermo.it</web>
+    <ANNOTAZIONI>American bar, Ristorante</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>346</id>
+    <nome>Rocket Bar</nome>
+    <indirizzo>Piazza San Francesco di Paola, 42</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>rocket-bar@hotmail.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>448</id>
+    <nome>Mood (ex Tina Pica)</nome>
+    <indirizzo>Via Giovanni Meli, 13</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6123934</telefono>
+    <fax>0</fax>
+    <email>info@tinapica.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 20:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>297</id>
+    <nome>Il Siciliano</nome>
+    <indirizzo>via dell'orologio, 37</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.ilsiciliano.eu</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>298</id>
+    <nome>Al Viale American Bar</nome>
+    <indirizzo>Via Archimede, 189</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6090133</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 10:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>304</id>
+    <nome>Berlin Cafè</nome>
+    <indirizzo>Via Isidoro La Lumia, 21</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/334398 - 091/584897</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00, esclusa la domenica.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>332</id>
+    <nome>Drunks</nome>
+    <indirizzo>Via Cagliari, 14</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3204115312</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>alcronic@hotmail.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>316</id>
+    <nome>Cortile Patania</nome>
+    <indirizzo>Via Giuseppe Patania, 34</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/7434772</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 03:00, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>408</id>
+    <nome>Litania</nome>
+    <indirizzo>Via del Celso, 69</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da giovedì a sabato dalle 20:00 alle 02:30</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>410</id>
+    <nome>Lizard</nome>
+    <indirizzo>Via Pietro Paolo Rubens, 5</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <mobile>3929697942</mobile>
+    <telefono>091/6813948</telefono>
+    <fax>0</fax>
+    <email>info@lizardpalermo.net</email>
+    <web>http://www.lizardpalermo.com/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00, esclusa la domenica.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>430</id>
+    <nome>Cotton Club Cafè</nome>
+    <indirizzo>Piazza Castelnuovo 35/A</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091331246 - 091588063</telefono>
+    <fax>0</fax>
+    <email>info@cottonclubcafe.it</email>
+    <web>http://www.cottonclublounge.com/</web>
+    <ANNOTAZIONI>Aperto da lunedì a mercoledì, la domenica dalle 07:00 alle 02:00, da giovedì a venerdì dalle 07:00 alle 03:00, sabato dalle 07:00 alle 04:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>450</id>
+    <nome>Oceania</nome>
+    <indirizzo>Via Giotto, 45</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6816966</telefono>
+    <fax>0</fax>
+    <email>oceaniaristorazione@ristorantiitaliani.it</email>
+    <web>http://www.oceaniaristorazione.it</web>
+    <ANNOTAZIONI>effettua servizio di ristorante, pizzeria, panineria Aperto tutti i giorni dalle 06:30 alle 02:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>453</id>
+    <nome>Zammù</nome>
+    <indirizzo>Piazza Della Rivoluzione 34/35</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>503</id>
+    <nome>Vinile</nome>
+    <indirizzo>Via selinunte, 7</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>https://it.foursquare.com/v/vinile/4d93755ef10ea09322fc291e</web>
+    <ANNOTAZIONI>Aperto domenica dalle 19:00 alle 00:00, da lunedì a sabato dalle 19:00 alle 02:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>522</id>
+    <nome>Bukowski</nome>
+    <indirizzo>Piazza Teatro Santa Cecilia, 22</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto lunedì e da giovedì a domenica dalle 20:00 alle 03:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>510</id>
+    <nome>Phi Beach</nome>
+    <indirizzo>Lungomare Cristoforo Colombo, 2351</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo - Addaura</citta>
+    <mobile>3296999079</mobile>
+    <telefono>091/6849217</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Stabilimento balneare di giorno elegante lounge bar di sera Aperto tutti i giorni dalle 09:00 alle 02:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>493</id>
+    <nome>Shamrock Cafè</nome>
+    <indirizzo>Viale Campania, 44</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/511319</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 01:30</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>524</id>
+    <nome>Vespa Cafè</nome>
+    <indirizzo>Via dell'orologio, 38</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.vespacafepalermo.it/</web>
+    <ANNOTAZIONI>Aperto da sabato a domenica dalle 18:00 alle 02:00, lunedì dalle 10:00 alle 15:00, da martedì a venerdì dalle 10:00 alle 02:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>400</id>
+    <nome>La Champagneria Del Massimo</nome>
+    <indirizzo>Via Salvatore Spinuzza, 59</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3478050080</mobile>
+    <telefono>091/335730</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 09:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>401</id>
+    <nome>L'Aperitivo</nome>
+    <indirizzo>Via Giuseppe Giusti, 34</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/301125</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 02:00, escluso il martedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>295</id>
+    <nome>Ai chiavettieri</nome>
+    <indirizzo>Via Chiavettieri, 18</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/328926</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>303</id>
+    <nome>Enoteca Arcilesi</nome>
+    <indirizzo>Via Maggiore Toselli, 125 -127</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/301679</telefono>
+    <fax>0</fax>
+    <email>butybuty@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 01:00, esclusa la domenica.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>384</id>
+    <nome>Jazz'N Chocolate</nome>
+    <indirizzo>Via Giacalone, 29</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3298160376</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto da martedì a giovedì, la domenica dalle 19:00 alle 02:00, da venerdì a sabato dalle 19:00 alle 03:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>385</id>
+    <nome>Kursaal Kalhesa</nome>
+    <indirizzo>Foro Umberto I, 21</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6162111 - 091/6167630</telefono>
+    <fax>0</fax>
+    <email>info@kursaalkalhesa.it</email>
+    <web>http://www.kursaalkalhesa.it</web>
+    <ANNOTAZIONI>Aperto domenica dalle 11:30 alle 18:00, da martedì a giovedì dalle 12:00 alle 01:30, da venerdì a sabato dalle 12:00 alle 02:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>452</id>
+    <nome>Cavù</nome>
+    <indirizzo>Piazza della Rivoluzione, 1</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3292920789 - 3807922591</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>314</id>
+    <nome>Centro Cha</nome>
+    <indirizzo>Via Velasquez, 28-34</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/580127</telefono>
+    <fax>0</fax>
+    <email>centrocha@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>324</id>
+    <nome>La Cuba</nome>
+    <indirizzo>Via Francesco Scaduto, 2</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/309201</telefono>
+    <fax>091/6257168</fax>
+    <email>info@lacuba.com</email>
+    <web>http://www.lacuba.com</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00. Ristopub</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>335</id>
+    <nome>Noga Wine Bar</nome>
+    <indirizzo>Via Chiavettieri, 17</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>343</id>
+    <nome>Robinson Vini</nome>
+    <indirizzo>Via Ludovico Ariosto, 11</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6252014</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>370</id>
+    <nome>Hub</nome>
+    <indirizzo>Via Libertà, 84</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/304977</telefono>
+    <fax>0</fax>
+    <email>relazioniesterne.hub@gmail.com</email>
+    <web>http://www.hubpalermo.com</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>374</id>
+    <nome>Gatto Nero</nome>
+    <indirizzo>Via Rua Formaggi, 15</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3403452222</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>gattoneropub@hotmail.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>404</id>
+    <nome>Lord Green</nome>
+    <indirizzo>Via Enrico Parisi 30/A</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6110194</telefono>
+    <fax>0</fax>
+    <email>mortillaro@neomedia.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>439</id>
+    <nome>Mi manda Picone</nome>
+    <indirizzo>Via A. Paternostro, 59</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/6160660</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Aperto solo la sera dalle ore 19:00 in poi</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>525</id>
+    <nome>Rendez Vous</nome>
+    <indirizzo>Via Castrofilippo, 24</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3498111189 - 3201171828</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>davidgraviano@hotmail.it</email>
+    <web>http://www.rendezvouspalermo.com/</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 01:00, escluso il martedì.</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>496</id>
+    <nome>Spirito Dvino</nome>
+    <indirizzo>Via Principe Di Belmonte, 44-46</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3939246261</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@spiritodvino.it</email>
+    <web>http://www.spiritodvino.it/index.htm</web>
+    <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, esclusa la domenica</ANNOTAZIONI>
+    <tipo>bar</tipo>
+    <tipo_specifico_1>wine bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>378</id>
+    <nome>Cocoa Jazz Restaurant</nome>
+    <indirizzo>Piazzetta Chiesa dei Cocchieri 5</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916172591</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>392</id>
+    <nome>Freschette BioBistrot</nome>
+    <indirizzo>Piazzetta Monteleone, 5</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3932430440</mobile>
+    <telefono>091 9820727</telefono>
+    <fax>0</fax>
+    <email>freschette@hotmail.it</email>
+    <web>http://www.freschette.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>395</id>
+    <nome>Al Covo dei Beati Paoli</nome>
+    <indirizzo>Piazza Marina, 50</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3279040510</mobile>
+    <telefono>0916166634</telefono>
+    <fax>0</fax>
+    <email>info@alcovodeibeatipaoli.com</email>
+    <web>http://www.alcovodeibeatipaoli.com/</web>
+    <ANNOTAZIONI>Cucina italiana e pizza</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>396</id>
+    <nome>Principe di Camporeale</nome>
+    <indirizzo>Piazza Principe di Camporeale 13</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0912530424</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina mediterranea e pizza</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>403</id>
+    <nome>Ferro Di Cavallo</nome>
+    <indirizzo>Via Venezia, 20</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3391862841 - 3496755312</mobile>
+    <telefono>091331835</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.ferrodicavallopalermo.it/index.php</web>
+    <ANNOTAZIONI>Cucina tipica palermitano</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>409</id>
+    <nome>Trattoria Al Cancelletto Verde</nome>
+    <indirizzo>Via Riccardo Wagner, 14</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091320537</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.alcancellettoverde.it/</web>
+    <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>414</id>
+    <nome>Pizzo &amp; Pizzo</nome>
+    <indirizzo>Via XII Gennaio, 1</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3333112864</mobile>
+    <telefono>0916014544</telefono>
+    <fax>0</fax>
+    <email>pizzoepizzo@libero.it</email>
+    <web>http://www.pizzoepizzo.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>416</id>
+    <nome>Lo Scudiero</nome>
+    <indirizzo>Via Turati, 7</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091581628</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.ristoranteloscudiero.com/</web>
+    <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>413</id>
+    <nome>Trattoria Al Vecchio Club Rosanero</nome>
+    <indirizzo>vicolo Caldomai</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3494096880</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>419</id>
+    <nome>Vecchia Trattoria da Toto</nome>
+    <indirizzo>Via Coltellieri, 5</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3333157558</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>420</id>
+    <nome>Trattoria Primavera</nome>
+    <indirizzo>Piazza Bologni, 4</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091329408</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>421</id>
+    <nome>Donna Ina</nome>
+    <indirizzo>Via Messina Marine, 118</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <mobile>3460550363</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>425</id>
+    <nome>Le Delizie di Cagliostro</nome>
+    <indirizzo>Via Vittorio Emanuele, 150</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091332818</telefono>
+    <fax>0</fax>
+    <email>cagliostro04@tiscali.it</email>
+    <web>http://www.ledeliziedicagliostro.it/</web>
+    <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>426</id>
+    <nome>Gusto Italiano</nome>
+    <indirizzo>Via la Masa 11</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>gusto.italiano@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante, wine bar</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>429</id>
+    <nome>Santandrea</nome>
+    <indirizzo>Piazza Sant'Andrea, 4</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091334999</telefono>
+    <fax>0</fax>
+    <email>info@ristorantesantandrea.eu</email>
+    <web>http://www.ristorantesantandrea.eu/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>433</id>
+    <nome>Al Covo Dell'Arte</nome>
+    <indirizzo>Via dei Tintori, 22</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916118779</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>435</id>
+    <nome>Trattoria Ai Normanni</nome>
+    <indirizzo>Piazza della Vittoria 25</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina europea, italiana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>438</id>
+    <nome>Carlo V</nome>
+    <indirizzo>Piazza Bologni 22</indirizzo>
+    <cap>90137</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>440</id>
+    <nome>Ristorante Ferro</nome>
+    <indirizzo>Piazza Sant'Onofrio, 42</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091586049</telefono>
+    <fax>0</fax>
+    <email>ferroristorante@alice.it</email>
+    <web>http://www.ristoranteferro.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>441</id>
+    <nome>Osteria Dei Vespri</nome>
+    <indirizzo>Piazza Croce dei Vespri, 6</indirizzo>
+    <cap>90133</cap>
+    <citta>0916171631</citta>
+    <mobile>0</mobile>
+    <telefono>0916171631</telefono>
+    <fax>0</fax>
+    <email>osteriadeivespri@libero.it</email>
+    <web>http://www.osteriadeivespri.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>442</id>
+    <nome>Trattoria Torremuzza</nome>
+    <indirizzo>Via Torremuzza 21</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0912525532</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>449</id>
+    <nome>Trattoria Piccolo Napoli</nome>
+    <indirizzo>Piazzetta Mulino a Vento, 4</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091320431</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>489</id>
+    <nome>Casamia</nome>
+    <indirizzo>Viale Margherita di Savoia, 53</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>3492364913</mobile>
+    <telefono>0916840717 - 0916842263</telefono>
+    <fax>0916841508</fax>
+    <email>info@hotelvillaesperia.it</email>
+    <web>http://www.hotelvillaesperia.it/ristorante.html</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>491</id>
+    <nome>Peter Pan</nome>
+    <indirizzo>Via Saline, 108</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>091 451447</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>499</id>
+    <nome>Alle Terrazze</nome>
+    <indirizzo>Viale Regina Elena</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>0916262903</telefono>
+    <fax>0916727948</fax>
+    <email>info@alleterrazze.it</email>
+    <web>http://www.alleterrazze.it/</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>504</id>
+    <nome>Da Sariddu e Figli</nome>
+    <indirizzo>Piazza Mondello, 48</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>091451922</telefono>
+    <fax>0</fax>
+    <email>ristorante.sariddu@email.it</email>
+    <web>http://www.ristorantesariddu.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>511</id>
+    <nome>Il Grottino</nome>
+    <indirizzo>Via Catullo, 15</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>091533038</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>515</id>
+    <nome>Alla Corte dei Normanni</nome>
+    <indirizzo>Via torretta, 66</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>3385624022</mobile>
+    <telefono>0916912051</telefono>
+    <fax>0</fax>
+    <email>allacortedeinormanni@gmail.com</email>
+    <web>http://www.ristoranteallacortedeinormanni.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>477</id>
+    <nome>Acanto</nome>
+    <indirizzo>Via Torrearsa, 10</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916014567</telefono>
+    <fax>0</fax>
+    <email>info@ristoranteacanto.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>478</id>
+    <nome>Al 59</nome>
+    <indirizzo>Piazza Verdi, 59</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091583139</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>479</id>
+    <nome>Trattoria Dal Pompiere</nome>
+    <indirizzo>Via Bara All'Olivella, 107</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091325282</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>480</id>
+    <nome>Il Tipico e il Particolare</nome>
+    <indirizzo>Via della vetriera, 46</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0915076972</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://sitopartner.wix.com/tipicoeparticolare</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>482</id>
+    <nome>Bucatino</nome>
+    <indirizzo>Via Principe Di Villafranca, 59</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3930674681</mobile>
+    <telefono>0916110253</telefono>
+    <fax>0</fax>
+    <email>cicciobucatino@gmail.com</email>
+    <web>http://www.bucatino.biz/</web>
+    <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>490</id>
+    <nome>La Mattanza</nome>
+    <indirizzo>Piazza Bordonaro, 9</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916376298</telefono>
+    <fax>0</fax>
+    <email>ristorantelamattanza@libero.it</email>
+    <web>http://www.ristorantelamattanza.it/index.html</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>492</id>
+    <nome>Villa Antigone</nome>
+    <indirizzo>Via Antigone, 40</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>091454306</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>497</id>
+    <nome>Charleston</nome>
+    <indirizzo>Via Generale Magliocco, 15</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091450171</telefono>
+    <fax>0</fax>
+    <email>info@ristorantecharleston.com</email>
+    <web>http://www.ristorantecharleston.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>508</id>
+    <nome>Trattoria Temptation</nome>
+    <indirizzo>Via Torretta, 94</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>0916911104</telefono>
+    <fax>0</fax>
+    <email>temptationsas@libero.it</email>
+    <web>http://www.trattoriatemptation.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>512</id>
+    <nome>La Barca</nome>
+    <indirizzo>Via Barcarello, 71</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>0916911609</telefono>
+    <fax>091530738</fax>
+    <email>info@ristorantelabarca.it</email>
+    <web>http://www.ristorantelabarca.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>487</id>
+    <nome>Badalamenti Cucina e Bottega</nome>
+    <indirizzo>Viale Galatea, 55</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>091450213</telefono>
+    <fax>0</fax>
+    <email>badalamentienoteca@alice.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>495</id>
+    <nome>Le Antiche Mura</nome>
+    <indirizzo>Via Mattei, 1</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>3331976830</mobile>
+    <telefono>091453940</telefono>
+    <fax>0</fax>
+    <email>innclub@libero.it</email>
+    <web>http://www.leantichemuraristorante.com/#</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>502</id>
+    <nome>Trattoria Sapori di mare</nome>
+    <indirizzo>Via Torre di Mondello, 28</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>335404992</mobile>
+    <telefono>0916840623</telefono>
+    <fax>0</fax>
+    <email>saporidimaregiovanni@virgilio.it</email>
+    <web>http://www.trattoriasaporidimaregiovanni.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>505</id>
+    <nome>Al Brigantino</nome>
+    <indirizzo>Via torretta, 104</indirizzo>
+    <cap>90148</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>3337540950</mobile>
+    <telefono>0916911778</telefono>
+    <fax>0</fax>
+    <email>info@albrigantino.com</email>
+    <web>http://www.albrigantino.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>509</id>
+    <nome>Il Delfino</nome>
+    <indirizzo>Via Torretta, 80</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>091530282</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>513</id>
+    <nome>La Perla Del Mare</nome>
+    <indirizzo>Piazza Marina DI Sferracavallo, 18</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>0916912176</telefono>
+    <fax>0</fax>
+    <email>enea.angelo@alice.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>476</id>
+    <nome>Pane Amore &amp; Mortadella</nome>
+    <indirizzo>Via Quintino Sella 53</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3479061560</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>481</id>
+    <nome>Al Santa Caterina</nome>
+    <indirizzo>Cortile Santa Caterina, 1</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3388082388</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>483</id>
+    <nome>Paninfarinah</nome>
+    <indirizzo>Piazza Marina 52/53</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916162230</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>485</id>
+    <nome>La Cascina</nome>
+    <indirizzo>Viale Margherita di Savoia, 72</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <mobile>3407646068</mobile>
+    <telefono>0916840383</telefono>
+    <fax>0916840383</fax>
+    <email>lacascinadimacaluso@tiscali.it</email>
+    <web>http://www.lacascinapa.com/</web>
+    <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>501</id>
+    <nome>Trattoria Da Calogero</nome>
+    <indirizzo>Via Torre Monddello, 22</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <mobile>0</mobile>
+    <telefono>0916841333</telefono>
+    <fax>0</fax>
+    <email>kalgheros90@hotmail.it</email>
+    <web>http://www.trattoriadacalogero.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>507</id>
+    <nome>Capricci Di Mare</nome>
+    <indirizzo>Via Scalo di Sferracavallo, 4</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>0916910658</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>516</id>
+    <nome>Trattoria L'Ancora</nome>
+    <indirizzo>Via Torretta, 78</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <mobile>0</mobile>
+    <telefono>091532934</telefono>
+    <fax>0</fax>
+    <email>trattorialancora@libero.it</email>
+    <web>http://www.trattorialancora.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>363</id>
+    <nome>Sicilia E Dintorni</nome>
+    <indirizzo>Via Messina Marine, 381</indirizzo>
+    <cap>90123</cap>
+    <citta>Palermo</citta>
+    <mobile>3475960085</mobile>
+    <telefono>0916213227</telefono>
+    <fax>0</fax>
+    <email>settimo.giuliano@virgilio.it</email>
+    <web>http://www.trattoriasiciliaedintorni.it/il-ristorante</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>380</id>
+    <nome>Regine S.r.l.</nome>
+    <indirizzo>Via Trapani, 4</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091586566</telefono>
+    <fax>0</fax>
+    <email>regine@ristoranteregine.it</email>
+    <web>http://www.ristoranteregine.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>382</id>
+    <nome>Officina del Gusto Bye Bye Blues</nome>
+    <indirizzo>Via Vittorio Emanuele, 316</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916116678</telefono>
+    <fax>0916111568</fax>
+    <email>info@officinabyebyeblues.com</email>
+    <web>http://www.officinabyebyeblues.com/</web>
+    <ANNOTAZIONI>Cucina italiana e mediterranea</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>397</id>
+    <nome>Cucina Papoff</nome>
+    <indirizzo>Via Isidoro la Lumia, 32</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091586460</telefono>
+    <fax>0</fax>
+    <email>cucinapapoff@libero.it</email>
+    <web>http://www.cucinapapoff.com/</web>
+    <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>398</id>
+    <nome>La Cambusa</nome>
+    <indirizzo>Piazza Marina, 16</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3475901917</mobile>
+    <telefono>091584574</telefono>
+    <fax>0</fax>
+    <email>info@lacambusa.it</email>
+    <web>http://www.lacambusa.it/chisiamo.php</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>399</id>
+    <nome>Sal Capone</nome>
+    <indirizzo>Via Catania, 44</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>405</id>
+    <nome>Antica trattoria del Monsù</nome>
+    <indirizzo>Via Volturno, 41</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091327774</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.anticatrattoriadelmonsu.com/</web>
+    <ANNOTAZIONI>Cucina tipica e pizza</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>406</id>
+    <nome>Gli Amanti</nome>
+    <indirizzo>Piazzetta Colonna</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091589976</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>443</id>
+    <nome>Lo Strascino</nome>
+    <indirizzo>Viale Regione Siciliana Nord - Ovest, 2286</indirizzo>
+    <cap>90135</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091401292</telefono>
+    <fax>091408965</fax>
+    <email>lo.strascino@libero.it</email>
+    <web>http://www.lostrascino.com/</web>
+    <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>455</id>
+    <nome>Casa del Brodo</nome>
+    <indirizzo>Via Vittorio Emanuele, 175</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091321655</telefono>
+    <fax>091585382</fax>
+    <email>0</email>
+    <web>http://www.casadelbrodo.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>457</id>
+    <nome>La Corte Dei Mangioni</nome>
+    <indirizzo>Via Sammartino, 97</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916255360</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina italiana, pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>465</id>
+    <nome>La Posada</nome>
+    <indirizzo>Via Emerico Amari, 55</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091333225</telefono>
+    <fax>0</fax>
+    <email>trattorialaposada@gmail.com</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>466</id>
+    <nome>Cibus</nome>
+    <indirizzo>Via Emerico Amari, 64</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091323062 - 0916122651</telefono>
+    <fax>0</fax>
+    <email>info@cibus.pa.it</email>
+    <web>http://www.cibus.pa.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>467</id>
+    <nome>Il Cambusone</nome>
+    <indirizzo>Piazza Giuseppe Verdi, 27</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3397288890</mobile>
+    <telefono>091335597</telefono>
+    <fax>0</fax>
+    <email>trattoriailcambusone@gmail.com</email>
+    <web>http://www.ilcambusone.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>323</id>
+    <nome>Della Giara</nome>
+    <indirizzo>Via Cuba, 8</indirizzo>
+    <cap>90129</cap>
+    <citta>Monreale</citta>
+    <mobile>0</mobile>
+    <telefono>091425000</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>326</id>
+    <nome>Le Pergamene</nome>
+    <indirizzo>Piazza Marina, 48</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916166142</telefono>
+    <fax>0</fax>
+    <email>lepergamene@lepergamene.it</email>
+    <web>http://www.lepergamene.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>333</id>
+    <nome>L'Ottava Nota</nome>
+    <indirizzo>Via Butera, 55</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916168601</telefono>
+    <fax>0</fax>
+    <email>info@ristorantelottavanota.it</email>
+    <web>http://www.ristorantelottavanota.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>345</id>
+    <nome>Gagini Restaurant</nome>
+    <indirizzo>Via dei Cassari, 35</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091589918</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.gaginirestaurant.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>389</id>
+    <nome>Ristorantino Palazzo Sambuca</nome>
+    <indirizzo>Via Alloro, 26</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0915076794</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>391</id>
+    <nome>I Cuochini</nome>
+    <indirizzo>Via Ruggero Settimo, 68</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091581158</telefono>
+    <fax>0</fax>
+    <email>info@icuochini.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>456</id>
+    <nome>Chapeau</nome>
+    <indirizzo>Via Pignatelli Aragona, 52</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3293020884</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>chapeaupalermo@live.com</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina mediterranea, pub</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>458</id>
+    <nome>Pipi Room</nome>
+    <indirizzo>Via XX Settembre, 59</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091332959</telefono>
+    <fax>0</fax>
+    <email>pipiroom@ristorantiitaliani.it</email>
+    <web>http://www.ristorantepipiroom.it/</web>
+    <ANNOTAZIONI>Ristorante, pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>461</id>
+    <nome>Trattoria Al Cancelletto</nome>
+    <indirizzo>Via Ottavio D'Aragona, 34</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091583069</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>464</id>
+    <nome>Stravizi</nome>
+    <indirizzo>Via Gaetano Filangeri, 22</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916177917</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>468</id>
+    <nome>Baciamolemani</nome>
+    <indirizzo>Corso Vittorio Emanuele 176/178</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916119781</telefono>
+    <fax>0</fax>
+    <email>baciamolemani@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>469</id>
+    <nome>Novecento</nome>
+    <indirizzo>Via Emerico Amari, 88</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091328838</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Trattoria-pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>470</id>
+    <nome>Osteria Divino Rosso</nome>
+    <indirizzo>Salita Sant'Antonio, 9</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3281146809</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>losteriadivinorosso@ristorantiitaliani.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>471</id>
+    <nome>La Taverna Dell'Artista</nome>
+    <indirizzo>Via Principe di Belmonte, 45</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3277867575</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>latavernadellartista@gmail.com</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina europea</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>325</id>
+    <nome>I leprotti in città</nome>
+    <indirizzo>Via Maggiore Toselli, 127</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <mobile>3386455905</mobile>
+    <telefono>091508685</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>331</id>
+    <nome>A'Cuncuma</nome>
+    <indirizzo>Via Judica, 21</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3201646036</mobile>
+    <telefono>0918872991</telefono>
+    <fax>0</fax>
+    <email>restaurantacuncuma@gmail.com</email>
+    <web>http://www.acuncuma.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>340</id>
+    <nome>Trattoria Supra I Mura</nome>
+    <indirizzo>Piazza Porta Carini, 5</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091584060</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>387</id>
+    <nome>Luci e Calici gourmet</nome>
+    <indirizzo>Via Sammartino, 121</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3939482099</mobile>
+    <telefono>0917542967</telefono>
+    <fax>0916880357</fax>
+    <email>info@ristoranteluciecalici.com</email>
+    <web>http://www.ristoranteluciecalici.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>423</id>
+    <nome>Trattoria Altri Tempi</nome>
+    <indirizzo>Via Sammartino, 65</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091323480</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.trattoriaaltritempi.it/</web>
+    <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>428</id>
+    <nome>Tribeca Cafe</nome>
+    <indirizzo>Via Mariano Stabile, 134</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091332963</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>american bar in cui è possibile gustare piatti della cucina internazionale, in particolare sushi.</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>431</id>
+    <nome>Kus-Kus</nome>
+    <indirizzo>Piazza Virgilio 9</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <mobile>3935787815</mobile>
+    <telefono>091586525</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.kus-kus.it/</web>
+    <ANNOTAZIONI>Cucina mediterranea e pizza</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>445</id>
+    <nome>Ristorante Branciforte</nome>
+    <indirizzo>Via Bara all'Olivella, 2</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091320265</telefono>
+    <fax>0</fax>
+    <email>info@ristorantebranciforte.it</email>
+    <web>http://www.palazzobranciforte.it/ristorante-index.php</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>446</id>
+    <nome>Osteria Lo Bianco</nome>
+    <indirizzo>Via Emerico Amari, 104</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3299036051 - 3932465851</mobile>
+    <telefono>0912514906</telefono>
+    <fax>0</fax>
+    <email>osteria.lobianco@libero.it</email>
+    <web>http://www.osterialobianco.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>459</id>
+    <nome>Prio RistoAperiPizza</nome>
+    <indirizzo>Via della Vetriera, 1</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0915080473</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>460</id>
+    <nome>Volo</nome>
+    <indirizzo>Via Liberta, 12</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3280504641</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>vincenzo.cugno@libero.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>473</id>
+    <nome>Giro pizza e cucina</nome>
+    <indirizzo>Via XII Gennaio, 8</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091329331</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>309</id>
+    <nome>Margot</nome>
+    <indirizzo>Piazza Sant'Onofrio, 3</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3393012570</mobile>
+    <telefono>091582585</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>319</id>
+    <nome>De Gustibus</nome>
+    <indirizzo>Vicolo Fonderia 3/5</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091335322</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>320</id>
+    <nome>Gambrinus</nome>
+    <indirizzo>Via Francesco Ferrara 46/A</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0912515327</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>321</id>
+    <nome>La Cueva</nome>
+    <indirizzo>Via Balate, 15</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091591255</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina spagnola</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>322</id>
+    <nome>La Gondola</nome>
+    <indirizzo>Via Principe di Scordia, 144</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3881282666</mobile>
+    <telefono>091331748</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>328</id>
+    <nome>Ai Cascinari</nome>
+    <indirizzo>Via D'Ossuna, 45</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916519804</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>329</id>
+    <nome>Al Fondaco Del Conte</nome>
+    <indirizzo>Piazza Conte Federico, 24</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3291298078</mobile>
+    <telefono>0916522312</telefono>
+    <fax>091652 2312</fax>
+    <email>info@alfondacodelconte.it</email>
+    <web>http://www.alfondacodelconte.it/it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>334</id>
+    <nome>Bellotero</nome>
+    <indirizzo>Via Giorgio Castriota, 3</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091582158</telefono>
+    <fax>0</fax>
+    <email>ristorantebellotero@libero.it</email>
+    <web>http://www.ristorantebelloteropalermo.it/</web>
+    <ANNOTAZIONI>Specializzato nella cucina tipica siciliana</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>336</id>
+    <nome>Lo Scrigno dei Sapori</nome>
+    <indirizzo>Piazza Principe di Camporeale, 83</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0912531351</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina mediterranea, internazionale</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>355</id>
+    <nome>Il Ghiottone Raffinato</nome>
+    <indirizzo>Via Salvatore Vigo, 3</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>3357676349 - 3486893955</mobile>
+    <telefono>0912514744</telefono>
+    <fax>0</fax>
+    <email>ilghiottoneraffinato@tiscali.it</email>
+    <web>http://www.ilghiottoneraffinato.it/banner/banner.php?immagine=cuore</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>357</id>
+    <nome>Gadir</nome>
+    <indirizzo>Via dello Spasimo, 44</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916101215</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>360</id>
+    <nome>I Sapori del Mare</nome>
+    <indirizzo>Via Re Federico, 8</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0919821458</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>364</id>
+    <nome>Patanegra</nome>
+    <indirizzo>Piazza Virgilio, 30</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0917495192</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>407</id>
+    <nome>Retriglia</nome>
+    <indirizzo>Via XII Gennaio, 11</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0915081223</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>312</id>
+    <nome>Ai vecchietti di Minchiapititto</nome>
+    <indirizzo>Piazza Sant'Oliva, 10</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3332244677</mobile>
+    <telefono>091585606</telefono>
+    <fax>0</fax>
+    <email>info@aivecchietti.it</email>
+    <web>http://www.aivecchiettidiminchiapititto.com/vecchietti/index.asp</web>
+    <ANNOTAZIONI>R</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>350</id>
+    <nome>Sapori Perduti</nome>
+    <indirizzo>Via Principe Di Belmonte, 32</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091327387</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>359</id>
+    <nome>I Manciatari</nome>
+    <indirizzo>Via Re Federico, 109</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <mobile>3478358409</mobile>
+    <telefono>091471749</telefono>
+    <fax>0</fax>
+    <email>imanciatari@libero.it</email>
+    <web>http://www.manciatari.it/</web>
+    <ANNOTAZIONI>Ristorante-pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>362</id>
+    <nome>Ai Murici</nome>
+    <indirizzo>Via Messina Marine,178</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916212767</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>377</id>
+    <nome>Ai Maccheronai</nome>
+    <indirizzo>Discesa Maccheronai, 47</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916118162</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>338</id>
+    <nome>Ristorantino da Spanò</nome>
+    <indirizzo>Via scalini 6</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>3485628789</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@ristorantinospano.it</email>
+    <web>http://www.ristorantinospano.com/</web>
+    <ANNOTAZIONI>Zona mercato del Capo</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>341</id>
+    <nome>Sesto Canto</nome>
+    <indirizzo>Via Sant'Oliva, 26</indirizzo>
+    <cap>90141</cap>
+    <citta>Bagheria</citta>
+    <mobile>0</mobile>
+    <telefono>091324543</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina mediterranea, fusion</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>349</id>
+    <nome>Cin Cin</nome>
+    <indirizzo>Via Manin, 22</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916124095</telefono>
+    <fax>0</fax>
+    <email>clemente.vincenzo@gmail.com</email>
+    <web>http://www.ristorantecincin.com/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>352</id>
+    <nome>Belli Sazi</nome>
+    <indirizzo>Via Messina marine, 447</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0917646103</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>353</id>
+    <nome>Schiticchio Food &amp; Beverage</nome>
+    <indirizzo>Piazza Marina 5/6</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916114868</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>ristorante</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>347</id>
+    <nome>Frida</nome>
+    <indirizzo>Piazza Sant'Onofrio, 37</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>3933338092</mobile>
+    <telefono>0915505440</telefono>
+    <fax>0</fax>
+    <email>info@fridapizzeria.it</email>
+    <web>http://www.fridapizzeria.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>365</id>
+    <nome>Giabal</nome>
+    <indirizzo>Via Maddalena Umberto, 14</indirizzo>
+    <cap>90131</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>info@pizzeriagiabal.it</email>
+    <web>http://www.pizzeriagiabal.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>418</id>
+    <nome>Pizzottando</nome>
+    <indirizzo>Piazza San Francesco Saverio 4</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091218408</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>472</id>
+    <nome>Torquemada</nome>
+    <indirizzo>Via Pignatelli Aragona, 64</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091584995</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Ristorante pizzeria</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>474</id>
+    <nome>Pizzeria Porta Sant'Agata</nome>
+    <indirizzo>Piazza Porta Sant'Agata, 10</indirizzo>
+    <cap>90134</cap>
+    <citta>0916528450</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>475</id>
+    <nome>Pizzeria Bellini</nome>
+    <indirizzo>Piazza Bellini, 6</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916165691</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Cucina europea, italiana, pizza</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>317</id>
+    <nome>Ai vecchietti H...nto</nome>
+    <indirizzo>Via Paolo Paternostro, 28</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>3332244677</mobile>
+    <telefono>091585606</telefono>
+    <fax>0</fax>
+    <email>info@aivecchietti.it</email>
+    <web>http://www.aivecchiettidiminchiapititto.com/vecchietti_pizz/chi_siamo.asp</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>366</id>
+    <nome>Blanco Pizza &amp; Gourmet</nome>
+    <indirizzo>Via Nicolò Gallo,1c</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>318</id>
+    <nome>Sciuscià</nome>
+    <indirizzo>Via Dante, 212</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091682 2700</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>342</id>
+    <nome>Mounir</nome>
+    <indirizzo>Via Giovanni da Procida, 19</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0917730005</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>432</id>
+    <nome>La Duchessa</nome>
+    <indirizzo>Principe di Belmonte 69 / 71</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0915086896</telefono>
+    <fax>0</fax>
+    <email>laduchessapizzeria@libero.it</email>
+    <web>http://www.pizzerialaduchessa.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>436</id>
+    <nome>Mudu</nome>
+    <indirizzo>Via Enrico Albanese 24/26</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916257228</telefono>
+    <fax>0</fax>
+    <email>mudupalermo@hotmail.it</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>437</id>
+    <nome>Pizzeria Italia</nome>
+    <indirizzo>Via Orologio 54</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091589885</telefono>
+    <fax>0</fax>
+    <email>italiaristorantepizzeria@hotmail.it</email>
+    <web>http://www.pizzeriaitaliapalermo.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>494</id>
+    <nome>Mistral</nome>
+    <indirizzo>Via Bordonaro, 30</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916372285</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>486</id>
+    <nome>Villa Costanza</nome>
+    <indirizzo>Via Pietro Bonanno, 42</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091547027</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Pizzeria - American bar</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>484</id>
+    <nome>Antica Birreria Moretti</nome>
+    <indirizzo>Largo Caronia, 1</indirizzo>
+    <cap>90149</cap>
+    <citta>Palermo - Addaura</citta>
+    <mobile>0</mobile>
+    <telefono>091 6843882</telefono>
+    <fax>0</fax>
+    <email>bellomaurizio@alice.it.</email>
+    <web>http://www.anticabirreriamoretti.com/</web>
+    <ANNOTAZIONI>Pizzeria - Pub</ANNOTAZIONI>
+    <tipo>ristoro</tipo>
+    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>296</id>
+    <nome>Al Pinguino</nome>
+    <indirizzo>Via Ruggero Settimo, 86</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/329220</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.spinnato.it</web>
+    <ANNOTAZIONI>orario 07.00/01.00; venerdì e sabato 07.00/02.00</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>299</id>
+    <nome>Antico Caffè Spinnato</nome>
+    <indirizzo>Via Principe di Belmonte, 107/115</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/7495104</telefono>
+    <fax>091/334725</fax>
+    <email>0</email>
+    <web>http://www.spinnato.it</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>301</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Via Libertà, 100 A/B</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/302821</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.spinnato.it</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>300</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Via Principe di Belmonte, 108</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/329220</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.spinnato.it</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>302</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Via Notarbartolo, 7/b</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091/7303123</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.spinnato.it</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>411</id>
+    <nome>Bar Touring</nome>
+    <indirizzo>Via Lincoln, 15</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916167242</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Bar</tipo>
+    <tipo_specifico_1>Bar</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>444</id>
+    <nome>Testagrossa</nome>
+    <indirizzo>Corso Calatafimi, 795</indirizzo>
+    <cap>90129</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091425315</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>462</id>
+    <nome>Antica Focacceria San Francesco</nome>
+    <indirizzo>Via Alessandro Paternostro, 58</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091320264</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://www.afsf.it/</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>463</id>
+    <nome>Di Martino Drinks &amp; Brunch</nome>
+    <indirizzo>Via Mazzini, 54</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0916118820</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>386</id>
+    <nome>Nni Franco U' Vastiddaru</nome>
+    <indirizzo>Corso Vittorio Emanuele, 102</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>388</id>
+    <nome>Focacceria Basile</nome>
+    <indirizzo>Via Bara all'Olivella, 76</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091335628</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>393</id>
+    <nome>Pani Ca' Meusa Porta Carbone</nome>
+    <indirizzo>Via Cala, 62</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <mobile>0</mobile>
+    <telefono>091323433</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>0</web>
+    <ANNOTAZIONI>0</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+  <luogo>
+    <id>447</id>
+    <nome>Antichi Sapori Palermitani</nome>
+    <indirizzo>Via Messina Marine, 683</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <mobile>3398470318</mobile>
+    <telefono>0</telefono>
+    <fax>0</fax>
+    <email>0</email>
+    <web>http://antichisaporipalermitani.weebly.com/</web>
+    <ANNOTAZIONI>Tipica focacceria palermitana</ANNOTAZIONI>
+    <tipo>Street food</tipo>
+    <tipo_specifico_1>Street food</tipo_specifico_1>
+  </luogo>
+</luoghi>

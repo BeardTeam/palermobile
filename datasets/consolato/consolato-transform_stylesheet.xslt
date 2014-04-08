@@ -13,7 +13,7 @@
     <nome><xsl:value-of select="nome"/></nome>
     <indirizzo><xsl:value-of select="indirizzo"/></indirizzo>
     <cap><xsl:value-of select="cap"/></cap>
-    <citta><xsl:value-of select="citta"/></citta>
+    <citta>Palermo</citta>
     <telefono><xsl:value-of select="telefono"/></telefono>
     <fax><xsl:value-of select="fax"/></fax>
     <mobile><xsl:value-of select="mobile"/></mobile>

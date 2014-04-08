@@ -18,7 +18,7 @@ public class Main {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		String xmlFile = "../datasets/TURISMO01.xml";
-		xmlFile = "../datasets/totale_mancante03_e_visitabili_2.xml";
+		xmlFile = "../datasets/totale_mancante03_e_visitabili_3.xml";
 		
 		
 		String xmlAsString = "";

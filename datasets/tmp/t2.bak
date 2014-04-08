@@ -12,8 +12,8 @@
     <email>discoteca@tonnaraflorio.com</email>
     <web>http://www.tonnaraflorio.com/discoteca.htm</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:00.</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>358</id>
@@ -27,8 +27,8 @@
     <email>robertobianconi@inwind.it</email>
     <web>http://www.countrydiscoclub.com</web>
     <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>417</id>
@@ -41,9 +41,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>339</id>
@@ -57,8 +56,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>523</id>
@@ -72,8 +71,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da venerdì a sabato dalle 21:00 alle 00:00, domenica dalle 20:00 alle 00:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>311</id>
@@ -86,9 +85,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>Discoteca</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>351</id>
@@ -102,8 +100,8 @@
     <email>princessscalea@tin.it</email>
     <web>http://www.scaleaclub.com</web>
     <ANNOTAZIONI>Aperto sabato dalle 23:00 alle 02:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>361</id>
@@ -117,8 +115,8 @@
     <email>villapartanna@gmail.com</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da lunedì a venerdì, la domenica dalle 16:00 alle 01:30, sabato dalle 16:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>354</id>
@@ -132,8 +130,8 @@
     <email>dan.bar@tin.it</email>
     <web>http://www.goazone.it</web>
     <ANNOTAZIONI>Aperto venerdì, sabato dalle 22:30 alle 03:00</ANNOTAZIONI>
-    <tipo>Discoteche</tipo>
-    <tipo_specifico_1>Discoteche</tipo_specifico_1>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
   </luogo>
   <luogo>
     <id>373</id>
@@ -147,8 +145,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 21:00 alle 04:00, escluso il martedì.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>402</id>
@@ -162,8 +161,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperti da martedì alla domenica dalle ore 21.00 alle ore 03.00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>327</id>
@@ -177,8 +177,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto domenica dalle 16:00 alle 02:00, da lunedì a sabato dalle 08:00 alle 02:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>337</id>
@@ -191,9 +192,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.cafe442.it</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>344</id>
@@ -207,8 +208,9 @@
     <email>basquiatcafe@libero.it</email>
     <web>http://www.basquiatcafe.altervista.org</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>412</id>
@@ -221,9 +223,9 @@
     <fax>0</fax>
     <email>info@lizardpub.com</email>
     <web>http://www.lizardpub.com</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>292</id>
@@ -237,8 +239,9 @@
     <email>info@aboriginalcafe.com</email>
     <web>http://www.aboriginalcafe.com</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>383</id>
@@ -252,8 +255,9 @@
     <email>jackass@ristorantiitaliani.it</email>
     <web>http://www.ristorantiitaliani.it/jackass</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 02:00.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>394</id>
@@ -267,8 +271,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>415</id>
@@ -282,8 +287,9 @@
     <email>pasquale.dipollina@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da martedì a giovedì, la domenica dalle 20:00 alle 02:00, da venerdì a sabato dalle 20:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>294</id>
@@ -297,8 +303,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, esclusa la domenica.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>313</id>
@@ -312,8 +319,9 @@
     <email>francesca@agricantus.org</email>
     <web>http://www.agricantus.org</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 20:00 alle 01:30, escluso il lunedì. Teatro</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>315</id>
@@ -327,8 +335,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da mercoledì a domenica dalle 18:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>330</id>
@@ -341,9 +350,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>291</id>
@@ -356,9 +365,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>305</id>
@@ -371,9 +380,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>371</id>
@@ -387,8 +396,9 @@
     <email>info@exitdrinks.com</email>
     <web>http://www.exitdrinks.com</web>
     <ANNOTAZIONI>Aperto mercoledì, giovedì e sabato, domenica dalle 22:00 alle 03:00 Durante la stagione estiva il locale si trasferisce in Villa Pantelleria, Vicolo Pantelleria, 10.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>307</id>
@@ -401,9 +411,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>356</id>
@@ -417,8 +427,9 @@
     <email>candelai@candelai.it</email>
     <web>http://www.candelai.it</web>
     <ANNOTAZIONI>Aperto giovedì dalle 21:00 alle 01:00, da venerdì a sabato dalle 21:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>367</id>
@@ -432,8 +443,9 @@
     <email>ohmiodio@virgilio.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 01:00, esclusa la domenica.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>368</id>
@@ -447,8 +459,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>375</id>
@@ -461,9 +474,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>376</id>
@@ -477,8 +490,9 @@
     <email>totoadamo@live.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>379</id>
@@ -492,8 +506,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto lunedì dalle 22:00 alle 03:00, martedì dalle 22:00 alle 23:00, da mercoledì a domenica dalle 21:00 alle 04:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>293</id>
@@ -506,9 +521,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>    
   </luogo>
   <luogo>
     <id>348</id>
@@ -522,8 +537,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 12:30 alle 02:30.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>369</id>
@@ -537,8 +553,9 @@
     <email>giuseppemaranzano@yahoo.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00, escluso il lunedì</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>424</id>
@@ -552,8 +569,9 @@
     <email>malaluna@malaluna.it</email>
     <web>http://www.malaluna.it</web>
     <ANNOTAZIONI>Aperto da venerdì a domenica dalle 22:00 alle 03:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>427</id>
@@ -567,8 +585,9 @@
     <email>caffemalavoglia@hotmail.com</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 16:00 alle 02:00, escluso il martedì.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>434</id>
@@ -582,8 +601,9 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Apertura da martedì a sabato dalle 19.30 alle 03.00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>451</id>
@@ -597,8 +617,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
   </luogo>
   <luogo>
     <id>518</id>
@@ -612,8 +632,9 @@
     <email>0</email>
     <web>http://www.lottavonano.it/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 01:30, escluso il lunedì</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>519</id>
@@ -627,8 +648,9 @@
     <email>press@kronoseventi.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 01:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>520</id>
@@ -642,8 +664,9 @@
     <email>bru46@msn.com</email>
     <web>http://www.nashvillepub.it/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>514</id>
@@ -657,8 +680,9 @@
     <email>info@mikalsa.it</email>
     <web>http://www.mikalsa.it/</web>
     <ANNOTAZIONI>Aperto da venerdì a domenica dalle 20:30 alle 02:00, da lunedì a giovedì dalle 20:30 alle 01:00</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>500</id>
@@ -672,8 +696,9 @@
     <email>info@villaniscemipub.it</email>
     <web>http://www.villaniscemipub.it/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 02:30, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>506</id>
@@ -687,8 +712,9 @@
     <email>info@zsazsamonamour.com</email>
     <web>http://www.zsazsamonamour.com/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 21:30 alle 03:00, escluso il lunedì</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>498</id>
@@ -702,8 +728,9 @@
     <email>tacoloco@tacoloco.it</email>
     <web>http://www.tacoloco.it</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>Pub e/o Discopub</tipo>
-    <tipo_specifico_1>Pub</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <tipo_specifico_2>discopub</tipo_specifico_2>
   </luogo>
   <luogo>
     <id>372</id>
@@ -717,8 +744,8 @@
     <email>fashion106pa@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>454</id>
@@ -732,8 +759,8 @@
     <email>info@jumeirahpalermo.it</email>
     <web>http://www.jumeirahpalermo.it</web>
     <ANNOTAZIONI>American bar, Ristorante</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>346</id>
@@ -747,8 +774,8 @@
     <email>rocket-bar@hotmail.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>448</id>
@@ -762,8 +789,8 @@
     <email>info@tinapica.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 20:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>297</id>
@@ -777,8 +804,8 @@
     <email>0</email>
     <web>http://www.ilsiciliano.eu</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:00 alle 02:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>298</id>
@@ -792,8 +819,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 10:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>304</id>
@@ -807,8 +834,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00, esclusa la domenica.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>332</id>
@@ -822,8 +849,8 @@
     <email>alcronic@hotmail.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>316</id>
@@ -837,8 +864,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 03:00, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>408</id>
@@ -852,8 +879,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da giovedì a sabato dalle 20:00 alle 02:30</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>410</id>
@@ -867,8 +894,8 @@
     <email>info@lizardpalermo.net</email>
     <web>http://www.lizardpalermo.com/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00, esclusa la domenica.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>430</id>
@@ -882,8 +909,8 @@
     <email>info@cottonclubcafe.it</email>
     <web>http://www.cottonclublounge.com/</web>
     <ANNOTAZIONI>Aperto da lunedì a mercoledì, la domenica dalle 07:00 alle 02:00, da giovedì a venerdì dalle 07:00 alle 03:00, sabato dalle 07:00 alle 04:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>450</id>
@@ -897,8 +924,8 @@
     <email>oceaniaristorazione@ristorantiitaliani.it</email>
     <web>http://www.oceaniaristorazione.it</web>
     <ANNOTAZIONI>effettua servizio di ristorante, pizzeria, panineria Aperto tutti i giorni dalle 06:30 alle 02:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>453</id>
@@ -912,8 +939,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>503</id>
@@ -927,8 +954,8 @@
     <email>0</email>
     <web>https://it.foursquare.com/v/vinile/4d93755ef10ea09322fc291e</web>
     <ANNOTAZIONI>Aperto domenica dalle 19:00 alle 00:00, da lunedì a sabato dalle 19:00 alle 02:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>522</id>
@@ -942,8 +969,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto lunedì e da giovedì a domenica dalle 20:00 alle 03:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>510</id>
@@ -957,8 +984,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Stabilimento balneare di giorno elegante lounge bar di sera Aperto tutti i giorni dalle 09:00 alle 02:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>493</id>
@@ -972,8 +999,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 01:30</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>524</id>
@@ -987,8 +1014,8 @@
     <email>0</email>
     <web>http://www.vespacafepalermo.it/</web>
     <ANNOTAZIONI>Aperto da sabato a domenica dalle 18:00 alle 02:00, lunedì dalle 10:00 alle 15:00, da martedì a venerdì dalle 10:00 alle 02:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>cocktail bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>400</id>
@@ -1002,8 +1029,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 09:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>401</id>
@@ -1017,8 +1044,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 02:00, escluso il martedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>295</id>
@@ -1032,8 +1059,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>303</id>
@@ -1047,8 +1074,8 @@
     <email>butybuty@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 01:00, esclusa la domenica.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>384</id>
@@ -1062,8 +1089,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto da martedì a giovedì, la domenica dalle 19:00 alle 02:00, da venerdì a sabato dalle 19:00 alle 03:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>385</id>
@@ -1077,8 +1104,8 @@
     <email>info@kursaalkalhesa.it</email>
     <web>http://www.kursaalkalhesa.it</web>
     <ANNOTAZIONI>Aperto domenica dalle 11:30 alle 18:00, da martedì a giovedì dalle 12:00 alle 01:30, da venerdì a sabato dalle 12:00 alle 02:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>452</id>
@@ -1092,8 +1119,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>314</id>
@@ -1107,8 +1134,8 @@
     <email>centrocha@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 17:00 alle 01:30, escluso il lunedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>324</id>
@@ -1122,8 +1149,8 @@
     <email>info@lacuba.com</email>
     <web>http://www.lacuba.com</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00. Ristopub</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>335</id>
@@ -1136,9 +1163,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>343</id>
@@ -1152,8 +1178,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>370</id>
@@ -1167,8 +1193,8 @@
     <email>relazioniesterne.hub@gmail.com</email>
     <web>http://www.hubpalermo.com</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 03:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>374</id>
@@ -1182,8 +1208,8 @@
     <email>gattoneropub@hotmail.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 02:00.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>404</id>
@@ -1197,8 +1223,8 @@
     <email>mortillaro@neomedia.it</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 18:30 alle 03:00</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>439</id>
@@ -1212,8 +1238,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Aperto solo la sera dalle ore 19:00 in poi</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>525</id>
@@ -1227,8 +1253,8 @@
     <email>davidgraviano@hotmail.it</email>
     <web>http://www.rendezvouspalermo.com/</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:30 alle 01:00, escluso il martedì.</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>496</id>
@@ -1242,8 +1268,8 @@
     <email>info@spiritodvino.it</email>
     <web>http://www.spiritodvino.it/index.htm</web>
     <ANNOTAZIONI>Aperto tutti i giorni dalle 19:00 alle 02:00, esclusa la domenica</ANNOTAZIONI>
-    <tipo>bar</tipo>
-    <tipo_specifico_1>wine bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>378</id>
@@ -1257,8 +1283,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>392</id>
@@ -1271,9 +1297,8 @@
     <fax>0</fax>
     <email>freschette@hotmail.it</email>
     <web>http://www.freschette.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>395</id>
@@ -1287,8 +1312,8 @@
     <email>info@alcovodeibeatipaoli.com</email>
     <web>http://www.alcovodeibeatipaoli.com/</web>
     <ANNOTAZIONI>Cucina italiana e pizza</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>396</id>
@@ -1302,8 +1327,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina mediterranea e pizza</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>403</id>
@@ -1317,8 +1342,8 @@
     <email>0</email>
     <web>http://www.ferrodicavallopalermo.it/index.php</web>
     <ANNOTAZIONI>Cucina tipica palermitano</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>409</id>
@@ -1332,8 +1357,8 @@
     <email>0</email>
     <web>http://www.alcancellettoverde.it/</web>
     <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>414</id>
@@ -1346,9 +1371,8 @@
     <fax>0</fax>
     <email>pizzoepizzo@libero.it</email>
     <web>http://www.pizzoepizzo.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>416</id>
@@ -1362,8 +1386,8 @@
     <email>0</email>
     <web>http://www.ristoranteloscudiero.com/</web>
     <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>413</id>
@@ -1377,8 +1401,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>419</id>
@@ -1391,9 +1415,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>420</id>
@@ -1406,9 +1429,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>421</id>
@@ -1421,9 +1443,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>425</id>
@@ -1437,8 +1458,8 @@
     <email>cagliostro04@tiscali.it</email>
     <web>http://www.ledeliziedicagliostro.it/</web>
     <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>426</id>
@@ -1452,8 +1473,8 @@
     <email>gusto.italiano@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante, wine bar</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>429</id>
@@ -1466,9 +1487,8 @@
     <fax>0</fax>
     <email>info@ristorantesantandrea.eu</email>
     <web>http://www.ristorantesantandrea.eu/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>433</id>
@@ -1481,9 +1501,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>435</id>
@@ -1497,8 +1516,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina europea, italiana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>438</id>
@@ -1511,9 +1530,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>440</id>
@@ -1526,9 +1544,8 @@
     <fax>0</fax>
     <email>ferroristorante@alice.it</email>
     <web>http://www.ristoranteferro.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>441</id>
@@ -1541,9 +1558,8 @@
     <fax>0</fax>
     <email>osteriadeivespri@libero.it</email>
     <web>http://www.osteriadeivespri.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>442</id>
@@ -1556,9 +1572,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>449</id>
@@ -1571,9 +1586,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>489</id>
@@ -1586,9 +1600,8 @@
     <fax>0916841508</fax>
     <email>info@hotelvillaesperia.it</email>
     <web>http://www.hotelvillaesperia.it/ristorante.html</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>491</id>
@@ -1602,8 +1615,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>499</id>
@@ -1617,8 +1630,8 @@
     <email>info@alleterrazze.it</email>
     <web>http://www.alleterrazze.it/</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>504</id>
@@ -1631,9 +1644,8 @@
     <fax>0</fax>
     <email>ristorante.sariddu@email.it</email>
     <web>http://www.ristorantesariddu.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>511</id>
@@ -1646,9 +1658,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>515</id>
@@ -1661,9 +1672,8 @@
     <fax>0</fax>
     <email>allacortedeinormanni@gmail.com</email>
     <web>http://www.ristoranteallacortedeinormanni.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>477</id>
@@ -1676,9 +1686,8 @@
     <fax>0</fax>
     <email>info@ristoranteacanto.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>478</id>
@@ -1692,8 +1701,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>479</id>
@@ -1706,9 +1715,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>480</id>
@@ -1721,9 +1729,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://sitopartner.wix.com/tipicoeparticolare</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>482</id>
@@ -1737,8 +1744,8 @@
     <email>cicciobucatino@gmail.com</email>
     <web>http://www.bucatino.biz/</web>
     <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>490</id>
@@ -1752,8 +1759,8 @@
     <email>ristorantelamattanza@libero.it</email>
     <web>http://www.ristorantelamattanza.it/index.html</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>492</id>
@@ -1766,9 +1773,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>497</id>
@@ -1781,9 +1787,8 @@
     <fax>0</fax>
     <email>info@ristorantecharleston.com</email>
     <web>http://www.ristorantecharleston.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>508</id>
@@ -1796,9 +1801,8 @@
     <fax>0</fax>
     <email>temptationsas@libero.it</email>
     <web>http://www.trattoriatemptation.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>512</id>
@@ -1811,9 +1815,8 @@
     <fax>091530738</fax>
     <email>info@ristorantelabarca.it</email>
     <web>http://www.ristorantelabarca.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>487</id>
@@ -1826,9 +1829,8 @@
     <fax>0</fax>
     <email>badalamentienoteca@alice.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>495</id>
@@ -1841,9 +1843,8 @@
     <fax>0</fax>
     <email>innclub@libero.it</email>
     <web>http://www.leantichemuraristorante.com/#</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>502</id>
@@ -1856,9 +1857,8 @@
     <fax>0</fax>
     <email>saporidimaregiovanni@virgilio.it</email>
     <web>http://www.trattoriasaporidimaregiovanni.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>505</id>
@@ -1871,9 +1871,8 @@
     <fax>0</fax>
     <email>info@albrigantino.com</email>
     <web>http://www.albrigantino.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>509</id>
@@ -1886,9 +1885,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>513</id>
@@ -1901,9 +1899,8 @@
     <fax>0</fax>
     <email>enea.angelo@alice.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>476</id>
@@ -1916,9 +1913,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>481</id>
@@ -1932,8 +1928,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>483</id>
@@ -1947,8 +1943,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>485</id>
@@ -1962,8 +1958,8 @@
     <email>lacascinadimacaluso@tiscali.it</email>
     <web>http://www.lacascinapa.com/</web>
     <ANNOTAZIONI>Ristorante - pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>501</id>
@@ -1976,9 +1972,8 @@
     <fax>0</fax>
     <email>kalgheros90@hotmail.it</email>
     <web>http://www.trattoriadacalogero.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>507</id>
@@ -1991,9 +1986,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>516</id>
@@ -2006,9 +2000,8 @@
     <fax>0</fax>
     <email>trattorialancora@libero.it</email>
     <web>http://www.trattorialancora.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>363</id>
@@ -2021,9 +2014,8 @@
     <fax>0</fax>
     <email>settimo.giuliano@virgilio.it</email>
     <web>http://www.trattoriasiciliaedintorni.it/il-ristorante</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>380</id>
@@ -2036,9 +2028,8 @@
     <fax>0</fax>
     <email>regine@ristoranteregine.it</email>
     <web>http://www.ristoranteregine.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>382</id>
@@ -2052,8 +2043,8 @@
     <email>info@officinabyebyeblues.com</email>
     <web>http://www.officinabyebyeblues.com/</web>
     <ANNOTAZIONI>Cucina italiana e mediterranea</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>397</id>
@@ -2067,8 +2058,8 @@
     <email>cucinapapoff@libero.it</email>
     <web>http://www.cucinapapoff.com/</web>
     <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>398</id>
@@ -2081,9 +2072,8 @@
     <fax>0</fax>
     <email>info@lacambusa.it</email>
     <web>http://www.lacambusa.it/chisiamo.php</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>399</id>
@@ -2096,9 +2086,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>405</id>
@@ -2112,8 +2101,8 @@
     <email>0</email>
     <web>http://www.anticatrattoriadelmonsu.com/</web>
     <ANNOTAZIONI>Cucina tipica e pizza</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>406</id>
@@ -2126,9 +2115,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>443</id>
@@ -2142,8 +2130,8 @@
     <email>lo.strascino@libero.it</email>
     <web>http://www.lostrascino.com/</web>
     <ANNOTAZIONI>Cucina tipica siciliana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>455</id>
@@ -2156,9 +2144,8 @@
     <fax>091585382</fax>
     <email>0</email>
     <web>http://www.casadelbrodo.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>457</id>
@@ -2172,8 +2159,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina italiana, pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>465</id>
@@ -2186,9 +2173,8 @@
     <fax>0</fax>
     <email>trattorialaposada@gmail.com</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>466</id>
@@ -2201,9 +2187,8 @@
     <fax>0</fax>
     <email>info@cibus.pa.it</email>
     <web>http://www.cibus.pa.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>467</id>
@@ -2216,9 +2201,8 @@
     <fax>0</fax>
     <email>trattoriailcambusone@gmail.com</email>
     <web>http://www.ilcambusone.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>323</id>
@@ -2231,9 +2215,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>326</id>
@@ -2246,9 +2229,8 @@
     <fax>0</fax>
     <email>lepergamene@lepergamene.it</email>
     <web>http://www.lepergamene.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>333</id>
@@ -2261,9 +2243,8 @@
     <fax>0</fax>
     <email>info@ristorantelottavanota.it</email>
     <web>http://www.ristorantelottavanota.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>345</id>
@@ -2276,9 +2257,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.gaginirestaurant.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>389</id>
@@ -2291,9 +2271,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>391</id>
@@ -2306,9 +2285,8 @@
     <fax>0</fax>
     <email>info@icuochini.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>456</id>
@@ -2322,8 +2300,8 @@
     <email>chapeaupalermo@live.com</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina mediterranea, pub</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>458</id>
@@ -2337,8 +2315,8 @@
     <email>pipiroom@ristorantiitaliani.it</email>
     <web>http://www.ristorantepipiroom.it/</web>
     <ANNOTAZIONI>Ristorante, pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>461</id>
@@ -2351,9 +2329,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>464</id>
@@ -2366,9 +2343,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>468</id>
@@ -2381,9 +2357,8 @@
     <fax>0</fax>
     <email>baciamolemani@libero.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>469</id>
@@ -2397,8 +2372,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Trattoria-pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>470</id>
@@ -2411,9 +2386,8 @@
     <fax>0</fax>
     <email>losteriadivinorosso@ristorantiitaliani.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>471</id>
@@ -2427,8 +2401,8 @@
     <email>latavernadellartista@gmail.com</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina europea</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>325</id>
@@ -2441,9 +2415,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>331</id>
@@ -2456,9 +2429,8 @@
     <fax>0</fax>
     <email>restaurantacuncuma@gmail.com</email>
     <web>http://www.acuncuma.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>340</id>
@@ -2471,9 +2443,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>387</id>
@@ -2486,9 +2457,8 @@
     <fax>0916880357</fax>
     <email>info@ristoranteluciecalici.com</email>
     <web>http://www.ristoranteluciecalici.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>423</id>
@@ -2502,8 +2472,8 @@
     <email>0</email>
     <web>http://www.trattoriaaltritempi.it/</web>
     <ANNOTAZIONI>Cucina tipica palermitana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>428</id>
@@ -2517,8 +2487,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>american bar in cui è possibile gustare piatti della cucina internazionale, in particolare sushi.</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>431</id>
@@ -2532,8 +2502,8 @@
     <email>0</email>
     <web>http://www.kus-kus.it/</web>
     <ANNOTAZIONI>Cucina mediterranea e pizza</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>445</id>
@@ -2546,9 +2516,8 @@
     <fax>0</fax>
     <email>info@ristorantebranciforte.it</email>
     <web>http://www.palazzobranciforte.it/ristorante-index.php</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>446</id>
@@ -2561,9 +2530,8 @@
     <fax>0</fax>
     <email>osteria.lobianco@libero.it</email>
     <web>http://www.osterialobianco.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>459</id>
@@ -2576,9 +2544,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>460</id>
@@ -2592,8 +2559,8 @@
     <email>vincenzo.cugno@libero.it</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina italiana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>473</id>
@@ -2606,9 +2573,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>Ristorante pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>309</id>
@@ -2621,9 +2587,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>319</id>
@@ -2636,9 +2601,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>320</id>
@@ -2651,9 +2615,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>321</id>
@@ -2667,8 +2630,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina spagnola</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>322</id>
@@ -2681,9 +2644,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>328</id>
@@ -2696,9 +2658,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>329</id>
@@ -2711,9 +2672,8 @@
     <fax>091652 2312</fax>
     <email>info@alfondacodelconte.it</email>
     <web>http://www.alfondacodelconte.it/it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>334</id>
@@ -2727,8 +2687,8 @@
     <email>ristorantebellotero@libero.it</email>
     <web>http://www.ristorantebelloteropalermo.it/</web>
     <ANNOTAZIONI>Specializzato nella cucina tipica siciliana</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>336</id>
@@ -2742,8 +2702,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina mediterranea, internazionale</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>355</id>
@@ -2756,9 +2716,8 @@
     <fax>0</fax>
     <email>ilghiottoneraffinato@tiscali.it</email>
     <web>http://www.ilghiottoneraffinato.it/banner/banner.php?immagine=cuore</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>357</id>
@@ -2771,9 +2730,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>360</id>
@@ -2786,9 +2744,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>364</id>
@@ -2801,9 +2758,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>407</id>
@@ -2816,9 +2772,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>312</id>
@@ -2832,8 +2787,8 @@
     <email>info@aivecchietti.it</email>
     <web>http://www.aivecchiettidiminchiapititto.com/vecchietti/index.asp</web>
     <ANNOTAZIONI>R</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>350</id>
@@ -2846,9 +2801,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>359</id>
@@ -2862,8 +2816,8 @@
     <email>imanciatari@libero.it</email>
     <web>http://www.manciatari.it/</web>
     <ANNOTAZIONI>Ristorante-pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>362</id>
@@ -2876,9 +2830,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>377</id>
@@ -2891,9 +2844,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>338</id>
@@ -2907,8 +2859,8 @@
     <email>info@ristorantinospano.it</email>
     <web>http://www.ristorantinospano.com/</web>
     <ANNOTAZIONI>Zona mercato del Capo</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>341</id>
@@ -2922,8 +2874,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina mediterranea, fusion</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>349</id>
@@ -2936,9 +2888,8 @@
     <fax>0</fax>
     <email>clemente.vincenzo@gmail.com</email>
     <web>http://www.ristorantecincin.com/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>352</id>
@@ -2951,9 +2902,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>353</id>
@@ -2966,9 +2916,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>ristorante</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
   </luogo>
   <luogo>
     <id>347</id>
@@ -2981,9 +2930,8 @@
     <fax>0</fax>
     <email>info@fridapizzeria.it</email>
     <web>http://www.fridapizzeria.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>365</id>
@@ -2996,9 +2944,8 @@
     <fax>0</fax>
     <email>info@pizzeriagiabal.it</email>
     <web>http://www.pizzeriagiabal.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>418</id>
@@ -3011,9 +2958,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>472</id>
@@ -3027,8 +2973,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Ristorante pizzeria</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>474</id>
@@ -3041,9 +2987,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>475</id>
@@ -3057,8 +3002,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Cucina europea, italiana, pizza</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>317</id>
@@ -3071,9 +3016,8 @@
     <fax>0</fax>
     <email>info@aivecchietti.it</email>
     <web>http://www.aivecchiettidiminchiapititto.com/vecchietti_pizz/chi_siamo.asp</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>366</id>
@@ -3086,9 +3030,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>318</id>
@@ -3101,9 +3044,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>342</id>
@@ -3116,9 +3058,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>432</id>
@@ -3131,9 +3072,8 @@
     <fax>0</fax>
     <email>laduchessapizzeria@libero.it</email>
     <web>http://www.pizzerialaduchessa.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>436</id>
@@ -3146,9 +3086,8 @@
     <fax>0</fax>
     <email>mudupalermo@hotmail.it</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>437</id>
@@ -3161,9 +3100,8 @@
     <fax>0</fax>
     <email>italiaristorantepizzeria@hotmail.it</email>
     <web>http://www.pizzeriaitaliapalermo.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>494</id>
@@ -3176,9 +3114,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>486</id>
@@ -3192,8 +3129,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Pizzeria - American bar</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>484</id>
@@ -3207,8 +3144,8 @@
     <email>bellomaurizio@alice.it.</email>
     <web>http://www.anticabirreriamoretti.com/</web>
     <ANNOTAZIONI>Pizzeria - Pub</ANNOTAZIONI>
-    <tipo>ristoro</tipo>
-    <tipo_specifico_1>pizzeria</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
   </luogo>
   <luogo>
     <id>296</id>
@@ -3222,8 +3159,8 @@
     <email>0</email>
     <web>http://www.spinnato.it</web>
     <ANNOTAZIONI>orario 07.00/01.00; venerdì e sabato 07.00/02.00</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>299</id>
@@ -3236,9 +3173,8 @@
     <fax>091/334725</fax>
     <email>0</email>
     <web>http://www.spinnato.it</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>301</id>
@@ -3251,9 +3187,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.spinnato.it</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>300</id>
@@ -3266,9 +3201,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.spinnato.it</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>302</id>
@@ -3281,9 +3215,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.spinnato.it</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>411</id>
@@ -3296,9 +3229,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Bar</tipo>
-    <tipo_specifico_1>Bar</tipo_specifico_1>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
   </luogo>
   <luogo>
     <id>444</id>
@@ -3312,8 +3244,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>462</id>
@@ -3326,9 +3258,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.afsf.it/</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>463</id>
@@ -3341,9 +3272,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>386</id>
@@ -3357,8 +3287,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>388</id>
@@ -3372,8 +3302,8 @@
     <email>0</email>
     <web>0</web>
     <ANNOTAZIONI>Tipica focacceria popolare palermitana</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>393</id>
@@ -3386,9 +3316,8 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <ANNOTAZIONI>0</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
   <luogo>
     <id>447</id>
@@ -3402,7 +3331,7 @@
     <email>0</email>
     <web>http://antichisaporipalermitani.weebly.com/</web>
     <ANNOTAZIONI>Tipica focacceria palermitana</ANNOTAZIONI>
-    <tipo>Street food</tipo>
-    <tipo_specifico_1>Street food</tipo_specifico_1>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
   </luogo>
 </luoghi>

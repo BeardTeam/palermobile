@@ -1,23 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <luoghi>
   <luogo>
     <id>10</id>
     <nome>I Colori del Mondo</nome>
-    <intestazione>della DA.NI.MA s.a.s di Lo Cascio Nicoletta &amp; C.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>DA.NI.MA s.a.s di Lo Cascio Nicoletta &amp; C.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Leonardo Da Vinci, 32</indirizzo>
     <cap>90145</cap>
     <telefono>0919768143</telefono>
     <fax>0919768145</fax>
     <email>icoloridelmondo@pinguinoviaggi.net</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>26</id>
     <nome>Kinos Viaggi</nome>
-    <intestazione>della Capricorno '75 S.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Capricorno '75 S.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Sampolo, 73</indirizzo>
     <cap>90143</cap>
@@ -29,21 +27,20 @@
   <luogo>
     <id>30</id>
     <nome>L &amp; T viaggi</nome>
-    <intestazione>della L &amp; T srl</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>L &amp; T srl</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso delle Province, 149</indirizzo>
     <cap>90128</cap>
     <telefono>0952880709</telefono>
     <fax>0952880709</fax>
     <email>ltviaggi@hotmail.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>35</id>
     <nome>Ausonia Viaggi</nome>
     <intestazione>Ausoniaviaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Gaetano Daita, 66</indirizzo>
     <cap>90139</cap>
@@ -55,8 +52,8 @@
   <luogo>
     <id>40</id>
     <nome>Manfre' Viaggi</nome>
-    <intestazione>della Manfre' Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Manfre' Viaggi S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Empedocle Restivo, 34/36</indirizzo>
     <cap>90144</cap>
@@ -69,7 +66,7 @@
     <id>46</id>
     <nome>Borneo Viaggi</nome>
     <intestazione>Borneo Viaggi di Tuttoilmondo Stefania</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via G. Pipitone Federico, 33</indirizzo>
     <cap>90144</cap>
@@ -81,21 +78,19 @@
   <luogo>
     <id>55</id>
     <nome>Montalto Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Vincenzo Di Marco, 5/A</indirizzo>
     <cap>90143</cap>
     <telefono>0915084407</telefono>
     <fax>09150844407</fax>
     <email>montaltoadv@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>58</id>
     <nome>Noema Viaggi</nome>
-    <intestazione>della Noema Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Noema Viaggi S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Gioacchino Di Marzo, 13</indirizzo>
     <cap>90144</cap>
@@ -108,7 +103,7 @@
     <id>72</id>
     <nome>Cocciola Viaggi</nome>
     <intestazione>Alemarviaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ausonia, 116</indirizzo>
     <cap>90146</cap>
@@ -121,7 +116,7 @@
     <id>80</id>
     <nome>Costa delle Mimose</nome>
     <intestazione>Costa delle Mimose S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Viale Regione Siciliana Nord Ovest, 9939</indirizzo>
     <cap>90147</cap>
@@ -133,21 +128,20 @@
   <luogo>
     <id>93</id>
     <nome>SLG Travel</nome>
-    <intestazione>della SLG Travel di Bova Maria Grazia</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>SLG Travel di Bova Maria Grazia</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Montalbo, 1/e</indirizzo>
     <cap>90142</cap>
     <telefono>0916371872</telefono>
     <fax>0916311686</fax>
     <email>info@slgtravel.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>107</id>
     <nome>Esedra Viaggi</nome>
     <intestazione>Esedra viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Trapani, 12/14/16</indirizzo>
     <cap>90141</cap>
@@ -159,8 +153,8 @@
   <luogo>
     <id>108</id>
     <nome>Tatamaro Viaggi</nome>
-    <intestazione>della Tatamaro Viaggi di Ivan Vitrano</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Tatamaro Viaggi di Ivan Vitrano</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Pietro Scaglione, 6</indirizzo>
     <cap>90145</cap>
@@ -172,8 +166,8 @@
   <luogo>
     <id>110</id>
     <nome>Tour and Travelling</nome>
-    <intestazione>della Mondi e Culture Viaggi e Turismo s.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Mondi e Culture Viaggi e Turismo s.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Messina, 7/a</indirizzo>
     <cap>90141</cap>
@@ -186,7 +180,7 @@
     <id>114</id>
     <nome>Fevi Tour</nome>
     <intestazione>Briuccia Travel By Fevi Tour di Pietro Catalano</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Briuccia, 84</indirizzo>
     <cap>90146</cap>
@@ -199,7 +193,7 @@
     <id>116</id>
     <nome>Flambò Tour</nome>
     <intestazione>Flambò Tour S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Nicolò Garzilli, 38/a</indirizzo>
     <cap>90141</cap>
@@ -211,21 +205,20 @@
   <luogo>
     <id>117</id>
     <nome>Travel Sicily</nome>
-    <intestazione>della Promotour s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Promotour s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Largo Trinacria, 20</indirizzo>
     <cap>90144</cap>
     <telefono>091331865</telefono>
     <fax>091326286</fax>
     <email>promotour@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>120</id>
     <nome>Furlan Viaggi</nome>
     <intestazione>Dante Viaggi S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Dante, 56/c</indirizzo>
     <cap>90141</cap>
@@ -237,8 +230,8 @@
   <luogo>
     <id>136</id>
     <nome>Virtus Viaggi e Turismo</nome>
-    <intestazione>della Virtus Viaggi e Turismo s.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Virtus Viaggi e Turismo s.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Maqueda, 260</indirizzo>
     <cap>90134</cap>
@@ -250,8 +243,8 @@
   <luogo>
     <id>138</id>
     <nome>World Of Tui</nome>
-    <intestazione>della Easy Market S.p.A.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Easy Market S.p.A.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Giovanni Amendola, 15</indirizzo>
     <cap>90141</cap>
@@ -263,8 +256,7 @@
   <luogo>
     <id>8</id>
     <nome>Guccione Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ammiraglio Gravina, 80</indirizzo>
     <cap>90139</cap>
@@ -277,7 +269,7 @@
     <id>17</id>
     <nome>Air Antoloving Viaggi e Vacanze</nome>
     <intestazione>Air Antoloving Viaggi e Vacanze di Hossain Mamun</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Maqueda, 231</indirizzo>
     <cap>90133</cap>
@@ -290,7 +282,7 @@
     <id>9</id>
     <nome>Aeroviaggi</nome>
     <intestazione>Aeroviaggi S.p.A.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via XII gennaio, 1/c</indirizzo>
     <cap>90141</cap>
@@ -302,8 +294,8 @@
   <luogo>
     <id>25</id>
     <nome>Kalesa Viaggi</nome>
-    <intestazione>della Kalesa Viaggi S.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Kalesa Viaggi S.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Calatafimi, 801</indirizzo>
     <cap>90129</cap>
@@ -316,7 +308,7 @@
     <id>27</id>
     <nome>Alechiari Viaggi &amp; Turismo</nome>
     <intestazione>Mercurio S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via San Lorenzo 91/c</indirizzo>
     <cap>90146</cap>
@@ -329,7 +321,7 @@
     <id>31</id>
     <nome>Amnesia Viaggi e Turismo</nome>
     <intestazione>Amnesia Viaggi di Damiata Gaetano</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Nicolò Turrisi, 33</indirizzo>
     <cap>90138</cap>
@@ -341,8 +333,7 @@
   <luogo>
     <id>32</id>
     <nome>Lai Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza San Francesco di Paola, 23</indirizzo>
     <cap>90138</cap>
@@ -355,20 +346,18 @@
     <id>33</id>
     <nome>Arcadelphi Viaggi Succ.</nome>
     <intestazione>Arcadelphi Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via P. Paternostro, 10</indirizzo>
     <cap>90144</cap>
     <telefono>091/6118108</telefono>
     <fax>091586607</fax>
     <email>giovanna.caridi@arcadelphi.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>34</id>
     <nome>Landolina Viaggi e Turismo</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Marchese di Villabianca, 82/C</indirizzo>
     <cap>90143</cap>
@@ -380,21 +369,20 @@
   <luogo>
     <id>36</id>
     <nome>Laurum Viaggi</nome>
-    <intestazione>della Laurum Viaggi di Vernengo Vita Grazia</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Laurum Viaggi di Vernengo Vita Grazia</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Alloro, 113</indirizzo>
     <cap>90133</cap>
     <telefono>0917817303</telefono>
     <fax>0916171109</fax>
     <email>laurumviaggi@gmail.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>37</id>
     <nome>Azania Viaggi</nome>
     <intestazione>Azania Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Mariano Stabile, 94</indirizzo>
     <cap>90139</cap>
@@ -406,21 +394,19 @@
   <luogo>
     <id>63</id>
     <nome>Cape Land succ.</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Terrasanta, 59</indirizzo>
     <cap>90141</cap>
     <telefono>091/6251081</telefono>
     <fax>091/7309052</fax>
     <email>info@capelandviaggi.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>77</id>
     <nome>Coralia Viaggi</nome>
     <intestazione>Essecitour S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza due Palme, 13/14</indirizzo>
     <cap>90133</cap>
@@ -432,21 +418,19 @@
   <luogo>
     <id>78</id>
     <nome>Piluna Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Francesco Lo Iacono, 61</indirizzo>
     <cap>90144</cap>
     <telefono>09173008779</telefono>
     <fax>0917303711</fax>
     <email>pilunaviaggi@yahoo.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>79</id>
     <nome>Pirelli Viaggi</nome>
-    <intestazione>della Le Vacanze Realizzabili s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Le Vacanze Realizzabili s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giovanni Campolo, 16</indirizzo>
     <cap>90145</cap>
@@ -458,8 +442,8 @@
   <luogo>
     <id>81</id>
     <nome>Premiere 2000 Sede</nome>
-    <intestazione>della Viaggi 2000 s.a.s</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Viaggi 2000 s.a.s</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ausonia, 95</indirizzo>
     <cap>90146</cap>
@@ -472,7 +456,7 @@
     <id>82</id>
     <nome>Crilù Travel</nome>
     <intestazione>Sicilia insolita Crilutravel Coop.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Florestano Pepe, 13</indirizzo>
     <cap>90139</cap>
@@ -484,8 +468,7 @@
   <luogo>
     <id>83</id>
     <nome>Rais Travel</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via dei Nebrodi, 10</indirizzo>
     <cap>90144</cap>
@@ -497,21 +480,19 @@
   <luogo>
     <id>84</id>
     <nome>CT Travel</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Roccazzo, 88</indirizzo>
     <cap>90135</cap>
     <telefono>091/5071399</telefono>
     <fax>091/50771399</fax>
     <email>citytravelpalermo@hotmail.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>85</id>
     <nome>Rebayas Viaggi</nome>
-    <intestazione>della Rebayas Viaggi s.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Rebayas Viaggi s.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Mariano Accardo, 50</indirizzo>
     <cap>90145</cap>
@@ -523,8 +504,7 @@
   <luogo>
     <id>86</id>
     <nome>Ruggieri Giovanni &amp; Figli</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Emerico Amari, 40</indirizzo>
     <cap>90139</cap>
@@ -536,8 +516,8 @@
   <luogo>
     <id>87</id>
     <nome>S. Tagliavia &amp; C.</nome>
-    <intestazione>della S. Tagliavia &amp; C. s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>S. Tagliavia &amp; C. s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Cavour, 117</indirizzo>
     <cap>90133</cap>
@@ -550,20 +530,19 @@
     <id>91</id>
     <nome>Daliomar Viaggi Sede</nome>
     <intestazione>Daliomar Viaggi di Isca Pietra</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Tommaso Natale, 53</indirizzo>
     <cap>90147</cap>
     <telefono>091/6911579</telefono>
     <fax>091/534000</fax>
     <email>daliomarviaggi@neomedia.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>92</id>
     <nome>Simon Travel</nome>
-    <intestazione>della Simon Travel s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Simon Travel s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Calatafimi,164</indirizzo>
     <cap>90129</cap>
@@ -576,7 +555,7 @@
     <id>96</id>
     <nome>Diodoro Travel</nome>
     <intestazione>Diodoro Travel S.p.a.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Principe di Palagonia, 82/f</indirizzo>
     <cap>90145</cap>
@@ -589,7 +568,7 @@
     <id>97</id>
     <nome>Disegni di Viaggio</nome>
     <intestazione>Elleti S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giuseppe Sciuti, 77/a</indirizzo>
     <cap>90144</cap>
@@ -601,8 +580,8 @@
   <luogo>
     <id>98</id>
     <nome>Soleventi &amp; Tour</nome>
-    <intestazione>della Soluzione Eventi &amp; Turismo s.r.l</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Soluzione Eventi &amp; Turismo s.r.l</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Serradifalco, 206</indirizzo>
     <cap>90145</cap>
@@ -614,21 +593,20 @@
   <luogo>
     <id>99</id>
     <nome>Sopravvoliamo Viaggi</nome>
-    <intestazione>della Sopravvoliamo Viaggi di Prosp. Soc. Coop. a r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Sopravvoliamo Viaggi di Prosp. Soc. Coop. a r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Ottavio Ziino, 32</indirizzo>
     <cap>90145</cap>
     <telefono>0916851438</telefono>
     <fax>0916851435</fax>
     <email>sopravv@tin.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>100</id>
     <nome>Eiffel Viaggi</nome>
     <intestazione>Axia Viaggi di Badalamenti Loredana S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Costantino Nigra, 69</indirizzo>
     <cap>90129</cap>
@@ -640,8 +618,8 @@
   <luogo>
     <id>102</id>
     <nome>Strasburgo Viaggi</nome>
-    <intestazione>della G.M. Travel di Manlio Di Giorgi</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>G.M. Travel di Manlio Di Giorgi</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Olanda, 23/a</indirizzo>
     <cap>90146</cap>
@@ -653,34 +631,30 @@
   <luogo>
     <id>103</id>
     <nome>Eliadi Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via T. Tasso, 76</indirizzo>
     <cap>90144</cap>
     <telefono>0917828007</telefono>
     <fax>091/7828007</fax>
     <email>eliadipi@eliadiviaggi.191.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>104</id>
     <nome>Sullivan Viaggi</nome>
-    <intestazione>della Sicilia Bella s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Sicilia Bella s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Petrarca, 20</indirizzo>
     <cap>90144</cap>
     <telefono>0916254086</telefono>
     <fax>091344333</fax>
     <email>sullivanviaggi@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>105</id>
     <nome>Erre2viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giuseppe Alessi, 10</indirizzo>
     <cap>90143</cap>
@@ -692,21 +666,20 @@
   <luogo>
     <id>106</id>
     <nome>T Travel</nome>
-    <intestazione>della Placido Mancuso e Figli Tour s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Placido Mancuso e Figli Tour s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Calata Marinai d'Italia Sn</indirizzo>
     <cap>90139</cap>
     <telefono>0917573358</telefono>
     <fax>0916118841</fax>
     <email>agepa.gambino@tirrenia.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>109</id>
     <nome>Esse Più Viaggi</nome>
     <intestazione>Esse Più Viaggi di Sicilia Concetta</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Catania, 23</indirizzo>
     <cap>90141</cap>
@@ -718,21 +691,19 @@
   <luogo>
     <id>111</id>
     <nome>Estamar Viaggi e Turismo</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>P.zza Castelnuovo, 35</indirizzo>
     <cap>90141</cap>
     <telefono>091/333955</telefono>
     <fax>091/321695</fax>
     <email>info@coretur.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>15</id>
     <nome>In Vacanza</nome>
-    <intestazione>della In Vacanza S.c.a.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>In Vacanza S.c.a.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Viale Strasburgo, 167</indirizzo>
     <cap>90146</cap>
@@ -744,8 +715,8 @@
   <luogo>
     <id>16</id>
     <nome>Inpoltronissima</nome>
-    <intestazione>della Inpoltronissima S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Inpoltronissima S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Michele Amari, 6</indirizzo>
     <cap>90139</cap>
@@ -757,8 +728,8 @@
   <luogo>
     <id>18</id>
     <nome>Iopitur Service Itinerarium Succ.</nome>
-    <intestazione>della Centro Itinerarium di Iozzia Giuseppa &amp; C. s.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Centro Itinerarium di Iozzia Giuseppa &amp; C. s.a.s.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giacomo Puccini, 54</indirizzo>
     <cap>90144</cap>
@@ -770,8 +741,8 @@
   <luogo>
     <id>28</id>
     <nome>Kukla Viaggi &amp; Turismo Sede</nome>
-    <intestazione>della Kukla Viaggi Soc. Coop.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Kukla Viaggi Soc. Coop.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Enrico Albanese, 31</indirizzo>
     <cap>90139</cap>
@@ -783,8 +754,8 @@
   <luogo>
     <id>41</id>
     <nome>Marras Viaggi</nome>
-    <intestazione>della Marras Viaggi di Marras Francesco</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Marras Viaggi di Marras Francesco</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Alberto Amedeo, 168</indirizzo>
     <cap>90138</cap>
@@ -796,34 +767,30 @@
   <luogo>
     <id>43</id>
     <nome>Mashia Travel</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Giulio Cesare, 8</indirizzo>
     <cap>90127</cap>
     <telefono>0916176941</telefono>
     <fax>0916176941</fax>
     <email>dilorenzotravel@virgilio.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>44</id>
     <nome>Bopa Grandi Biglietterie</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>P.zza Giulio Cesare c/o Stazione di Palermo</indirizzo>
     <cap>90127</cap>
     <telefono>091/6161392</telefono>
     <fax>0916161392</fax>
     <email>bgb.palermo@bopa.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>52</id>
     <nome>Borzì Viaggi Succ.</nome>
     <intestazione>Borzì Viaggi della Borzì Alberto</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via F. Lo Jacono, 22/c</indirizzo>
     <cap>90144</cap>
@@ -835,21 +802,20 @@
   <luogo>
     <id>56</id>
     <nome>Nashe Viaggi</nome>
-    <intestazione>della Viaggiando s.r.l</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Viaggiando s.r.l</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Finocchiaro Aprile, 188</indirizzo>
     <cap>90138</cap>
     <telefono>0912531016</telefono>
     <fax>0912531016</fax>
     <email>palermo1@nasheviaggi.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>57</id>
     <nome>Nebrofood Viaggi e Turismo</nome>
-    <intestazione>della Nebrofood s.a.s di Dario La Mantia</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Nebrofood s.a.s di Dario La Mantia</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Aurispa, 70/a</indirizzo>
     <cap>90145</cap>
@@ -862,7 +828,7 @@
     <id>59</id>
     <nome>Calendario Viaggi</nome>
     <intestazione>Holding Turismo S.p.a.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>via Nunzio Morello, 21</indirizzo>
     <cap>90144</cap>
@@ -875,7 +841,7 @@
     <id>65</id>
     <nome>Carthage Travel</nome>
     <intestazione>Carthage Travel S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via M. Stabile. 97</indirizzo>
     <cap>90139</cap>
@@ -887,8 +853,8 @@
   <luogo>
     <id>115</id>
     <nome>Tourist Travel Panormus</nome>
-    <intestazione>della Avvenire s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Avvenire s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Alessio Di Giovanni, 21</indirizzo>
     <cap>90144</cap>
@@ -901,7 +867,7 @@
     <id>118</id>
     <nome>Frangi Ritt Viaggi</nome>
     <intestazione>Frangi Ritt Viaggi e Turismo di Aldo Ciprì &amp; c. S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Viale Leonardo Da Vinci, 233</indirizzo>
     <cap>90145</cap>
@@ -913,8 +879,7 @@
   <luogo>
     <id>119</id>
     <nome>TRAVEL360</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Marchese Ugo, 72</indirizzo>
     <cap>90141</cap>
@@ -926,8 +891,8 @@
   <luogo>
     <id>121</id>
     <nome>Travelbag</nome>
-    <intestazione>della AZ Servizi di Marsia Marika</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>AZ Servizi di Marsia Marika</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Michele Amari, 13</indirizzo>
     <cap>90139</cap>
@@ -939,47 +904,43 @@
   <luogo>
     <id>122</id>
     <nome>Traveleze</nome>
-    <intestazione>della Traveleze s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Traveleze s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Notarbartolo, 49</indirizzo>
     <cap>90141</cap>
     <telefono>091345758</telefono>
     <fax>0917828239</fax>
     <email>info@traveleze.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>123</id>
     <nome>Gamma Viaggi</nome>
     <intestazione>Gamma Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Brunetto Latini, 11</indirizzo>
     <cap>90141</cap>
     <telefono>091/582258</telefono>
     <fax>091/6629016</fax>
     <email>gammaviaggi@gmail.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>125</id>
     <nome>Travellink</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Emilia, 35</indirizzo>
     <cap>90146</cap>
     <telefono>0912523153</telefono>
     <fax>0916195385</fax>
     <email>travellink.srl@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>126</id>
     <nome>Gianniviaggi</nome>
     <intestazione>Sicilian Tourist Service S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Praga, 48</indirizzo>
     <cap>90143</cap>
@@ -991,21 +952,19 @@
   <luogo>
     <id>127</id>
     <nome>Trinacria Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Maggiore Toselli, 28</indirizzo>
     <cap>90143</cap>
     <telefono>091344376</telefono>
     <fax>091348055</fax>
     <email>trinacriaviaggi@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>128</id>
     <nome>Gigatour</nome>
     <intestazione>Li.La S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via del Quarnaro, 14</indirizzo>
     <cap>90141</cap>
@@ -1018,7 +977,7 @@
     <id>129</id>
     <nome>Giosaltour Viaggi</nome>
     <intestazione>Servizitalia società Coop. a.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via S. Puglisi, 15/17</indirizzo>
     <cap>90143</cap>
@@ -1031,7 +990,7 @@
     <id>131</id>
     <nome>Globalsem Viaggi</nome>
     <intestazione>Globalsem S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giusino, 51</indirizzo>
     <cap>90146</cap>
@@ -1043,21 +1002,20 @@
   <luogo>
     <id>132</id>
     <nome>Viaggiando con Marco Polo</nome>
-    <intestazione>della Marcopolo Viaggi S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Marcopolo Viaggi S.a.s.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Viale Strasburgo, 385 a/b</indirizzo>
     <cap>90146</cap>
     <telefono>0917831570</telefono>
     <fax>0917831569</fax>
     <email>viaconmarcopolo@gmail.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>135</id>
     <nome>Virgilio Viaggi</nome>
-    <intestazione>della Controvento di Iraci Consuelo S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Controvento di Iraci Consuelo S.a.s.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Virgilio, 16</indirizzo>
     <cap>90146</cap>
@@ -1069,8 +1027,7 @@
   <luogo>
     <id>137</id>
     <nome>Volare Together</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via C. Raiti, 4</indirizzo>
     <cap>90128</cap>
@@ -1082,8 +1039,8 @@
   <luogo>
     <id>139</id>
     <nome>Zaessen Viaggi</nome>
-    <intestazione>della Zaessen Viaggi di Villafranca Rosalia</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Zaessen Viaggi di Villafranca Rosalia</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Malaspina, 35</indirizzo>
     <cap>90145</cap>
@@ -1096,7 +1053,7 @@
     <id>5</id>
     <nome>Tourplus Sicilia</nome>
     <intestazione>Tour Plus Sicilia S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Libertà, 103</indirizzo>
     <cap>90143</cap>
@@ -1109,7 +1066,7 @@
     <id>7</id>
     <nome>Adularia Viaggi</nome>
     <intestazione>Adularia Viaggi S.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>C.so Calatafimi, 724</indirizzo>
     <cap>90129</cap>
@@ -1134,8 +1091,8 @@
   <luogo>
     <id>12</id>
     <nome>I Viaggi del sud</nome>
-    <intestazione>della ANSA S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>ANSA S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Napoli, 52</indirizzo>
     <cap>90133</cap>
@@ -1147,21 +1104,19 @@
   <luogo>
     <id>13</id>
     <nome>I Voyages succ.</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Valderice, 11</indirizzo>
     <cap>90144</cap>
     <telefono>091518293</telefono>
     <fax>091518293</fax>
     <email>ivoyagespalermo@hotmail.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>29</id>
     <nome>Alternative Sicily</nome>
     <intestazione>Alternative DMC S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Sammartino, 9</indirizzo>
     <cap>90141</cap>
@@ -1173,8 +1128,7 @@
   <luogo>
     <id>39</id>
     <nome>Biba Tour</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Emilia, 45</indirizzo>
     <cap>90144</cap>
@@ -1187,7 +1141,7 @@
     <id>47</id>
     <nome>Borzì Viaggi Sede</nome>
     <intestazione>Borzì Viaggi della Borzì Alberto</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Serradifalco, 2/c</indirizzo>
     <cap>90145</cap>
@@ -1199,8 +1153,8 @@
   <luogo>
     <id>62</id>
     <nome>Novantacento Travel</nome>
-    <intestazione>della S.T.S. s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>S.T.S. s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Sampolo, 125/c</indirizzo>
     <cap>90146</cap>
@@ -1212,8 +1166,8 @@
   <luogo>
     <id>68</id>
     <nome>Pachamama Inca</nome>
-    <intestazione>della Pachamama Inca di Bica Anna Maria Gaetana</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Pachamama Inca di Bica Anna Maria Gaetana</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giovanni Pascoli, 13/15</indirizzo>
     <cap>90144</cap>
@@ -1226,7 +1180,7 @@
     <id>76</id>
     <nome>Conca D'Oro Viaggi</nome>
     <intestazione>Conca D'Oro Viaggi S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza indipendenza, 41</indirizzo>
     <cap>90129</cap>
@@ -1238,8 +1192,8 @@
   <luogo>
     <id>89</id>
     <nome>Si Planet</nome>
-    <intestazione>della Si Planet di Maurizia Sicurella</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Si Planet di Maurizia Sicurella</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Carmelo Onorato, 39</indirizzo>
     <cap>90129</cap>
@@ -1251,8 +1205,8 @@
   <luogo>
     <id>90</id>
     <nome>Si Viaggiare</nome>
-    <intestazione>della Si Viaggiare s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Si Viaggiare s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via dell'Orsa Maggiore, 98</indirizzo>
     <cap>90125</cap>
@@ -1265,7 +1219,7 @@
     <id>94</id>
     <nome>Di Maria Viaggi e Turismo</nome>
     <intestazione>Di Maria Service S.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via dei Nebrodi, 65 e/f</indirizzo>
     <cap>90146</cap>
@@ -1277,8 +1231,8 @@
   <luogo>
     <id>95</id>
     <nome>Sogni Nel Blu</nome>
-    <intestazione>della Martello Global Company s.r.l</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Martello Global Company s.r.l</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Salvatore Puglisi, 55</indirizzo>
     <cap>90143</cap>
@@ -1291,7 +1245,7 @@
     <id>101</id>
     <nome>Eleantour</nome>
     <intestazione>Sabimar S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Uditore, 2/e</indirizzo>
     <cap>90145</cap>
@@ -1304,20 +1258,19 @@
     <id>124</id>
     <nome>Garofalo Viaggi</nome>
     <intestazione>Garofalo Rosalia</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Generale Francesco La Ferla, 9/11</indirizzo>
     <cap>90123</cap>
     <telefono>091/6216445</telefono>
     <fax>091/6216003</fax>
     <email>garofaloviaggi@aliceposta.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>133</id>
     <nome>Vigi Viaggi</nome>
-    <intestazione>della Vigi Viaggi S.a.s. di Macaluso &amp; C.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Vigi Viaggi S.a.s. di Macaluso &amp; C.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via San Lorenzo, 95/e</indirizzo>
     <cap>90146</cap>
@@ -1329,34 +1282,30 @@
   <luogo>
     <id>140</id>
     <nome>Zaid Travels</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Vittorio Emanuele, 311</indirizzo>
     <cap>90134</cap>
     <telefono>0917658617</telefono>
     <fax>0917658617</fax>
     <email>zaidtravels@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>11</id>
     <nome>Aglieri Viaggi</nome>
     <intestazione>Aglieri Turismo Viaggi e Crociere di Aglieri Ignazio</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Mendola, 2/f</indirizzo>
     <cap>90127</cap>
     <telefono>091/6160672</telefono>
     <fax>091/6100091</fax>
     <email>aglieriviaggi@tiscali.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>19</id>
     <nome>Jato Travel World</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ernesto Basile, 80</indirizzo>
     <cap>90128</cap>
@@ -1369,20 +1318,19 @@
     <id>20</id>
     <nome>Aish Travel</nome>
     <intestazione>Ga.al. Viaggi S.n.c. di Migliazzo Alessio</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via A. Pacinotti, 21</indirizzo>
     <cap>90145</cap>
     <telefono>091/6811667</telefono>
     <fax>091/6823125</fax>
     <email>info@aishtravel.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>21</id>
     <nome>Jetset</nome>
-    <intestazione>della Jetset S.p.A.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Jetset S.p.A.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza Luigi Sturzo, 5</indirizzo>
     <cap>90139</cap>
@@ -1394,8 +1342,8 @@
   <luogo>
     <id>22</id>
     <nome>Journey Travel</nome>
-    <intestazione>della Baykam Tour S.n.c.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Baykam Tour S.n.c.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Calatafimi, 705</indirizzo>
     <cap>90129</cap>
@@ -1408,7 +1356,7 @@
     <id>23</id>
     <nome>Albergheria Viaggi</nome>
     <intestazione>Azimut Soc. Coop. a.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via G, Sciuti, 140/b</indirizzo>
     <cap>90144</cap>
@@ -1420,8 +1368,8 @@
   <luogo>
     <id>24</id>
     <nome>Kaimano Viaggi</nome>
-    <intestazione>della BET Travel S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>BET Travel S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giuseppe Giusti, 49</indirizzo>
     <cap>90144</cap>
@@ -1433,8 +1381,8 @@
   <luogo>
     <id>38</id>
     <nome>Lele Viaggi</nome>
-    <intestazione>della Lele Viaggi di Gabriele Mancino</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Lele Viaggi di Gabriele Mancino</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giotto, 36</indirizzo>
     <cap>90145</cap>
@@ -1446,8 +1394,8 @@
   <luogo>
     <id>42</id>
     <nome>Marvida Viaggi e Turismo</nome>
-    <intestazione>della Aleda e C. S.a.s</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Aleda e C. S.a.s</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Nicolo' Turrisi, 31</indirizzo>
     <cap>90138</cap>
@@ -1459,34 +1407,32 @@
   <luogo>
     <id>45</id>
     <nome>Mauritania Viaggi e Turismo</nome>
-    <intestazione>della Mauritania Viaggi di Orlando Debora</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Mauritania Viaggi di Orlando Debora</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Generale Arimondi, 2/N</indirizzo>
     <cap>90143</cap>
     <telefono>0916269861</telefono>
     <fax>091307505</fax>
     <email>mauritaniaviaggi@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>48</id>
     <nome>Melagodo Viaggi succ.</nome>
-    <intestazione>della Southwards S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Southwards S.a.s.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Dante, 66</indirizzo>
     <cap>90141</cap>
     <telefono>0916123808</telefono>
     <fax>0916123808</fax>
     <email>palermo@melagodoviaggi.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>49</id>
     <nome>Mesotour</nome>
-    <intestazione>della Il Tuareg S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Il Tuareg S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Giovanni Zappalà, 22/24</indirizzo>
     <cap>90145</cap>
@@ -1498,21 +1444,20 @@
   <luogo>
     <id>50</id>
     <nome>Mesotour</nome>
-    <intestazione>della Mesotour Viaggi Travel Network</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Mesotour Viaggi Travel Network</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Vittorio Emanuele, 117</indirizzo>
     <cap>90133</cap>
     <telefono>0916121476</telefono>
     <fax>0916093649</fax>
     <email>sun_travel@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>51</id>
     <nome>Mister Holiday Filiale di Palermo</nome>
-    <intestazione>della Mister Holiday S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Mister Holiday S.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Uditore, 12/P</indirizzo>
     <cap>90145</cap>
@@ -1524,8 +1469,7 @@
   <luogo>
     <id>53</id>
     <nome>Mondolingua Tour</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Cristoforo Colombo, 30</indirizzo>
     <cap>90142</cap>
@@ -1538,20 +1482,19 @@
     <id>54</id>
     <nome>Briaria Travel</nome>
     <intestazione>Briaria Travel di Marcel Berke</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Piazza S. Francesco Saverio, 3</indirizzo>
     <cap>90134</cap>
     <telefono>091/9765138</telefono>
     <fax>091/9765138</fax>
     <email>insideballaro@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>60</id>
     <nome>Norma Vacanze</nome>
-    <intestazione>della Norma Vacanze s.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Norma Vacanze s.a.s.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Carbone, 139</indirizzo>
     <cap>90151</cap>
@@ -1564,20 +1507,19 @@
     <id>61</id>
     <nome>Calpia Viaggi</nome>
     <intestazione>Pinguino Tour S.a.S.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Maggiore Pietro Toselli, 103</indirizzo>
     <cap>90143</cap>
     <telefono>091/340966</telefono>
     <fax>091/6197967</fax>
     <email>info@calpiaviaggi.com</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>64</id>
     <nome>Nuova Idea Viaggi</nome>
-    <intestazione>della Nuova Idea Viaggi s.r.l</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Nuova Idea Viaggi s.r.l</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Isidoro La Lumia, 56</indirizzo>
     <cap>90139</cap>
@@ -1590,7 +1532,7 @@
     <id>66</id>
     <nome>Cica Blu Viaggi</nome>
     <intestazione>Ci.ca. S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Terrasanta 12/14</indirizzo>
     <cap>90141</cap>
@@ -1602,8 +1544,8 @@
   <luogo>
     <id>67</id>
     <nome>Oikistes Viaggi &amp; Turismo</nome>
-    <intestazione>della Oikistes Viaggi &amp; Turismo by Spot s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Oikistes Viaggi &amp; Turismo by Spot s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Corso Finocchiaro Aprile, 165</indirizzo>
     <cap>90138</cap>
@@ -1616,7 +1558,7 @@
     <id>69</id>
     <nome>Cisalpina Tours - Vivere e Viaggiare</nome>
     <intestazione>Cisalpina Tours S.p.a.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Siracusa, 3</indirizzo>
     <cap>90141</cap>
@@ -1628,21 +1570,19 @@
   <luogo>
     <id>70</id>
     <nome>Clamax Service</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Domenico Scinà, 106/B</indirizzo>
     <cap>90139</cap>
     <telefono>091/6124088</telefono>
     <fax>091/6623406</fax>
     <email>mesotour1@clamaxservice.191.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>71</id>
     <nome>Palma Nana</nome>
-    <intestazione>della Soc. Coop. a.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Soc. Coop. a.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Archimede, 56</indirizzo>
     <cap>90139</cap>
@@ -1655,20 +1595,18 @@
     <id>73</id>
     <nome>Coffe Travel</nome>
     <intestazione>Capreri S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>P.zza Sant'Oliva, 43/44</indirizzo>
     <cap>90144</cap>
     <telefono>091/7851896</telefono>
     <fax>091/7851896</fax>
-    <email>0</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>74</id>
     <nome>Collage Turismo Viaggi e Vacanze</nome>
     <intestazione>Collage Turismo S.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Umberto Giordano, 37/a</indirizzo>
     <cap>90144</cap>
@@ -1680,8 +1618,7 @@
   <luogo>
     <id>75</id>
     <nome>Pietro Barbaro</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Molo Vittorio Veneto - Porto di Palermo</indirizzo>
     <cap>90100</cap>
@@ -1693,8 +1630,7 @@
   <luogo>
     <id>88</id>
     <nome>Scialo Viaggi</nome>
-    <intestazione>0</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Luigi Pirandello, 19</indirizzo>
     <cap>90144</cap>
@@ -1707,7 +1643,7 @@
     <id>112</id>
     <nome>Fan Viaggi Forum</nome>
     <intestazione>Viaggi Forum</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Pecoraino (c/o Centro Comm. Forum)</indirizzo>
     <cap>90124</cap>
@@ -1719,40 +1655,37 @@
   <luogo>
     <id>113</id>
     <nome>Tourismondo</nome>
-    <intestazione>della Terre di Sicania Service Soc. Coop. a r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Terre di Sicania Service Soc. Coop. a r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ammiraglio Rizzo, 50</indirizzo>
     <cap>90142</cap>
     <telefono>0916315628</telefono>
     <fax>091362446</fax>
     <email>info@tourismondo.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>130</id>
     <nome>Glintour</nome>
     <intestazione>Nuova Compagnia delle Indie di Arena R. &amp; C. S.a.s.</intestazione>
-    <tipo>A ill.</tipo>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Ariosto, 14</indirizzo>
     <cap>90144</cap>
     <telefono>091/6257300</telefono>
     <fax>091/348009</fax>
     <email>glintour@libero.it</email>
-    <web>0</web>
   </luogo>
   <luogo>
     <id>134</id>
     <nome>Villa Tasca Viaggi</nome>
-    <intestazione>della Villa Tasca Viaggi s.r.l.</intestazione>
-    <tipo>A ill.</tipo>
+    <intestazione>Villa Tasca Viaggi s.r.l.</intestazione>
+    <tipi>agenzia di viaggi</tipi>
     <citta>Palermo</citta>
     <indirizzo>Via Palmerino, 24</indirizzo>
     <cap>90129</cap>
     <telefono>091489518</telefono>
     <fax>0916452797</fax>
     <email>villatascaviaggi@gmail.com</email>
-    <web>0</web>
   </luogo>
 </luoghi>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="JSON-java-master"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/simple-xml-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/commons-lang.jar"/>
+	<classpathentry kind="lib" path="/home/k0smik0/workspace/libs/jackson/jackson-core-lgpl-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/k0smik0/workspace/libs/jackson/jackson-xml-databind-0.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/k0smik0/workspace/libs/jackson/jackson-mapper-lgpl-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/k0smik0/workspace/libs/jackson/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

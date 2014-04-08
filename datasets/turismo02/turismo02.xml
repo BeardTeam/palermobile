@@ -1,0 +1,5451 @@
+<?xml version="1.0"?>
+<luoghi>
+  <luogo>
+    <id>390</id>
+    <nome>Tonnara Florio (Kursal Tonnara Vergine Maria)</nome>
+    <indirizzo>Tonnara Florio (Kursal Tonnara Vergine Maria)</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6375611</telefono>
+    <fax/>
+    <mobile/>
+    <email>discoteca@tonnaraflorio.com</email>
+    <web>http://www.tonnaraflorio.com/discoteca.htm</web>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>01:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>358</id>
+    <nome>Country Disco Club</nome>
+    <indirizzo>Country Disco Club</indirizzo>
+    <cap>90149</cap>
+    <citta>Palermo</citta>
+    <telefono>091/304977</telefono>
+    <fax/>
+    <mobile/>
+    <email>robertobianconi@inwind.it</email>
+    <web>http://www.countrydiscoclub.com</web>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>venerdi,sabato</giorni>
+        <apertura>22:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>417</id>
+    <nome>Magazzini</nome>
+    <indirizzo>Magazzini</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>339</id>
+    <nome>Rise up</nome>
+    <indirizzo>Rise up</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3388137792 - 3470541647</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>venerdi,sabato</giorni>
+        <apertura>22:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>523</id>
+    <nome>Baia del Corallo</nome>
+    <indirizzo>Baia del Corallo</indirizzo>
+    <cap>90147</cap>
+    <citta>Palermo - Sferracavallo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>330851289</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>venerdi,sabato,domenica</giorni>
+        <apertura>21:00</apertura>
+        <chiusura>00:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>311</id>
+    <nome>Casa Cuba</nome>
+    <indirizzo>Casa Cuba</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <telefono>091/495153</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>351</id>
+    <nome>Scalea Club</nome>
+    <indirizzo>Scalea Club</indirizzo>
+    <cap>90147</cap>
+    <citta>Palermo</citta>
+    <telefono>091/243946</telefono>
+    <fax/>
+    <mobile>3313153269</mobile>
+    <email>princessscalea@tin.it</email>
+    <web>http://www.scaleaclub.com</web>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>sabato</giorni>
+        <apertura>23:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>361</id>
+    <nome>Villa Partanna</nome>
+    <indirizzo>Villa Partanna</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6841594</telefono>
+    <fax/>
+    <mobile>3296212634</mobile>
+    <email>villapartanna@gmail.com</email>
+    <web/>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>16:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note>sabato: chiusura alle 03:00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>354</id>
+    <nome>Goa</nome>
+    <indirizzo>Goa</indirizzo>
+    <cap>90151</cap>
+    <citta>Palermo</citta>
+    <telefono>330851289</telefono>
+    <fax/>
+    <mobile>3284180075 - 3933306697</mobile>
+    <email>dan.bar@tin.it</email>
+    <web>http://www.goazone.it</web>
+    <tipi>divertimento</tipi>
+    <tipi_specifici>discoteca</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>venerdi,sabato</giorni>
+        <apertura>22:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>373</id>
+    <nome>Fusorario</nome>
+    <indirizzo>Fusorario</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>21:00</apertura>
+        <chiusura>04:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>402</id>
+    <nome>Le Cupolette</nome>
+    <indirizzo>Le Cupolette</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6572922</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>21:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>327</id>
+    <nome>Di Martino Drinks &amp; Brunch</nome>
+    <indirizzo>Di Martino Drinks &amp; Brunch</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6118820</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>08:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note>domenica aperto dalle 16:00 alle 02:00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>337</id>
+    <nome>Cafè 442</nome>
+    <indirizzo>Cafè 442</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <telefono>091/549431</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.cafe442.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>344</id>
+    <nome>Basquiat Cafè</nome>
+    <indirizzo>Basquiat Cafè</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6090090</telefono>
+    <fax/>
+    <mobile/>
+    <email>basquiatcafe@libero.it</email>
+    <web>http://www.basquiatcafe.altervista.org</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>412</id>
+    <nome>Lizard Pub</nome>
+    <indirizzo>Lizard Pub</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email>info@lizardpub.com</email>
+    <web>http://www.lizardpub.com</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>292</id>
+    <nome>Aboriginal Cafè</nome>
+    <indirizzo>Aboriginal Cafè</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6622229</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@aboriginalcafe.com</email>
+    <web>http://www.aboriginalcafe.com</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>383</id>
+    <nome>Jackass</nome>
+    <indirizzo>Jackass</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6261221</telefono>
+    <fax/>
+    <mobile/>
+    <email>jackass@ristorantiitaliani.it</email>
+    <web>http://www.ristorantiitaliani.it/jackass</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>394</id>
+    <nome>Kovacs</nome>
+    <indirizzo>Kovacs</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6115151</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>415</id>
+    <nome>Lulu Pub</nome>
+    <indirizzo>Lulu Pub</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3282766812 - 3491936985</mobile>
+    <email>pasquale.dipollina@libero.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>20:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note>venerdi,sabato: chiusura alle 03:00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>294</id>
+    <nome>Ai bastioni</nome>
+    <indirizzo>Ai bastioni</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>313</id>
+    <nome>CCP Agricantus Pub</nome>
+    <indirizzo>CCP Agricantus Pub</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/309636</telefono>
+    <fax/>
+    <mobile/>
+    <email>francesca@agricantus.org</email>
+    <web>http://www.agricantus.org</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>20:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>315</id>
+    <nome>Chatoull'S Bistrot</nome>
+    <indirizzo>Chatoull'S Bistrot</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>330</id>
+    <nome>Easy Malox</nome>
+    <indirizzo>Easy Malox</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>291</id>
+    <nome>A scalunata</nome>
+    <indirizzo>A scalunata</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>305</id>
+    <nome>Bisogno di vino</nome>
+    <indirizzo>Bisogno di vino</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>349 2821326</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>371</id>
+    <nome>Exit</nome>
+    <indirizzo>Exit</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3487814698</mobile>
+    <email>info@exitdrinks.com</email>
+    <web>http://www.exitdrinks.com</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>mercoledi, giovedi e sabato, domenica</giorni>
+        <apertura>22:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni>Durante la stagione estiva il locale si trasferisce in Villa Pantelleria, Vicolo Pantelleria, 10</informazioni>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>307</id>
+    <nome>Cafè Moma</nome>
+    <indirizzo>Cafè Moma</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/7829603</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>356</id>
+    <nome>I Candelai</nome>
+    <indirizzo>I Candelai</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091/327151</telefono>
+    <fax>091327151</fax>
+    <mobile>3337002942</mobile>
+    <email>candelai@candelai.it</email>
+    <web>http://www.candelai.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>giovedi,venerdi,sabato</giorni>
+        <apertura>21:00</apertura>
+        <chiusura>03.00</chiusura>
+        <note>giovedi chiusura all'01:00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>367</id>
+    <nome>Officina Di Dio</nome>
+    <indirizzo>Officina Di Dio</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3346947185</mobile>
+    <email>ohmiodio@virgilio.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>01:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>368</id>
+    <nome>Birreria Warsteiner</nome>
+    <indirizzo>Birreria Warsteiner</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6268129</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>375</id>
+    <nome>Gentleman Loser</nome>
+    <indirizzo>Gentleman Loser</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/320436</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>376</id>
+    <nome>Hirsch</nome>
+    <indirizzo>Hirsch</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091347825</telefono>
+    <fax/>
+    <mobile/>
+    <email>totoadamo@live.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>379</id>
+    <nome>Il Moro</nome>
+    <indirizzo>Il Moro</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono>091/546213 - 091/364990</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>21:00</apertura>
+        <chiusura>04:00</chiusura>
+        <note>lunedi: apertura alle 22.00, chiusura alle 03.00; martedi: apertura alle 22.00, chiusura alle 23.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>293</id>
+    <nome>Abu Nawas</nome>
+    <indirizzo>Abu Nawas</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/328861</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>348</id>
+    <nome>Santa Monica</nome>
+    <indirizzo>Santa Monica</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/324735</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>12:30</apertura>
+        <chiusura>02:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>369</id>
+    <nome>I Grilli Giù</nome>
+    <indirizzo>I Grilli Giù</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6111243</telefono>
+    <fax/>
+    <mobile>3288284265</mobile>
+    <email>giuseppemaranzano@yahoo.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>424</id>
+    <nome>Malaluna Club</nome>
+    <indirizzo>Malaluna Club</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>335460022</mobile>
+    <email>malaluna@malaluna.it</email>
+    <web>http://www.malaluna.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>da venerdi a domenica</giorni>
+        <apertura>22:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>427</id>
+    <nome>Malavoglia</nome>
+    <indirizzo>Malavoglia</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091/334619</telefono>
+    <fax/>
+    <mobile/>
+    <email>caffemalavoglia@hotmail.com</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>16:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>434</id>
+    <nome>Mescal Tapas</nome>
+    <indirizzo>Mescal Tapas</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>451</id>
+    <nome>Pata Palo da Ignazio</nome>
+    <indirizzo>Pata Palo da Ignazio</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3928649024</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>518</id>
+    <nome>Luppolo - L'Ottavo Nano</nome>
+    <indirizzo>Luppolo - L'Ottavo Nano</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6123877</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.lottavonano.it/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>519</id>
+    <nome>Taverna dell'artista</nome>
+    <indirizzo>Taverna dell'artista</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email>press@kronoseventi.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>01:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>520</id>
+    <nome>Nashville</nome>
+    <indirizzo>Nashville</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <telefono>091/519846</telefono>
+    <fax/>
+    <mobile/>
+    <email>bru46@msn.com</email>
+    <web>http://www.nashvillepub.it/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>514</id>
+    <nome>Mikalsa</nome>
+    <indirizzo>Mikalsa</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3489732254</mobile>
+    <email>info@mikalsa.it</email>
+    <web>http://www.mikalsa.it/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>20:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note>lunedi,martedi,mercoledi,giovedi: chiusura alle 01.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>500</id>
+    <nome>Villa Niscemi Pub</nome>
+    <indirizzo>Villa Niscemi Pub</indirizzo>
+    <cap>90146</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6880820</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@villaniscemipub.it</email>
+    <web>http://www.villaniscemipub.it/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>02:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>506</id>
+    <nome>Zsa Zsa Mon Amour</nome>
+    <indirizzo>Zsa Zsa Mon Amour</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6817516</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@zsazsamonamour.com</email>
+    <web>http://www.zsazsamonamour.com/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>21:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>498</id>
+    <nome>Taco Loco</nome>
+    <indirizzo>Taco Loco</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6823663</telefono>
+    <fax>091/6823663</fax>
+    <mobile/>
+    <email>tacoloco@tacoloco.it</email>
+    <web>http://www.tacoloco.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>pub, discopub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>372</id>
+    <nome>Fashion Club</nome>
+    <indirizzo>Fashion Club</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/517825</telefono>
+    <fax/>
+    <mobile/>
+    <email>fashion106pa@libero.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>454</id>
+    <nome>Jumeirah</nome>
+    <indirizzo>Jumeirah</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/625 4071</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@jumeirahpalermo.it</email>
+    <web>http://www.jumeirahpalermo.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar, american bar, ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>346</id>
+    <nome>Rocket Bar</nome>
+    <indirizzo>Rocket Bar</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email>rocket-bar@hotmail.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>448</id>
+    <nome>Mood (ex Tina Pica)</nome>
+    <indirizzo>Mood (ex Tina Pica)</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6123934</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@tinapica.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>20:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>297</id>
+    <nome>Il Siciliano</nome>
+    <indirizzo>Il Siciliano</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.ilsiciliano.eu</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>298</id>
+    <nome>Al Viale American Bar</nome>
+    <indirizzo>Al Viale American Bar</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6090133</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>10:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>304</id>
+    <nome>Berlin Cafè</nome>
+    <indirizzo>Berlin Cafè</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/334398 - 091/584897</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>332</id>
+    <nome>Drunks</nome>
+    <indirizzo>Drunks</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3204115312</mobile>
+    <email>alcronic@hotmail.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>316</id>
+    <nome>Cortile Patania</nome>
+    <indirizzo>Cortile Patania</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/7434772</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>17:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>408</id>
+    <nome>Litania</nome>
+    <indirizzo>Litania</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>giovedi,venerdi,sabato</giorni>
+        <apertura>20:00</apertura>
+        <chiusura>02:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>410</id>
+    <nome>Lizard</nome>
+    <indirizzo>Lizard</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6813948</telefono>
+    <fax/>
+    <mobile>3929697942</mobile>
+    <email>info@lizardpalermo.net</email>
+    <web>http://www.lizardpalermo.com/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>430</id>
+    <nome>Cotton Club Cafè</nome>
+    <indirizzo>Cotton Club Cafè</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091331246 - 091588063</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@cottonclubcafe.it</email>
+    <web>http://www.cottonclublounge.com/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>07:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note>giovedi: chiusura alle 03.00; venerdi: chiusura alle 03.00; sabato: chiusura alle 04.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>450</id>
+    <nome>Oceania</nome>
+    <indirizzo>Oceania</indirizzo>
+    <cap>90145</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6816966</telefono>
+    <fax/>
+    <mobile/>
+    <email>oceaniaristorazione@ristorantiitaliani.it</email>
+    <web>http://www.oceaniaristorazione.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar, pizzeria, ristorante, panineria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>06:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>453</id>
+    <nome>Zammù</nome>
+    <indirizzo>Zammù</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>503</id>
+    <nome>Vinile</nome>
+    <indirizzo>Vinile</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>https://it.foursquare.com/v/vinile/4d93755ef10ea09322fc291e</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00, da lunedi a sabato</chiusura>
+        <note>domenica: chiusura alle 00.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>522</id>
+    <nome>Bukowski</nome>
+    <indirizzo>Bukowski</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>20:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>510</id>
+    <nome>Phi Beach</nome>
+    <indirizzo>Phi Beach</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo - Addaura</citta>
+    <telefono>091/6849217</telefono>
+    <fax/>
+    <mobile>3296999079</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>09:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni>Stabilimento balneare di giorno elegante lounge bar di sera </informazioni>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>493</id>
+    <nome>Shamrock Cafè</nome>
+    <indirizzo>Shamrock Cafè</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/511319</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>524</id>
+    <nome>Vespa Cafè</nome>
+    <indirizzo>Vespa Cafè</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.vespacafepalermo.it/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>cocktail bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>10:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note>lunedi: chiusura alle 15.00; domenica: apertura alle 18</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>400</id>
+    <nome>La Champagneria Del Massimo</nome>
+    <indirizzo>La Champagneria Del Massimo</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/335730</telefono>
+    <fax/>
+    <mobile>3478050080</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>09:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>401</id>
+    <nome>L'Aperitivo</nome>
+    <indirizzo>L'Aperitivo</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/301125</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>295</id>
+    <nome>Ai chiavettieri</nome>
+    <indirizzo>Ai chiavettieri</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/328926</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>303</id>
+    <nome>Enoteca Arcilesi</nome>
+    <indirizzo>Enoteca Arcilesi</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <telefono>091/301679</telefono>
+    <fax/>
+    <mobile/>
+    <email>butybuty@libero.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>17:00</apertura>
+        <chiusura>01:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>384</id>
+    <nome>Jazz'N Chocolate</nome>
+    <indirizzo>Jazz'N Chocolate</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3298160376</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note>venerdi: chiusura alle 03.00; sabato: chiusura alle 03.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>385</id>
+    <nome>Kursaal Kalhesa</nome>
+    <indirizzo>Kursaal Kalhesa</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6162111 - 091/6167630</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@kursaalkalhesa.it</email>
+    <web>http://www.kursaalkalhesa.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>12.00</apertura>
+        <chiusura>01.30</chiusura>
+        <note>venerdi: chiusura alle 02.00; sabato: chiusura alle 02.00; domenica: apertura alle 11.30, chiusura alle 18.00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>452</id>
+    <nome>Cavù</nome>
+    <indirizzo>Cavù</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3292920789 - 3807922591</mobile>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>314</id>
+    <nome>Centro Cha</nome>
+    <indirizzo>Centro Cha</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/580127</telefono>
+    <fax/>
+    <mobile/>
+    <email>centrocha@libero.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>17:00</apertura>
+        <chiusura>01:30</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>324</id>
+    <nome>La Cuba</nome>
+    <indirizzo>La Cuba</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/309201</telefono>
+    <fax>091/6257168</fax>
+    <mobile/>
+    <email>info@lacuba.com</email>
+    <web>http://www.lacuba.com</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar, pub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>335</id>
+    <nome>Noga Wine Bar</nome>
+    <indirizzo>Noga Wine Bar</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>343</id>
+    <nome>Robinson Vini</nome>
+    <indirizzo>Robinson Vini</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6252014</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>370</id>
+    <nome>Hub</nome>
+    <indirizzo>Hub</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <telefono>091/304977</telefono>
+    <fax/>
+    <mobile/>
+    <email>relazioniesterne.hub@gmail.com</email>
+    <web>http://www.hubpalermo.com</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>374</id>
+    <nome>Gatto Nero</nome>
+    <indirizzo>Gatto Nero</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3403452222</mobile>
+    <email>gattoneropub@hotmail.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>404</id>
+    <nome>Lord Green</nome>
+    <indirizzo>Lord Green</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6110194</telefono>
+    <fax/>
+    <mobile/>
+    <email>mortillaro@neomedia.it</email>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>18:30</apertura>
+        <chiusura>03:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>439</id>
+    <nome>Mi manda Picone</nome>
+    <indirizzo>Mi manda Picone</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091/6160660</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>525</id>
+    <nome>Rendez Vous</nome>
+    <indirizzo>Rendez Vous</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3498111189 - 3201171828</mobile>
+    <email>davidgraviano@hotmail.it</email>
+    <web>http://www.rendezvouspalermo.com/</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:30</apertura>
+        <chiusura>01:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>496</id>
+    <nome>Spirito Dvino</nome>
+    <indirizzo>Spirito Dvino</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3939246261</mobile>
+    <email>info@spiritodvino.it</email>
+    <web>http://www.spiritodvino.it/index.htm</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>02:00</chiusura>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>378</id>
+    <nome>Cocoa Jazz Restaurant</nome>
+    <indirizzo>Cocoa Jazz Restaurant</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916172591</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>italiana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>392</id>
+    <nome>Freschette BioBistrot</nome>
+    <indirizzo>Freschette BioBistrot</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091 9820727</telefono>
+    <fax/>
+    <mobile>3932430440</mobile>
+    <email>freschette@hotmail.it</email>
+    <web>http://www.freschette.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>395</id>
+    <nome>Al Covo dei Beati Paoli</nome>
+    <indirizzo>Al Covo dei Beati Paoli</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916166634</telefono>
+    <fax/>
+    <mobile>3279040510</mobile>
+    <email>info@alcovodeibeatipaoli.com</email>
+    <web>http://www.alcovodeibeatipaoli.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>italiana,pizza</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>396</id>
+    <nome>Principe di Camporeale</nome>
+    <indirizzo>Principe di Camporeale</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>0912530424</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>mediterranea,pizza</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>403</id>
+    <nome>Ferro Di Cavallo</nome>
+    <indirizzo>Ferro Di Cavallo</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091331835</telefono>
+    <fax/>
+    <mobile>3391862841 - 3496755312</mobile>
+    <email/>
+    <web>http://www.ferrodicavallopalermo.it/index.php</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>409</id>
+    <nome>Trattoria Al Cancelletto Verde</nome>
+    <indirizzo>Trattoria Al Cancelletto Verde</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091320537</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.alcancellettoverde.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica siciliana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>414</id>
+    <nome>Pizzo &amp; Pizzo</nome>
+    <indirizzo>Pizzo &amp; Pizzo</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0916014544</telefono>
+    <fax/>
+    <mobile>3333112864</mobile>
+    <email>pizzoepizzo@libero.it</email>
+    <web>http://www.pizzoepizzo.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>416</id>
+    <nome>Lo Scudiero</nome>
+    <indirizzo>Lo Scudiero</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091581628</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.ristoranteloscudiero.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>italiana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>413</id>
+    <nome>Trattoria Al Vecchio Club Rosanero</nome>
+    <indirizzo>Trattoria Al Vecchio Club Rosanero</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3494096880</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>419</id>
+    <nome>Vecchia Trattoria da Toto</nome>
+    <indirizzo>Vecchia Trattoria da Toto</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3333157558</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>420</id>
+    <nome>Trattoria Primavera</nome>
+    <indirizzo>Trattoria Primavera</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091329408</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>421</id>
+    <nome>Donna Ina</nome>
+    <indirizzo>Donna Ina</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3460550363</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>425</id>
+    <nome>Le Delizie di Cagliostro</nome>
+    <indirizzo>Le Delizie di Cagliostro</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091332818</telefono>
+    <fax/>
+    <mobile/>
+    <email>cagliostro04@tiscali.it</email>
+    <web>http://www.ledeliziedicagliostro.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica siciliana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>426</id>
+    <nome>Gusto Italiano</nome>
+    <indirizzo>Gusto Italiano</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email>gusto.italiano@libero.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, wine bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>429</id>
+    <nome>Santandrea</nome>
+    <indirizzo>Santandrea</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091334999</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@ristorantesantandrea.eu</email>
+    <web>http://www.ristorantesantandrea.eu/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>433</id>
+    <nome>Al Covo Dell'Arte</nome>
+    <indirizzo>Al Covo Dell'Arte</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916118779</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>435</id>
+    <nome>Trattoria Ai Normanni</nome>
+    <indirizzo>Trattoria Ai Normanni</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>europea, </cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>438</id>
+    <nome>Carlo V</nome>
+    <indirizzo>Carlo V</indirizzo>
+    <cap>90137</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>440</id>
+    <nome>Ristorante Ferro</nome>
+    <indirizzo>Ristorante Ferro</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091586049</telefono>
+    <fax/>
+    <mobile/>
+    <email>ferroristorante@alice.it</email>
+    <web>http://www.ristoranteferro.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>441</id>
+    <nome>Osteria Dei Vespri</nome>
+    <indirizzo>Osteria Dei Vespri</indirizzo>
+    <cap>90133</cap>
+    <citta>0916171631</citta>
+    <telefono>0916171631</telefono>
+    <fax/>
+    <mobile/>
+    <email>osteriadeivespri@libero.it</email>
+    <web>http://www.osteriadeivespri.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>442</id>
+    <nome>Trattoria Torremuzza</nome>
+    <indirizzo>Trattoria Torremuzza</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0912525532</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>449</id>
+    <nome>Trattoria Piccolo Napoli</nome>
+    <indirizzo>Trattoria Piccolo Napoli</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091320431</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>489</id>
+    <nome>Casamia</nome>
+    <indirizzo>Casamia</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>0916840717 - 0916842263</telefono>
+    <fax>0916841508</fax>
+    <mobile>3492364913</mobile>
+    <email>info@hotelvillaesperia.it</email>
+    <web>http://www.hotelvillaesperia.it/ristorante.html</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>491</id>
+    <nome>Peter Pan</nome>
+    <indirizzo>Peter Pan</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <telefono>091 451447</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>499</id>
+    <nome>Alle Terrazze</nome>
+    <indirizzo>Alle Terrazze</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>0916262903</telefono>
+    <fax>0916727948</fax>
+    <mobile/>
+    <email>info@alleterrazze.it</email>
+    <web>http://www.alleterrazze.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>504</id>
+    <nome>Da Sariddu e Figli</nome>
+    <indirizzo>Da Sariddu e Figli</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>091451922</telefono>
+    <fax/>
+    <mobile/>
+    <email>ristorante.sariddu@email.it</email>
+    <web>http://www.ristorantesariddu.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>511</id>
+    <nome>Il Grottino</nome>
+    <indirizzo>Il Grottino</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>091533038</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>515</id>
+    <nome>Alla Corte dei Normanni</nome>
+    <indirizzo>Alla Corte dei Normanni</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916912051</telefono>
+    <fax/>
+    <mobile>3385624022</mobile>
+    <email>allacortedeinormanni@gmail.com</email>
+    <web>http://www.ristoranteallacortedeinormanni.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>477</id>
+    <nome>Acanto</nome>
+    <indirizzo>Acanto</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0916014567</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@ristoranteacanto.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>478</id>
+    <nome>Al 59</nome>
+    <indirizzo>Al 59</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>091583139</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>479</id>
+    <nome>Trattoria Dal Pompiere</nome>
+    <indirizzo>Trattoria Dal Pompiere</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091325282</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>480</id>
+    <nome>Il Tipico e il Particolare</nome>
+    <indirizzo>Il Tipico e il Particolare</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0915076972</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://sitopartner.wix.com/tipicoeparticolare</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>482</id>
+    <nome>Bucatino</nome>
+    <indirizzo>Bucatino</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0916110253</telefono>
+    <fax/>
+    <mobile>3930674681</mobile>
+    <email>cicciobucatino@gmail.com</email>
+    <web>http://www.bucatino.biz/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>490</id>
+    <nome>La Mattanza</nome>
+    <indirizzo>La Mattanza</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono>0916376298</telefono>
+    <fax/>
+    <mobile/>
+    <email>ristorantelamattanza@libero.it</email>
+    <web>http://www.ristorantelamattanza.it/index.html</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>492</id>
+    <nome>Villa Antigone</nome>
+    <indirizzo>Villa Antigone</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <telefono>091454306</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>497</id>
+    <nome>Charleston</nome>
+    <indirizzo>Charleston</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091450171</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@ristorantecharleston.com</email>
+    <web>http://www.ristorantecharleston.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>508</id>
+    <nome>Trattoria Temptation</nome>
+    <indirizzo>Trattoria Temptation</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916911104</telefono>
+    <fax/>
+    <mobile/>
+    <email>temptationsas@libero.it</email>
+    <web>http://www.trattoriatemptation.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>512</id>
+    <nome>La Barca</nome>
+    <indirizzo>La Barca</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916911609</telefono>
+    <fax>091530738</fax>
+    <mobile/>
+    <email>info@ristorantelabarca.it</email>
+    <web>http://www.ristorantelabarca.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>487</id>
+    <nome>Badalamenti Cucina e Bottega</nome>
+    <indirizzo>Badalamenti Cucina e Bottega</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>091450213</telefono>
+    <fax/>
+    <mobile/>
+    <email>badalamentienoteca@alice.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>495</id>
+    <nome>Le Antiche Mura</nome>
+    <indirizzo>Le Antiche Mura</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>091453940</telefono>
+    <fax/>
+    <mobile>3331976830</mobile>
+    <email>innclub@libero.it</email>
+    <web>http://www.leantichemuraristorante.com/#</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>502</id>
+    <nome>Trattoria Sapori di mare</nome>
+    <indirizzo>Trattoria Sapori di mare</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>0916840623</telefono>
+    <fax/>
+    <mobile>335404992</mobile>
+    <email>saporidimaregiovanni@virgilio.it</email>
+    <web>http://www.trattoriasaporidimaregiovanni.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>505</id>
+    <nome>Al Brigantino</nome>
+    <indirizzo>Al Brigantino</indirizzo>
+    <cap>90148</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916911778</telefono>
+    <fax/>
+    <mobile>3337540950</mobile>
+    <email>info@albrigantino.com</email>
+    <web>http://www.albrigantino.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>509</id>
+    <nome>Il Delfino</nome>
+    <indirizzo>Il Delfino</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>091530282</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>513</id>
+    <nome>La Perla Del Mare</nome>
+    <indirizzo>La Perla Del Mare</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916912176</telefono>
+    <fax/>
+    <mobile/>
+    <email>enea.angelo@alice.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>476</id>
+    <nome>Pane Amore &amp; Mortadella</nome>
+    <indirizzo>Pane Amore &amp; Mortadella</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3479061560</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>481</id>
+    <nome>Al Santa Caterina</nome>
+    <indirizzo>Al Santa Caterina</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3388082388</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>483</id>
+    <nome>Paninfarinah</nome>
+    <indirizzo>Paninfarinah</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916162230</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>485</id>
+    <nome>La Cascina</nome>
+    <indirizzo>La Cascina</indirizzo>
+    <cap>90149</cap>
+    <citta>Mondello</citta>
+    <telefono>0916840383</telefono>
+    <fax>0916840383</fax>
+    <mobile>3407646068</mobile>
+    <email>lacascinadimacaluso@tiscali.it</email>
+    <web>http://www.lacascinapa.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>501</id>
+    <nome>Trattoria Da Calogero</nome>
+    <indirizzo>Trattoria Da Calogero</indirizzo>
+    <cap>90151</cap>
+    <citta>Mondello</citta>
+    <telefono>0916841333</telefono>
+    <fax/>
+    <mobile/>
+    <email>kalgheros90@hotmail.it</email>
+    <web>http://www.trattoriadacalogero.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>507</id>
+    <nome>Capricci Di Mare</nome>
+    <indirizzo>Capricci Di Mare</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>0916910658</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>516</id>
+    <nome>Trattoria L'Ancora</nome>
+    <indirizzo>Trattoria L'Ancora</indirizzo>
+    <cap>90147</cap>
+    <citta>Sferracavallo</citta>
+    <telefono>091532934</telefono>
+    <fax/>
+    <mobile/>
+    <email>trattorialancora@libero.it</email>
+    <web>http://www.trattorialancora.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>363</id>
+    <nome>Sicilia E Dintorni</nome>
+    <indirizzo>Sicilia E Dintorni</indirizzo>
+    <cap>90123</cap>
+    <citta>Palermo</citta>
+    <telefono>0916213227</telefono>
+    <fax/>
+    <mobile>3475960085</mobile>
+    <email>settimo.giuliano@virgilio.it</email>
+    <web>http://www.trattoriasiciliaedintorni.it/il-ristorante</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>380</id>
+    <nome>Regine S.r.l.</nome>
+    <indirizzo>Regine S.r.l.</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091586566</telefono>
+    <fax/>
+    <mobile/>
+    <email>regine@ristoranteregine.it</email>
+    <web>http://www.ristoranteregine.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>382</id>
+    <nome>Officina del Gusto Bye Bye Blues</nome>
+    <indirizzo>Officina del Gusto Bye Bye Blues</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>0916116678</telefono>
+    <fax>0916111568</fax>
+    <mobile/>
+    <email>info@officinabyebyeblues.com</email>
+    <web>http://www.officinabyebyeblues.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>italiana,mediterranea</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>397</id>
+    <nome>Cucina Papoff</nome>
+    <indirizzo>Cucina Papoff</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091586460</telefono>
+    <fax/>
+    <mobile/>
+    <email>cucinapapoff@libero.it</email>
+    <web>http://www.cucinapapoff.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>italiana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>398</id>
+    <nome>La Cambusa</nome>
+    <indirizzo>La Cambusa</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091584574</telefono>
+    <fax/>
+    <mobile>3475901917</mobile>
+    <email>info@lacambusa.it</email>
+    <web>http://www.lacambusa.it/chisiamo.php</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>399</id>
+    <nome>Sal Capone</nome>
+    <indirizzo>Sal Capone</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>405</id>
+    <nome>Antica trattoria del Monsù</nome>
+    <indirizzo>Antica trattoria del Monsù</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>091327774</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.anticatrattoriadelmonsu.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica,pizza</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>406</id>
+    <nome>Gli Amanti</nome>
+    <indirizzo>Gli Amanti</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091589976</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>443</id>
+    <nome>Lo Strascino</nome>
+    <indirizzo>Lo Strascino</indirizzo>
+    <cap>90135</cap>
+    <citta>Palermo</citta>
+    <telefono>091401292</telefono>
+    <fax>091408965</fax>
+    <mobile/>
+    <email>lo.strascino@libero.it</email>
+    <web>http://www.lostrascino.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica siciliana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>455</id>
+    <nome>Casa del Brodo</nome>
+    <indirizzo>Casa del Brodo</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091321655</telefono>
+    <fax>091585382</fax>
+    <mobile/>
+    <email/>
+    <web>http://www.casadelbrodo.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>457</id>
+    <nome>La Corte Dei Mangioni</nome>
+    <indirizzo>La Corte Dei Mangioni</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0916255360</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>465</id>
+    <nome>La Posada</nome>
+    <indirizzo>La Posada</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091333225</telefono>
+    <fax/>
+    <mobile/>
+    <email>trattorialaposada@gmail.com</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>466</id>
+    <nome>Cibus</nome>
+    <indirizzo>Cibus</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091323062 - 0916122651</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@cibus.pa.it</email>
+    <web>http://www.cibus.pa.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>467</id>
+    <nome>Il Cambusone</nome>
+    <indirizzo>Il Cambusone</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091335597</telefono>
+    <fax/>
+    <mobile>3397288890</mobile>
+    <email>trattoriailcambusone@gmail.com</email>
+    <web>http://www.ilcambusone.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>323</id>
+    <nome>Della Giara</nome>
+    <indirizzo>Della Giara</indirizzo>
+    <cap>90129</cap>
+    <citta>Monreale</citta>
+    <telefono>091425000</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>326</id>
+    <nome>Le Pergamene</nome>
+    <indirizzo>Le Pergamene</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916166142</telefono>
+    <fax/>
+    <mobile/>
+    <email>lepergamene@lepergamene.it</email>
+    <web>http://www.lepergamene.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>333</id>
+    <nome>L'Ottava Nota</nome>
+    <indirizzo>L'Ottava Nota</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916168601</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@ristorantelottavanota.it</email>
+    <web>http://www.ristorantelottavanota.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>345</id>
+    <nome>Gagini Restaurant</nome>
+    <indirizzo>Gagini Restaurant</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091589918</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.gaginirestaurant.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>389</id>
+    <nome>Ristorantino Palazzo Sambuca</nome>
+    <indirizzo>Ristorantino Palazzo Sambuca</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0915076794</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>391</id>
+    <nome>I Cuochini</nome>
+    <indirizzo>I Cuochini</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091581158</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@icuochini.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>456</id>
+    <nome>Chapeau</nome>
+    <indirizzo>Chapeau</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3293020884</mobile>
+    <email>chapeaupalermo@live.com</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>mediterranea</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>458</id>
+    <nome>Pipi Room</nome>
+    <indirizzo>Pipi Room</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091332959</telefono>
+    <fax/>
+    <mobile/>
+    <email>pipiroom@ristorantiitaliani.it</email>
+    <web>http://www.ristorantepipiroom.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>461</id>
+    <nome>Trattoria Al Cancelletto</nome>
+    <indirizzo>Trattoria Al Cancelletto</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091583069</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>464</id>
+    <nome>Stravizi</nome>
+    <indirizzo>Stravizi</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916177917</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>468</id>
+    <nome>Baciamolemani</nome>
+    <indirizzo>Baciamolemani</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916119781</telefono>
+    <fax/>
+    <mobile/>
+    <email>baciamolemani@libero.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>469</id>
+    <nome>Novecento</nome>
+    <indirizzo>Novecento</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091328838</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, trattoria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>470</id>
+    <nome>Osteria Divino Rosso</nome>
+    <indirizzo>Osteria Divino Rosso</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3281146809</mobile>
+    <email>losteriadivinorosso@ristorantiitaliani.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>471</id>
+    <nome>La Taverna Dell'Artista</nome>
+    <indirizzo>La Taverna Dell'Artista</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3277867575</mobile>
+    <email>latavernadellartista@gmail.com</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>europea</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>325</id>
+    <nome>I leprotti in città</nome>
+    <indirizzo>I leprotti in città</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <telefono>091508685</telefono>
+    <fax/>
+    <mobile>3386455905</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>331</id>
+    <nome>A'Cuncuma</nome>
+    <indirizzo>A'Cuncuma</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>0918872991</telefono>
+    <fax/>
+    <mobile>3201646036</mobile>
+    <email>restaurantacuncuma@gmail.com</email>
+    <web>http://www.acuncuma.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>340</id>
+    <nome>Trattoria Supra I Mura</nome>
+    <indirizzo>Trattoria Supra I Mura</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091584060</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>387</id>
+    <nome>Luci e Calici gourmet</nome>
+    <indirizzo>Luci e Calici gourmet</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0917542967</telefono>
+    <fax>0916880357</fax>
+    <mobile>3939482099</mobile>
+    <email>info@ristoranteluciecalici.com</email>
+    <web>http://www.ristoranteluciecalici.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>423</id>
+    <nome>Trattoria Altri Tempi</nome>
+    <indirizzo>Trattoria Altri Tempi</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091323480</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.trattoriaaltritempi.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>428</id>
+    <nome>Tribeca Cafe</nome>
+    <indirizzo>Tribeca Cafe</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091332963</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, american bar, sushi bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>internazionale</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>431</id>
+    <nome>Kus-Kus</nome>
+    <indirizzo>Kus-Kus</indirizzo>
+    <cap>90144</cap>
+    <citta>Palermo</citta>
+    <telefono>091586525</telefono>
+    <fax/>
+    <mobile>3935787815</mobile>
+    <email/>
+    <web>http://www.kus-kus.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>mediterranea,pizza</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>445</id>
+    <nome>Ristorante Branciforte</nome>
+    <indirizzo>Ristorante Branciforte</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091320265</telefono>
+    <fax/>
+    <mobile/>
+    <email>info@ristorantebranciforte.it</email>
+    <web>http://www.palazzobranciforte.it/ristorante-index.php</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>446</id>
+    <nome>Osteria Lo Bianco</nome>
+    <indirizzo>Osteria Lo Bianco</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0912514906</telefono>
+    <fax/>
+    <mobile>3299036051 - 3932465851</mobile>
+    <email>osteria.lobianco@libero.it</email>
+    <web>http://www.osterialobianco.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>459</id>
+    <nome>Prio RistoAperiPizza</nome>
+    <indirizzo>Prio RistoAperiPizza</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0915080473</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>460</id>
+    <nome>Volo</nome>
+    <indirizzo>Volo</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3280504641</mobile>
+    <email>vincenzo.cugno@libero.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>473</id>
+    <nome>Giro pizza e cucina</nome>
+    <indirizzo>Giro pizza e cucina</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091329331</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>309</id>
+    <nome>Margot</nome>
+    <indirizzo>Margot</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091582585</telefono>
+    <fax/>
+    <mobile>3393012570</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>319</id>
+    <nome>De Gustibus</nome>
+    <indirizzo>De Gustibus</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091335322</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>320</id>
+    <nome>Gambrinus</nome>
+    <indirizzo>Gambrinus</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0912515327</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>321</id>
+    <nome>La Cueva</nome>
+    <indirizzo>La Cueva</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091591255</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>spagnola</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>322</id>
+    <nome>La Gondola</nome>
+    <indirizzo>La Gondola</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091331748</telefono>
+    <fax/>
+    <mobile>3881282666</mobile>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>328</id>
+    <nome>Ai Cascinari</nome>
+    <indirizzo>Ai Cascinari</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>0916519804</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>329</id>
+    <nome>Al Fondaco Del Conte</nome>
+    <indirizzo>Al Fondaco Del Conte</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>0916522312</telefono>
+    <fax>091652 2312</fax>
+    <mobile>3291298078</mobile>
+    <email>info@alfondacodelconte.it</email>
+    <web>http://www.alfondacodelconte.it/it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>334</id>
+    <nome>Bellotero</nome>
+    <indirizzo>Bellotero</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091582158</telefono>
+    <fax/>
+    <mobile/>
+    <email>ristorantebellotero@libero.it</email>
+    <web>http://www.ristorantebelloteropalermo.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>tipica siciliana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>336</id>
+    <nome>Lo Scrigno dei Sapori</nome>
+    <indirizzo>Lo Scrigno dei Sapori</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>0912531351</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>mediterranea,internazionale</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>355</id>
+    <nome>Il Ghiottone Raffinato</nome>
+    <indirizzo>Il Ghiottone Raffinato</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0912514744</telefono>
+    <fax/>
+    <mobile>3357676349 - 3486893955</mobile>
+    <email>ilghiottoneraffinato@tiscali.it</email>
+    <web>http://www.ilghiottoneraffinato.it/banner/banner.php?immagine=cuore</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>357</id>
+    <nome>Gadir</nome>
+    <indirizzo>Gadir</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916101215</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>360</id>
+    <nome>I Sapori del Mare</nome>
+    <indirizzo>I Sapori del Mare</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0919821458</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>364</id>
+    <nome>Patanegra</nome>
+    <indirizzo>Patanegra</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0917495192</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>407</id>
+    <nome>Retriglia</nome>
+    <indirizzo>Retriglia</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>0915081223</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>312</id>
+    <nome>Ai vecchietti di Minchiapititto</nome>
+    <indirizzo>Ai vecchietti di Minchiapititto</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091585606</telefono>
+    <fax/>
+    <mobile>3332244677</mobile>
+    <email>info@aivecchietti.it</email>
+    <web>http://www.aivecchiettidiminchiapititto.com/vecchietti/index.asp</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>350</id>
+    <nome>Sapori Perduti</nome>
+    <indirizzo>Sapori Perduti</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091327387</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>359</id>
+    <nome>I Manciatari</nome>
+    <indirizzo>I Manciatari</indirizzo>
+    <cap>90138</cap>
+    <citta>Palermo</citta>
+    <telefono>091471749</telefono>
+    <fax/>
+    <mobile>3478358409</mobile>
+    <email>imanciatari@libero.it</email>
+    <web>http://www.manciatari.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante, pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>362</id>
+    <nome>Ai Murici</nome>
+    <indirizzo>Ai Murici</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
+    <telefono>0916212767</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>377</id>
+    <nome>Ai Maccheronai</nome>
+    <indirizzo>Ai Maccheronai</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916118162</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>338</id>
+    <nome>Ristorantino da Spanò</nome>
+    <indirizzo>Ristorantino da Spanò</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3485628789</mobile>
+    <email>info@ristorantinospano.it</email>
+    <web>http://www.ristorantinospano.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni>Zona mercato del Capo</informazioni>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>341</id>
+    <nome>Sesto Canto</nome>
+    <indirizzo>Sesto Canto</indirizzo>
+    <cap>90141</cap>
+    <citta>Bagheria</citta>
+    <telefono>091324543</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>mediterranea,fusion</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>349</id>
+    <nome>Cin Cin</nome>
+    <indirizzo>Cin Cin</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0916124095</telefono>
+    <fax/>
+    <mobile/>
+    <email>clemente.vincenzo@gmail.com</email>
+    <web>http://www.ristorantecincin.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>352</id>
+    <nome>Belli Sazi</nome>
+    <indirizzo>Belli Sazi</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
+    <telefono>0917646103</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>353</id>
+    <nome>Schiticchio Food &amp; Beverage</nome>
+    <indirizzo>Schiticchio Food &amp; Beverage</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916114868</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>347</id>
+    <nome>Frida</nome>
+    <indirizzo>Frida</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>0915505440</telefono>
+    <fax/>
+    <mobile>3933338092</mobile>
+    <email>info@fridapizzeria.it</email>
+    <web>http://www.fridapizzeria.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>365</id>
+    <nome>Giabal</nome>
+    <indirizzo>Giabal</indirizzo>
+    <cap>90131</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email>info@pizzeriagiabal.it</email>
+    <web>http://www.pizzeriagiabal.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>418</id>
+    <nome>Pizzottando</nome>
+    <indirizzo>Pizzottando</indirizzo>
+    <cap>90134</cap>
+    <citta>Palermo</citta>
+    <telefono>091218408</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>472</id>
+    <nome>Torquemada</nome>
+    <indirizzo>Torquemada</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091584995</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>ristorante,pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>474</id>
+    <nome>Pizzeria Porta Sant'Agata</nome>
+    <indirizzo>Pizzeria Porta Sant'Agata</indirizzo>
+    <cap>90134</cap>
+    <citta>0916528450</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>475</id>
+    <nome>Pizzeria Bellini</nome>
+    <indirizzo>Pizzeria Bellini</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916165691</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>europea, italiana, pizza</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>317</id>
+    <nome>Ai vecchietti H...nto</nome>
+    <indirizzo>Ai vecchietti H...nto</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091585606</telefono>
+    <fax/>
+    <mobile>3332244677</mobile>
+    <email>info@aivecchietti.it</email>
+    <web>http://www.aivecchiettidiminchiapititto.com/vecchietti_pizz/chi_siamo.asp</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>366</id>
+    <nome>Blanco Pizza &amp; Gourmet</nome>
+    <indirizzo>Blanco Pizza &amp; Gourmet</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>318</id>
+    <nome>Sciuscià</nome>
+    <indirizzo>Sciuscià</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091682 2700</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>342</id>
+    <nome>Mounir</nome>
+    <indirizzo>Mounir</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0917730005</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>432</id>
+    <nome>La Duchessa</nome>
+    <indirizzo>La Duchessa</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0915086896</telefono>
+    <fax/>
+    <mobile/>
+    <email>laduchessapizzeria@libero.it</email>
+    <web>http://www.pizzerialaduchessa.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>436</id>
+    <nome>Mudu</nome>
+    <indirizzo>Mudu</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0916257228</telefono>
+    <fax/>
+    <mobile/>
+    <email>mudupalermo@hotmail.it</email>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>437</id>
+    <nome>Pizzeria Italia</nome>
+    <indirizzo>Pizzeria Italia</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091589885</telefono>
+    <fax/>
+    <mobile/>
+    <email>italiaristorantepizzeria@hotmail.it</email>
+    <web>http://www.pizzeriaitaliapalermo.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>494</id>
+    <nome>Mistral</nome>
+    <indirizzo>Mistral</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono>0916372285</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>486</id>
+    <nome>Villa Costanza</nome>
+    <indirizzo>Villa Costanza</indirizzo>
+    <cap>90142</cap>
+    <citta>Palermo</citta>
+    <telefono>091547027</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria, american bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>484</id>
+    <nome>Antica Birreria Moretti</nome>
+    <indirizzo>Antica Birreria Moretti</indirizzo>
+    <cap>90149</cap>
+    <citta>Palermo - Addaura</citta>
+    <telefono>091 6843882</telefono>
+    <fax/>
+    <mobile/>
+    <email>bellomaurizio@alice.it.</email>
+    <web>http://www.anticabirreriamoretti.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>pizzeria, pub</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>296</id>
+    <nome>Al Pinguino</nome>
+    <indirizzo>Al Pinguino</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/329220</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.spinnato.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni>lunedi,martedi,mercoledi,giovedi,venerdi,sabato,domenica</giorni>
+        <apertura>19:00</apertura>
+        <chiusura>01:00</chiusura>
+        <note>venerdi,sabato: chiusura alle 02:00</note>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>299</id>
+    <nome>Antico Caffè Spinnato</nome>
+    <indirizzo>Antico Caffè Spinnato</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/7495104</telefono>
+    <fax>091/334725</fax>
+    <mobile/>
+    <email/>
+    <web>http://www.spinnato.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>301</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Coffee &amp; Chocolate</indirizzo>
+    <cap>90143</cap>
+    <citta>Palermo</citta>
+    <telefono>091/302821</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.spinnato.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>300</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Coffee &amp; Chocolate</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>091/329220</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.spinnato.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>302</id>
+    <nome>Coffee &amp; Chocolate</nome>
+    <indirizzo>Coffee &amp; Chocolate</indirizzo>
+    <cap>90141</cap>
+    <citta>Palermo</citta>
+    <telefono>091/7303123</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.spinnato.it</web>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>411</id>
+    <nome>Bar Touring</nome>
+    <indirizzo>Bar Touring</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>0916167242</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>divertimento, ristoro</tipi>
+    <tipi_specifici>bar</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>444</id>
+    <nome>Testagrossa</nome>
+    <indirizzo>Testagrossa</indirizzo>
+    <cap>90129</cap>
+    <citta>Palermo</citta>
+    <telefono>091425315</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food, focacceria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>Tipica focacceria popolare palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>462</id>
+    <nome>Antica Focacceria San Francesco</nome>
+    <indirizzo>Antica Focacceria San Francesco</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091320264</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web>http://www.afsf.it/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>463</id>
+    <nome>Di Martino Drinks &amp; Brunch</nome>
+    <indirizzo>Di Martino Drinks &amp; Brunch</indirizzo>
+    <cap>90139</cap>
+    <citta>Palermo</citta>
+    <telefono>0916118820</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>386</id>
+    <nome>Nni Franco U' Vastiddaru</nome>
+    <indirizzo>Nni Franco U' Vastiddaru</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food, focacceria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>Tipica focacceria popolare palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>388</id>
+    <nome>Focacceria Basile</nome>
+    <indirizzo>Focacceria Basile</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091335628</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food, focacceria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>Tipica focacceria popolare palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>393</id>
+    <nome>Pani Ca' Meusa Porta Carbone</nome>
+    <indirizzo>Pani Ca' Meusa Porta Carbone</indirizzo>
+    <cap>90133</cap>
+    <citta>Palermo</citta>
+    <telefono>091323433</telefono>
+    <fax/>
+    <mobile/>
+    <email/>
+    <web/>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina/>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+  <luogo>
+    <id>447</id>
+    <nome>Antichi Sapori Palermitani</nome>
+    <indirizzo>Antichi Sapori Palermitani</indirizzo>
+    <cap>90121</cap>
+    <citta>Palermo</citta>
+    <telefono/>
+    <fax/>
+    <mobile>3398470318</mobile>
+    <email/>
+    <web>http://antichisaporipalermitani.weebly.com/</web>
+    <tipi>ristoro</tipi>
+    <tipi_specifici>street food, focacceria</tipi_specifici>
+    <divertimento-e-ristoro>
+      <cucina>Tipica focacceria palermitana</cucina>
+      <orari>
+        <giorni/>
+        <apertura/>
+        <chiusura/>
+        <note/>
+      </orari>
+      <informazioni/>
+    </divertimento-e-ristoro>
+  </luogo>
+</luoghi>

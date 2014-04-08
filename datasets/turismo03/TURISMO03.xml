@@ -19,9 +19,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santacita.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -29,7 +29,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>17</id>
@@ -50,9 +50,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -60,7 +60,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>20</id>
@@ -81,9 +81,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -91,7 +91,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>26</id>
@@ -112,9 +112,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -122,7 +122,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>41</id>
@@ -143,9 +143,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -153,7 +153,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>43</id>
@@ -174,9 +174,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santacita.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -184,7 +184,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>7</id>
@@ -195,7 +195,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>Orario Cattedrale da lunedì a sabato 7.00 - 19.00 domenica e festivi 8.00 - 13.00 e 16.00 - 19.00 Orario tomba, cripta, tesoro tutti i giorni 9.00 - 13.30 da novembre a febbraio e 9.00 - 17.30 da marzo ad ottobre.</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Area Monumentale (tesoro + cripta + tombe reali) ¿ 3,00. Area Monumentale + Museo Diocesano ¿ 5. Riduzioni per ragazzi al di sotto dei 18 anni ¿ 1,00 - adulti over 65 anni ¿ 2,00. E' noleggiabile impianto di radioguida, obbligatorio in caso di guida turistica a seguito al costo di ¿ 1,50.</prezzi>
+    <prezzi>Area Monumentale (tesoro + cripta + tombe reali) ¿ 3,00. Area Monumentale + Museo Diocesano ¿ 5. Riduzioni per ragazzi al di sotto dei 18 anni: 1,00 - adulti over 65 anni ¿ 2,00. E' noleggiabile impianto di radioguida, obbligatorio in caso di guida turistica a seguito al costo di: 1,50.</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>0</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -205,9 +205,9 @@
     <fax>091334375</fax>
     <email>cattedrale@diocesipa.it - segreteriacattedrale@diocesipa.it</email>
     <web>http://www.cattedrale.palermo.it/</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -215,7 +215,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>8</id>
@@ -236,9 +236,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -246,7 +246,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>13</id>
@@ -267,9 +267,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>www.santippolito.arcidiocesi.palermo.it/concezione</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -277,7 +277,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>14</id>
@@ -298,9 +298,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -308,7 +308,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>23</id>
@@ -329,9 +329,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Culturale Itinerari del Mediterraneo</GESTORE_nome>
+    <gestore><nome>Associazione Culturale Itinerari del Mediterraneo</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacomo Cusmano, 28</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -339,7 +339,7 @@
     <GESTORE_telefono>091348728</GESTORE_telefono>
     <GESTORE_fax>091348728</GESTORE_fax>
     <GESTORE_email>itimed@gmail.com</GESTORE_email>
-    <GESTORE_web>http://www.itimed.org/</GESTORE_web>
+    <GESTORE_web>http://www.itimed.org/</web></gestore>
   </luogo>
   <luogo>
     <id>28</id>
@@ -360,9 +360,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -370,7 +370,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>29</id>
@@ -391,9 +391,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santacita.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -401,7 +401,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>44</id>
@@ -422,9 +422,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -432,7 +432,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>50</id>
@@ -453,9 +453,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -463,7 +463,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>51</id>
@@ -484,9 +484,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -494,7 +494,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>52</id>
@@ -515,9 +515,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -525,7 +525,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>53</id>
@@ -546,9 +546,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.sanstanislao.diocesipa.it/</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -556,7 +556,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>56</id>
@@ -567,7 +567,7 @@
     <citta>Monreale</citta>
     <APERTURA_NOTE>giorni feriali 8.30 - 12.45 e 14.30 - 17.00 giorni festivi 8.00 - 10.00 e 14.30 - 17.30 (dall'1 marzo al 30 ottobre) Tutti i giorni 8.30 - 12.45 e 15.30 - 17.30 (dall'1 novembre al 31 marzo)</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Contributo per la manutenzione e salvaguardia del sito ¿ 1,50 con ausilio di audioguida ¿ 5,00 ;"tesoro" ¿ 2,00 ; "terrazze" ¿ 2,00.</prezzi>
+    <prezzi>Contributo per la manutenzione e salvaguardia del sito: 1,50 con ausilio di audioguida ¿ 5,00 ;"tesoro" ¿ 2,00 ; "terrazze" ¿ 2,00.</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>Per le visite di gruppi prenotazione telefonica al 3273510886</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -577,9 +577,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.webdiocesi.chiesacattolica.it/sicilia/monreale</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Monreale</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Monreale</GESTORE_nome>
     <GESTORE_indirizzo>Via Palermo, 8</GESTORE_indirizzo>
     <GESTORE_cap>90046</GESTORE_cap>
     <GESTORE_LOCALITA>Monreale</GESTORE_LOCALITA>
@@ -587,7 +587,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>10</id>
@@ -608,9 +608,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.itinerars.it/ - http://www.casaprofessa.blogspot.com</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
+    <gestore><nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacinto Carini, 10</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -618,7 +618,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>itiner_ars@libero.it - itinerars@libero.it</GESTORE_email>
-    <GESTORE_web>http://www.itinerars.it</GESTORE_web>
+    <GESTORE_web>http://www.itinerars.it</web></gestore>
   </luogo>
   <luogo>
     <id>11</id>
@@ -639,9 +639,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
+    <gestore><nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
     <GESTORE_indirizzo>Via Mariano Stabile, 160</GESTORE_indirizzo>
     <GESTORE_cap>90139</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -649,7 +649,7 @@
     <GESTORE_telefono>0916118168</GESTORE_telefono>
     <GESTORE_fax>0916055799</GESTORE_fax>
     <GESTORE_email>info@amicimuseisiciliani.it</GESTORE_email>
-    <GESTORE_web>http://www.amicimuseisiciliani.it</GESTORE_web>
+    <GESTORE_web>http://www.amicimuseisiciliani.it</web></gestore>
   </luogo>
   <luogo>
     <id>12</id>
@@ -670,9 +670,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
+    <gestore><nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacinto Carini, 10</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -680,7 +680,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>itiner_ars@libero.it - itinerars@libero.it</GESTORE_email>
-    <GESTORE_web>http://www.itinerars.it</GESTORE_web>
+    <GESTORE_web>http://www.itinerars.it</web></gestore>
   </luogo>
   <luogo>
     <id>18</id>
@@ -701,9 +701,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santoantonioabate.diocesipa.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -711,7 +711,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>19</id>
@@ -732,9 +732,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
+    <gestore><nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacinto Carini, 10</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -742,7 +742,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>itiner_ars@libero.it - itinerars@libero.it</GESTORE_email>
-    <GESTORE_web>http://www.itinerars.it</GESTORE_web>
+    <GESTORE_web>http://www.itinerars.it</web></gestore>
   </luogo>
   <luogo>
     <id>24</id>
@@ -763,9 +763,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
+    <gestore><nome>Associazione Turistico Culturale Itiner'ars</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacinto Carini, 10</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -773,7 +773,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>itiner_ars@libero.it - itinerars@libero.it</GESTORE_email>
-    <GESTORE_web>http://www.itinerars.it</GESTORE_web>
+    <GESTORE_web>http://www.itinerars.it</web></gestore>
   </luogo>
   <luogo>
     <id>25</id>
@@ -794,9 +794,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -804,7 +804,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>27</id>
@@ -825,9 +825,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -835,7 +835,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>31</id>
@@ -856,9 +856,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -866,7 +866,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>32</id>
@@ -879,7 +879,7 @@
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
     <prezzi>0</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
-    <VISITE_NOTE>è possibile visitare anche la Torre di S. Giuseppe Cafasso ¿ 1,5 da lunedì al sabato 10.30 - 15.30 (fino al 26 maggio) da lunedì al sabato 10.00 - 19.00 (dal 27 maggio)</VISITE_NOTE>
+    <VISITE_NOTE>è possibile visitare anche la Torre di S. Giuseppe Cafasso: 1,5 da lunedì al sabato 10.30 - 15.30 (fino al 26 maggio) da lunedì al sabato 10.00 - 19.00 (dal 27 maggio)</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
     <informazioni_storiche>Questo sito ha visto diverse edificazioni di carattere religioso, a partire da una prima chiesa la cui origine risale al IV secolo. Vi fu poi una chiesa normanna appartenuta ai Padri Cistercensi; quindi passò ai Padri Olivetani del convento di S. Maria di Monte Oliveto allo Spasimo che riedificarono la chiesa a partire dal 1765. L'edificio presenta belle forme di un barocco maturo tendente al classicismo. La facciata è impostata su due ordini, delimitati orizzontalmente da cornicioni e scandita da robuste paraste; il portale è semplice con alto timpano curvilineo spezzato. L'interno è ad unica navata con tre cappelle semicircolari per lato. Due cappelle curvilinee più ampie formano una sorta di transetto; l'abside ha profondo catino semicircolare. Le pareti sono coperte da una delicata decorazione di stucchi in stile rococò. Inoltre si possono ammirare interessanti affreschi e arredi del settecento e ottocento, come per esempio l'affresco della volta dell'abside con la "Madonna che dà l'abito a S. Benedetto", eseguito da Giuseppe Tresca, come i due tondi ad olio posti lateralmente, e il Crocifisso con reliquiario settecentesco di Giuseppe Marabitti posto nella terza cappella a destra. È possibile visitare il campanile annesso alla chiesa con la sua forma slanciata, di altezza modesta, raggiunge circa 20 metri da terra, e da dove si può godere la vista di un panorama fantastico.</informazioni_storiche>
     <mobile>0</mobile>
@@ -887,9 +887,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>www.sangiuseppecafasso.arcidiocesi.palermo.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -897,7 +897,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>34</id>
@@ -918,9 +918,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.sangiuseppeteatini.arcidiocesi.palermo.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -928,7 +928,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>35</id>
@@ -949,9 +949,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -959,7 +959,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>36</id>
@@ -980,9 +980,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -990,7 +990,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>40</id>
@@ -1011,9 +1011,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1021,7 +1021,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>42</id>
@@ -1042,9 +1042,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1052,7 +1052,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>45</id>
@@ -1073,9 +1073,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1083,7 +1083,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>47</id>
@@ -1104,9 +1104,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1114,7 +1114,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>48</id>
@@ -1135,9 +1135,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1145,7 +1145,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>49</id>
@@ -1166,9 +1166,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.museoduocesanopa.it/chiese/ss-pietro-e-paolo</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1176,7 +1176,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>4</id>
@@ -1197,9 +1197,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Fondazione FEDERICO II</GESTORE_nome>
+    <gestore><nome>Fondazione FEDERICO II</GESTORE_nome>
     <GESTORE_indirizzo>via Nicolò Garzilli, 36</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1207,7 +1207,7 @@
     <GESTORE_telefono>0916262833</GESTORE_telefono>
     <GESTORE_fax>0916262962</GESTORE_fax>
     <GESTORE_email>fondazione@federicosecondo.org</GESTORE_email>
-    <GESTORE_web>http://www.federicosecondo.org/it</GESTORE_web>
+    <GESTORE_web>http://www.federicosecondo.org/it</web></gestore>
   </luogo>
   <luogo>
     <id>9</id>
@@ -1228,9 +1228,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>www.museodiocesanopa.it/chiese/maria-ss-del-carmelo-carmine-maggiore</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1238,7 +1238,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>15</id>
@@ -1259,9 +1259,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.carmelitaniscalzidipalermo.com</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1269,7 +1269,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>30</id>
@@ -1280,7 +1280,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>da martedì a sabato 9.00 - 19.00 lunedì, domenica e festivi infrasettimanali: 9.00 - 13.30</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Prezzo ¿ 6,00 Prezzo ridotto insegnanti e ragazzi ¿ 3 ;Possibilità di acquisto biglietto cumulativo per: S.Giovanni degli Eremiti, Chiostro di Monreale, Zisa e Cuba costo ¿ 12 validità 2 gg. ridotto 50% per insegnanti+alunni; gratis per i minorenni e gli over 65.</prezzi>
+    <prezzi>Prezzo ¿ 6,00 Prezzo ridotto insegnanti e ragazzi ¿ 3 ;Possibilità di acquisto biglietto cumulativo per: S.Giovanni degli Eremiti, Chiostro di Monreale, Zisa e Cuba costo: 12 validità 2 gg. ridotto 50% per insegnanti+alunni; gratis per i minorenni e gli over 65.</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>0</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -1290,9 +1290,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1300,7 +1300,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>38</id>
@@ -1321,9 +1321,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santacita.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1331,7 +1331,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>46</id>
@@ -1352,9 +1352,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1362,7 +1362,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>55</id>
@@ -1383,9 +1383,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1393,7 +1393,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>33</id>
@@ -1414,9 +1414,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1424,7 +1424,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>37</id>
@@ -1445,9 +1445,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santippolito.arcidiocesi.palermo.it</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1455,7 +1455,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>39</id>
@@ -1476,9 +1476,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1486,7 +1486,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>54</id>
@@ -1507,9 +1507,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1517,7 +1517,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>224</id>
@@ -1538,9 +1538,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Eparchia di Piana degli Albanesi</GESTORE_nome>
+    <gestore><nome>Eparchia di Piana degli Albanesi</GESTORE_nome>
     <GESTORE_indirizzo>Piazza San Nicola,1</GESTORE_indirizzo>
     <GESTORE_cap>90037</GESTORE_cap>
     <GESTORE_LOCALITA>Piana degli Albanesi</GESTORE_LOCALITA>
@@ -1548,7 +1548,7 @@
     <GESTORE_telefono>0918571029</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.eparchiapiana.it/SelfSiteinfo.asp?idPag=0&amp;page=1</GESTORE_web>
+    <GESTORE_web>http://www.eparchiapiana.it/SelfSiteinfo.asp?idPag=0&amp;page=1</web></gestore>
   </luogo>
   <luogo>
     <id>225</id>
@@ -1569,9 +1569,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Chiese</tipo>
+    <tipi>Chiese</tipi>
     <DES>Chiese</DES>
-    <GESTORE_nome>Associazione Esperanza Socio-Culturale</GESTORE_nome>
+    <gestore><nome>Associazione Esperanza Socio-Culturale</GESTORE_nome>
     <GESTORE_indirizzo>Via Magione, 44</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1579,7 +1579,7 @@
     <GESTORE_telefono>091 616 6167</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>166</id>
@@ -1600,9 +1600,9 @@
     <fax>0916053342</fax>
     <email>marketing@teatromassimo.it</email>
     <web>http://www.teatromassimo.it/index.php</web>
-    <tipo>Teatri storici</tipo>
+    <tipi>Teatri storici</tipi>
     <DES>Teatri</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1610,7 +1610,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>167</id>
@@ -1631,9 +1631,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Teatri storici</tipo>
+    <tipi>Teatri storici</tipi>
     <DES>Teatri</DES>
-    <GESTORE_nome>Fondazione Orchestra Sinfonica Siciliana</GESTORE_nome>
+    <gestore><nome>Fondazione Orchestra Sinfonica Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Turati, 2</GESTORE_indirizzo>
     <GESTORE_cap>90139</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1641,7 +1641,7 @@
     <GESTORE_telefono>0916072532</GESTORE_telefono>
     <GESTORE_fax>091585900</GESTORE_fax>
     <GESTORE_email>info@orchestrasinfonicasiciliana.it</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>58</id>
@@ -1652,7 +1652,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>da martedì a domenica 9.00 - 12.30</APERTURA_NOTE>
     <CHIUSURA_NOTE>Lunedì</CHIUSURA_NOTE>
-    <prezzi>Biglietto cumulativo (validità 3 gg.), Galleria Regionale di Palazzo Abatellis, Museo di Palazzo Mirto e Oratorio dei Bianchi Intero ¿ 10.00 Ridotto ¿ 5,00</prezzi>
+    <prezzi>Biglietto cumulativo (validità 3 gg.), Galleria Regionale di Palazzo Abatellis, Museo di Palazzo Mirto e Oratorio dei Bianchi Intero: 10.00 Ridotto ¿ 5,00</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>0</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -1662,9 +1662,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1672,7 +1672,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>60</id>
@@ -1693,9 +1693,9 @@
     <fax>0</fax>
     <email>itimed@gmail.com</email>
     <web>http://www.santosepolcro.sicilia.it/chiese/s_caterina</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Associazione Culturale Itinerari del Mediterraneo</GESTORE_nome>
+    <gestore><nome>Associazione Culturale Itinerari del Mediterraneo</GESTORE_nome>
     <GESTORE_indirizzo>Via Giacomo Cusmano, 28</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1703,7 +1703,7 @@
     <GESTORE_telefono>091348728</GESTORE_telefono>
     <GESTORE_fax>091348728</GESTORE_fax>
     <GESTORE_email>itimed@gmail.com</GESTORE_email>
-    <GESTORE_web>http://www.itimed.org/</GESTORE_web>
+    <GESTORE_web>http://www.itimed.org/</web></gestore>
   </luogo>
   <luogo>
     <id>62</id>
@@ -1724,9 +1724,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://oratoriosanfilipponeripalermo.org/</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1734,7 +1734,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>63</id>
@@ -1755,9 +1755,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
+    <gestore><nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
     <GESTORE_indirizzo>Via Mariano Stabile, 160</GESTORE_indirizzo>
     <GESTORE_cap>90139</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1765,7 +1765,7 @@
     <GESTORE_telefono>0916118168</GESTORE_telefono>
     <GESTORE_fax>0916055799</GESTORE_fax>
     <GESTORE_email>info@amicimuseisiciliani.it</GESTORE_email>
-    <GESTORE_web>http://www.amicimuseisiciliani.it</GESTORE_web>
+    <GESTORE_web>http://www.amicimuseisiciliani.it</web></gestore>
   </luogo>
   <luogo>
     <id>65</id>
@@ -1786,9 +1786,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1796,7 +1796,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>66</id>
@@ -1817,9 +1817,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1827,7 +1827,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>59</id>
@@ -1848,9 +1848,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1858,7 +1858,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>61</id>
@@ -1879,9 +1879,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santacita.it</web>
-    <tipo>Oratori</tipo>
+    <tipi>Oratori</tipi>
     <DES>Oratori</DES>
-    <GESTORE_nome>Centro San Mamiliano</GESTORE_nome>
+    <gestore><nome>Centro San Mamiliano</GESTORE_nome>
     <GESTORE_indirizzo>Via Valverde, 3</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1889,7 +1889,7 @@
     <GESTORE_telefono>0916090308</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</GESTORE_web>
+    <GESTORE_web>http://centrosanmamiliano.blogspot.it/ - http://centrosanmamiliano.xoom.it/</web></gestore>
   </luogo>
   <luogo>
     <id>76</id>
@@ -1910,9 +1910,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1920,7 +1920,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>169</id>
@@ -1941,9 +1941,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1951,7 +1951,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>170</id>
@@ -1972,9 +1972,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -1982,7 +1982,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>171</id>
@@ -2003,9 +2003,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2013,7 +2013,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>175</id>
@@ -2034,9 +2034,9 @@
     <fax>0918889893</fax>
     <email>didattica@galleriadartemodernapalermo.it</email>
     <web>http://www.galleriadartemodernapalermo.it/mediacenter/FE/home.aspx</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2044,7 +2044,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>177</id>
@@ -2065,9 +2065,9 @@
     <fax>0</fax>
     <email>gall.abatellis@regione.sicilia.it</email>
     <web>http://www.regione.sicilia.it/beniculturali/palazzoabatellis/</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2075,7 +2075,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>179</id>
@@ -2096,9 +2096,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html - http://www.palazzoriso.it</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2106,7 +2106,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>180</id>
@@ -2127,9 +2127,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2137,7 +2137,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>197</id>
@@ -2158,9 +2158,9 @@
     <fax>0</fax>
     <email>info@museodiocesanomonreale.it</email>
     <web>http://www.museodiocesanomonreale.it/</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Arcidiocesi di Monreale</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Monreale</GESTORE_nome>
     <GESTORE_indirizzo>Via Palermo, 8</GESTORE_indirizzo>
     <GESTORE_cap>90046</GESTORE_cap>
     <GESTORE_LOCALITA>Monreale</GESTORE_LOCALITA>
@@ -2168,7 +2168,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>185</id>
@@ -2189,9 +2189,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2199,7 +2199,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>196</id>
@@ -2220,9 +2220,9 @@
     <fax>091933315</fax>
     <email>villacattolica@tiscali.it</email>
     <web>http://www.museoguttuso.it/site/</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2230,7 +2230,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>183</id>
@@ -2251,9 +2251,9 @@
     <fax>0</fax>
     <email>museo@diocesipa.it</email>
     <web>http://www.museodiocesanopa.it/</web>
-    <tipo>Gallerie d'Arte e Musei</tipo>
+    <tipi>gallerie d'arte, musei</tipi>
     <DES>Musei</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2261,7 +2261,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>214</id>
@@ -2282,9 +2282,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Biblioteche</tipo>
+    <tipi>Biblioteche</tipi>
     <DES>Biblioteche</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2292,7 +2292,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>209</id>
@@ -2313,9 +2313,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali/bibliotecacentrale/</web>
-    <tipo>Biblioteche</tipo>
+    <tipi>Biblioteche</tipi>
     <DES>Biblioteche</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2323,7 +2323,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>213</id>
@@ -2344,9 +2344,9 @@
     <fax>0918889893</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Biblioteche</tipo>
+    <tipi>Biblioteche</tipi>
     <DES>Biblioteche</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2354,7 +2354,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>216</id>
@@ -2375,9 +2375,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Biblioteche</tipo>
+    <tipi>Biblioteche</tipi>
     <DES>Biblioteche</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2385,7 +2385,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>199</id>
@@ -2406,9 +2406,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2416,7 +2416,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>201</id>
@@ -2437,9 +2437,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
+    <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Nicolò Garzilli, 59</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2447,7 +2447,7 @@
     <GESTORE_telefono>091329407</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://clubalpinoitaliano.org/</GESTORE_web>
+    <GESTORE_web>http://clubalpinoitaliano.org/</web></gestore>
   </luogo>
   <luogo>
     <id>202</id>
@@ -2468,9 +2468,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
+    <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Nicolò Garzilli, 59</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2478,7 +2478,7 @@
     <GESTORE_telefono>091329407</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://clubalpinoitaliano.org/</GESTORE_web>
+    <GESTORE_web>http://clubalpinoitaliano.org/</web></gestore>
   </luogo>
   <luogo>
     <id>203</id>
@@ -2499,9 +2499,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2509,7 +2509,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>204</id>
@@ -2520,7 +2520,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>0</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Biglietto ¿ 10,00 ridotto ¿ 8 per gruppi min 15 pax.</prezzi>
+    <prezzi>Biglietto: 10,00 ridotto ¿ 8 per gruppi min 15 pax.</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>Visite effettuabili solo su prenotazione al 3498178288 o 091329407</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -2530,9 +2530,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.gscaipalermo.com/</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
+    <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Nicolò Garzilli, 59</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2540,7 +2540,7 @@
     <GESTORE_telefono>091329407</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://clubalpinoitaliano.org/</GESTORE_web>
+    <GESTORE_web>http://clubalpinoitaliano.org/</web></gestore>
   </luogo>
   <luogo>
     <id>206</id>
@@ -2561,9 +2561,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Zone Archeologiche</tipo>
+    <tipi>Zone Archeologiche</tipi>
     <DES>Archeologico</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2571,7 +2571,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>123</id>
@@ -2582,7 +2582,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>da lunedì a venerdì 9.00 - 13.00</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Biglietto intero ¿ 2,50 Biglietto ridotto ¿ 1,50 (studenti)</prezzi>
+    <prezzi>Biglietto intero ¿ 2,50 Biglietto ridotto: 1,50 (studenti)</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>Visitabile su prenotazione per gruppi telefonando al 3392937159.</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -2592,9 +2592,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2602,7 +2602,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>57</id>
@@ -2623,9 +2623,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2633,7 +2633,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>71</id>
@@ -2654,9 +2654,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2664,7 +2664,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>74</id>
@@ -2675,7 +2675,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>martedì - sabato 9.00 - 19.00 domenica, lunedì e festivi infrasettimanali 9.00 - 13.30</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Biglietto ridotto (18-25 anni) ¿ 1.00; under 18 e over 65 gratuito. Ingresso libero per gli appartenenti alle facoltà di lettere e filosofia, storia dell'arte e architettura muniti di tesserino di riconoscimento.</prezzi>
+    <prezzi>Biglietto ridotto (18-25 anni): 1.00; under 18 e over 65 gratuito. Ingresso libero per gli appartenenti alle facoltà di lettere e filosofia, storia dell'arte e architettura muniti di tesserino di riconoscimento.</prezzi>
     <SERVIZI_NOTE>0</SERVIZI_NOTE>
     <VISITE_NOTE>0</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -2685,9 +2685,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2695,7 +2695,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>75</id>
@@ -2716,9 +2716,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2726,7 +2726,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>77</id>
@@ -2747,9 +2747,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.castellodimaredolce.it - http://www.regione.sicilia.it/beniculturali</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2757,7 +2757,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>78</id>
@@ -2778,9 +2778,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Monumenti</tipo>
+    <tipi>Monumenti</tipi>
     <DES>Monumenti</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2788,7 +2788,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>82</id>
@@ -2809,9 +2809,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2819,7 +2819,7 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
   <luogo>
     <id>86</id>
@@ -2840,9 +2840,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
+    <gestore><nome>Associazione Amici dei Musei Siciliani</GESTORE_nome>
     <GESTORE_indirizzo>Via Mariano Stabile, 160</GESTORE_indirizzo>
     <GESTORE_cap>90139</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2850,7 +2850,7 @@
     <GESTORE_telefono>0916118168</GESTORE_telefono>
     <GESTORE_fax>0916055799</GESTORE_fax>
     <GESTORE_email>info@amicimuseisiciliani.it</GESTORE_email>
-    <GESTORE_web>http://www.amicimuseisiciliani.it</GESTORE_web>
+    <GESTORE_web>http://www.amicimuseisiciliani.it</web></gestore>
   </luogo>
   <luogo>
     <id>87</id>
@@ -2871,9 +2871,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.palazzobranciforte.it</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Fondazione Sicilia</GESTORE_nome>
+    <gestore><nome>Fondazione Sicilia</GESTORE_nome>
     <GESTORE_indirizzo>Via Bara All'Olivella, 2</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2881,7 +2881,7 @@
     <GESTORE_telefono>09160720203 - 09160720200</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@fondazionesicilia.it</GESTORE_email>
-    <GESTORE_web>http://fondazionesicilia.it/it/home/</GESTORE_web>
+    <GESTORE_web>http://fondazionesicilia.it/it/home/</web></gestore>
   </luogo>
   <luogo>
     <id>88</id>
@@ -2902,9 +2902,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2912,7 +2912,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>90</id>
@@ -2933,9 +2933,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Provincia Regionale di Palermo</GESTORE_nome>
+    <gestore><nome>Provincia Regionale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Maqueda, 100</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2943,7 +2943,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>106</id>
@@ -2964,9 +2964,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Fondazione FEDERICO II</GESTORE_nome>
+    <gestore><nome>Fondazione FEDERICO II</GESTORE_nome>
     <GESTORE_indirizzo>via Nicolò Garzilli, 36</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -2974,7 +2974,7 @@
     <GESTORE_telefono>0916262833</GESTORE_telefono>
     <GESTORE_fax>0916262962</GESTORE_fax>
     <GESTORE_email>fondazione@federicosecondo.org</GESTORE_email>
-    <GESTORE_web>http://www.federicosecondo.org/it</GESTORE_web>
+    <GESTORE_web>http://www.federicosecondo.org/it</web></gestore>
   </luogo>
   <luogo>
     <id>116</id>
@@ -2995,9 +2995,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3005,7 +3005,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>81</id>
@@ -3026,9 +3026,9 @@
     <fax>0</fax>
     <email>didattica@palermocultura.it</email>
     <web>http://www.comune.palermo.it/</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3036,7 +3036,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>79</id>
@@ -3057,9 +3057,9 @@
     <fax>0</fax>
     <email>info@palazzoajutamicristo.it</email>
     <web>http://www.palazzo-ajutamicristo.com</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3067,7 +3067,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>84</id>
@@ -3088,9 +3088,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3098,7 +3098,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>95</id>
@@ -3119,9 +3119,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3129,7 +3129,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>99</id>
@@ -3150,9 +3150,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Provincia Regionale di Palermo</GESTORE_nome>
+    <gestore><nome>Provincia Regionale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Maqueda, 100</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3160,7 +3160,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>101</id>
@@ -3181,9 +3181,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.regione.sicilia.it/beniculturali/palazzomirto</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3191,7 +3191,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>103</id>
@@ -3212,9 +3212,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3222,7 +3222,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>108</id>
@@ -3243,9 +3243,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.provincia.palermo.it/palazzo_s.elia</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Provincia Regionale di Palermo</GESTORE_nome>
+    <gestore><nome>Provincia Regionale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via Maqueda, 100</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3253,7 +3253,7 @@
     <GESTORE_telefono>0</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>0</GESTORE_web>
+    <GESTORE_web>0</web></gestore>
   </luogo>
   <luogo>
     <id>112</id>
@@ -3274,9 +3274,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Palazzi</tipo>
+    <tipi>Palazzi</tipi>
     <DES>Palazzi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3284,7 +3284,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>139</id>
@@ -3305,9 +3305,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3315,7 +3315,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>146</id>
@@ -3336,9 +3336,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3346,7 +3346,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>141</id>
@@ -3367,9 +3367,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3377,7 +3377,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>135</id>
@@ -3398,9 +3398,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Fondazione "Giuseppe Whitaker"</GESTORE_nome>
+    <gestore><nome>Fondazione "Giuseppe Whitaker"</GESTORE_nome>
     <GESTORE_indirizzo>Via Dante, 167</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3408,7 +3408,7 @@
     <GESTORE_telefono>0916820522</GESTORE_telefono>
     <GESTORE_fax>0916814156</GESTORE_fax>
     <GESTORE_email>info@fondazionewhitaker.it</GESTORE_email>
-    <GESTORE_web>http://www.fondazionewhitaker.it/</GESTORE_web>
+    <GESTORE_web>http://www.fondazionewhitaker.it/</web></gestore>
   </luogo>
   <luogo>
     <id>138</id>
@@ -3429,9 +3429,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3439,7 +3439,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>143</id>
@@ -3460,9 +3460,9 @@
     <fax>0</fax>
     <email>info@fondazionesicilia.it</email>
     <web>0</web>
-    <tipo>Dimore e Ville Storiche</tipo>
+    <tipi>Dimore e Ville Storiche</tipi>
     <DES>Dimore</DES>
-    <GESTORE_nome>Fondazione Sicilia</GESTORE_nome>
+    <gestore><nome>Fondazione Sicilia</GESTORE_nome>
     <GESTORE_indirizzo>Via Bara All'Olivella, 2</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3470,7 +3470,7 @@
     <GESTORE_telefono>09160720203 - 09160720200</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@fondazionesicilia.it</GESTORE_email>
-    <GESTORE_web>http://fondazionesicilia.it/it/home/</GESTORE_web>
+    <GESTORE_web>http://fondazionesicilia.it/it/home/</web></gestore>
   </luogo>
   <luogo>
     <id>155</id>
@@ -3491,9 +3491,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Fondazione "Giuseppe Whitaker"</GESTORE_nome>
+    <gestore><nome>Fondazione "Giuseppe Whitaker"</GESTORE_nome>
     <GESTORE_indirizzo>Via Dante, 167</GESTORE_indirizzo>
     <GESTORE_cap>90141</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3501,7 +3501,7 @@
     <GESTORE_telefono>0916820522</GESTORE_telefono>
     <GESTORE_fax>0916814156</GESTORE_fax>
     <GESTORE_email>info@fondazionewhitaker.it</GESTORE_email>
-    <GESTORE_web>http://www.fondazionewhitaker.it/</GESTORE_web>
+    <GESTORE_web>http://www.fondazionewhitaker.it/</web></gestore>
   </luogo>
   <luogo>
     <id>162</id>
@@ -3522,9 +3522,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3532,7 +3532,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>148</id>
@@ -3553,9 +3553,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3563,7 +3563,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>160</id>
@@ -3584,9 +3584,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3594,7 +3594,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>154</id>
@@ -3615,9 +3615,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3625,7 +3625,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>157</id>
@@ -3646,9 +3646,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3656,7 +3656,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>149</id>
@@ -3677,9 +3677,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Regione Siciliana</GESTORE_nome>
+    <gestore><nome>Regione Siciliana</GESTORE_nome>
     <GESTORE_indirizzo>Via Ausonia, 122</GESTORE_indirizzo>
     <GESTORE_cap>90146</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3687,7 +3687,7 @@
     <GESTORE_telefono>091524003 - 800894318</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>cittadino@regione.sicilia.it.</GESTORE_email>
-    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</GESTORE_web>
+    <GESTORE_web>http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE</web></gestore>
   </luogo>
   <luogo>
     <id>153</id>
@@ -3708,9 +3708,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3718,7 +3718,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>156</id>
@@ -3739,9 +3739,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.comune.palermo.it/comune/villa_niscemi/niscemi.htm</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Comune di Palermo</GESTORE_nome>
+    <gestore><nome>Comune di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Piazza Pretoria, 1</GESTORE_indirizzo>
     <GESTORE_cap>90100</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3749,7 +3749,7 @@
     <GESTORE_telefono>0917401111</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>0</GESTORE_email>
-    <GESTORE_web>http://www.comune.palermo.it/</GESTORE_web>
+    <GESTORE_web>http://www.comune.palermo.it/</web></gestore>
   </luogo>
   <luogo>
     <id>161</id>
@@ -3770,9 +3770,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Giardini Pubblici e Spazi Verdi</tipo>
+    <tipi>giardini pubblici, spazi verdi</tipi>
     <DES>Spazi Verdi</DES>
-    <GESTORE_nome>Distretto Culturale di Palermo</GESTORE_nome>
+    <gestore><nome>Distretto Culturale di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Via sant'Anna, 21</GESTORE_indirizzo>
     <GESTORE_cap>90133</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3780,7 +3780,7 @@
     <GESTORE_telefono>0918431605</GESTORE_telefono>
     <GESTORE_fax>0</GESTORE_fax>
     <GESTORE_email>info@palermocultura.it</GESTORE_email>
-    <GESTORE_web>http://www.palermocultura.it</GESTORE_web>
+    <GESTORE_web>http://www.palermocultura.it</web></gestore>
   </luogo>
   <luogo>
     <id>227</id>
@@ -3791,7 +3791,7 @@
     <citta>Palermo</citta>
     <APERTURA_NOTE>Orari di apertura da lunedì a domenica, aperto tutto il giorno.</APERTURA_NOTE>
     <CHIUSURA_NOTE>0</CHIUSURA_NOTE>
-    <prezzi>Ogni ora o frazione ¿ 1.60, tariffa massima giornaliera (24 ore) ¿ 12.00</prezzi>
+    <prezzi>Ogni ora o frazione: 1.60, tariffa massima giornaliera (24 ore): 12.00</prezzi>
     <SERVIZI_NOTE>Parcheggio multipiano interrato, 337 posti auto.</SERVIZI_NOTE>
     <VISITE_NOTE>0</VISITE_NOTE>
     <ANNOTAZIONI>0</ANNOTAZIONI>
@@ -3801,9 +3801,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>0</web>
-    <tipo>Parcheggi pubblici</tipo>
+    <tipi>Parcheggi pubblici</tipi>
     <DES>Parcheggi</DES>
-    <GESTORE_nome>APCOA Parking</GESTORE_nome>
+    <gestore><nome>APCOA Parking</GESTORE_nome>
     <GESTORE_indirizzo>Via Chiassi, 20/D</GESTORE_indirizzo>
     <GESTORE_cap>46100</GESTORE_cap>
     <GESTORE_LOCALITA>Mantova</GESTORE_LOCALITA>
@@ -3811,7 +3811,7 @@
     <GESTORE_telefono>0376345000</GESTORE_telefono>
     <GESTORE_fax>0376221679</GESTORE_fax>
     <GESTORE_email>info@apcoa.it</GESTORE_email>
-    <GESTORE_web>http://www.apcoa.it/</GESTORE_web>
+    <GESTORE_web>http://www.apcoa.it/</web></gestore>
   </luogo>
   <luogo>
     <id>67</id>
@@ -3832,9 +3832,9 @@
     <fax>0</fax>
     <email>0</email>
     <web>http://www.santuariosantarosalia.it/</web>
-    <tipo>Santuari</tipo>
+    <tipi>Santuari</tipi>
     <DES>S</DES>
-    <GESTORE_nome>Arcidiocesi di Palermo</GESTORE_nome>
+    <gestore><nome>Arcidiocesi di Palermo</GESTORE_nome>
     <GESTORE_indirizzo>Corso Vittorio Emanuele, 461</GESTORE_indirizzo>
     <GESTORE_cap>90134</GESTORE_cap>
     <GESTORE_LOCALITA>Palermo</GESTORE_LOCALITA>
@@ -3842,6 +3842,6 @@
     <GESTORE_telefono>0916077111</GESTORE_telefono>
     <GESTORE_fax>0916113642</GESTORE_fax>
     <GESTORE_email>curia@diocesipa.it</GESTORE_email>
-    <GESTORE_web>http://www.diocesipa.it</GESTORE_web>
+    <GESTORE_web>http://www.diocesipa.it</web></gestore>
   </luogo>
 </luoghi>

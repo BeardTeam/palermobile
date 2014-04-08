@@ -1,0 +1,8 @@
+1) apply stylesheet for each file: xmlstarlet tr XSLT_FILE XML_FILE_INPUT 
+   scripts/apply_single_stylesheets.sh
+2) concat (removing header for each file)
+3) apply global stylesheet
+4) convert xml to json with java
+5) flat json with json_flattenizer.html, and "download" the new flatten json
+6) clear flatten, using shell script (to improve)
+6) convert flatten json to csv

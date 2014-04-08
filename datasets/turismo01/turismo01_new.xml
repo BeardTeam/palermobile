@@ -12,7 +12,7 @@
     <email>vgiglio@amthotels.it - villa-igiea@amthotels.it</email>
     <web>http://www.villa-igiea.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>5</stelle>
       <camere>124</camere>
@@ -35,7 +35,7 @@
     <email>villaarchirafi@libero.it</email>
     <web>http://www.villaarchirafi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -58,7 +58,7 @@
     <email>info@hotelmodernopa.com</email>
     <web>http://www.hotelmodernopa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -81,7 +81,7 @@
     <email>info@aristonpalermo.it - info@bbaristonpalermo.com</email>
     <web>http://www.aristonpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -104,7 +104,7 @@
     <email>hotelitaly@email.it</email>
     <web>http://www.hotelitalia-palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -127,7 +127,7 @@
     <email>informazioni@hotel-alessandra.it - direzione@hotel-alessandra.it</email>
     <web>http://www.hotel-alessandra.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -150,7 +150,7 @@
     <email>prenotazioni@albergoorientale.191.it</email>
     <web>http://www.albergoorientale.191.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -173,7 +173,7 @@
     <email/>
     <web>http://www.libertahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -196,7 +196,7 @@
     <email>info@albergoverdi.it</email>
     <web>http://www.albergoverdi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -219,7 +219,7 @@
     <email>info@hotelrainbow.it</email>
     <web>http://www.hotelrainbow.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -242,7 +242,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -265,7 +265,7 @@
     <email>info@hotelflorio.net</email>
     <web>http://www.hotelflorio.info</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -288,7 +288,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -311,7 +311,7 @@
     <email>albergocavour@virgilio.it</email>
     <web>http://www.albergocavour.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>9</camere>
@@ -334,7 +334,7 @@
     <email>totobenigno@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>11</camere>
@@ -357,7 +357,7 @@
     <email>info@hotelsiciliapalermo.it</email>
     <web>http://www.hotelsiciliapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>15</camere>
@@ -380,7 +380,7 @@
     <email>gardeniahotel@gardeniahotel.com</email>
     <web>http://www.gardeniahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -403,7 +403,7 @@
     <email>info@amarcordhotel.it</email>
     <web>http://www.amarcordhotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>8</camere>
@@ -426,7 +426,7 @@
     <email>concoro@sicilia.com</email>
     <web>http://www.hotelconchigliadoro.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>
@@ -449,7 +449,7 @@
     <email>info@grandhotelfedericoii.it</email>
     <web>http://www.grandhotelfedericoii.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>64</camere>
@@ -472,7 +472,7 @@
     <email>info@hoteldelcentro.it</email>
     <web>http://www.hoteldelcentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -495,7 +495,7 @@
     <email>info@hotelelite.info</email>
     <web>http://www.hotelelitepalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>17</camere>
@@ -518,7 +518,7 @@
     <email>info@hoteljoli.com - pietro.silano@hoteljoli.com</email>
     <web>http://www.hoteljoli.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>30</camere>
@@ -541,7 +541,7 @@
     <email>palermo@ideahotel.it - frontoffice.palermo@hotelidea.it</email>
     <web>http://www.ideahotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -564,7 +564,7 @@
     <email>nhpalermo@nh-hotels.com</email>
     <web>http://www.nh-hotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>237</camere>
@@ -587,7 +587,7 @@
     <email>posta@hotelpoliteama.it - giovanna.bonsignore@hotelpoliteama.it</email>
     <web>http://www.hotelpoliteama.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -610,7 +610,7 @@
     <email>hotel@sanpaolopalace.it</email>
     <web>http://www.sanpaolopalace.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>290</camere>
@@ -633,7 +633,7 @@
     <email>latorre@latorre.com</email>
     <web>http://www.latorrehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -656,7 +656,7 @@
     <email>info@torreata.it</email>
     <web>http://www.torreata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>54</camere>
@@ -679,7 +679,7 @@
     <email>info@hotelvilladamato.it</email>
     <web>http://www.hotelvilladamato.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>37</camere>
@@ -702,7 +702,7 @@
     <email>info@villabonocoremaletto.it</email>
     <web>http://www.villabonocoremaletto.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>15</camere>
@@ -725,7 +725,7 @@
     <email>htcortese@iol.it</email>
     <web>http://www.hotelcortese.info</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -748,7 +748,7 @@
     <email>palermohotelgaia@yahoo.it</email>
     <web>http://www.palermohotelgaia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -771,7 +771,7 @@
     <email>info@albergoathenaeum.it</email>
     <web>http://www.albergoathenaeum.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -794,7 +794,7 @@
     <email>info@artemisiapalacehotel.it</email>
     <web>http://www.artemisiapalacehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>19</camere>
@@ -817,7 +817,7 @@
     <email>centrale@angalahotels.it</email>
     <web>http://www.angalahotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>5</stelle>
       <camere>104</camere>
@@ -840,7 +840,7 @@
     <email>direttore@hotelcristalpalace.it - info@hotelcristalpalace.it</email>
     <web>http://www.hotelcristalpalace.net</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>86</camere>
@@ -863,7 +863,7 @@
     <email>des-palmes@amthotels.it</email>
     <web>http://www.grandhoteldespalmes.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>183</camere>
@@ -886,7 +886,7 @@
     <email>direzione@grandhotelwagner.it - info@grandhotelwagner.it</email>
     <web>http://www.grandhotelwagner.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>5</stelle>
       <camere>61</camere>
@@ -909,7 +909,7 @@
     <email>booking@hotelflorioopera.it</email>
     <web>http://www.hotelflorioopera.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -932,7 +932,7 @@
     <email>info@hotelpostapalermo.it</email>
     <web>http://www.hotelpostapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>30</camere>
@@ -955,7 +955,7 @@
     <email>info@hoteltonic.it</email>
     <web>http://www.hoteltonic.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>40</camere>
@@ -978,7 +978,7 @@
     <email>vecchioborgo@ghshotels.it - bellavista.m@ghshotels.it</email>
     <web>http://www.ghshotels.it/vecchioborgo</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>32</camere>
@@ -1001,7 +1001,7 @@
     <email>director@addaura.it - hotel@addaura.it</email>
     <web>http://www.addaura.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>
@@ -1024,7 +1024,7 @@
     <email>bellavista.m@ghshotels.it</email>
     <web>http://www.ghshotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>71</camere>
@@ -1047,7 +1047,7 @@
     <email>ruslet@hotelletizia.com</email>
     <web>http://www.hotelletizia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>13</camere>
@@ -1070,7 +1070,7 @@
     <email>booking@massimoplazahotel.com</email>
     <web>http://www.massimoplazahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>11</camere>
@@ -1093,7 +1093,7 @@
     <email>info@mondellopalacehotel.it</email>
     <web>http://www.mondellopalacehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>84</camere>
@@ -1116,7 +1116,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -1139,7 +1139,7 @@
     <email>info@hotelconcordiapalermo.it</email>
     <web>http://www.hotelconcordiapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1162,7 +1162,7 @@
     <email>booking@ghshotels.it - astoria@ghshotels.it</email>
     <web>http://www.ghshotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>326</camere>
@@ -1185,7 +1185,7 @@
     <email>res.excelsiorpalermo@hilton.com</email>
     <web>http://www.excelsior-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>119</camere>
@@ -1208,7 +1208,7 @@
     <email>piazzaborsa@piazzaborsa.com</email>
     <web>http://www.piazzaborsa.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>127</camere>
@@ -1231,7 +1231,7 @@
     <email>info@hotelcolumbiapalermo.com</email>
     <web>http://www.hotelcolumbiapalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1254,7 +1254,7 @@
     <email>info@hotelplazaopera.com - ivano.ferazzoli@thehotelsphere.com</email>
     <web>http://www.hotelplazaopera.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1277,7 +1277,7 @@
     <email>daniela.fusi@hotelportafelice.it - info@hotelportafelice.it</email>
     <web>http://www.hotelportafelice.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1300,7 +1300,7 @@
     <email>info@hotelmediterraneopa.com - albergomediterraneo@libero.it</email>
     <web>http://www.hotelmediterraneopa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1323,7 +1323,7 @@
     <email>info@hotelpalazzositano.it - booking@palazzositano.it</email>
     <web>http://www.palazzositano.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1346,7 +1346,7 @@
     <email>president@shr.it - info@presidenthotelpalermo.it</email>
     <web>http://www.presidenthotelpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>129</camere>
@@ -1369,7 +1369,7 @@
     <email>info@hotelucciardhome.com</email>
     <web>http://www.hotelucciardhome.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>11</camere>
@@ -1392,7 +1392,7 @@
     <email>info@marbelaresidence.com</email>
     <web>http://www.marbelaresidence.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1415,7 +1415,7 @@
     <email>info@residenzadaragona.it</email>
     <web>http://www.residenzadaragona.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>20</camere>
@@ -1438,7 +1438,7 @@
     <email>htregina@gmail.com</email>
     <web>http://www.hotelregina.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1461,7 +1461,7 @@
     <email>albergovittoria@gmail.com</email>
     <web>http://www.hotelvittoriapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1484,7 +1484,7 @@
     <email>info@aicavalierihotel.it - aicavalieri.pa@bestwestern.it</email>
     <web>http://www.aicavalierihotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>39</camere>
@@ -1507,7 +1507,7 @@
     <email>booking@ambasciatorihotelpalermo.com</email>
     <web>http://www.ambasciatorihotelpalermo.net</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>24</camere>
@@ -1530,7 +1530,7 @@
     <email>info@baglioconcadoro.it</email>
     <web>http://www.hotelbaglioconcadoro.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1553,7 +1553,7 @@
     <email>info@bel3.com</email>
     <web>http://www.bel3.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>67</camere>
@@ -1576,7 +1576,7 @@
     <email>hotelbellevue@msn.com</email>
     <web>http://www.hotelbellevuepalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>40</camere>
@@ -1599,7 +1599,7 @@
     <email>info@casenadeicolli.it - direzione@casenadeicolli.it</email>
     <web>http://www.casenadeicolli.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>93</camere>
@@ -1622,7 +1622,7 @@
     <email>info@hoteleuropapalermo.it</email>
     <web>http://www.hoteleuropapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>73</camere>
@@ -1645,7 +1645,7 @@
     <email>hotelgiardinoinglese@resigest.com</email>
     <web>http://www.hoteldelgiardinoinglese.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>25</camere>
@@ -1668,7 +1668,7 @@
     <email>info@casamarconi.it</email>
     <web>http://www.hotelorleans.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1691,7 +1691,7 @@
     <email>info@hotelvillaesperia.it</email>
     <web>http://www.hotelvillaesperia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>22</camere>
@@ -1714,7 +1714,7 @@
     <email>direzione@mercurepa.com - booking@mercurepa.com</email>
     <web>http://www.mercure.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>93</camere>
@@ -1737,7 +1737,7 @@
     <email>info@principedivillafranca.it</email>
     <web>http://www.principedivillafranca.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1760,7 +1760,7 @@
     <email>info@quintocantohotel.com</email>
     <web>http://www.quintocantohotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere>20</camere>
@@ -1783,7 +1783,7 @@
     <email>cultnseapalermo@hotmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -1806,7 +1806,7 @@
     <email>info@lungarini.com</email>
     <web>http://www.dellalungarini.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -1829,7 +1829,7 @@
     <email>dolcedormirepalermo@hotmail.com</email>
     <web>http://www.dolcedormirepalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -1852,7 +1852,7 @@
     <email>giuspa_house@yahoo.com</email>
     <web>http://www.b-bgiuspa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -1875,7 +1875,7 @@
     <email>mauro64@neomedia.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -1898,7 +1898,7 @@
     <email>info@palermobedandbreakfastcentro.it</email>
     <web>http://www.palermobedandbreakfastcentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -1921,7 +1921,7 @@
     <email>info@bbpalermofelix.com</email>
     <web>http://www.bbpalermofelix.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1944,7 +1944,7 @@
     <email>info@villantonietta.it</email>
     <web>http://www.villantonietta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -1967,7 +1967,7 @@
     <email>a.tioli@tiscali.it</email>
     <web>http://www.villamaurigi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -1990,7 +1990,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2013,7 +2013,7 @@
     <email>info@bbwhite.it</email>
     <web>http://www.bbwhite.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2036,7 +2036,7 @@
     <email>palermomare@live.it</email>
     <web>http://www.palermomare.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2059,7 +2059,7 @@
     <email>info@gliaristogatti.com</email>
     <web>http://www.gliaristogatti.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2082,7 +2082,7 @@
     <email>bebmuseosalinas@gmail.com</email>
     <web>http://www.beb-museosalinas.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2105,7 +2105,7 @@
     <email>info@bbnimia.com</email>
     <web>http://www.bbnimia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2128,7 +2128,7 @@
     <email>marigtp@inwind.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2151,7 +2151,7 @@
     <email>info@bb-oscia.it</email>
     <web>http://www.bb-oscia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2174,7 +2174,7 @@
     <email>villartemide@virgilio.it</email>
     <web>http://www.villartemide.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2197,7 +2197,7 @@
     <email>ilmezz.gattopardo@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2220,7 +2220,7 @@
     <email>bblacasadeicolori@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2243,7 +2243,7 @@
     <email>lacasadizoe@hotmail.it</email>
     <web>http://www.lacasadizoe.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2266,7 +2266,7 @@
     <email>lagalleriapalermo@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2289,7 +2289,7 @@
     <email>leterrazze_palermo@yahoo.it</email>
     <web>http://www.leterrazzebb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2312,7 +2312,7 @@
     <email>prenotazioni@bbmaxim.it</email>
     <web>http://www.bbmaxim.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2335,7 +2335,7 @@
     <email>bbnamaste@libero.it</email>
     <web>http://www.namaste.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2358,7 +2358,7 @@
     <email>bbteatromassimo@alice.it</email>
     <web>http://www.bedbreakfastpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -2381,7 +2381,7 @@
     <email>info@cleopatrabb.it</email>
     <web>http://www.cleopatrabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2404,7 +2404,7 @@
     <email>info@coffeandthecity.it</email>
     <web>http://www.coffeandthecity.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2427,7 +2427,7 @@
     <email>info@bbdavidsroom.com</email>
     <web>http://www.bbdavidsroom.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2450,7 +2450,7 @@
     <email>jerryhouse@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2473,7 +2473,7 @@
     <email>info@olivellabb.it</email>
     <web>http://www.olivellabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2496,7 +2496,7 @@
     <email>info@bedandbreakfastliberta.it</email>
     <web>http://www.bedandbreakfastliberta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2519,7 +2519,7 @@
     <email>mario.cernigliaro@alice.it</email>
     <web>http://www.maridehouse.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2542,7 +2542,7 @@
     <email>info@bebmontecarlo.it</email>
     <web>http://www.bebmontecarlo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2565,7 +2565,7 @@
     <email>info@bandbnicadomus.com</email>
     <web>http://www.bandbnicadomus.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2588,7 +2588,7 @@
     <email>info@bed-breakfast-palermo.com</email>
     <web>http://www.bed-breakfast-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2611,7 +2611,7 @@
     <email>luna@neomedia.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -2634,7 +2634,7 @@
     <email>prenotazione@politeamasquare.com</email>
     <web>http://www.politeamasquare.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2657,7 +2657,7 @@
     <email>rosella_bianchi@libero.it</email>
     <web>http://www.rosellabianchibb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2680,7 +2680,7 @@
     <email>bbscalareale@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2703,7 +2703,7 @@
     <email>info@seralcadio.com</email>
     <web>http://www.seralcadio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2726,7 +2726,7 @@
     <email>simpatycamere@libero.it</email>
     <web>http://www.simpatymondello.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2749,7 +2749,7 @@
     <email>info@villa-addaura.com</email>
     <web>http://www.villa-addaura.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2772,7 +2772,7 @@
     <email>info@giugagio.it</email>
     <web>http://www.giugagio.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2795,7 +2795,7 @@
     <email>casacatti@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2818,7 +2818,7 @@
     <email>info@casettamanfredi.com</email>
     <web>http://www.casettamanfredi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2841,7 +2841,7 @@
     <email>bb.castiglia@gmail.com</email>
     <web>http://www.bbcastiglia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2864,7 +2864,7 @@
     <email>chiara.cannizzaro@hotmail.it</email>
     <web>http://www.bbpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2887,7 +2887,7 @@
     <email>info@bedbreakfastdangelo.com</email>
     <web>http://www.bedbreakfastdangelo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -2910,7 +2910,7 @@
     <email>info@desalinas.com</email>
     <web>http://www.desalinas.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2933,7 +2933,7 @@
     <email>info@bbfelice.it</email>
     <web>http://www.bbfelice.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2956,7 +2956,7 @@
     <email>mvalente44@yahoo.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2979,7 +2979,7 @@
     <email>info@icavalieridimalta.it</email>
     <web>http://www.icavalieridimalta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3002,7 +3002,7 @@
     <email>ilgiardinodiballaro@gmail.com</email>
     <web>http://www.ilgiardinodiballaro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -3025,7 +3025,7 @@
     <email>info@bebilprincipe.com</email>
     <web>http://www.bebilprincipe.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3048,7 +3048,7 @@
     <email>invillabb@yahoo.it</email>
     <web>http://www.invillabbmondello.splinder.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3071,7 +3071,7 @@
     <email>info@lacasadeilimoni.it</email>
     <web>http://www.lacasadeilimoni.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3094,7 +3094,7 @@
     <email>info@fuitina.com</email>
     <web>http://www.fuitina.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -3117,7 +3117,7 @@
     <email>mabalsano@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3140,7 +3140,7 @@
     <email>info@malusi.it</email>
     <web>http://www.malusi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3163,7 +3163,7 @@
     <email>info@bedmediterraneo.it</email>
     <web>http://www.bedmediterraneo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3186,7 +3186,7 @@
     <email>helgaomodei@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3209,7 +3209,7 @@
     <email>info@notarbartolo.com</email>
     <web>http://www.bed-and-breakfast-palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3232,7 +3232,7 @@
     <email>info@bbnottimagiche.com</email>
     <web>http://www.bbnottimagiche.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3255,7 +3255,7 @@
     <email>sistina1984@hotmail.com</email>
     <web>http://www.palazzoreale.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3278,7 +3278,7 @@
     <email>bbulisse@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -3301,7 +3301,7 @@
     <email>bbilgirasole@hotmail.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3324,7 +3324,7 @@
     <email>luigimendola@palazzofilangeri.it</email>
     <web>http://www.palazzofilangeri.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3347,7 +3347,7 @@
     <email>info@bbpalike.it</email>
     <web>http://www.bbpalike.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3370,7 +3370,7 @@
     <email>prenotazioni.people@facebook.com</email>
     <web>http://www.facebook.com/people.palermo</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -3393,7 +3393,7 @@
     <email>info@pomelia.com</email>
     <web>http://www.pomelia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -3416,7 +3416,7 @@
     <email>bebportadicastro@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -3439,7 +3439,7 @@
     <email>info@bebsangabriele.com</email>
     <web>http://www.bebsangabriele.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3462,7 +3462,7 @@
     <email>voccamarco@hotmail.it</email>
     <web>http://www.sikeliabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3485,7 +3485,7 @@
     <email>info@solelunabedandbreakfast.org</email>
     <web>http://www.solelunabedandbreakfast.org</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3508,7 +3508,7 @@
     <email>info@bbalterrazzo.it</email>
     <web>http://www.bbalterrazzo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3531,7 +3531,7 @@
     <email>martafavaloro@libero.it</email>
     <web>http://www.il-golfo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3554,7 +3554,7 @@
     <email>info@kemonia.com</email>
     <web>http://www.kemonia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -3577,7 +3577,7 @@
     <email>bblabellavita@hotmail.com</email>
     <web>http://www.bblabellavita.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3600,7 +3600,7 @@
     <email>info@bbmondello.com</email>
     <web>http://www.bbmondello.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3623,7 +3623,7 @@
     <email>info@bboretocentro.it</email>
     <web>http://www.bboretocentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3646,7 +3646,7 @@
     <email>info@palazzoamaribajardi.it</email>
     <web>http://www.palazzoamaribajardi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3669,7 +3669,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3692,7 +3692,7 @@
     <email>info@bbpalermoart.com</email>
     <web>http://www.bbpalermoart.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3715,7 +3715,7 @@
     <email>info@bbpanormus.com</email>
     <web>http://www.bbpanormus.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3738,7 +3738,7 @@
     <email>info@sanfrancescopalermo.it</email>
     <web>http://www.sanfrancescopalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3761,7 +3761,7 @@
     <email>bbvadoalmassimo@hotmail.com</email>
     <web>http://www.vadoalmassimo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3784,7 +3784,7 @@
     <email>info@bbdellevittorie.it</email>
     <web>http://www.bbdellevittorie.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3807,7 +3807,7 @@
     <email>info@dietroilpoliteama.it</email>
     <web>http://www.dietroilpoliteama.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3830,7 +3830,7 @@
     <email>info@eurekabeb.com</email>
     <web>http://www.eurekabeb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -3853,7 +3853,7 @@
     <email>info@fumbi.com</email>
     <web>http://www.fumbi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3876,7 +3876,7 @@
     <email>sugi@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -3899,7 +3899,7 @@
     <email>p.scaccianoce@tin.it</email>
     <web>http://www.houel30.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3922,7 +3922,7 @@
     <email>info@ilbanano.com</email>
     <web>http://www.ilbanano.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3945,7 +3945,7 @@
     <email>mondello@ilglicine.net</email>
     <web>http://www.sicily-accomodation.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3968,7 +3968,7 @@
     <email>info@quattroquarti.it</email>
     <web>http://www.quattroquarti.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3991,7 +3991,7 @@
     <email>info@acasadigiu.com</email>
     <web>http://www.acasadigiu.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4014,7 +4014,7 @@
     <email>gandolfosausa@virgilio.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4037,7 +4037,7 @@
     <email>sultano.abali@gmail.com</email>
     <web>http://www.abali.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4060,7 +4060,7 @@
     <email>abatellisluxury@virgilio.it</email>
     <web>http://www.abatellisluxury.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4083,7 +4083,7 @@
     <email>info@bbafea.it</email>
     <web>http://www.bbafea.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4106,7 +4106,7 @@
     <email>amministrazione@bbagramante.it</email>
     <web>http://www.bbagramante.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4129,7 +4129,7 @@
     <email>info@aigirasoli.com</email>
     <web>http://www.aigirasoli.weebly.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -4152,7 +4152,7 @@
     <email>info@ainormanni.it</email>
     <web>http://www.ainormanni.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4175,7 +4175,7 @@
     <email>beb-centrale316@hotmail.it</email>
     <web>http://www.316-beb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4198,7 +4198,7 @@
     <email>alcivico10@hotmail.it</email>
     <web>http://www.alcivico10.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4221,7 +4221,7 @@
     <email>info@allavucciria.com</email>
     <web>http://www.allavucciria.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -4244,7 +4244,7 @@
     <email>infobox@antonellaoddo.com</email>
     <web>http://www.antonellaoddo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4267,7 +4267,7 @@
     <email>info@bedandbreakfastpalermoart.com</email>
     <web>http://www.bedandbreakfast-palermoart.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4290,7 +4290,7 @@
     <email>info@bbatlante.com</email>
     <web>http://www.bedandbreakfastatlante.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4313,7 +4313,7 @@
     <email>bbatlantide@gmail.com</email>
     <web>http://www.bbatlantide.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4336,7 +4336,7 @@
     <email>bebattarin@gmail.com</email>
     <web>http://www.bebattarin.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4359,7 +4359,7 @@
     <email>francescomorra2@tin.it</email>
     <web>http://www.wix.com/attic12/attic-12</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4382,7 +4382,7 @@
     <email>info@az-zahar.it</email>
     <web>http://www.az-zahar.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4405,7 +4405,7 @@
     <email>info@bbflorio.it</email>
     <web>http://www.bbflorio.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4428,7 +4428,7 @@
     <email>info@bagliojudica.it</email>
     <web>http://www.bagliojudica.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4451,7 +4451,7 @@
     <email>info@balarm-bb.it</email>
     <web>http://www.balarm-bb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -4474,7 +4474,7 @@
     <email>info@benfratellibb.it</email>
     <web>http://www.benfratellibb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4497,7 +4497,7 @@
     <email>bnbcarmelita@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4520,7 +4520,7 @@
     <email>info@casacquarello.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4543,7 +4543,7 @@
     <email>casacunpari@hotmail.com</email>
     <web>http://www.casacunpari.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4566,7 +4566,7 @@
     <email>carlottanodice@hotmail.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -4589,7 +4589,7 @@
     <email>info@casamediterraneo.it</email>
     <web>http://www.casamediterraneo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -4612,7 +4612,7 @@
     <email>info@casaartisti.it</email>
     <web>http://www.casaartisti.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4635,7 +4635,7 @@
     <email>casaeputia@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4658,7 +4658,7 @@
     <email>info@aivicere.com</email>
     <web>http://www.bedandbreakfast-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4681,7 +4681,7 @@
     <email>bb.rodionoff@gmail.com</email>
     <web>http://www.bb-rodionoff.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4704,7 +4704,7 @@
     <email>info@acasadiamici.com</email>
     <web>http://www.acasadiamici.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -4727,7 +4727,7 @@
     <email>aiovalasit@libero.it</email>
     <web>http://www.abacoroom.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4750,7 +4750,7 @@
     <email>zephir11475@yahoo.it</email>
     <web>http://www.bbagata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4773,7 +4773,7 @@
     <email>rosiloria@tiscali.it</email>
     <web>http://www.aicartari.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4796,7 +4796,7 @@
     <email>info@algalileosiciliano.it</email>
     <web>http://www.algalileosiciliano.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4819,7 +4819,7 @@
     <email>info@giardinodellalloro.it</email>
     <web>http://www.giardinodellalloro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4842,7 +4842,7 @@
     <email>info@bbalterrazzo.it</email>
     <web>http://www.bbalterrazzo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -4865,7 +4865,7 @@
     <email>altribunale@gmail.com</email>
     <web>http://www.altribunale.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4888,7 +4888,7 @@
     <email>info@alviandante.com</email>
     <web>http://www.alviandante.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4911,7 +4911,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4934,7 +4934,7 @@
     <email>rinopi1@alice.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4957,7 +4957,7 @@
     <email>info@allamartorana.it</email>
     <web>http://www.allamartorana.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4980,7 +4980,7 @@
     <email>alvorada@live.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -5003,7 +5003,7 @@
     <email>info@bbamari58palermo.it</email>
     <web>http://www.bbamari58palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5026,7 +5026,7 @@
     <email>info@bb-amelie.it</email>
     <web>http://www.bb-amelie.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5049,7 +5049,7 @@
     <email>arbaria@gmail.com</email>
     <web>http://www.arbariabnb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -5072,7 +5072,7 @@
     <email>marjolein_wortmann@hotmail.com</email>
     <web>http://www.palermo-bed-and-breakfast.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5095,7 +5095,7 @@
     <email>bebportadicastro@gmail.com</email>
     <web>http://www.bebportadicastro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>6</camere>
@@ -5118,7 +5118,7 @@
     <email>portacarinivacanze@libero.it</email>
     <web>http://www.casavacanzeportacarini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>8</camere>
@@ -5141,7 +5141,7 @@
     <email>info@palazzogallo.com</email>
     <web>http://www.palazzogallo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>9</camere>
@@ -5164,7 +5164,7 @@
     <email>exlocandatermini@libero.it</email>
     <web>http://www.exlocandatermini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -5187,7 +5187,7 @@
     <email>fabricacace@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>13</camere>
@@ -5210,7 +5210,7 @@
     <email>info@palazzoprestipino.it</email>
     <web>http://www.palazzoprestipino.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5233,7 +5233,7 @@
     <email>contact@casaorioles.it</email>
     <web>http://www.casaorioles.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5256,7 +5256,7 @@
     <email>postmaster@bagliodicalabruca.it</email>
     <web>http://www.bagliodicalabruca.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5279,7 +5279,7 @@
     <email>contact@casaorioles.it</email>
     <web>http://www.casaorioles.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -5302,7 +5302,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5325,7 +5325,7 @@
     <email>info@kursaalsrl.it - booking@kursaalsrl.it</email>
     <web>http://www.kursaaltonnara.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5348,7 +5348,7 @@
     <email>booking@skysleeping.com</email>
     <web>http://www.skysleeping.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5371,7 +5371,7 @@
     <email>info@sevenrooms.it</email>
     <web>http://www.sevenrooms.it/web/index_en.html</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5394,7 +5394,7 @@
     <email>ctbpalermo@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>6</camere>
@@ -5417,7 +5417,7 @@
     <email>info@residenzawagner.com</email>
     <web>http://www.residenzawagner.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5440,7 +5440,7 @@
     <email>info@palazzosavona.com</email>
     <web>http://www.palazzosavona.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5463,7 +5463,7 @@
     <email>info@palazzopantaleo.it</email>
     <web>http://www.palazzopantaleo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5486,7 +5486,7 @@
     <email>valenti100@libero.it</email>
     <web>http://www.bedandbreakfastopera.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5509,7 +5509,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5532,7 +5532,7 @@
     <email>info@dimorannulina.it</email>
     <web>http://www.maisonlandolina.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -5555,7 +5555,7 @@
     <email>info@lalocandadelgagini.it</email>
     <web>http://www.lalocandadelgagini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -5578,7 +5578,7 @@
     <email>info@dimorannulina.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5601,7 +5601,7 @@
     <email>cortilepalermo@virgilio.it</email>
     <web>http://www.cortilepalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -5624,7 +5624,7 @@
     <email>info@allakala.it</email>
     <web>http://www.allakala.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -5647,7 +5647,7 @@
     <email>santo@acasadiamici.com - info@acasadiamici.com</email>
     <web>http://www.acasadiamici.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5670,7 +5670,7 @@
     <email>info@bb10serpotta.com</email>
     <web>http://www.bb10serpotta.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5693,7 +5693,7 @@
     <email>info@lacambusa.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -5716,7 +5716,7 @@
     <email>info@giardinodellalloro.it</email>
     <web>http://www.giardinodellalloro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -5739,7 +5739,7 @@
     <email>casariccio@aruba.it</email>
     <web>http://www.casariccio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5762,7 +5762,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -5785,7 +5785,7 @@
     <email>info@bb22.it</email>
     <web>http://www.bb22.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5808,7 +5808,7 @@
     <email>info@casamarconi.it</email>
     <web>http://www.casamarconi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>ostello</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5831,7 +5831,7 @@
     <email>arg.sicilia@aighostels.com</email>
     <web>http://www.ostellopalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>ostello</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>23</camere>
@@ -5854,7 +5854,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>7</camere>
@@ -5877,7 +5877,7 @@
     <email>cfsbaida@ofmsicilia.it</email>
     <web>http://www.ofmsicilia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere>43</camere>
@@ -5900,7 +5900,7 @@
     <email>istitutoi@alice.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5923,7 +5923,7 @@
     <email>info@hotelorleans.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5946,7 +5946,7 @@
     <email>info@torreata.it</email>
     <web>http://www.torreata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5969,7 +5969,7 @@
     <email>info@residenzadaragona.it</email>
     <web>http://www.residenzadaragona.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -5992,7 +5992,7 @@
     <email>info@nuvoleresidenza.it</email>
     <web>http://www.nuvoleresidenza.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6015,7 +6015,7 @@
     <email>info@lamarsa.it</email>
     <web>http://www.lamarsa.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -6038,7 +6038,7 @@
     <email>booking@ambasciatorihotelpalermo.com</email>
     <web>http://www.ambasciatorihotelpalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6061,7 +6061,7 @@
     <email>booking@palazzobrunaccini.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -6084,7 +6084,7 @@
     <email>info@marbelaresidence.com</email>
     <web>http://www.marbelaresidence.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6107,7 +6107,7 @@
     <email>hotel@addaura.it</email>
     <web>http://www.addaura.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici/>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>

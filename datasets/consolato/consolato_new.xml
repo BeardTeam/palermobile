@@ -12,7 +12,7 @@
     <email>studiolegaleditanto@libero.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Bangladesh</stato>
       <console>Cav. Avv. Vincenzo Di Tanto Console Generale Onorario del Bangladesh</console>
@@ -38,7 +38,7 @@
     <email/>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Belgio</stato>
       <console>Barone Piervincenzo Mancuso Console Onorario del Belgio</console>
@@ -64,7 +64,7 @@
     <email>mancuso@infcom.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Brasile</stato>
       <console>Sig. Paolo Mancuso Console Onorario del Brasile</console>
@@ -90,7 +90,7 @@
     <email>visa@consolatorussopa.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Federazione Russa</stato>
       <console>Dr. Vladimir Korotkov Console Generale della Federazione Russa Ministro Straordinario e Plenipotenziario Decano del Corpo Consolare</console>
@@ -116,7 +116,7 @@
     <email>hc@sikania.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Danimarca</stato>
       <console>Sig.ra Hanne Elisabeth Frendrup Carstensen Castellucci Console Onorario della Danimarca Consigliere di Decanato</console>
@@ -142,7 +142,7 @@
     <email>congr.pa@issbi.org</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Grecia</stato>
       <console>Prof.ssa Renata Lavagnini Console Onorario della Grecia</console>
@@ -168,7 +168,7 @@
     <email>palmigiano@consolatolituania.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Lituania</stato>
       <console>Avv. Alessandro Palmigiano Console Onorario della Repubblica di Lituania Consigliere di Decanato</console>
@@ -194,7 +194,7 @@
     <email>bcc@studiobcc.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Lussemburgo</stato>
       <console>Dr. Antonio Cosenz Console Onorario del Granducato del Lussemburgo Consigliere di Decanato</console>
@@ -220,7 +220,7 @@
     <email>consolatomonaco.palermo@virgilio.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Principato di Monaco</stato>
       <console>Avv. Emanuele Bruno Console Onorario del Principato di Monaco</console>
@@ -246,7 +246,7 @@
     <email>consoleburkfasopalermo@gmail.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Burkina Faso</stato>
       <console>Dr. Antonio Tito Console Onorario di Burkina Faso</console>
@@ -272,7 +272,7 @@
     <email>capoverde@aacweb.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Capo Verde</stato>
       <console>Avv. Antonietta Alongi Console Onorario di Capo Verde</console>
@@ -298,7 +298,7 @@
     <email>consolatocilepa@gmail.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Cile</stato>
       <console>Dr. Vincenzo Chiriaco Console Onorario del Cile</console>
@@ -324,7 +324,7 @@
     <email>palermo@hkdipio.de</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Germania</stato>
       <console>Dr. Vincenzo Militello Console Onorario della Repubblica Federale di Germania</console>
@@ -350,7 +350,7 @@
     <email>agostino.randazzo@randazzo.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Bulgaria</stato>
       <console>Dr. Agostino Randazzo Console Onorario della Bulgaria</console>
@@ -376,7 +376,7 @@
     <email>cotedivoireconspa@alice.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Costa D'Avorio</stato>
       <console>Sig. Ferdinando Veneziani Console Onorario della Repubblica di Costa d'Avorio</console>
@@ -402,7 +402,7 @@
     <email>fsalernocardillo@notariato.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Francia</stato>
       <console>Notaio Franco Salerno Cardillo Vice Console 
@@ -429,7 +429,7 @@ Onorario della Francia</console>
     <email>c.g.m.-palermo@maec.gov.ma</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Marocco</stato>
       <console/>
@@ -455,7 +455,7 @@ Onorario della Francia</console>
     <email>tpandi@tin.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Norvegia</stato>
       <console>Sig.ra Isabella Tagliavia Console Generale Onorario della Norvegia</console>
@@ -481,7 +481,7 @@ Onorario della Francia</console>
     <email>consulatepakistan@tagliavia.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Pakistan</stato>
       <console>Sig. Angelo Tagliavia Console Onorario del Pakistan</console>
@@ -507,7 +507,7 @@ Onorario della Francia</console>
     <email>degregoriopaolo@libero.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Sovrano Militare Ordine di Malta</stato>
       <console>Marchese Prof. Paolo de Gregorio Partecipa al Corpo Consolare in qualità di Osservatore</console>
@@ -533,7 +533,7 @@ Onorario della Francia</console>
     <email>adifres@tin.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Corea del Sud</stato>
       <console>Dr. Antonio Di Fresco Console Onorario della Corea del Sud Consigliere di Decanato</console>
@@ -559,7 +559,7 @@ Onorario della Francia</console>
     <email>maltaconsul.palermo@gov.mt</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Malta</stato>
       <console>Sig. Alfredo Barbaro Console Generale Onorario di Malta</console>
@@ -585,7 +585,7 @@ Onorario della Francia</console>
     <email>info@studiocaramanna.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Spagna</stato>
       <console>Avv. Ignazio Caramanna Console Onorario della Spagna</console>
@@ -611,7 +611,7 @@ Onorario della Francia</console>
     <email>msanta@iol.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Ungheria</stato>
       <console>Sig.ra Adelaide Sotyi Santamarina Console Onorario dell'Ungheria</console>
@@ -637,7 +637,7 @@ Onorario della Francia</console>
     <email>consolatoaustria.pa@hotmail.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Austria</stato>
       <console>Dr.ssa Irene Salcher-Cillari Console Onorario dell'Austria Segretario Generale del Corpo Consolare</console>
@@ -663,7 +663,7 @@ Onorario della Francia</console>
     <email>s.deluca@esterminal.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Paesi Bassi</stato>
       <console>Dr. Salvatore De Luca Console Onorario dei Paesi Bassi</console>
@@ -689,7 +689,7 @@ Onorario della Francia</console>
     <email>cucinellab@state.gov</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Stati Uniti D'America</stato>
       <console>Dr.ssa Barbara Cucinella Agente Consolare Onorario degli U.S.A. Vice Decano del Corpo Consolare</console>
@@ -715,7 +715,7 @@ Onorario della Francia</console>
     <email>s.deluca@esterminal.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Svezia</stato>
       <console>Dr. Salvatore De Luca Console Onorario della Svezia</console>

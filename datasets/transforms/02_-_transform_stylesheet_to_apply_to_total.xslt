@@ -1,10 +1,12 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-  <xsl:output method="xml" indent="yes"/>
-  <xsl:template match="//luoghi">
-    <luoghi>
-      <xsl:call-template name="luogo"/>
-    </luoghi>
+   <xsl:output method="xml" indent="yes"/>
+   <xsl:template match="//luoghi">
+      <palermo-opendata>
+         <luoghi>
+            <xsl:call-template name="luogo"/>
+         </luoghi>
+      </palermo-opendata>
   </xsl:template>
 
   <xsl:template  name="luogo">
@@ -65,7 +67,7 @@
 		</icon>
 	      
       </luogo>
-    </xsl:for-each>
+   </xsl:for-each>
   </xsl:template>
 
   <!--xsl:template name="agenzie">

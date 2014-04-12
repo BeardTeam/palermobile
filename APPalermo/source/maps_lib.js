@@ -929,7 +929,7 @@ $.extend(MapsLib, {
                         else
                         {
                             comparator = "CONTAINS IGNORING CASE";
-                            placeholder = "Cercherà qualunque contenente questo testo";
+                            placeholder = "Cercherà qualunque nome contenente questo testo";
                         }
                     } 
                     else

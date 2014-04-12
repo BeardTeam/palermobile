@@ -195,7 +195,12 @@
             MapsLib.doSearch();
         });
         $("#search_reset").click(function(){
-            MapsLib.resetSearch();
+            slideToggleAccoglienzaElements(true);
+			slideToggleRistoroElements(true);
+			slideToggleDivertimentoElements(true);
+			slideToggleAperitivoElements(true);
+			slideToggleCucinaElements(true);
+			MapsLib.resetSearch();
         });
         window.addEventListener('popstate', function(e) { 
             MapsLib.onPopState();

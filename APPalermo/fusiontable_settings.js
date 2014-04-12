@@ -160,22 +160,22 @@ $.extend(MapsLib, {
                 is_checked: false,
                 checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'bar'"},
 			{ label: "Stelle", type: "slider", 
-                column: "accoglienza.stelle" },
+                column: "accoglienza#stelle" },
             { label: "Sale meeting", type: "checkbox", 
                 is_checked: false,
-                checked_query: "'accoglienza.sale_meeting' NOT EQUAL TO ''"},
+                checked_query: "'accoglienza#sale_meeting' NOT EQUAL TO ''"},
 			{ label: "Tipi di cucina:", type: "dropdown", entries: [
                 ["Qualunque tipo di cucina", "", true],
-                ["Italiana", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'italiana'"],
-                ["Pizza", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'pizza'"],
-                ["Tipica", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'tipica'"],
-                ["Tipica Siciliana", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'tipica siciliana'"],
-                ["Tipica Palermitana", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'tipica palermitana'"],
-                ["Internazionale", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'internazionale'"],
-                ["Europea", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'europea'"],
-                ["Spagnola", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'spagnola'"],
-                ["Fusion", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'fusion'"],
-                ["Mediterranea", "'divertimento-e-ristoro.cucina' CONTAINS IGNORING CASE 'mediterranea'"]
+                ["Italiana", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'italiana'"],
+                ["Pizza", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'pizza'"],
+                ["Tipica", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'tipica'"],
+                ["Tipica Siciliana", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'tipica siciliana'"],
+                ["Tipica Palermitana", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'tipica palermitana'"],
+                ["Internazionale", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'internazionale'"],
+                ["Europea", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'europea'"],
+                ["Spagnola", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'spagnola'"],
+                ["Fusion", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'fusion'"],
+                ["Mediterranea", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'mediterranea'"]
             ] },
         ],
     },
@@ -300,7 +300,7 @@ $.extend(MapsLib, {
         // If true: use nearby location only if we're within default map bounds
         //          otherwise, post boundsExceededMessage (if non-empty) and use mapDefaultCenter.
         onlyWithinDefaultMapBounds: true,
-        boundsExceededMessage:      "Sei troppo lontano da Palermo. Ti riportiamo nei limiti della mappa.",
+        boundsExceededMessage:      "Sei troppo lontano da Palermo e provincia. Ti riportiamo nei limiti della mappa.",
 
         // use this zoom radius if starting at nearby location
         nearbyZoomRadius:           "2000 meters",

@@ -15,7 +15,8 @@ total_not_padded="_not_padded.xml"
 ./transforms/scripts/03_-_replace_bad_telephones.sh $total_not_padded
 
 # 4 apply global stylesheet (padding, icon, etc)
-xslt_sheet="total-transform_stylesheet.xslt"
+#xslt_sheet="total-transform_stylesheet.xslt"
+xslt_sheet="total-transform_stylesheet__ft_icons.xslt"
 xmlstarlet tr transforms/xslt/${xslt_sheet} $total_not_padded > $OUT
 
 # 5 generate csv

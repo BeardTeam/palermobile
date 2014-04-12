@@ -4,13 +4,19 @@
 
 OUT=$1
 
-# 1 
-transforms/scripts/apply_single_stylesheets.sh
+# 1 apply stylesheet for each dataset
+transforms/scripts/01_-_apply_single_stylesheets.sh
 
-# 2
-./transforms/scripts/concat.sh totale_grezzo.xml
+# 2 - concatenate all
+total_not_padded="_not_padded.xml"
+./transforms/scripts/02_-_concat.sh $total_not_padded 
 
-# 3 
-xmlstarlet tr transforms/02_-_transform_stylesheet_to_apply_to_total.xslt totale_grezzo.xml > $OUT
+# 3 - replace bad telephone number
+./transforms/scripts/03_-_replace_bad_telephones.sh $total_not_padded
 
-#> totale_mancante03_e_visitabili_2.xml
+# 4 apply global stylesheet (padding, icon, etc)
+xslt_sheet="total-transform_stylesheet.xslt"
+xmlstarlet tr transforms/xslt/${xslt_sheet} $total_not_padded > $OUT
+
+# 5 generate csv
+java -cp ../appalermo-java/bin net.iubris.appalermo.converter.xml.XMLToCSV $OUT

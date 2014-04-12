@@ -3,7 +3,7 @@
   <luogo>
     <id>69</id>
     <nome>Grand Hotel Villa Igiea Hilton Palermo</nome>
-    <indirizzo>Grand Hotel Villa Igiea Hilton Palermo</indirizzo>
+    <indirizzo>Salita Belmonte, 43</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>0916312111 - 800179217</telefono>
@@ -12,7 +12,7 @@
     <email>vgiglio@amthotels.it - villa-igiea@amthotels.it</email>
     <web>http://www.villa-igiea.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>5</stelle>
       <camere>124</camere>
@@ -26,7 +26,7 @@
   <luogo>
     <id>73</id>
     <nome>Hotel Villa Archirafi</nome>
-    <indirizzo>Hotel Villa Archirafi</indirizzo>
+    <indirizzo>Via Lincoln, 30</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
     <telefono>0916168827</telefono>
@@ -35,7 +35,7 @@
     <email>villaarchirafi@libero.it</email>
     <web>http://www.villaarchirafi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -49,7 +49,7 @@
   <luogo>
     <id>74</id>
     <nome>Hotel Moderno</nome>
-    <indirizzo>Hotel Moderno</indirizzo>
+    <indirizzo>Via Roma , 276</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091588683</telefono>
@@ -58,7 +58,7 @@
     <email>info@hotelmodernopa.com</email>
     <web>http://www.hotelmodernopa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -72,7 +72,7 @@
   <luogo>
     <id>75</id>
     <nome>Hotel Ariston</nome>
-    <indirizzo>Hotel Ariston</indirizzo>
+    <indirizzo>Via Mariano Stabile, 139</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091332434</telefono>
@@ -81,7 +81,7 @@
     <email>info@aristonpalermo.it - info@bbaristonpalermo.com</email>
     <web>http://www.aristonpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -95,7 +95,7 @@
   <luogo>
     <id>76</id>
     <nome>Hotel Italia</nome>
-    <indirizzo>Hotel Italia</indirizzo>
+    <indirizzo>Via Roma, 62</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916169320</telefono>
@@ -104,7 +104,7 @@
     <email>hotelitaly@email.it</email>
     <web>http://www.hotelitalia-palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -118,7 +118,7 @@
   <luogo>
     <id>77</id>
     <nome>Hotel Alessandra</nome>
-    <indirizzo>Hotel Alessandra</indirizzo>
+    <indirizzo>Via Divisi, 99</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916173958 - 0916174325</telefono>
@@ -127,7 +127,7 @@
     <email>informazioni@hotel-alessandra.it - direzione@hotel-alessandra.it</email>
     <web>http://www.hotel-alessandra.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -141,7 +141,7 @@
   <luogo>
     <id>78</id>
     <nome>Hotel Orientale</nome>
-    <indirizzo>Hotel Orientale</indirizzo>
+    <indirizzo>Via Maqueda, 26</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916165727 - 0916163506</telefono>
@@ -150,7 +150,7 @@
     <email>prenotazioni@albergoorientale.191.it</email>
     <web>http://www.albergoorientale.191.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -164,7 +164,7 @@
   <luogo>
     <id>81</id>
     <nome>Hotel Libertà</nome>
-    <indirizzo>Hotel Libertà</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091321911</telefono>
@@ -173,7 +173,7 @@
     <email/>
     <web>http://www.libertahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -187,7 +187,7 @@
   <luogo>
     <id>84</id>
     <nome>Hotel Verdi</nome>
-    <indirizzo>Hotel Verdi</indirizzo>
+    <indirizzo>Via Maqueda, 417</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091584928</telefono>
@@ -196,7 +196,7 @@
     <email>info@albergoverdi.it</email>
     <web>http://www.albergoverdi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -210,7 +210,7 @@
   <luogo>
     <id>86</id>
     <nome>Hotel Rainbow</nome>
-    <indirizzo>Hotel Rainbow</indirizzo>
+    <indirizzo>P.le Ungheria, 84</indirizzo>
     <cap>90144</cap>
     <citta>Palermo</citta>
     <telefono>091582867</telefono>
@@ -219,7 +219,7 @@
     <email>info@hotelrainbow.it</email>
     <web>http://www.hotelrainbow.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -233,7 +233,7 @@
   <luogo>
     <id>88</id>
     <nome>Hotel Madonia</nome>
-    <indirizzo>Hotel Madonia</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091333672 - 0916113532</telefono>
@@ -242,7 +242,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -256,7 +256,7 @@
   <luogo>
     <id>89</id>
     <nome>Hotel Florio</nome>
-    <indirizzo>Hotel Florio</indirizzo>
+    <indirizzo>Via Principe di Belmonte, 33</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916090852</telefono>
@@ -265,7 +265,7 @@
     <email>info@hotelflorio.net</email>
     <web>http://www.hotelflorio.info</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -279,7 +279,7 @@
   <luogo>
     <id>91</id>
     <nome>Hotel Boston</nome>
-    <indirizzo>Hotel Boston</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091580234</telefono>
@@ -288,7 +288,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -302,7 +302,7 @@
   <luogo>
     <id>282</id>
     <nome>Cavour</nome>
-    <indirizzo>Cavour</indirizzo>
+    <indirizzo>Via Alessandro Manzoni, 11</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916162759</telefono>
@@ -311,7 +311,7 @@
     <email>albergocavour@virgilio.it</email>
     <web>http://www.albergocavour.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>9</camere>
@@ -325,7 +325,7 @@
   <luogo>
     <id>284</id>
     <nome>Corona</nome>
-    <indirizzo>Corona</indirizzo>
+    <indirizzo>Via Roma, 118</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916162340</telefono>
@@ -334,7 +334,7 @@
     <email>totobenigno@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>11</camere>
@@ -348,7 +348,7 @@
   <luogo>
     <id>286</id>
     <nome>Sicilia</nome>
-    <indirizzo>Sicilia</indirizzo>
+    <indirizzo>Via Divisi, 99</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916168460</telefono>
@@ -357,7 +357,7 @@
     <email>info@hotelsiciliapalermo.it</email>
     <web>http://www.hotelsiciliapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>15</camere>
@@ -371,7 +371,7 @@
   <luogo>
     <id>85</id>
     <nome>Hotel Gardenia</nome>
-    <indirizzo>Hotel Gardenia</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091333732</telefono>
@@ -380,7 +380,7 @@
     <email>gardeniahotel@gardeniahotel.com</email>
     <web>http://www.gardeniahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -394,7 +394,7 @@
   <luogo>
     <id>17</id>
     <nome>Hotel Serena</nome>
-    <indirizzo>Hotel Serena</indirizzo>
+    <indirizzo>Via Mariano Stabile, 139</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916115144</telefono>
@@ -403,7 +403,7 @@
     <email>info@amarcordhotel.it</email>
     <web>http://www.amarcordhotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>8</camere>
@@ -417,7 +417,7 @@
   <luogo>
     <id>28</id>
     <nome>Conchiglia D'Oro</nome>
-    <indirizzo>Conchiglia D'Oro</indirizzo>
+    <indirizzo>Viale Cloe, 9</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091450032</telefono>
@@ -426,7 +426,7 @@
     <email>concoro@sicilia.com</email>
     <web>http://www.hotelconchigliadoro.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>
@@ -440,7 +440,7 @@
   <luogo>
     <id>32</id>
     <nome>Grand Hotel Federico II</nome>
-    <indirizzo>Grand Hotel Federico II</indirizzo>
+    <indirizzo>Via Principe di Granatelli, 60</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0917495052</telefono>
@@ -449,7 +449,7 @@
     <email>info@grandhotelfedericoii.it</email>
     <web>http://www.grandhotelfedericoii.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>64</camere>
@@ -463,7 +463,7 @@
   <luogo>
     <id>36</id>
     <nome>Hotel Del Centro</nome>
-    <indirizzo>Hotel Del Centro</indirizzo>
+    <indirizzo>Via Roma, 72</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916170376</telefono>
@@ -472,7 +472,7 @@
     <email>info@hoteldelcentro.it</email>
     <web>http://www.hoteldelcentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -486,7 +486,7 @@
   <luogo>
     <id>37</id>
     <nome>Elite Hotel</nome>
-    <indirizzo>Elite Hotel</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091329318</telefono>
@@ -495,7 +495,7 @@
     <email>info@hotelelite.info</email>
     <web>http://www.hotelelitepalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>17</camere>
@@ -509,7 +509,7 @@
   <luogo>
     <id>43</id>
     <nome>Joli Hotel</nome>
-    <indirizzo>Joli Hotel</indirizzo>
+    <indirizzo>Via Michele Amari, 11</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916111765</telefono>
@@ -518,7 +518,7 @@
     <email>info@hoteljoli.com - pietro.silano@hoteljoli.com</email>
     <web>http://www.hoteljoli.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>30</camere>
@@ -532,7 +532,7 @@
   <luogo>
     <id>52</id>
     <nome>Idea Hotel</nome>
-    <indirizzo>Idea Hotel</indirizzo>
+    <indirizzo>Viale Regione Siciliana, 2620</indirizzo>
     <cap>90145</cap>
     <citta>Palermo</citta>
     <telefono>0916983111</telefono>
@@ -541,7 +541,7 @@
     <email>palermo@ideahotel.it - frontoffice.palermo@hotelidea.it</email>
     <web>http://www.ideahotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -555,7 +555,7 @@
   <luogo>
     <id>53</id>
     <nome>Nh Jolly Hotel Palermo</nome>
-    <indirizzo>Nh Jolly Hotel Palermo</indirizzo>
+    <indirizzo>Foro Italico, 22</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916165090 - 800017703</telefono>
@@ -564,7 +564,7 @@
     <email>nhpalermo@nh-hotels.com</email>
     <web>http://www.nh-hotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>237</camere>
@@ -578,7 +578,7 @@
   <luogo>
     <id>59</id>
     <nome>Politeama Palace Hotel</nome>
-    <indirizzo>Politeama Palace Hotel</indirizzo>
+    <indirizzo>Piazza Ruggiero Settimo, 15</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091322777</telefono>
@@ -587,7 +587,7 @@
     <email>posta@hotelpoliteama.it - giovanna.bonsignore@hotelpoliteama.it</email>
     <web>http://www.hotelpoliteama.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -601,7 +601,7 @@
   <luogo>
     <id>63</id>
     <nome>San Paolo Palace Hotel</nome>
-    <indirizzo>San Paolo Palace Hotel</indirizzo>
+    <indirizzo>Via Messina Marine, 91</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
     <telefono>0916211112</telefono>
@@ -610,7 +610,7 @@
     <email>hotel@sanpaolopalace.it</email>
     <web>http://www.sanpaolopalace.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>290</camere>
@@ -624,7 +624,7 @@
   <luogo>
     <id>64</id>
     <nome>Splendid Hotel La Torre</nome>
-    <indirizzo>Splendid Hotel La Torre</indirizzo>
+    <indirizzo>Via Piano Gallo, 11</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091450222 - 800236118</telefono>
@@ -633,7 +633,7 @@
     <email>latorre@latorre.com</email>
     <web>http://www.latorrehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -647,7 +647,7 @@
   <luogo>
     <id>66</id>
     <nome>Torreata residence Hotel</nome>
-    <indirizzo>Torreata residence Hotel</indirizzo>
+    <indirizzo>Via del Bersagliere, 21</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>091540049</telefono>
@@ -656,7 +656,7 @@
     <email>info@torreata.it</email>
     <web>http://www.torreata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>54</camere>
@@ -670,7 +670,7 @@
   <luogo>
     <id>68</id>
     <nome>Villa d'Amato</nome>
-    <indirizzo>Villa d'Amato</indirizzo>
+    <indirizzo>Via Messina Marine, 178/180</indirizzo>
     <cap>90121</cap>
     <citta>Palermo</citta>
     <telefono>0916212767</telefono>
@@ -679,7 +679,7 @@
     <email>info@hotelvilladamato.it</email>
     <web>http://www.hotelvilladamato.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>37</camere>
@@ -693,7 +693,7 @@
   <luogo>
     <id>72</id>
     <nome>Villa Bonocore Maletto</nome>
-    <indirizzo>Villa Bonocore Maletto</indirizzo>
+    <indirizzo>Via Salvatore Minutilla, 3</indirizzo>
     <cap>90147</cap>
     <citta>Palermo</citta>
     <telefono>091244100</telefono>
@@ -702,7 +702,7 @@
     <email>info@villabonocoremaletto.it</email>
     <web>http://www.villabonocoremaletto.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>15</camere>
@@ -716,7 +716,7 @@
   <luogo>
     <id>80</id>
     <nome>Hotel Cortese</nome>
-    <indirizzo>Hotel Cortese</indirizzo>
+    <indirizzo>Via Scarparelli, 16</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091331722</telefono>
@@ -725,7 +725,7 @@
     <email>htcortese@iol.it</email>
     <web>http://www.hotelcortese.info</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -739,7 +739,7 @@
   <luogo>
     <id>87</id>
     <nome>Hotel Gaia</nome>
-    <indirizzo>Hotel Gaia</indirizzo>
+    <indirizzo>Via Onorato,13</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091583011</telefono>
@@ -748,7 +748,7 @@
     <email>palermohotelgaia@yahoo.it</email>
     <web>http://www.palermohotelgaia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -762,7 +762,7 @@
   <luogo>
     <id>19</id>
     <nome>Athenaeum</nome>
-    <indirizzo>Athenaeum</indirizzo>
+    <indirizzo>Via Giannettino, 4</indirizzo>
     <cap>90128</cap>
     <citta>Palermo</citta>
     <telefono>0916523529</telefono>
@@ -771,7 +771,7 @@
     <email>info@albergoathenaeum.it</email>
     <web>http://www.albergoathenaeum.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -785,7 +785,7 @@
   <luogo>
     <id>20</id>
     <nome>Artemisia Palace Hotel</nome>
-    <indirizzo>Artemisia Palace Hotel</indirizzo>
+    <indirizzo>Via Roma, 499</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916090612 - 0916095766</telefono>
@@ -794,7 +794,7 @@
     <email>info@artemisiapalacehotel.it</email>
     <web>http://www.artemisiapalacehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>19</camere>
@@ -808,7 +808,7 @@
   <luogo>
     <id>27</id>
     <nome>Centrale Palace Hotel</nome>
-    <indirizzo>Centrale Palace Hotel</indirizzo>
+    <indirizzo>Corso Vittorio Emanuele, 327</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091336666 - 800820080</telefono>
@@ -817,7 +817,7 @@
     <email>centrale@angalahotels.it</email>
     <web>http://www.angalahotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>5</stelle>
       <camere>104</camere>
@@ -831,7 +831,7 @@
   <luogo>
     <id>29</id>
     <nome>Cristal Palace Hotel</nome>
-    <indirizzo>Cristal Palace Hotel</indirizzo>
+    <indirizzo>Via Roma, 477</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916123829 - 800822269</telefono>
@@ -840,7 +840,7 @@
     <email>direttore@hotelcristalpalace.it - info@hotelcristalpalace.it</email>
     <web>http://www.hotelcristalpalace.net</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>86</camere>
@@ -854,7 +854,7 @@
   <luogo>
     <id>31</id>
     <nome>Grand Hotel et Des Palmes</nome>
-    <indirizzo>Grand Hotel et Des Palmes</indirizzo>
+    <indirizzo>Via Roma, 398</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0916028111</telefono>
@@ -863,7 +863,7 @@
     <email>des-palmes@amthotels.it</email>
     <web>http://www.grandhoteldespalmes.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>183</camere>
@@ -877,7 +877,7 @@
   <luogo>
     <id>34</id>
     <nome>Grand Hotel Wagner</nome>
-    <indirizzo>Grand Hotel Wagner</indirizzo>
+    <indirizzo>Via R. Wagner, 2</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091336572</telefono>
@@ -886,7 +886,7 @@
     <email>direzione@grandhotelwagner.it - info@grandhotelwagner.it</email>
     <web>http://www.grandhotelwagner.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>5</stelle>
       <camere>61</camere>
@@ -900,7 +900,7 @@
   <luogo>
     <id>39</id>
     <nome>Hotel Florio Operà</nome>
-    <indirizzo>Hotel Florio Operà</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091662 9004</telefono>
@@ -909,7 +909,7 @@
     <email>booking@hotelflorioopera.it</email>
     <web>http://www.hotelflorioopera.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -923,7 +923,7 @@
   <luogo>
     <id>48</id>
     <nome>Hotel Posta</nome>
-    <indirizzo>Hotel Posta</indirizzo>
+    <indirizzo>Via A. Gagini, 77</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091587338</telefono>
@@ -932,7 +932,7 @@
     <email>info@hotelpostapalermo.it</email>
     <web>http://www.hotelpostapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>30</camere>
@@ -946,7 +946,7 @@
   <luogo>
     <id>49</id>
     <nome>Hotel Tonic</nome>
-    <indirizzo>Hotel Tonic</indirizzo>
+    <indirizzo>Via Mariano Stabile, 126</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091581754 - 0916055308</telefono>
@@ -955,7 +955,7 @@
     <email>info@hoteltonic.it</email>
     <web>http://www.hoteltonic.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>40</camere>
@@ -969,7 +969,7 @@
   <luogo>
     <id>50</id>
     <nome>Hotel Vecchio Borgo</nome>
-    <indirizzo>Hotel Vecchio Borgo</indirizzo>
+    <indirizzo>Via Quintinio Sella, 1/7</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916118330</telefono>
@@ -978,7 +978,7 @@
     <email>vecchioborgo@ghshotels.it - bellavista.m@ghshotels.it</email>
     <web>http://www.ghshotels.it/vecchioborgo</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>32</camere>
@@ -992,7 +992,7 @@
   <luogo>
     <id>15</id>
     <nome>Addaura Hotel residence Congressi</nome>
-    <indirizzo>Addaura Hotel residence Congressi</indirizzo>
+    <indirizzo>Lungomare Cristoforo Colombo, 4452</indirizzo>
     <cap>90149</cap>
     <citta>Palermo - Addaura</citta>
     <telefono>0916842222</telefono>
@@ -1001,7 +1001,7 @@
     <email>director@addaura.it - hotel@addaura.it</email>
     <web>http://www.addaura.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>
@@ -1015,7 +1015,7 @@
   <luogo>
     <id>41</id>
     <nome>Garibaldi Hotel Al Politeama</nome>
-    <indirizzo>Garibaldi Hotel Al Politeama</indirizzo>
+    <indirizzo>Via Emerico Amari, 146</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916017111</telefono>
@@ -1024,7 +1024,7 @@
     <email>bellavista.m@ghshotels.it</email>
     <web>http://www.ghshotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>71</camere>
@@ -1038,7 +1038,7 @@
   <luogo>
     <id>44</id>
     <nome>Hotel Letizia</nome>
-    <indirizzo>Hotel Letizia</indirizzo>
+    <indirizzo>Via Bottai, 30</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091589110</telefono>
@@ -1047,7 +1047,7 @@
     <email>ruslet@hotelletizia.com</email>
     <web>http://www.hotelletizia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>13</camere>
@@ -1061,7 +1061,7 @@
   <luogo>
     <id>54</id>
     <nome>Massimo Plaza Hotel</nome>
-    <indirizzo>Massimo Plaza Hotel</indirizzo>
+    <indirizzo>Via Maqueda, 437</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091325657</telefono>
@@ -1070,7 +1070,7 @@
     <email>booking@massimoplazahotel.com</email>
     <web>http://www.massimoplazahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>11</camere>
@@ -1084,7 +1084,7 @@
   <luogo>
     <id>57</id>
     <nome>Mondello Palace Hotel</nome>
-    <indirizzo>Mondello Palace Hotel</indirizzo>
+    <indirizzo>Viale Principe di Scalea,</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091450001</telefono>
@@ -1093,7 +1093,7 @@
     <email>info@mondellopalacehotel.it</email>
     <web>http://www.mondellopalacehotel.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>84</camere>
@@ -1107,7 +1107,7 @@
   <luogo>
     <id>90</id>
     <nome>Hotel Sausele</nome>
-    <indirizzo>Hotel Sausele</indirizzo>
+    <indirizzo>Via Vincenzo Errante, 12</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0916167524 - 0916161308</telefono>
@@ -1116,7 +1116,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -1130,7 +1130,7 @@
   <luogo>
     <id>92</id>
     <nome>Hotel Concordia</nome>
-    <indirizzo>Hotel Concordia</indirizzo>
+    <indirizzo>Via Roma, 72</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916169062</telefono>
@@ -1139,7 +1139,7 @@
     <email>info@hotelconcordiapalermo.it</email>
     <web>http://www.hotelconcordiapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1153,7 +1153,7 @@
   <luogo>
     <id>21</id>
     <nome>Astoria Palace Hotel</nome>
-    <indirizzo>Astoria Palace Hotel</indirizzo>
+    <indirizzo>Via Monte Pellegrino, 62</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>800893344 - 0916281111</telefono>
@@ -1162,7 +1162,7 @@
     <email>booking@ghshotels.it - astoria@ghshotels.it</email>
     <web>http://www.ghshotels.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>326</camere>
@@ -1176,7 +1176,7 @@
   <luogo>
     <id>30</id>
     <nome>Excelsior Hilton Palermo</nome>
-    <indirizzo>Excelsior Hilton Palermo</indirizzo>
+    <indirizzo>Via Marchese Ugo, 3</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0917909001</telefono>
@@ -1185,7 +1185,7 @@
     <email>res.excelsiorpalermo@hilton.com</email>
     <web>http://www.excelsior-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>119</camere>
@@ -1199,7 +1199,7 @@
   <luogo>
     <id>33</id>
     <nome>Grand Hotel Piazza Borsa</nome>
-    <indirizzo>Grand Hotel Piazza Borsa</indirizzo>
+    <indirizzo>Via dei Cartari, 18</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091320075 - 0916116700</telefono>
@@ -1208,7 +1208,7 @@
     <email>piazzaborsa@piazzaborsa.com</email>
     <web>http://www.piazzaborsa.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>127</camere>
@@ -1222,7 +1222,7 @@
   <luogo>
     <id>35</id>
     <nome>Hotel Columbia Classic</nome>
-    <indirizzo>Hotel Columbia Classic</indirizzo>
+    <indirizzo>Via del Celso, 31</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916113777</telefono>
@@ -1231,7 +1231,7 @@
     <email>info@hotelcolumbiapalermo.com</email>
     <web>http://www.hotelcolumbiapalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1245,7 +1245,7 @@
   <luogo>
     <id>46</id>
     <nome>Hotel Plaza Opéra</nome>
-    <indirizzo>Hotel Plaza Opéra</indirizzo>
+    <indirizzo>Via N. Gallo, 2</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0913819026</telefono>
@@ -1254,7 +1254,7 @@
     <email>info@hotelplazaopera.com - ivano.ferazzoli@thehotelsphere.com</email>
     <web>http://www.hotelplazaopera.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1268,7 +1268,7 @@
   <luogo>
     <id>47</id>
     <nome>Hotel Porta Felice</nome>
-    <indirizzo>Hotel Porta Felice</indirizzo>
+    <indirizzo>Via Butera, 35/37</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916175678</telefono>
@@ -1277,7 +1277,7 @@
     <email>daniela.fusi@hotelportafelice.it - info@hotelportafelice.it</email>
     <web>http://www.hotelportafelice.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1291,7 +1291,7 @@
   <luogo>
     <id>55</id>
     <nome>Mediterraneo</nome>
-    <indirizzo>Mediterraneo</indirizzo>
+    <indirizzo>Via Rosolino Pilo, 43</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091581133</telefono>
@@ -1300,7 +1300,7 @@
     <email>info@hotelmediterraneopa.com - albergomediterraneo@libero.it</email>
     <web>http://www.hotelmediterraneopa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1314,7 +1314,7 @@
   <luogo>
     <id>58</id>
     <nome>Hotel Palazzo Sitano</nome>
-    <indirizzo>Hotel Palazzo Sitano</indirizzo>
+    <indirizzo>Corso Vittorio Emanuele, 114</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916119880</telefono>
@@ -1323,7 +1323,7 @@
     <email>info@hotelpalazzositano.it - booking@palazzositano.it</email>
     <web>http://www.palazzositano.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1337,7 +1337,7 @@
   <luogo>
     <id>60</id>
     <nome>Ibis Style</nome>
-    <indirizzo>Ibis Style</indirizzo>
+    <indirizzo>Via F. Crispi, 228</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091580733</telefono>
@@ -1346,7 +1346,7 @@
     <email>president@shr.it - info@presidenthotelpalermo.it</email>
     <web>http://www.presidenthotelpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>129</camere>
@@ -1360,7 +1360,7 @@
   <luogo>
     <id>67</id>
     <nome>Ucciardhome Hotel</nome>
-    <indirizzo>Ucciardhome Hotel</indirizzo>
+    <indirizzo>Via E. Albanese, 34</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091348426</telefono>
@@ -1369,7 +1369,7 @@
     <email>info@hotelucciardhome.com</email>
     <web>http://www.hotelucciardhome.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>11</camere>
@@ -1383,7 +1383,7 @@
   <luogo>
     <id>70</id>
     <nome>Marbela residence</nome>
-    <indirizzo>Marbela residence</indirizzo>
+    <indirizzo>Via Salvatore Puglisi, 9</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0916241111</telefono>
@@ -1392,7 +1392,7 @@
     <email>info@marbelaresidence.com</email>
     <web>http://www.marbelaresidence.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1406,7 +1406,7 @@
   <luogo>
     <id>71</id>
     <nome>Residenza d'Aragona</nome>
-    <indirizzo>Residenza d'Aragona</indirizzo>
+    <indirizzo>Via Ottavio d'Aragona, 25</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916622222</telefono>
@@ -1415,7 +1415,7 @@
     <email>info@residenzadaragona.it</email>
     <web>http://www.residenzadaragona.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>20</camere>
@@ -1429,7 +1429,7 @@
   <luogo>
     <id>82</id>
     <nome>Hotel Regina</nome>
-    <indirizzo>Hotel Regina</indirizzo>
+    <indirizzo>Via Vittorio Emanuele, 316</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916114216</telefono>
@@ -1438,7 +1438,7 @@
     <email>htregina@gmail.com</email>
     <web>http://www.hotelregina.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1452,7 +1452,7 @@
   <luogo>
     <id>83</id>
     <nome>Hotel Vittoria</nome>
-    <indirizzo>Hotel Vittoria</indirizzo>
+    <indirizzo>Via Maqueda, 8</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916162437</telefono>
@@ -1461,7 +1461,7 @@
     <email>albergovittoria@gmail.com</email>
     <web>http://www.hotelvittoriapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -1475,7 +1475,7 @@
   <luogo>
     <id>16</id>
     <nome>Best Western Ai Cavalieri</nome>
-    <indirizzo>Best Western Ai Cavalieri</indirizzo>
+    <indirizzo>Via Sant'Oliva, 8</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>091583282 - 800820080</telefono>
@@ -1484,7 +1484,7 @@
     <email>info@aicavalierihotel.it - aicavalieri.pa@bestwestern.it</email>
     <web>http://www.aicavalierihotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>39</camere>
@@ -1498,7 +1498,7 @@
   <luogo>
     <id>18</id>
     <nome>Ambasciatori Palermo Hotel</nome>
-    <indirizzo>Ambasciatori Palermo Hotel</indirizzo>
+    <indirizzo>Via Roma, 111</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916166881</telefono>
@@ -1507,7 +1507,7 @@
     <email>booking@ambasciatorihotelpalermo.com</email>
     <web>http://www.ambasciatorihotelpalermo.net</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>24</camere>
@@ -1521,7 +1521,7 @@
   <luogo>
     <id>22</id>
     <nome>Baglio Conca D'Oro</nome>
-    <indirizzo>Baglio Conca D'Oro</indirizzo>
+    <indirizzo>Via Aquino, 19 c/d</indirizzo>
     <cap>90126</cap>
     <citta>Palermo</citta>
     <telefono>0916406286 - 0916408710</telefono>
@@ -1530,7 +1530,7 @@
     <email>info@baglioconcadoro.it</email>
     <web>http://www.hotelbaglioconcadoro.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1544,7 +1544,7 @@
   <luogo>
     <id>23</id>
     <nome>Bel 3 Hotel</nome>
-    <indirizzo>Bel 3 Hotel</indirizzo>
+    <indirizzo>Via Ruffo di Calabria, 20</indirizzo>
     <cap>90137</cap>
     <citta>Palermo - Baida</citta>
     <telefono>091223560</telefono>
@@ -1553,7 +1553,7 @@
     <email>info@bel3.com</email>
     <web>http://www.bel3.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>67</camere>
@@ -1567,7 +1567,7 @@
   <luogo>
     <id>24</id>
     <nome>Bellevue del Golfo</nome>
-    <indirizzo>Bellevue del Golfo</indirizzo>
+    <indirizzo>Via Plauto, 40</indirizzo>
     <cap>90148</cap>
     <citta>Palermo - Sferracavallo</citta>
     <telefono>091530083 - 091530618</telefono>
@@ -1576,7 +1576,7 @@
     <email>hotelbellevue@msn.com</email>
     <web>http://www.hotelbellevuepalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>40</camere>
@@ -1590,7 +1590,7 @@
   <luogo>
     <id>26</id>
     <nome>Casena dei Colli Hotel residence</nome>
-    <indirizzo>Casena dei Colli Hotel residence</indirizzo>
+    <indirizzo>Via Villa Rosato, 20/22</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>0916889771</telefono>
@@ -1599,7 +1599,7 @@
     <email>info@casenadeicolli.it - direzione@casenadeicolli.it</email>
     <web>http://www.casenadeicolli.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>93</camere>
@@ -1613,7 +1613,7 @@
   <luogo>
     <id>38</id>
     <nome>Hotel Europa</nome>
-    <indirizzo>Hotel Europa</indirizzo>
+    <indirizzo>Via Agrigento, 3</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0916256323</telefono>
@@ -1622,7 +1622,7 @@
     <email>info@hoteleuropapalermo.it</email>
     <web>http://www.hoteleuropapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>73</camere>
@@ -1636,7 +1636,7 @@
   <luogo>
     <id>42</id>
     <nome>Giardino Inglese Hotel</nome>
-    <indirizzo>Giardino Inglese Hotel</indirizzo>
+    <indirizzo>Via Libertà, 63</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0916251295</telefono>
@@ -1645,7 +1645,7 @@
     <email>hotelgiardinoinglese@resigest.com</email>
     <web>http://www.hoteldelgiardinoinglese.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>25</camere>
@@ -1659,7 +1659,7 @@
   <luogo>
     <id>45</id>
     <nome>Orleans Hotel</nome>
-    <indirizzo>Orleans Hotel</indirizzo>
+    <indirizzo>via Monfenera, 106</indirizzo>
     <cap>90128</cap>
     <citta>Palermo</citta>
     <telefono>0916688940 - 0916570611</telefono>
@@ -1668,7 +1668,7 @@
     <email>info@casamarconi.it</email>
     <web>http://www.hotelorleans.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1682,7 +1682,7 @@
   <luogo>
     <id>51</id>
     <nome>Hotel Villa Esperia</nome>
-    <indirizzo>Hotel Villa Esperia</indirizzo>
+    <indirizzo>Viale Margherita di Savoia, 53</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916840717</telefono>
@@ -1691,7 +1691,7 @@
     <email>info@hotelvillaesperia.it</email>
     <web>http://www.hotelvillaesperia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>22</camere>
@@ -1705,7 +1705,7 @@
   <luogo>
     <id>56</id>
     <nome>Mercure Palermo Centro</nome>
-    <indirizzo>Mercure Palermo Centro</indirizzo>
+    <indirizzo>Via Mariano Stabile, 112</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091324911</telefono>
@@ -1714,7 +1714,7 @@
     <email>direzione@mercurepa.com - booking@mercurepa.com</email>
     <web>http://www.mercure.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>93</camere>
@@ -1728,7 +1728,7 @@
   <luogo>
     <id>61</id>
     <nome>Principe di Villafranca</nome>
-    <indirizzo>Principe di Villafranca</indirizzo>
+    <indirizzo>Via G. Turrisi Colonna, 4</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0916118523</telefono>
@@ -1737,7 +1737,7 @@
     <email>info@principedivillafranca.it</email>
     <web>http://www.principedivillafranca.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -1751,7 +1751,7 @@
   <luogo>
     <id>62</id>
     <nome>Quinto Canto</nome>
-    <indirizzo>Quinto Canto</indirizzo>
+    <indirizzo>Via Vittorio Emanuele, 310</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091584913</telefono>
@@ -1760,7 +1760,7 @@
     <email>info@quintocantohotel.com</email>
     <web>http://www.quintocantohotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>hotel</tipi_specifici>
+    <tipi-specifici>hotel</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere>20</camere>
@@ -1774,7 +1774,7 @@
   <luogo>
     <id>183</id>
     <nome>Cult'n sea</nome>
-    <indirizzo>Cult'n sea</indirizzo>
+    <indirizzo>Via San Sebastiano, 13</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0915018547</telefono>
@@ -1783,7 +1783,7 @@
     <email>cultnseapalermo@hotmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -1797,7 +1797,7 @@
   <luogo>
     <id>187</id>
     <nome>Della Lungarini</nome>
-    <indirizzo>Della Lungarini</indirizzo>
+    <indirizzo>Via T.R.1, 7</indirizzo>
     <cap>90100</cap>
     <citta>Palermo</citta>
     <telefono>0917573085</telefono>
@@ -1806,7 +1806,7 @@
     <email>info@lungarini.com</email>
     <web>http://www.dellalungarini.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -1820,7 +1820,7 @@
   <luogo>
     <id>190</id>
     <nome>Dolce dormire</nome>
-    <indirizzo>Dolce dormire</indirizzo>
+    <indirizzo>P.zza G. Amendola, 43</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0915080389</telefono>
@@ -1829,7 +1829,7 @@
     <email>dolcedormirepalermo@hotmail.com</email>
     <web>http://www.dolcedormirepalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -1843,7 +1843,7 @@
   <luogo>
     <id>196</id>
     <nome>Giuspa</nome>
-    <indirizzo>Giuspa</indirizzo>
+    <indirizzo>Via Valerio Villareale, 28</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0918889514</telefono>
@@ -1852,7 +1852,7 @@
     <email>giuspa_house@yahoo.com</email>
     <web>http://www.b-bgiuspa.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -1866,7 +1866,7 @@
   <luogo>
     <id>228</id>
     <nome>Montereale</nome>
-    <indirizzo>Montereale</indirizzo>
+    <indirizzo>C.so Calatafimi, 1096</indirizzo>
     <cap>90131</cap>
     <citta>Palermo</citta>
     <telefono>0916688066</telefono>
@@ -1875,7 +1875,7 @@
     <email>mauro64@neomedia.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -1889,7 +1889,7 @@
   <luogo>
     <id>245</id>
     <nome>Palermo Centro</nome>
-    <indirizzo>Palermo Centro</indirizzo>
+    <indirizzo>P.zza Giulio Cesare, 44</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -1898,7 +1898,7 @@
     <email>info@palermobedandbreakfastcentro.it</email>
     <web>http://www.palermobedandbreakfastcentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -1912,7 +1912,7 @@
   <luogo>
     <id>246</id>
     <nome>Palermo Felix</nome>
-    <indirizzo>Palermo Felix</indirizzo>
+    <indirizzo>Via Niccolò Machiavelli</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0912530421</telefono>
@@ -1921,7 +1921,7 @@
     <email>info@bbpalermofelix.com</email>
     <web>http://www.bbpalermofelix.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -1935,7 +1935,7 @@
   <luogo>
     <id>266</id>
     <nome>Villa Antonietta</nome>
-    <indirizzo>Villa Antonietta</indirizzo>
+    <indirizzo>Via Principe di Pantelleria, 12</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>0916884403</telefono>
@@ -1944,7 +1944,7 @@
     <email>info@villantonietta.it</email>
     <web>http://www.villantonietta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -1958,7 +1958,7 @@
   <luogo>
     <id>268</id>
     <nome>Villa Maurigi</nome>
-    <indirizzo>Villa Maurigi</indirizzo>
+    <indirizzo>Via Agnetta, 91</indirizzo>
     <cap>90126</cap>
     <citta>Palermo</citta>
     <telefono>091331101</telefono>
@@ -1967,7 +1967,7 @@
     <email>a.tioli@tiscali.it</email>
     <web>http://www.villamaurigi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -1981,7 +1981,7 @@
   <luogo>
     <id>269</id>
     <nome>Villa Partanna</nome>
-    <indirizzo>Villa Partanna</indirizzo>
+    <indirizzo>Via Asilo infantile Sella, 24</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916840509 - 091451610</telefono>
@@ -1990,7 +1990,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2004,7 +2004,7 @@
   <luogo>
     <id>270</id>
     <nome>White</nome>
-    <indirizzo>White</indirizzo>
+    <indirizzo>Via Rosario Gregorio, 36</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
     <telefono>0915506119</telefono>
@@ -2013,7 +2013,7 @@
     <email>info@bbwhite.it</email>
     <web>http://www.bbwhite.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2027,7 +2027,7 @@
   <luogo>
     <id>271</id>
     <nome>Palermo Mare</nome>
-    <indirizzo>Palermo Mare</indirizzo>
+    <indirizzo>Via Torretta, 7</indirizzo>
     <cap>90147</cap>
     <citta>Palermo</citta>
     <telefono>0919740078</telefono>
@@ -2036,7 +2036,7 @@
     <email>palermomare@live.it</email>
     <web>http://www.palermomare.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2050,7 +2050,7 @@
   <luogo>
     <id>197</id>
     <nome>Gli Aristogatti</nome>
-    <indirizzo>Gli Aristogatti</indirizzo>
+    <indirizzo>Via Bari, 18</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0912736785</telefono>
@@ -2059,7 +2059,7 @@
     <email>info@gliaristogatti.com</email>
     <web>http://www.gliaristogatti.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2073,7 +2073,7 @@
   <luogo>
     <id>229</id>
     <nome>Museo Salinas</nome>
-    <indirizzo>Museo Salinas</indirizzo>
+    <indirizzo>Via orologio, 9</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917657247</telefono>
@@ -2082,7 +2082,7 @@
     <email>bebmuseosalinas@gmail.com</email>
     <web>http://www.beb-museosalinas.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2096,7 +2096,7 @@
   <luogo>
     <id>232</id>
     <nome>Nimìa</nome>
-    <indirizzo>Nimìa</indirizzo>
+    <indirizzo>Via Maqueda, 7</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0918437223</telefono>
@@ -2105,7 +2105,7 @@
     <email>info@bbnimia.com</email>
     <web>http://www.bbnimia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2119,7 +2119,7 @@
   <luogo>
     <id>233</id>
     <nome>Nonna Angela</nome>
-    <indirizzo>Nonna Angela</indirizzo>
+    <indirizzo>Via Carini, 25</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>091335042</telefono>
@@ -2128,7 +2128,7 @@
     <email>marigtp@inwind.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2142,7 +2142,7 @@
   <luogo>
     <id>237</id>
     <nome>O'Scià</nome>
-    <indirizzo>O'Scià</indirizzo>
+    <indirizzo>Via Garibaldi, 8</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916177950</telefono>
@@ -2151,7 +2151,7 @@
     <email>info@bb-oscia.it</email>
     <web>http://www.bb-oscia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2165,7 +2165,7 @@
   <luogo>
     <id>267</id>
     <nome>Villa Artemide</nome>
-    <indirizzo>Villa Artemide</indirizzo>
+    <indirizzo>Via Apollo, 4</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091451968</telefono>
@@ -2174,7 +2174,7 @@
     <email>villartemide@virgilio.it</email>
     <web>http://www.villartemide.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2188,7 +2188,7 @@
   <luogo>
     <id>205</id>
     <nome>Il Mezzanino del Gattopardo</nome>
-    <indirizzo>Il Mezzanino del Gattopardo</indirizzo>
+    <indirizzo>Via Alloro, 145</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2197,7 +2197,7 @@
     <email>ilmezz.gattopardo@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2211,7 +2211,7 @@
   <luogo>
     <id>212</id>
     <nome>La Casa dei Colori</nome>
-    <indirizzo>La Casa dei Colori</indirizzo>
+    <indirizzo>Via Cosmo Guastella, 5</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0917920084</telefono>
@@ -2220,7 +2220,7 @@
     <email>bblacasadeicolori@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2234,7 +2234,7 @@
   <luogo>
     <id>215</id>
     <nome>La Casa di Zoe</nome>
-    <indirizzo>La Casa di Zoe</indirizzo>
+    <indirizzo>Via Roma, 171</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2243,7 +2243,7 @@
     <email>lacasadizoe@hotmail.it</email>
     <web>http://www.lacasadizoe.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2257,7 +2257,7 @@
   <luogo>
     <id>217</id>
     <nome>La Galleria</nome>
-    <indirizzo>La Galleria</indirizzo>
+    <indirizzo>Via Croce Rossa, 118</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2266,7 +2266,7 @@
     <email>lagalleriapalermo@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2280,7 +2280,7 @@
   <luogo>
     <id>219</id>
     <nome>Le Terrazze</nome>
-    <indirizzo>Le Terrazze</indirizzo>
+    <indirizzo>Via P. Novelli, 14</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916520866</telefono>
@@ -2289,7 +2289,7 @@
     <email>leterrazze_palermo@yahoo.it</email>
     <web>http://www.leterrazzebb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2303,7 +2303,7 @@
   <luogo>
     <id>223</id>
     <nome>Maxim</nome>
-    <indirizzo>Maxim</indirizzo>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0919765471</telefono>
@@ -2312,7 +2312,7 @@
     <email>prenotazioni@bbmaxim.it</email>
     <web>http://www.bbmaxim.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2326,7 +2326,7 @@
   <luogo>
     <id>230</id>
     <nome>Namastè</nome>
-    <indirizzo>Namastè</indirizzo>
+    <indirizzo>Via Houel, 30</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2335,7 +2335,7 @@
     <email>bbnamaste@libero.it</email>
     <web>http://www.namaste.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2349,7 +2349,7 @@
   <luogo>
     <id>261</id>
     <nome>Teatro Massimo</nome>
-    <indirizzo>Teatro Massimo</indirizzo>
+    <indirizzo>Via Orologio, 31</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916197653</telefono>
@@ -2358,7 +2358,7 @@
     <email>bbteatromassimo@alice.it</email>
     <web>http://www.bedbreakfastpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -2372,7 +2372,7 @@
   <luogo>
     <id>181</id>
     <nome>Cleopatra</nome>
-    <indirizzo>Cleopatra</indirizzo>
+    <indirizzo>Foro Umberto I</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916169638</telefono>
@@ -2381,7 +2381,7 @@
     <email>info@cleopatrabb.it</email>
     <web>http://www.cleopatrabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2395,7 +2395,7 @@
   <luogo>
     <id>182</id>
     <nome>Coffee and the city</nome>
-    <indirizzo>Coffee and the city</indirizzo>
+    <indirizzo>Via Mariano Stabile, 37</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2404,7 +2404,7 @@
     <email>info@coffeandthecity.it</email>
     <web>http://www.coffeandthecity.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2418,7 +2418,7 @@
   <luogo>
     <id>185</id>
     <nome>David's Room</nome>
-    <indirizzo>David's Room</indirizzo>
+    <indirizzo>Via Roma, 62</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916164931</telefono>
@@ -2427,7 +2427,7 @@
     <email>info@bbdavidsroom.com</email>
     <web>http://www.bbdavidsroom.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2441,7 +2441,7 @@
   <luogo>
     <id>208</id>
     <nome>Jerry House</nome>
-    <indirizzo>Jerry House</indirizzo>
+    <indirizzo>Via V. Di Marco, 28</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0915079802</telefono>
@@ -2450,7 +2450,7 @@
     <email>jerryhouse@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -2464,7 +2464,7 @@
   <luogo>
     <id>210</id>
     <nome>L'Olivella</nome>
-    <indirizzo>L'Olivella</indirizzo>
+    <indirizzo>Via Bara all'Olivella, 67</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916110288</telefono>
@@ -2473,7 +2473,7 @@
     <email>info@olivellabb.it</email>
     <web>http://www.olivellabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2487,7 +2487,7 @@
   <luogo>
     <id>220</id>
     <nome>Libertà</nome>
-    <indirizzo>Libertà</indirizzo>
+    <indirizzo>Via F. Turati, 5</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0915075843</telefono>
@@ -2496,7 +2496,7 @@
     <email>info@bedandbreakfastliberta.it</email>
     <web>http://www.bedandbreakfastliberta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2510,7 +2510,7 @@
   <luogo>
     <id>222</id>
     <nome>Maride</nome>
-    <indirizzo>Maride</indirizzo>
+    <indirizzo>Via Antonello da Messina, 15</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>091530655</telefono>
@@ -2519,7 +2519,7 @@
     <email>mario.cernigliaro@alice.it</email>
     <web>http://www.maridehouse.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2533,7 +2533,7 @@
   <luogo>
     <id>227</id>
     <nome>Montecarlo</nome>
-    <indirizzo>Montecarlo</indirizzo>
+    <indirizzo>Via Montecarlo, 7</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>0917510622</telefono>
@@ -2542,7 +2542,7 @@
     <email>info@bebmontecarlo.it</email>
     <web>http://www.bebmontecarlo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2556,7 +2556,7 @@
   <luogo>
     <id>231</id>
     <nome>Nicadomus</nome>
-    <indirizzo>Nicadomus</indirizzo>
+    <indirizzo>Via Bari, 52</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0919823666</telefono>
@@ -2565,7 +2565,7 @@
     <email>info@bandbnicadomus.com</email>
     <web>http://www.bandbnicadomus.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2579,7 +2579,7 @@
   <luogo>
     <id>236</id>
     <nome>Novecento</nome>
-    <indirizzo>Novecento</indirizzo>
+    <indirizzo>Via Roma, 62</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0919761194</telefono>
@@ -2588,7 +2588,7 @@
     <email>info@bed-breakfast-palermo.com</email>
     <web>http://www.bed-breakfast-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2602,7 +2602,7 @@
   <luogo>
     <id>242</id>
     <nome>Palazzo Lungarini</nome>
-    <indirizzo>Palazzo Lungarini</indirizzo>
+    <indirizzo>Via Lungarini, 60</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2611,7 +2611,7 @@
     <email>luna@neomedia.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -2625,7 +2625,7 @@
   <luogo>
     <id>252</id>
     <nome>Politeama Square</nome>
-    <indirizzo>Politeama Square</indirizzo>
+    <indirizzo>Via E. Amari, 112</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2634,7 +2634,7 @@
     <email>prenotazione@politeamasquare.com</email>
     <web>http://www.politeamasquare.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2648,7 +2648,7 @@
   <luogo>
     <id>253</id>
     <nome>Rosella Bianchi</nome>
-    <indirizzo>Rosella Bianchi</indirizzo>
+    <indirizzo>Via Roma, 72</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916171098</telefono>
@@ -2657,7 +2657,7 @@
     <email>rosella_bianchi@libero.it</email>
     <web>http://www.rosellabianchibb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2671,7 +2671,7 @@
   <luogo>
     <id>256</id>
     <nome>Scala Reale</nome>
-    <indirizzo>Scala Reale</indirizzo>
+    <indirizzo>Via D'Ossuna, 85</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0917833185</telefono>
@@ -2680,7 +2680,7 @@
     <email>bbscalareale@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2694,7 +2694,7 @@
   <luogo>
     <id>257</id>
     <nome>Seralcadio</nome>
-    <indirizzo>Seralcadio</indirizzo>
+    <indirizzo>Via Bari, 7</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2703,7 +2703,7 @@
     <email>info@seralcadio.com</email>
     <web>http://www.seralcadio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2717,7 +2717,7 @@
   <luogo>
     <id>259</id>
     <nome>Simpaty</nome>
-    <indirizzo>Simpaty</indirizzo>
+    <indirizzo>Via Piano Gallo, 12/14</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916893850</telefono>
@@ -2726,7 +2726,7 @@
     <email>simpatycamere@libero.it</email>
     <web>http://www.simpatymondello.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2740,7 +2740,7 @@
   <luogo>
     <id>265</id>
     <nome>Villa Addaura</nome>
-    <indirizzo>Villa Addaura</indirizzo>
+    <indirizzo>Lungomare Cristoforo Colombo, 1931</indirizzo>
     <cap>90142</cap>
     <citta>Palermo - Addaura</citta>
     <telefono>0916849031</telefono>
@@ -2749,7 +2749,7 @@
     <email>info@villa-addaura.com</email>
     <web>http://www.villa-addaura.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2763,7 +2763,7 @@
   <luogo>
     <id>287</id>
     <nome>Giugagiò</nome>
-    <indirizzo>Giugagiò</indirizzo>
+    <indirizzo>Via Bandiera, 77</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2772,7 +2772,7 @@
     <email>info@giugagio.it</email>
     <web>http://www.giugagio.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2786,7 +2786,7 @@
   <luogo>
     <id>177</id>
     <nome>Casacatti</nome>
-    <indirizzo>Casacatti</indirizzo>
+    <indirizzo>Via Volontari Italiani del Sangue, 10</indirizzo>
     <cap>90128</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2795,7 +2795,7 @@
     <email>casacatti@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -2809,7 +2809,7 @@
   <luogo>
     <id>178</id>
     <nome>Casetta Manfredi</nome>
-    <indirizzo>Casetta Manfredi</indirizzo>
+    <indirizzo>Via Spezio, 41</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0912514948</telefono>
@@ -2818,7 +2818,7 @@
     <email>info@casettamanfredi.com</email>
     <web>http://www.casettamanfredi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -2832,7 +2832,7 @@
   <luogo>
     <id>179</id>
     <nome>Castiglia</nome>
-    <indirizzo>Castiglia</indirizzo>
+    <indirizzo>Via Gorizia, 8</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916172341</telefono>
@@ -2841,7 +2841,7 @@
     <email>bb.castiglia@gmail.com</email>
     <web>http://www.bbcastiglia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -2855,7 +2855,7 @@
   <luogo>
     <id>180</id>
     <nome>Cavour Il Conte Camillo</nome>
-    <indirizzo>Cavour Il Conte Camillo</indirizzo>
+    <indirizzo>Via Cavour, 32</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916124377</telefono>
@@ -2864,7 +2864,7 @@
     <email>chiara.cannizzaro@hotmail.it</email>
     <web>http://www.bbpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2878,7 +2878,7 @@
   <luogo>
     <id>184</id>
     <nome>D'Angelo</nome>
-    <indirizzo>D'Angelo</indirizzo>
+    <indirizzo>Via Roma, 83</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917847302</telefono>
@@ -2887,7 +2887,7 @@
     <email>info@bedbreakfastdangelo.com</email>
     <web>http://www.bedbreakfastdangelo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -2901,7 +2901,7 @@
   <luogo>
     <id>186</id>
     <nome>De Salinas</nome>
-    <indirizzo>De Salinas</indirizzo>
+    <indirizzo>Via E. Amari, 140</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0915507737</telefono>
@@ -2910,7 +2910,7 @@
     <email>info@desalinas.com</email>
     <web>http://www.desalinas.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -2924,7 +2924,7 @@
   <luogo>
     <id>192</id>
     <nome>Felice</nome>
-    <indirizzo>Felice</indirizzo>
+    <indirizzo>Via B. Civiletti, 4</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>091320612</telefono>
@@ -2933,7 +2933,7 @@
     <email>info@bbfelice.it</email>
     <web>http://www.bbfelice.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -2947,7 +2947,7 @@
   <luogo>
     <id>194</id>
     <nome>Giardini</nome>
-    <indirizzo>Giardini</indirizzo>
+    <indirizzo>Via Maggiore Toselli, 26</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0919825886</telefono>
@@ -2956,7 +2956,7 @@
     <email>mvalente44@yahoo.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -2970,7 +2970,7 @@
   <luogo>
     <id>199</id>
     <nome>I Cavalieri di Malta</nome>
-    <indirizzo>I Cavalieri di Malta</indirizzo>
+    <indirizzo>Largo Cavalieri di Malta, 6</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -2979,7 +2979,7 @@
     <email>info@icavalieridimalta.it</email>
     <web>http://www.icavalieridimalta.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -2993,7 +2993,7 @@
   <luogo>
     <id>201</id>
     <nome>Il giardino di Ballarò</nome>
-    <indirizzo>Il giardino di Ballarò</indirizzo>
+    <indirizzo>Via Porta di Castro, 75</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091212215</telefono>
@@ -3002,7 +3002,7 @@
     <email>ilgiardinodiballaro@gmail.com</email>
     <web>http://www.ilgiardinodiballaro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -3016,7 +3016,7 @@
   <luogo>
     <id>206</id>
     <nome>Il Principe</nome>
-    <indirizzo>Il Principe</indirizzo>
+    <indirizzo>Via Principe di Scordia, 126</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0917841010</telefono>
@@ -3025,7 +3025,7 @@
     <email>info@bebilprincipe.com</email>
     <web>http://www.bebilprincipe.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3039,7 +3039,7 @@
   <luogo>
     <id>207</id>
     <nome>In Villa</nome>
-    <indirizzo>In Villa</indirizzo>
+    <indirizzo>Viale delle Sirene, 30</indirizzo>
     <cap>90149</cap>
     <citta>Palermo</citta>
     <telefono>091450811</telefono>
@@ -3048,7 +3048,7 @@
     <email>invillabb@yahoo.it</email>
     <web>http://www.invillabbmondello.splinder.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3062,7 +3062,7 @@
   <luogo>
     <id>214</id>
     <nome>La Casa dei Limoni</nome>
-    <indirizzo>La Casa dei Limoni</indirizzo>
+    <indirizzo>P. zza Giulio Cesare, 9</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0916176297</telefono>
@@ -3071,7 +3071,7 @@
     <email>info@lacasadeilimoni.it</email>
     <web>http://www.lacasadeilimoni.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3085,7 +3085,7 @@
   <luogo>
     <id>216</id>
     <nome>La Fuitina</nome>
-    <indirizzo>La Fuitina</indirizzo>
+    <indirizzo>Via Garraffello, 6</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0919766501</telefono>
@@ -3094,7 +3094,7 @@
     <email>info@fuitina.com</email>
     <web>http://www.fuitina.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -3108,7 +3108,7 @@
   <luogo>
     <id>218</id>
     <nome>Le Tartarughe</nome>
-    <indirizzo>Le Tartarughe</indirizzo>
+    <indirizzo>Via XX settembre, 70</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0916252338</telefono>
@@ -3117,7 +3117,7 @@
     <email>mabalsano@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3131,7 +3131,7 @@
   <luogo>
     <id>221</id>
     <nome>Malusi</nome>
-    <indirizzo>Malusi</indirizzo>
+    <indirizzo>Via del manderino, 3</indirizzo>
     <cap>90147</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -3140,7 +3140,7 @@
     <email>info@malusi.it</email>
     <web>http://www.malusi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3154,7 +3154,7 @@
   <luogo>
     <id>224</id>
     <nome>Mediterraneo B&amp;B</nome>
-    <indirizzo>Mediterraneo B&amp;B</indirizzo>
+    <indirizzo>Via Ten. G. Ingrao, 2</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0917574886</telefono>
@@ -3163,7 +3163,7 @@
     <email>info@bedmediterraneo.it</email>
     <web>http://www.bedmediterraneo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3177,7 +3177,7 @@
   <luogo>
     <id>225</id>
     <nome>Miramar</nome>
-    <indirizzo>Miramar</indirizzo>
+    <indirizzo>P.zza Acquasanta, 12</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>091549338</telefono>
@@ -3186,7 +3186,7 @@
     <email>helgaomodei@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3200,7 +3200,7 @@
   <luogo>
     <id>234</id>
     <nome>Notarbartolo</nome>
-    <indirizzo>Notarbartolo</indirizzo>
+    <indirizzo>Via Notarbartolo, 35</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0917308333</telefono>
@@ -3209,7 +3209,7 @@
     <email>info@notarbartolo.com</email>
     <web>http://www.bed-and-breakfast-palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3223,7 +3223,7 @@
   <luogo>
     <id>235</id>
     <nome>Notti Magiche</nome>
-    <indirizzo>Notti Magiche</indirizzo>
+    <indirizzo>Via B. Gravina, 59</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091589714</telefono>
@@ -3232,7 +3232,7 @@
     <email>info@bbnottimagiche.com</email>
     <web>http://www.bbnottimagiche.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3246,7 +3246,7 @@
   <luogo>
     <id>243</id>
     <nome>Palazzo Reale</nome>
-    <indirizzo>Palazzo Reale</indirizzo>
+    <indirizzo>Via Cappuccini, 9</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
     <telefono>091424045</telefono>
@@ -3255,7 +3255,7 @@
     <email>sistina1984@hotmail.com</email>
     <web>http://www.palazzoreale.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3269,7 +3269,7 @@
   <luogo>
     <id>263</id>
     <nome>Ulisse</nome>
-    <indirizzo>Ulisse</indirizzo>
+    <indirizzo>Via Cefalonia, 26</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
     <telefono>0912531742</telefono>
@@ -3278,7 +3278,7 @@
     <email>bbulisse@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -3292,7 +3292,7 @@
   <luogo>
     <id>202</id>
     <nome>Il girasole</nome>
-    <indirizzo>Il girasole</indirizzo>
+    <indirizzo>Via Pazienza 33/a</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0918884225</telefono>
@@ -3301,7 +3301,7 @@
     <email>bbilgirasole@hotmail.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3315,7 +3315,7 @@
   <luogo>
     <id>241</id>
     <nome>Palazzo Filangeri</nome>
-    <indirizzo>Palazzo Filangeri</indirizzo>
+    <indirizzo>Via Maqueda, 92</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916166766</telefono>
@@ -3324,7 +3324,7 @@
     <email>luigimendola@palazzofilangeri.it</email>
     <web>http://www.palazzofilangeri.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3338,7 +3338,7 @@
   <luogo>
     <id>247</id>
     <nome>Palikè</nome>
-    <indirizzo>Palikè</indirizzo>
+    <indirizzo>Via E. Amari, 140</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091586795</telefono>
@@ -3347,7 +3347,7 @@
     <email>info@bbpalike.it</email>
     <web>http://www.bbpalike.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3361,7 +3361,7 @@
   <luogo>
     <id>249</id>
     <nome>People</nome>
-    <indirizzo>People</indirizzo>
+    <indirizzo>Via Cosmo Guastella, 1</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0915085830</telefono>
@@ -3370,7 +3370,7 @@
     <email>prenotazioni.people@facebook.com</email>
     <web>http://www.facebook.com/people.palermo</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -3384,7 +3384,7 @@
   <luogo>
     <id>250</id>
     <nome>Pomelia</nome>
-    <indirizzo>Pomelia</indirizzo>
+    <indirizzo>Via Saffo, 23</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono/>
@@ -3393,7 +3393,7 @@
     <email>info@pomelia.com</email>
     <web>http://www.pomelia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -3407,7 +3407,7 @@
   <luogo>
     <id>251</id>
     <nome>Porta di Castro</nome>
-    <indirizzo>Porta di Castro</indirizzo>
+    <indirizzo>Via Porta di Castro, 23</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -3416,7 +3416,7 @@
     <email>bebportadicastro@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -3430,7 +3430,7 @@
   <luogo>
     <id>255</id>
     <nome>San Gabriele</nome>
-    <indirizzo>San Gabriele</indirizzo>
+    <indirizzo>Via alloro, 107</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0912525476</telefono>
@@ -3439,7 +3439,7 @@
     <email>info@bebsangabriele.com</email>
     <web>http://www.bebsangabriele.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3453,7 +3453,7 @@
   <luogo>
     <id>258</id>
     <nome>Sikelia</nome>
-    <indirizzo>Sikelia</indirizzo>
+    <indirizzo>Via Sant'Antonio, 6</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -3462,7 +3462,7 @@
     <email>voccamarco@hotmail.it</email>
     <web>http://www.sikeliabb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3476,7 +3476,7 @@
   <luogo>
     <id>260</id>
     <nome>Sole Luna della solidarietà</nome>
-    <indirizzo>Sole Luna della solidarietà</indirizzo>
+    <indirizzo>Via V. Riolo, 7</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091581671</telefono>
@@ -3485,7 +3485,7 @@
     <email>info@solelunabedandbreakfast.org</email>
     <web>http://www.solelunabedandbreakfast.org</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3499,7 +3499,7 @@
   <luogo>
     <id>262</id>
     <nome>The Garden</nome>
-    <indirizzo>The Garden</indirizzo>
+    <indirizzo>Via Sferracavallo, 236</indirizzo>
     <cap>90147</cap>
     <citta>Palermo - Sferracavallo</citta>
     <telefono>091530036</telefono>
@@ -3508,7 +3508,7 @@
     <email>info@bbalterrazzo.it</email>
     <web>http://www.bbalterrazzo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3522,7 +3522,7 @@
   <luogo>
     <id>204</id>
     <nome>Il Golfo</nome>
-    <indirizzo>Il Golfo</indirizzo>
+    <indirizzo>Via Dammuso, 88</indirizzo>
     <cap>90147</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -3531,7 +3531,7 @@
     <email>martafavaloro@libero.it</email>
     <web>http://www.il-golfo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3545,7 +3545,7 @@
   <luogo>
     <id>209</id>
     <nome>Kemonia</nome>
-    <indirizzo>Kemonia</indirizzo>
+    <indirizzo>Via Nicolò Turrisi, 38/b</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>348371586</telefono>
@@ -3554,7 +3554,7 @@
     <email>info@kemonia.com</email>
     <web>http://www.kemonia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -3568,7 +3568,7 @@
   <luogo>
     <id>211</id>
     <nome>La Bella Vita</nome>
-    <indirizzo>La Bella Vita</indirizzo>
+    <indirizzo>Via Principe di Belmonte, 90</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0918434989</telefono>
@@ -3577,7 +3577,7 @@
     <email>bblabellavita@hotmail.com</email>
     <web>http://www.bblabellavita.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3591,7 +3591,7 @@
   <luogo>
     <id>226</id>
     <nome>Mondello Villa Alberoni</nome>
-    <indirizzo>Mondello Villa Alberoni</indirizzo>
+    <indirizzo>Viale Regina Elena, 1/c</indirizzo>
     <cap>90151</cap>
     <citta>Palermo</citta>
     <telefono>0916847867</telefono>
@@ -3600,7 +3600,7 @@
     <email>info@bbmondello.com</email>
     <web>http://www.bbmondello.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3614,7 +3614,7 @@
   <luogo>
     <id>238</id>
     <nome>Oreto Centro</nome>
-    <indirizzo>Oreto Centro</indirizzo>
+    <indirizzo>Via Oreto, 29</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0916572772</telefono>
@@ -3623,7 +3623,7 @@
     <email>info@bboretocentro.it</email>
     <web>http://www.bboretocentro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3637,7 +3637,7 @@
   <luogo>
     <id>239</id>
     <nome>Palazzo Amari Bajardi</nome>
-    <indirizzo>Palazzo Amari Bajardi</indirizzo>
+    <indirizzo>Via San Cristoforo, 15</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916162017</telefono>
@@ -3646,7 +3646,7 @@
     <email>info@palazzoamaribajardi.it</email>
     <web>http://www.palazzoamaribajardi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -3660,7 +3660,7 @@
   <luogo>
     <id>240</id>
     <nome>Palazzo Caputo</nome>
-    <indirizzo>Palazzo Caputo</indirizzo>
+    <indirizzo>Via Roma, 97</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916175818</telefono>
@@ -3669,7 +3669,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3683,7 +3683,7 @@
   <luogo>
     <id>244</id>
     <nome>Palermo Art</nome>
-    <indirizzo>Palermo Art</indirizzo>
+    <indirizzo>Via Cavour, 32</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916110009</telefono>
@@ -3692,7 +3692,7 @@
     <email>info@bbpalermoart.com</email>
     <web>http://www.bbpalermoart.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3706,7 +3706,7 @@
   <luogo>
     <id>248</id>
     <nome>Panormus</nome>
-    <indirizzo>Panormus</indirizzo>
+    <indirizzo>Via Roma, 72</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916175826</telefono>
@@ -3715,7 +3715,7 @@
     <email>info@bbpanormus.com</email>
     <web>http://www.bbpanormus.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3729,7 +3729,7 @@
   <luogo>
     <id>254</id>
     <nome>San Francesco</nome>
-    <indirizzo>San Francesco</indirizzo>
+    <indirizzo>Via Merlo, 30</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0918888391 - 0918430810</telefono>
@@ -3738,7 +3738,7 @@
     <email>info@sanfrancescopalermo.it</email>
     <web>http://www.sanfrancescopalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3752,7 +3752,7 @@
   <luogo>
     <id>264</id>
     <nome>Vado al Massimo</nome>
-    <indirizzo>Vado al Massimo</indirizzo>
+    <indirizzo>Via Donizetti, 19</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0915085851</telefono>
@@ -3761,7 +3761,7 @@
     <email>bbvadoalmassimo@hotmail.com</email>
     <web>http://www.vadoalmassimo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -3775,7 +3775,7 @@
   <luogo>
     <id>188</id>
     <nome>Delle Vittorie</nome>
-    <indirizzo>Delle Vittorie</indirizzo>
+    <indirizzo>Via Bari, 52</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -3784,7 +3784,7 @@
     <email>info@bbdellevittorie.it</email>
     <web>http://www.bbdellevittorie.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3798,7 +3798,7 @@
   <luogo>
     <id>189</id>
     <nome>Dietro il Politeama</nome>
-    <indirizzo>Dietro il Politeama</indirizzo>
+    <indirizzo>Via G. Di Giovanni, 14</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091327640</telefono>
@@ -3807,7 +3807,7 @@
     <email>info@dietroilpoliteama.it</email>
     <web>http://www.dietroilpoliteama.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3821,7 +3821,7 @@
   <luogo>
     <id>191</id>
     <nome>Eureka</nome>
-    <indirizzo>Eureka</indirizzo>
+    <indirizzo>Via A. Narbone, 66</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0917791867</telefono>
@@ -3830,7 +3830,7 @@
     <email>info@eurekabeb.com</email>
     <web>http://www.eurekabeb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -3844,7 +3844,7 @@
   <luogo>
     <id>193</id>
     <nome>Fumbi</nome>
-    <indirizzo>Fumbi</indirizzo>
+    <indirizzo>Via Arimondi, 48</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0917848925</telefono>
@@ -3853,7 +3853,7 @@
     <email>info@fumbi.com</email>
     <web>http://www.fumbi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -3867,7 +3867,7 @@
   <luogo>
     <id>195</id>
     <nome>Giorgio's House</nome>
-    <indirizzo>Giorgio's House</indirizzo>
+    <indirizzo>Via A. Mongitore, 11 b</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091525057</telefono>
@@ -3876,7 +3876,7 @@
     <email>sugi@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -3890,7 +3890,7 @@
   <luogo>
     <id>198</id>
     <nome>Houel 30</nome>
-    <indirizzo>Houel 30</indirizzo>
+    <indirizzo>Via Houel, 30</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0915077159</telefono>
@@ -3899,7 +3899,7 @@
     <email>p.scaccianoce@tin.it</email>
     <web>http://www.houel30.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -3913,7 +3913,7 @@
   <luogo>
     <id>200</id>
     <nome>Il banano</nome>
-    <indirizzo>Il banano</indirizzo>
+    <indirizzo>Via Stesicoro, 3</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091455926</telefono>
@@ -3922,7 +3922,7 @@
     <email>info@ilbanano.com</email>
     <web>http://www.ilbanano.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -3936,7 +3936,7 @@
   <luogo>
     <id>203</id>
     <nome>Il Glicine sul Golfo</nome>
-    <indirizzo>Il Glicine sul Golfo</indirizzo>
+    <indirizzo>Via Saffo, 4</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>091453260</telefono>
@@ -3945,7 +3945,7 @@
     <email>mondello@ilglicine.net</email>
     <web>http://www.sicily-accomodation.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -3959,7 +3959,7 @@
   <luogo>
     <id>130</id>
     <nome>4 Quarti</nome>
-    <indirizzo>4 Quarti</indirizzo>
+    <indirizzo>Corso Vittorio Emanuele, 376</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091583687</telefono>
@@ -3968,7 +3968,7 @@
     <email>info@quattroquarti.it</email>
     <web>http://www.quattroquarti.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -3982,7 +3982,7 @@
   <luogo>
     <id>132</id>
     <nome>A casa di Giù</nome>
-    <indirizzo>A casa di Giù</indirizzo>
+    <indirizzo>Via Simone Corleo, 7</indirizzo>
     <cap>90124</cap>
     <citta>Palermo</citta>
     <telefono>091586455 - 3358428892</telefono>
@@ -3991,7 +3991,7 @@
     <email>info@acasadigiu.com</email>
     <web>http://www.acasadigiu.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4005,7 +4005,7 @@
   <luogo>
     <id>133</id>
     <nome>A casa di Momò</nome>
-    <indirizzo>A casa di Momò</indirizzo>
+    <indirizzo>Via Lincoln, 81</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4014,7 +4014,7 @@
     <email>gandolfosausa@virgilio.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4028,7 +4028,7 @@
   <luogo>
     <id>135</id>
     <nome>Abalì Gran Sultanato</nome>
-    <indirizzo>Abalì Gran Sultanato</indirizzo>
+    <indirizzo>Via S. Agostino, 5</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4037,7 +4037,7 @@
     <email>sultano.abali@gmail.com</email>
     <web>http://www.abali.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4051,7 +4051,7 @@
   <luogo>
     <id>136</id>
     <nome>Abatellis Luxury</nome>
-    <indirizzo>Abatellis Luxury</indirizzo>
+    <indirizzo>Via Alloro, 3</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916169858</telefono>
@@ -4060,7 +4060,7 @@
     <email>abatellisluxury@virgilio.it</email>
     <web>http://www.abatellisluxury.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4074,7 +4074,7 @@
   <luogo>
     <id>137</id>
     <nome>Afea</nome>
-    <indirizzo>Afea</indirizzo>
+    <indirizzo>Via Principe di Belmonte, 25</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0919768392</telefono>
@@ -4083,7 +4083,7 @@
     <email>info@bbafea.it</email>
     <web>http://www.bbafea.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4097,7 +4097,7 @@
   <luogo>
     <id>139</id>
     <nome>Agramante</nome>
-    <indirizzo>Agramante</indirizzo>
+    <indirizzo>Via Terrasanta, 82</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>091347417</telefono>
@@ -4106,7 +4106,7 @@
     <email>amministrazione@bbagramante.it</email>
     <web>http://www.bbagramante.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4120,7 +4120,7 @@
   <luogo>
     <id>141</id>
     <nome>Ai Girasoli</nome>
-    <indirizzo>Ai Girasoli</indirizzo>
+    <indirizzo>Via Mariano Stabile, 200</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0917846949</telefono>
@@ -4129,7 +4129,7 @@
     <email>info@aigirasoli.com</email>
     <web>http://www.aigirasoli.weebly.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>4</camere>
@@ -4143,7 +4143,7 @@
   <luogo>
     <id>142</id>
     <nome>Ai Normanni</nome>
-    <indirizzo>Ai Normanni</indirizzo>
+    <indirizzo>Via Cappuccini</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4152,7 +4152,7 @@
     <email>info@ainormanni.it</email>
     <web>http://www.ainormanni.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4166,7 +4166,7 @@
   <luogo>
     <id>143</id>
     <nome>Al 316</nome>
-    <indirizzo>Al 316</indirizzo>
+    <indirizzo>Corso Vittorio Emanuele 316</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0919763595</telefono>
@@ -4175,7 +4175,7 @@
     <email>beb-centrale316@hotmail.it</email>
     <web>http://www.316-beb.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4189,7 +4189,7 @@
   <luogo>
     <id>144</id>
     <nome>Al civico 10</nome>
-    <indirizzo>Al civico 10</indirizzo>
+    <indirizzo>Via Ernesto Tricomi, 10</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4198,7 +4198,7 @@
     <email>alcivico10@hotmail.it</email>
     <web>http://www.alcivico10.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4212,7 +4212,7 @@
   <luogo>
     <id>153</id>
     <nome>Alla Vucciria</nome>
-    <indirizzo>Alla Vucciria</indirizzo>
+    <indirizzo>Via Coltellieri, 46</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0912511184</telefono>
@@ -4221,7 +4221,7 @@
     <email>info@allavucciria.com</email>
     <web>http://www.allavucciria.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -4235,7 +4235,7 @@
   <luogo>
     <id>157</id>
     <nome>Antonella</nome>
-    <indirizzo>Antonella</indirizzo>
+    <indirizzo>Via O. Antinori, 33</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>091320125</telefono>
@@ -4244,7 +4244,7 @@
     <email>infobox@antonellaoddo.com</email>
     <web>http://www.antonellaoddo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4258,7 +4258,7 @@
   <luogo>
     <id>159</id>
     <nome>Art Lincoln</nome>
-    <indirizzo>Art Lincoln</indirizzo>
+    <indirizzo>Via Lincoln, 161</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916177715</telefono>
@@ -4267,7 +4267,7 @@
     <email>info@bedandbreakfastpalermoart.com</email>
     <web>http://www.bedandbreakfast-palermoart.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4281,7 +4281,7 @@
   <luogo>
     <id>161</id>
     <nome>Atlante</nome>
-    <indirizzo>Atlante</indirizzo>
+    <indirizzo>Via Generale Luigi Cadorna, 5</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091214777</telefono>
@@ -4290,7 +4290,7 @@
     <email>info@bbatlante.com</email>
     <web>http://www.bedandbreakfastatlante.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4304,7 +4304,7 @@
   <luogo>
     <id>162</id>
     <nome>Atlantide</nome>
-    <indirizzo>Atlantide</indirizzo>
+    <indirizzo>Via Piccola del Teatro Santa Cecilia, 5</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916161956</telefono>
@@ -4313,7 +4313,7 @@
     <email>bbatlantide@gmail.com</email>
     <web>http://www.bbatlantide.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4327,7 +4327,7 @@
   <luogo>
     <id>163</id>
     <nome>Attarin</nome>
-    <indirizzo>Attarin</indirizzo>
+    <indirizzo>Via Lattarini Grande, 17</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0915089696</telefono>
@@ -4336,7 +4336,7 @@
     <email>bebattarin@gmail.com</email>
     <web>http://www.bebattarin.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4350,7 +4350,7 @@
   <luogo>
     <id>164</id>
     <nome>Attic 12</nome>
-    <indirizzo>Attic 12</indirizzo>
+    <indirizzo>Via Autonomia Siciliana, 51</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>091342666</telefono>
@@ -4359,7 +4359,7 @@
     <email>francescomorra2@tin.it</email>
     <web>http://www.wix.com/attic12/attic-12</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4373,7 +4373,7 @@
   <luogo>
     <id>165</id>
     <nome>Az-Zahar</nome>
-    <indirizzo>Az-Zahar</indirizzo>
+    <indirizzo>Via del bersagliere, 30</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4382,7 +4382,7 @@
     <email>info@az-zahar.it</email>
     <web>http://www.az-zahar.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4396,7 +4396,7 @@
   <luogo>
     <id>166</id>
     <nome>B&amp;B Florio</nome>
-    <indirizzo>B&amp;B Florio</indirizzo>
+    <indirizzo>Via Mazzini, 49</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4405,7 +4405,7 @@
     <email>info@bbflorio.it</email>
     <web>http://www.bbflorio.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4419,7 +4419,7 @@
   <luogo>
     <id>167</id>
     <nome>Baglio Judica</nome>
-    <indirizzo>Baglio Judica</indirizzo>
+    <indirizzo>Cortile del Secco Judica, 3</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4428,7 +4428,7 @@
     <email>info@bagliojudica.it</email>
     <web>http://www.bagliojudica.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4442,7 +4442,7 @@
   <luogo>
     <id>168</id>
     <nome>Balarm</nome>
-    <indirizzo>Balarm</indirizzo>
+    <indirizzo>Via Gagini, 70</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0915081575</telefono>
@@ -4451,7 +4451,7 @@
     <email>info@balarm-bb.it</email>
     <web>http://www.balarm-bb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -4465,7 +4465,7 @@
   <luogo>
     <id>169</id>
     <nome>Benfratelli</nome>
-    <indirizzo>Benfratelli</indirizzo>
+    <indirizzo>Via Ignazio Gioè, 13</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>0916887232 - 0917542959</telefono>
@@ -4474,7 +4474,7 @@
     <email>info@benfratellibb.it</email>
     <web>http://www.benfratellibb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4488,7 +4488,7 @@
   <luogo>
     <id>170</id>
     <nome>Carmelita</nome>
-    <indirizzo>Carmelita</indirizzo>
+    <indirizzo>Via Sampolo, 47</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0916253681</telefono>
@@ -4497,7 +4497,7 @@
     <email>bnbcarmelita@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4511,7 +4511,7 @@
   <luogo>
     <id>171</id>
     <nome>Casa Acquarello</nome>
-    <indirizzo>Casa Acquarello</indirizzo>
+    <indirizzo>Via Orfeo, 9/11</indirizzo>
     <cap>90149</cap>
     <citta>Palermo</citta>
     <telefono>091451763</telefono>
@@ -4520,7 +4520,7 @@
     <email>info@casacquarello.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4534,7 +4534,7 @@
   <luogo>
     <id>172</id>
     <nome>Casa c'un Pari</nome>
-    <indirizzo>Casa c'un Pari</indirizzo>
+    <indirizzo>Via E. Restivo, 95</indirizzo>
     <cap>90144</cap>
     <citta>Palermo</citta>
     <telefono>0912523375</telefono>
@@ -4543,7 +4543,7 @@
     <email>casacunpari@hotmail.com</email>
     <web>http://www.casacunpari.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4557,7 +4557,7 @@
   <luogo>
     <id>173</id>
     <nome>Casa Carlotta</nome>
-    <indirizzo>Casa Carlotta</indirizzo>
+    <indirizzo>Via XX Settembre, 14</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0916118305</telefono>
@@ -4566,7 +4566,7 @@
     <email>carlottanodice@hotmail.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -4580,7 +4580,7 @@
   <luogo>
     <id>174</id>
     <nome>Casa Mediterraneo</nome>
-    <indirizzo>Casa Mediterraneo</indirizzo>
+    <indirizzo>Via V. Di Marco, 45</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>09162548894</telefono>
@@ -4589,7 +4589,7 @@
     <email>info@casamediterraneo.it</email>
     <web>http://www.casamediterraneo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>1</camere>
@@ -4603,7 +4603,7 @@
   <luogo>
     <id>175</id>
     <nome>Casa degli Artisti</nome>
-    <indirizzo>Casa degli Artisti</indirizzo>
+    <indirizzo>Via Lincoln, 101</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917840398</telefono>
@@ -4612,7 +4612,7 @@
     <email>info@casaartisti.it</email>
     <web>http://www.casaartisti.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4626,7 +4626,7 @@
   <luogo>
     <id>176</id>
     <nome>Casa e Putia</nome>
-    <indirizzo>Casa e Putia</indirizzo>
+    <indirizzo>Via Belgio, 2</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>091517890</telefono>
@@ -4635,7 +4635,7 @@
     <email>casaeputia@gmail.com</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4649,7 +4649,7 @@
   <luogo>
     <id>12</id>
     <nome>Ai Vicerè</nome>
-    <indirizzo>Ai Vicerè</indirizzo>
+    <indirizzo>Via Pignatelli Aragona, 82</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>0915073915</telefono>
@@ -4658,7 +4658,7 @@
     <email>info@aivicere.com</email>
     <web>http://www.bedandbreakfast-palermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4672,7 +4672,7 @@
   <luogo>
     <id>129</id>
     <nome>120 Rodionoff</nome>
-    <indirizzo>120 Rodionoff</indirizzo>
+    <indirizzo>Via Sciuti, 120</indirizzo>
     <cap>90144</cap>
     <citta>Palermo</citta>
     <telefono>0916250535</telefono>
@@ -4681,7 +4681,7 @@
     <email>bb.rodionoff@gmail.com</email>
     <web>http://www.bb-rodionoff.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4695,7 +4695,7 @@
   <luogo>
     <id>131</id>
     <nome>A casa di amici</nome>
-    <indirizzo>A casa di amici</indirizzo>
+    <indirizzo>Via Volturno, 6</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>091584884</telefono>
@@ -4704,7 +4704,7 @@
     <email>info@acasadiamici.com</email>
     <web>http://www.acasadiamici.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -4718,7 +4718,7 @@
   <luogo>
     <id>134</id>
     <nome>Abaco</nome>
-    <indirizzo>Abaco</indirizzo>
+    <indirizzo>Via Divisi, 49</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917843227</telefono>
@@ -4727,7 +4727,7 @@
     <email>aiovalasit@libero.it</email>
     <web>http://www.abacoroom.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>2</camere>
@@ -4741,7 +4741,7 @@
   <luogo>
     <id>138</id>
     <nome>Agata</nome>
-    <indirizzo>Agata</indirizzo>
+    <indirizzo>Via Roma, 188</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916116581</telefono>
@@ -4750,7 +4750,7 @@
     <email>zephir11475@yahoo.it</email>
     <web>http://www.bbagata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4764,7 +4764,7 @@
   <luogo>
     <id>140</id>
     <nome>Ai Cartari</nome>
-    <indirizzo>Ai Cartari</indirizzo>
+    <indirizzo>Via Alessandro Paternostro, 62</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916116372</telefono>
@@ -4773,7 +4773,7 @@
     <email>rosiloria@tiscali.it</email>
     <web>http://www.aicartari.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>1</camere>
@@ -4787,7 +4787,7 @@
   <luogo>
     <id>145</id>
     <nome>Al Galileo Siciliano</nome>
-    <indirizzo>Al Galileo Siciliano</indirizzo>
+    <indirizzo>Via Giovan Battista Odierna, 40</indirizzo>
     <cap>90127</cap>
     <citta>Palermo</citta>
     <telefono>0916163031</telefono>
@@ -4796,7 +4796,7 @@
     <email>info@algalileosiciliano.it</email>
     <web>http://www.algalileosiciliano.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4810,7 +4810,7 @@
   <luogo>
     <id>146</id>
     <nome>Al Giardino dell'Alloro</nome>
-    <indirizzo>Al Giardino dell'Alloro</indirizzo>
+    <indirizzo>Vicolo S. Carlo, 8</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916176904</telefono>
@@ -4819,7 +4819,7 @@
     <email>info@giardinodellalloro.it</email>
     <web>http://www.giardinodellalloro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4833,7 +4833,7 @@
   <luogo>
     <id>147</id>
     <nome>Al Terrazzo Fiorito</nome>
-    <indirizzo>Al Terrazzo Fiorito</indirizzo>
+    <indirizzo>Cortile Rizzuto, 1</indirizzo>
     <cap>90147</cap>
     <citta>Palermo - Sferracavallo</citta>
     <telefono>091530036</telefono>
@@ -4842,7 +4842,7 @@
     <email>info@bbalterrazzo.it</email>
     <web>http://www.bbalterrazzo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -4856,7 +4856,7 @@
   <luogo>
     <id>148</id>
     <nome>Al Tribunale</nome>
-    <indirizzo>Al Tribunale</indirizzo>
+    <indirizzo>Corso Alberto Amedeo, 190</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0917846660</telefono>
@@ -4865,7 +4865,7 @@
     <email>altribunale@gmail.com</email>
     <web>http://www.altribunale.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -4879,7 +4879,7 @@
   <luogo>
     <id>149</id>
     <nome>Al Viandante</nome>
-    <indirizzo>Al Viandante</indirizzo>
+    <indirizzo>Via Dante, 54</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -4888,7 +4888,7 @@
     <email>info@alviandante.com</email>
     <web>http://www.alviandante.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4902,7 +4902,7 @@
   <luogo>
     <id>150</id>
     <nome>Alemar</nome>
-    <indirizzo>Alemar</indirizzo>
+    <indirizzo>Viale Principe di Scalea, 52</indirizzo>
     <cap>90151</cap>
     <citta>Palermo</citta>
     <telefono>0916254349 - 091451484</telefono>
@@ -4911,7 +4911,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -4925,7 +4925,7 @@
   <luogo>
     <id>151</id>
     <nome>Alla Falconara</nome>
-    <indirizzo>Alla Falconara</indirizzo>
+    <indirizzo>Via dei Francescani, 6</indirizzo>
     <cap>90136</cap>
     <citta>Palermo</citta>
     <telefono>0916730867</telefono>
@@ -4934,7 +4934,7 @@
     <email>rinopi1@alice.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -4948,7 +4948,7 @@
   <luogo>
     <id>152</id>
     <nome>Alla Martorana</nome>
-    <indirizzo>Alla Martorana</indirizzo>
+    <indirizzo>Via Roma, 171</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917842578</telefono>
@@ -4957,7 +4957,7 @@
     <email>info@allamartorana.it</email>
     <web>http://www.allamartorana.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -4971,7 +4971,7 @@
   <luogo>
     <id>154</id>
     <nome>Alvorada</nome>
-    <indirizzo>Alvorada</indirizzo>
+    <indirizzo>Vicolo Catalano, 31</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091320644</telefono>
@@ -4980,7 +4980,7 @@
     <email>alvorada@live.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -4994,7 +4994,7 @@
   <luogo>
     <id>155</id>
     <nome>Amari 58</nome>
-    <indirizzo>Amari 58</indirizzo>
+    <indirizzo>Via Emerico Amari, 58</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -5003,7 +5003,7 @@
     <email>info@bbamari58palermo.it</email>
     <web>http://www.bbamari58palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5017,7 +5017,7 @@
   <luogo>
     <id>156</id>
     <nome>Amelie</nome>
-    <indirizzo>Amelie</indirizzo>
+    <indirizzo>Via Principe di Belmonte, 94</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091335920</telefono>
@@ -5026,7 +5026,7 @@
     <email>info@bb-amelie.it</email>
     <web>http://www.bb-amelie.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5040,7 +5040,7 @@
   <luogo>
     <id>158</id>
     <nome>Arbaria</nome>
-    <indirizzo>Arbaria</indirizzo>
+    <indirizzo>Via Giuseppe Lo Casto, 4</indirizzo>
     <cap>90142</cap>
     <citta>Palermo - Addaura</citta>
     <telefono>09154284</telefono>
@@ -5049,7 +5049,7 @@
     <email>arbaria@gmail.com</email>
     <web>http://www.arbariabnb.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>2</camere>
@@ -5063,7 +5063,7 @@
   <luogo>
     <id>160</id>
     <nome>Arte Palermo</nome>
-    <indirizzo>Arte Palermo</indirizzo>
+    <indirizzo>Vicolo Madonna del Cassaro, 7</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091325780</telefono>
@@ -5072,7 +5072,7 @@
     <email>marjolein_wortmann@hotmail.com</email>
     <web>http://www.palermo-bed-and-breakfast.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>bed and breakfast, B&amp;B</tipi_specifici>
+    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5086,7 +5086,7 @@
   <luogo>
     <id>280</id>
     <nome>Porta di Castro 2</nome>
-    <indirizzo>Porta di Castro 2</indirizzo>
+    <indirizzo>Via Porta di Castro, 223</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0917025564</telefono>
@@ -5095,7 +5095,7 @@
     <email>bebportadicastro@gmail.com</email>
     <web>http://www.bebportadicastro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>6</camere>
@@ -5109,7 +5109,7 @@
   <luogo>
     <id>279</id>
     <nome>Porta Carini</nome>
-    <indirizzo>Porta Carini</indirizzo>
+    <indirizzo>via Giovanbattista Pagano, 3</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>3476854034</telefono>
@@ -5118,7 +5118,7 @@
     <email>portacarinivacanze@libero.it</email>
     <web>http://www.casavacanzeportacarini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>8</camere>
@@ -5132,7 +5132,7 @@
   <luogo>
     <id>277</id>
     <nome>Palazzo Gallo</nome>
-    <indirizzo>Palazzo Gallo</indirizzo>
+    <indirizzo>via F.sco Guardione 77</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091328309</telefono>
@@ -5141,7 +5141,7 @@
     <email>info@palazzogallo.com</email>
     <web>http://www.palazzogallo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>9</camere>
@@ -5155,7 +5155,7 @@
   <luogo>
     <id>276</id>
     <nome>Ex Locanda Termini</nome>
-    <indirizzo>Ex Locanda Termini</indirizzo>
+    <indirizzo>Via Alessandro Paternostro, 16</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916172748</telefono>
@@ -5164,7 +5164,7 @@
     <email>exlocandatermini@libero.it</email>
     <web>http://www.exlocandatermini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -5178,7 +5178,7 @@
   <luogo>
     <id>281</id>
     <nome>Villa Cacace</nome>
-    <indirizzo>Villa Cacace</indirizzo>
+    <indirizzo>Via Armida, 5</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
     <telefono/>
@@ -5187,7 +5187,7 @@
     <email>fabricacace@tiscali.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>13</camere>
@@ -5201,7 +5201,7 @@
   <luogo>
     <id>278</id>
     <nome>Palazzo Prestipino</nome>
-    <indirizzo>Palazzo Prestipino</indirizzo>
+    <indirizzo>Via San Nicolò all'Alberghieria, 4</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916101172</telefono>
@@ -5210,7 +5210,7 @@
     <email>info@palazzoprestipino.it</email>
     <web>http://www.palazzoprestipino.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5224,7 +5224,7 @@
   <luogo>
     <id>275</id>
     <nome>Casa Orioles per vacanze</nome>
-    <indirizzo>Casa Orioles per vacanze</indirizzo>
+    <indirizzo>Via alla piazza dei Tedeschi, 4</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916526890</telefono>
@@ -5233,7 +5233,7 @@
     <email>contact@casaorioles.it</email>
     <web>http://www.casaorioles.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5247,7 +5247,7 @@
   <luogo>
     <id>274</id>
     <nome>Alla Marina di Villa Igiea</nome>
-    <indirizzo>Alla Marina di Villa Igiea</indirizzo>
+    <indirizzo>Cortile Trapani, 7-8-9</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>0916851557</telefono>
@@ -5256,7 +5256,7 @@
     <email>postmaster@bagliodicalabruca.it</email>
     <web>http://www.bagliodicalabruca.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa vacanze</tipi_specifici>
+    <tipi-specifici>casa vacanze</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5270,7 +5270,7 @@
   <luogo>
     <id>111</id>
     <nome>Casa Orioles</nome>
-    <indirizzo>Casa Orioles</indirizzo>
+    <indirizzo>Via alla piazza dei Tedeschi, 4</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0916526890</telefono>
@@ -5279,7 +5279,7 @@
     <email>contact@casaorioles.it</email>
     <web>http://www.casaorioles.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>3</camere>
@@ -5293,7 +5293,7 @@
   <luogo>
     <id>128</id>
     <nome>Touristhouse Mondello</nome>
-    <indirizzo>Touristhouse Mondello</indirizzo>
+    <indirizzo>Via Gallo, 31</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916841275</telefono>
@@ -5302,7 +5302,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5316,7 +5316,7 @@
   <luogo>
     <id>127</id>
     <nome>Tonnara Bordonaro</nome>
-    <indirizzo>Tonnara Bordonaro</indirizzo>
+    <indirizzo>Via Bordonaro, 9</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
     <telefono>0916372267</telefono>
@@ -5325,7 +5325,7 @@
     <email>info@kursaalsrl.it - booking@kursaalsrl.it</email>
     <web>http://www.kursaaltonnara.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5339,7 +5339,7 @@
   <luogo>
     <id>126</id>
     <nome>Sky Sleeping</nome>
-    <indirizzo>Sky Sleeping</indirizzo>
+    <indirizzo>Corso Finocchiaro Aprile, 140</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0916113581</telefono>
@@ -5348,7 +5348,7 @@
     <email>booking@skysleeping.com</email>
     <web>http://www.skysleeping.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5362,7 +5362,7 @@
   <luogo>
     <id>125</id>
     <nome>Seven Rooms</nome>
-    <indirizzo>Seven Rooms</indirizzo>
+    <indirizzo>Via Montalbo, 241</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
     <telefono>091361696</telefono>
@@ -5371,7 +5371,7 @@
     <email>info@sevenrooms.it</email>
     <web>http://www.sevenrooms.it/web/index_en.html</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5385,7 +5385,7 @@
   <luogo>
     <id>124</id>
     <nome>Roma Street</nome>
-    <indirizzo>Roma Street</indirizzo>
+    <indirizzo>Via Roma, 118</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917920209</telefono>
@@ -5394,7 +5394,7 @@
     <email>ctbpalermo@libero.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>6</camere>
@@ -5408,7 +5408,7 @@
   <luogo>
     <id>123</id>
     <nome>Residenza Wagner</nome>
-    <indirizzo>Residenza Wagner</indirizzo>
+    <indirizzo>Via Riccardo Wagner, 8</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0919824479</telefono>
@@ -5417,7 +5417,7 @@
     <email>info@residenzawagner.com</email>
     <web>http://www.residenzawagner.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5431,7 +5431,7 @@
   <luogo>
     <id>122</id>
     <nome>Palazzo Savona</nome>
-    <indirizzo>Palazzo Savona</indirizzo>
+    <indirizzo>Via Schioppettieri, 8</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916114731</telefono>
@@ -5440,7 +5440,7 @@
     <email>info@palazzosavona.com</email>
     <web>http://www.palazzosavona.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5454,7 +5454,7 @@
   <luogo>
     <id>121</id>
     <nome>Palazzo Pantaleo</nome>
-    <indirizzo>Palazzo Pantaleo</indirizzo>
+    <indirizzo>Via Ruggero Settimo, 74 H</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>091325471</telefono>
@@ -5463,7 +5463,7 @@
     <email>info@palazzopantaleo.it</email>
     <web>http://www.palazzopantaleo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5477,7 +5477,7 @@
   <luogo>
     <id>120</id>
     <nome>Operà</nome>
-    <indirizzo>Operà</indirizzo>
+    <indirizzo>Via Principe di Belmonte, 102</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0919825946</telefono>
@@ -5486,7 +5486,7 @@
     <email>valenti100@libero.it</email>
     <web>http://www.bedandbreakfastopera.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5500,7 +5500,7 @@
   <luogo>
     <id>119</id>
     <nome>Mondello Rooms</nome>
-    <indirizzo>Mondello Rooms</indirizzo>
+    <indirizzo>Via Gallo, 31</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916841275</telefono>
@@ -5509,7 +5509,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>4</camere>
@@ -5523,7 +5523,7 @@
   <luogo>
     <id>118</id>
     <nome>Maison Landolina</nome>
-    <indirizzo>Maison Landolina</indirizzo>
+    <indirizzo>Via Rocco Pirri, 12</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
     <telefono>0916169936</telefono>
@@ -5532,7 +5532,7 @@
     <email>info@dimorannulina.it</email>
     <web>http://www.maisonlandolina.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -5546,7 +5546,7 @@
   <luogo>
     <id>117</id>
     <nome>La Locanda del Gagini</nome>
-    <indirizzo>La Locanda del Gagini</indirizzo>
+    <indirizzo>Via Gagini, 111</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091333878</telefono>
@@ -5555,7 +5555,7 @@
     <email>info@lalocandadelgagini.it</email>
     <web>http://www.lalocandadelgagini.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>3</camere>
@@ -5569,7 +5569,7 @@
   <luogo>
     <id>115</id>
     <nome>Dimora Annulina</nome>
-    <indirizzo>Dimora Annulina</indirizzo>
+    <indirizzo>Via Rocco Pirri, 12</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
     <telefono>0916169936 - 330696732</telefono>
@@ -5578,7 +5578,7 @@
     <email>info@dimorannulina.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5592,7 +5592,7 @@
   <luogo>
     <id>114</id>
     <nome>Cortile Palermo</nome>
-    <indirizzo>Cortile Palermo</indirizzo>
+    <indirizzo>Cortile Corrao, 2</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>091589084</telefono>
@@ -5601,7 +5601,7 @@
     <email>cortilepalermo@virgilio.it</email>
     <web>http://www.cortilepalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -5615,7 +5615,7 @@
   <luogo>
     <id>109</id>
     <nome>Alla Kala</nome>
-    <indirizzo>Alla Kala</indirizzo>
+    <indirizzo>Corso Vittorio Emanuele, 71</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0917434763</telefono>
@@ -5624,7 +5624,7 @@
     <email>info@allakala.it</email>
     <web>http://www.allakala.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>5</camere>
@@ -5638,7 +5638,7 @@
   <luogo>
     <id>14</id>
     <nome>A casa di amici 2</nome>
-    <indirizzo>A casa di amici 2</indirizzo>
+    <indirizzo>Via Tunisi, 8</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>091584884</telefono>
@@ -5647,7 +5647,7 @@
     <email>santo@acasadiamici.com - info@acasadiamici.com</email>
     <web>http://www.acasadiamici.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere>6</camere>
@@ -5661,7 +5661,7 @@
   <luogo>
     <id>13</id>
     <nome>10 Serpotta</nome>
-    <indirizzo>10 Serpotta</indirizzo>
+    <indirizzo>Via Riolo, 10</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>091324823</telefono>
@@ -5670,7 +5670,7 @@
     <email>info@bb10serpotta.com</email>
     <web>http://www.bb10serpotta.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>6</camere>
@@ -5684,7 +5684,7 @@
   <luogo>
     <id>116</id>
     <nome>Kalamarina</nome>
-    <indirizzo>Kalamarina</indirizzo>
+    <indirizzo>Via Bottai, 9</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0915609520</telefono>
@@ -5693,7 +5693,7 @@
     <email>info@lacambusa.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>4</camere>
@@ -5707,7 +5707,7 @@
   <luogo>
     <id>113</id>
     <nome>Centro Storico</nome>
-    <indirizzo>Centro Storico</indirizzo>
+    <indirizzo>Vicolo San Carlo, 8</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916176904</telefono>
@@ -5716,7 +5716,7 @@
     <email>info@giardinodellalloro.it</email>
     <web>http://www.giardinodellalloro.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>2</stelle>
       <camere/>
@@ -5730,7 +5730,7 @@
   <luogo>
     <id>112</id>
     <nome>Casa Riccio</nome>
-    <indirizzo>Casa Riccio</indirizzo>
+    <indirizzo>Via Giacomo Cusmano, 28</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
     <telefono>091300768</telefono>
@@ -5739,7 +5739,7 @@
     <email>casariccio@aruba.it</email>
     <web>http://www.casariccio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5753,7 +5753,7 @@
   <luogo>
     <id>108</id>
     <nome>Al Baglio</nome>
-    <indirizzo>Al Baglio</indirizzo>
+    <indirizzo>Via Gallo, 19</indirizzo>
     <cap>90151</cap>
     <citta>Palermo - Mondello</citta>
     <telefono>0916841275</telefono>
@@ -5762,7 +5762,7 @@
     <email>mondellobaglio@libero.it</email>
     <web>http://www.mondellobaglio.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>3</camere>
@@ -5776,7 +5776,7 @@
   <luogo>
     <id>110</id>
     <nome>B. 22 Palazzo Pantelleria</nome>
-    <indirizzo>B. 22 Palazzo Pantelleria</indirizzo>
+    <indirizzo>Via Pantelleria, 22</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>091326214</telefono>
@@ -5785,7 +5785,7 @@
     <email>info@bb22.it</email>
     <web>http://www.bb22.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>affittacamere</tipi_specifici>
+    <tipi-specifici>affittacamere</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5799,7 +5799,7 @@
   <luogo>
     <id>104</id>
     <nome>Casa Marconi</nome>
-    <indirizzo>Casa Marconi</indirizzo>
+    <indirizzo>Via Monfenera, 140</indirizzo>
     <cap>90128</cap>
     <citta>Palermo</citta>
     <telefono>0916570611</telefono>
@@ -5808,7 +5808,7 @@
     <email>info@casamarconi.it</email>
     <web>http://www.casamarconi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>ostello</tipi_specifici>
+    <tipi-specifici>ostello</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5822,7 +5822,7 @@
   <luogo>
     <id>103</id>
     <nome>Baia del Corallo</nome>
-    <indirizzo>Baia del Corallo</indirizzo>
+    <indirizzo>Via Plauto, 27</indirizzo>
     <cap>90147</cap>
     <citta>Palermo - Sferracavallo</citta>
     <telefono>0916797807</telefono>
@@ -5831,7 +5831,7 @@
     <email>arg.sicilia@aighostels.com</email>
     <web>http://www.ostellopalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>ostello</tipi_specifici>
+    <tipi-specifici>ostello</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>23</camere>
@@ -5845,7 +5845,7 @@
   <luogo>
     <id>289</id>
     <nome>Figlie di Sant'Anna</nome>
-    <indirizzo>Figlie di Sant'Anna</indirizzo>
+    <indirizzo>Via D'Ossuna, 110</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
     <telefono>0916516678 - 0916512700</telefono>
@@ -5854,7 +5854,7 @@
     <email/>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici>casa ferie</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>7</camere>
@@ -5868,7 +5868,7 @@
   <luogo>
     <id>288</id>
     <nome>Centro Francescano di spiritualità S. Giovanni Battista</nome>
-    <indirizzo>Centro Francescano di spiritualità S. Giovanni Battista</indirizzo>
+    <indirizzo>Via al Convento di Baida, 43</indirizzo>
     <cap>90136</cap>
     <citta>Palermo - Baida</citta>
     <telefono>091223595</telefono>
@@ -5877,7 +5877,7 @@
     <email>cfsbaida@ofmsicilia.it</email>
     <web>http://www.ofmsicilia.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici>casa ferie</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere>43</camere>
@@ -5891,7 +5891,7 @@
   <luogo>
     <id>290</id>
     <nome>Maria Immacolata</nome>
-    <indirizzo>Maria Immacolata</indirizzo>
+    <indirizzo>Corso Re Ruggero, 2</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091590227</telefono>
@@ -5900,7 +5900,7 @@
     <email>istitutoi@alice.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>casa ferie</tipi_specifici>
+    <tipi-specifici>casa ferie</tipi-specifici>
     <accoglienza>
       <stelle>1</stelle>
       <camere/>
@@ -5914,7 +5914,7 @@
   <luogo>
     <id>95</id>
     <nome>Orleans</nome>
-    <indirizzo>Orleans</indirizzo>
+    <indirizzo>via Monfenera, 106</indirizzo>
     <cap>90128</cap>
     <citta>Palermo</citta>
     <telefono>0916688940</telefono>
@@ -5923,7 +5923,7 @@
     <email>info@hotelorleans.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5937,7 +5937,7 @@
   <luogo>
     <id>102</id>
     <nome>Torreata residence Hotel</nome>
-    <indirizzo>Torreata residence Hotel</indirizzo>
+    <indirizzo>Via del Bersagliere, 21</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>091540049</telefono>
@@ -5946,7 +5946,7 @@
     <email>info@torreata.it</email>
     <web>http://www.torreata.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -5960,7 +5960,7 @@
   <luogo>
     <id>101</id>
     <nome>Residenza d'Aragona</nome>
-    <indirizzo>Residenza d'Aragona</indirizzo>
+    <indirizzo>Via Ottavio d'Aragona, 23/29</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
     <telefono>0916622222</telefono>
@@ -5969,7 +5969,7 @@
     <email>info@residenzadaragona.it</email>
     <web>http://www.residenzadaragona.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -5983,7 +5983,7 @@
   <luogo>
     <id>94</id>
     <nome>Nuvole Residenza ai Quattro Canti</nome>
-    <indirizzo>Nuvole Residenza ai Quattro Canti</indirizzo>
+    <indirizzo>Via del Celso, 14</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>0917831299</telefono>
@@ -5992,7 +5992,7 @@
     <email>info@nuvoleresidenza.it</email>
     <web>http://www.nuvoleresidenza.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6006,7 +6006,7 @@
   <luogo>
     <id>93</id>
     <nome>La Marsa Vacances</nome>
-    <indirizzo>La Marsa Vacances</indirizzo>
+    <indirizzo>Lungomare Cristoforo Colombo, 4765</indirizzo>
     <cap>90149</cap>
     <citta>Palermo - Addaura</citta>
     <telefono>0916841346 - 091455193</telefono>
@@ -6015,7 +6015,7 @@
     <email>info@lamarsa.it</email>
     <web>http://www.lamarsa.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -6029,7 +6029,7 @@
   <luogo>
     <id>97</id>
     <nome>residence Ambasciatori</nome>
-    <indirizzo>residence Ambasciatori</indirizzo>
+    <indirizzo>Via Roma, 111</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
     <telefono>0916166881</telefono>
@@ -6038,7 +6038,7 @@
     <email>booking@ambasciatorihotelpalermo.com</email>
     <web>http://www.ambasciatorihotelpalermo.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6052,7 +6052,7 @@
   <luogo>
     <id>96</id>
     <nome>Palazzo Brunaccini</nome>
-    <indirizzo>Palazzo Brunaccini</indirizzo>
+    <indirizzo>P.zzetta Lucrezia Brunaccini</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
     <telefono>091586904</telefono>
@@ -6061,7 +6061,7 @@
     <email>booking@palazzobrunaccini.it</email>
     <web/>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>4</stelle>
       <camere/>
@@ -6075,7 +6075,7 @@
   <luogo>
     <id>99</id>
     <nome>Marbela residence</nome>
-    <indirizzo>Marbela residence</indirizzo>
+    <indirizzo>Via Salvatore Puglisi, 9</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
     <telefono>0916241111 - 0917212111</telefono>
@@ -6084,7 +6084,7 @@
     <email>info@marbelaresidence.com</email>
     <web>http://www.marbelaresidence.com</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere/>
@@ -6098,7 +6098,7 @@
   <luogo>
     <id>100</id>
     <nome>Addaura Hotel residence Congressi</nome>
-    <indirizzo>Addaura Hotel residence Congressi</indirizzo>
+    <indirizzo>Lungomare Cristoforo Colombo, 4452</indirizzo>
     <cap>90149</cap>
     <citta>Palermo</citta>
     <telefono>0916842222</telefono>
@@ -6107,7 +6107,7 @@
     <email>hotel@addaura.it</email>
     <web>http://www.addaura.it</web>
     <tipi>accoglienza</tipi>
-    <tipi_specifici>residence</tipi_specifici>
+    <tipi-specifici>residence</tipi-specifici>
     <accoglienza>
       <stelle>3</stelle>
       <camere>50</camere>

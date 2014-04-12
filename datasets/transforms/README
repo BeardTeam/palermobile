@@ -2,7 +2,12 @@
    scripts/apply_single_stylesheets.sh
 2) concat (removing header for each file)
 3) apply global stylesheet
-4) convert xml to json with java
-5) flat json with json_flattenizer.html, and "download" the new flatten json
-6) clear flatten, using shell script (to improve)
-6) convert flatten json to csv
+4) convert xml to json_flat and then to csv with java
+1,2,3,4 with "generate_total"
+
+5) load csv to spreadsheet
+6) copy address column from "geocoding" sheet
+7) get geocoding using "geocoding.sh"
+8) populate geocoding column with these new data
+
+9) sync to fusiontable

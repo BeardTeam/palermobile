@@ -3,16 +3,16 @@
   <luogo>
     <id>5</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Piazza Vittorio Emanuele Orlando, 41</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6111484</telefono>
     <fax>091 6111484</fax>
     <mobile>3356316148</mobile>
     <email>studiolegaleditanto@libero.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Bangladesh</stato>
       <console>Cav. Avv. Vincenzo Di Tanto Console Generale Onorario del Bangladesh</console>
@@ -29,16 +29,16 @@
   <luogo>
     <id>6</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Viale della Libertà, 159</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 305132</telefono>
     <fax>091 347093</fax>
     <mobile>335 6209284</mobile>
     <email/>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Belgio</stato>
       <console>Barone Piervincenzo Mancuso Console Onorario del Belgio</console>
@@ -55,16 +55,16 @@
   <luogo>
     <id>7</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Roma, 386</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 588661</telefono>
     <fax>091 585155</fax>
     <mobile/>
     <email>mancuso@infcom.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Brasile</stato>
       <console>Sig. Paolo Mancuso Console Onorario del Brasile</console>
@@ -81,16 +81,16 @@
   <luogo>
     <id>14</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Viale Orfeo, 18</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6113970</telefono>
     <fax>091 6114899</fax>
     <mobile/>
     <email>visa@consolatorussopa.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Federazione Russa</stato>
       <console>Dr. Vladimir Korotkov Console Generale della Federazione Russa Ministro Straordinario e Plenipotenziario Decano del Corpo Consolare</console>
@@ -107,16 +107,16 @@
   <luogo>
     <id>17</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Piazzetta Scannaserpe, 3</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 543506</telefono>
     <fax>091 6372482</fax>
     <mobile/>
     <email>hc@sikania.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Danimarca</stato>
       <console>Sig.ra Hanne Elisabeth Frendrup Carstensen Castellucci Console Onorario della Danimarca Consigliere di Decanato</console>
@@ -133,16 +133,16 @@
   <luogo>
     <id>18</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Noto, 34</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6259541</telefono>
     <fax>091 308996</fax>
     <mobile/>
     <email>congr.pa@issbi.org</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Grecia</stato>
       <console>Prof.ssa Renata Lavagnini Console Onorario della Grecia</console>
@@ -159,16 +159,16 @@
   <luogo>
     <id>19</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Riccardo Wagner, 9</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916093512 - 091589752</telefono>
     <fax>0916110983</fax>
     <mobile/>
     <email>palmigiano@consolatolituania.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Lituania</stato>
       <console>Avv. Alessandro Palmigiano Console Onorario della Repubblica di Lituania Consigliere di Decanato</console>
@@ -185,16 +185,16 @@
   <luogo>
     <id>20</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Siracusa, 34</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916256218</telefono>
     <fax>0916256234</fax>
     <mobile/>
     <email>bcc@studiobcc.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Lussemburgo</stato>
       <console>Dr. Antonio Cosenz Console Onorario del Granducato del Lussemburgo Consigliere di Decanato</console>
@@ -211,16 +211,16 @@
   <luogo>
     <id>23</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Principe di Villafranca, 57</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091333901</telefono>
     <fax>091333901</fax>
     <mobile/>
     <email>consolatomonaco.palermo@virgilio.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Principato di Monaco</stato>
       <console>Avv. Emanuele Bruno Console Onorario del Principato di Monaco</console>
@@ -237,16 +237,16 @@
   <luogo>
     <id>9</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Piazza S. Oliva, 28</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6110329</telefono>
     <fax/>
     <mobile>335 6309807</mobile>
     <email>consoleburkfasopalermo@gmail.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Burkina Faso</stato>
       <console>Dr. Antonio Tito Console Onorario di Burkina Faso</console>
@@ -263,16 +263,16 @@
   <luogo>
     <id>10</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Selinunte, 1</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6112144</telefono>
     <fax>091 6120568</fax>
     <mobile/>
     <email>capoverde@aacweb.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Capo Verde</stato>
       <console>Avv. Antonietta Alongi Console Onorario di Capo Verde</console>
@@ -289,16 +289,16 @@
   <luogo>
     <id>11</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Emerico Amari, 8</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 329744</telefono>
     <fax>091 6113225</fax>
     <mobile/>
     <email>consolatocilepa@gmail.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Cile</stato>
       <console>Dr. Vincenzo Chiriaco Console Onorario del Cile</console>
@@ -315,16 +315,16 @@
   <luogo>
     <id>16</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Principe di Villafranca, 33</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 9820808</telefono>
     <fax>091 9820808</fax>
     <mobile/>
     <email>palermo@hkdipio.de</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Germania</stato>
       <console>Dr. Vincenzo Militello Console Onorario della Repubblica Federale di Germania</console>
@@ -341,16 +341,16 @@
   <luogo>
     <id>8</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Principe di Granatelli, 86</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 6015335</telefono>
     <fax>091 6015314</fax>
     <mobile/>
     <email>agostino.randazzo@randazzo.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Bulgaria</stato>
       <console>Dr. Agostino Randazzo Console Onorario della Bulgaria</console>
@@ -367,16 +367,16 @@
   <luogo>
     <id>13</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Mariano Stabile, 136</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 332742</telefono>
     <fax>091 332742</fax>
     <mobile/>
     <email>cotedivoireconspa@alice.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Costa D'Avorio</stato>
       <console>Sig. Ferdinando Veneziani Console Onorario della Repubblica di Costa d'Avorio</console>
@@ -393,16 +393,16 @@
   <luogo>
     <id>15</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Principe di Belmonte, 101</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 583405</telefono>
     <fax>091 6110299</fax>
     <mobile/>
     <email>fsalernocardillo@notariato.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Francia</stato>
       <console>Notaio Franco Salerno Cardillo Vice Console 
@@ -420,16 +420,16 @@ Onorario della Francia</console>
   <luogo>
     <id>22</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Villa Verona, 35</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916886023</telefono>
     <fax>0916881643</fax>
     <mobile/>
     <email>c.g.m.-palermo@maec.gov.ma</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Marocco</stato>
       <console/>
@@ -446,16 +446,16 @@ Onorario della Francia</console>
   <luogo>
     <id>24</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Emerico Amari, 8</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091587377</telefono>
     <fax>091307790</fax>
     <mobile/>
     <email>tpandi@tin.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Norvegia</stato>
       <console>Sig.ra Isabella Tagliavia Console Generale Onorario della Norvegia</console>
@@ -472,16 +472,16 @@ Onorario della Francia</console>
   <luogo>
     <id>26</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Mariano Stabile, 172</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916110910</telefono>
     <fax>0916111908</fax>
     <mobile/>
     <email>consulatepakistan@tagliavia.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Pakistan</stato>
       <console>Sig. Angelo Tagliavia Console Onorario del Pakistan</console>
@@ -498,16 +498,16 @@ Onorario della Francia</console>
   <luogo>
     <id>27</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Pietro Bonanno, 26</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091547414</telefono>
     <fax>0916316439</fax>
     <mobile/>
     <email>degregoriopaolo@libero.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Sovrano Militare Ordine di Malta</stato>
       <console>Marchese Prof. Paolo de Gregorio Partecipa al Corpo Consolare in qualità di Osservatore</console>
@@ -524,16 +524,16 @@ Onorario della Francia</console>
   <luogo>
     <id>12</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Piazza Federico Chopin, 13</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091 226178</telefono>
     <fax>178 2787334</fax>
     <mobile/>
     <email>adifres@tin.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Corea del Sud</stato>
       <console>Dr. Antonio Di Fresco Console Onorario della Corea del Sud Consigliere di Decanato</console>
@@ -550,16 +550,16 @@ Onorario della Francia</console>
   <luogo>
     <id>21</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Principe di Belmonte, 55</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091333333</telefono>
     <fax>0917437388</fax>
     <mobile/>
     <email>maltaconsul.palermo@gov.mt</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Malta</stato>
       <console>Sig. Alfredo Barbaro Console Generale Onorario di Malta</console>
@@ -576,16 +576,16 @@ Onorario della Francia</console>
   <luogo>
     <id>28</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Piazzale Ungheria, 73</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091320954</telefono>
     <fax>091583706</fax>
     <mobile/>
     <email>info@studiocaramanna.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Spagna</stato>
       <console>Avv. Ignazio Caramanna Console Onorario della Spagna</console>
@@ -602,16 +602,16 @@ Onorario della Francia</console>
   <luogo>
     <id>31</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Viale delle Alpi, 30</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916850947</telefono>
     <fax>0916850947</fax>
     <mobile/>
     <email>msanta@iol.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Ungheria</stato>
       <console>Sig.ra Adelaide Sotyi Santamarina Console Onorario dell'Ungheria</console>
@@ -628,16 +628,16 @@ Onorario della Francia</console>
   <luogo>
     <id>4</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Leonardo da Vinci, 145</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916825696</telefono>
     <fax/>
     <mobile/>
     <email>consolatoaustria.pa@hotmail.it</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Austria</stato>
       <console>Dr.ssa Irene Salcher-Cillari Console Onorario dell'Austria Segretario Generale del Corpo Consolare</console>
@@ -654,16 +654,16 @@ Onorario della Francia</console>
   <luogo>
     <id>25</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Trapani, 1/d</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916306005</telefono>
     <fax>0916304028</fax>
     <mobile/>
     <email>s.deluca@esterminal.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Paesi Bassi</stato>
       <console>Dr. Salvatore De Luca Console Onorario dei Paesi Bassi</console>
@@ -680,16 +680,16 @@ Onorario della Francia</console>
   <luogo>
     <id>29</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Vaccarini, 1</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>091305857</telefono>
     <fax>0916256026</fax>
     <mobile/>
     <email>cucinellab@state.gov</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Stati Uniti D'America</stato>
       <console>Dr.ssa Barbara Cucinella Agente Consolare Onorario degli U.S.A. Vice Decano del Corpo Consolare</console>
@@ -706,16 +706,16 @@ Onorario della Francia</console>
   <luogo>
     <id>30</id>
     <nome/>
-    <indirizzo/>
-    <cap/>
-    <citta/>
+    <indirizzo>Via Trapani, 1/d</indirizzo>
+    <cap>90100</cap>
+    <citta>Palermo</citta>
     <telefono>0916306005</telefono>
     <fax>0916304028</fax>
     <mobile/>
     <email>s.deluca@esterminal.com</email>
     <web/>
     <tipi>consolato</tipi>
-    <tipi_specifici/>
+    <tipi-specifici/>
     <consolato>
       <stato>Svezia</stato>
       <console>Dr. Salvatore De Luca Console Onorario della Svezia</console>

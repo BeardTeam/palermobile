@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via della Liberta'",
+               "short_name" : "Via della Liberta'",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Termini Imerese",
+               "short_name" : "Termini Imerese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Termini Imerese",
+               "short_name" : "Termini Imerese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90018",
+               "short_name" : "90018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Liberta', 6, 90018 Termini Imerese Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.97699,
+                  "lng" : 13.7098682
+               },
+               "southwest" : {
+                  "lat" : 37.976976,
+                  "lng" : 13.7098636
+               }
+            },
+            "location" : {
+               "lat" : 37.97699,
+               "lng" : 13.7098682
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9783319802915,
+                  "lng" : 13.7112148802915
+               },
+               "southwest" : {
+                  "lat" : 37.9756340197085,
+                  "lng" : 13.7085169197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

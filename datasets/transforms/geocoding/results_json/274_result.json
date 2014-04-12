@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Montecarlo",
+               "short_name" : "Via Montecarlo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90146",
+               "short_name" : "90146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Montecarlo, 7, 90146 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1540209,
+                  "lng" : 13.3248256
+               },
+               "southwest" : {
+                  "lat" : 38.1540202,
+                  "lng" : 13.3248072
+               }
+            },
+            "location" : {
+               "lat" : 38.1540209,
+               "lng" : 13.3248072
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1553695302915,
+                  "lng" : 13.3261653802915
+               },
+               "southwest" : {
+                  "lat" : 38.1526715697085,
+                  "lng" : 13.3234674197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

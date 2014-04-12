@@ -12,7 +12,7 @@
     <id><xsl:value-of select="id"/></id>
     <nome><xsl:value-of select="nome"/></nome>
     <indirizzo><xsl:value-of select="indirizzo"/></indirizzo>
-    <cap><xsl:value-of select="cap"/></cap>
+    <cap><xsl:choose><xsl:when test="cap"><xsl:value-of select="cap"/></xsl:when><xsl:otherwise>90100</xsl:otherwise></xsl:choose></cap>
     <citta>Palermo</citta>
     <telefono><xsl:value-of select="telefono"/></telefono>
     <fax><xsl:value-of select="fax"/></fax>
@@ -23,7 +23,7 @@
     <tipi-specifici><xsl:value-of select="tipi-specifici"/></tipi-specifici>
     
     <consolato>
-      <stato><xsl:value-of select="./stato"/></stato>
+      <stato><xsl:value-of select="stato"/></stato>
       <console><xsl:value-of select="console"/></console>
       <circoscrizione><xsl:value-of select="circoscrizione"/></circoscrizione>
       <pec><xsl:value-of select="pec"/></pec>

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "90133, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1352,
+                  "lng" : 13.3774821
+               },
+               "southwest" : {
+                  "lat" : 38.110091,
+                  "lng" : 13.3577
+               }
+            },
+            "location" : {
+               "lat" : 38.1184125,
+               "lng" : 13.3630608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1352,
+                  "lng" : 13.3774821
+               },
+               "southwest" : {
+                  "lat" : 38.110091,
+                  "lng" : 13.3577
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

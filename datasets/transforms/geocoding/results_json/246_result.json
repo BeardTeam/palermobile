@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Giulio Cesare",
+               "short_name" : "Piazza Giulio Cesare",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90127",
+               "short_name" : "90127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Giulio Cesare, 44, 90127 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1100747,
+                  "lng" : 13.3656844
+               },
+               "southwest" : {
+                  "lat" : 38.1100619,
+                  "lng" : 13.3656757
+               }
+            },
+            "location" : {
+               "lat" : 38.1100619,
+               "lng" : 13.3656844
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1114172802915,
+                  "lng" : 13.3670290302915
+               },
+               "southwest" : {
+                  "lat" : 38.10871931970851,
+                  "lng" : 13.3643310697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

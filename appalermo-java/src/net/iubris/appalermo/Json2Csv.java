@@ -5,7 +5,6 @@ import java.nio.charset.Charset;
 
 import org.json.CDL;
 import org.json.JSONArray;
-import org.json.JSONObject;
 
 public class Json2Csv {
 
@@ -13,7 +12,7 @@ public class Json2Csv {
 		
 		String jsonFlattenAsString = "";
 		try {
-			jsonFlattenAsString = Main.readFile("../datasets/tot_json_flatten_definitely.json", Charset.defaultCharset());
+			jsonFlattenAsString = XMLToCSV.readFile("../datasets/tot_json_flatten_definitely.json", Charset.defaultCharset());
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

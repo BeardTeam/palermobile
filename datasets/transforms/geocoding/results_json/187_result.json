@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2620",
+               "short_name" : "2620",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale della Regione Siciliana Nord Ovest",
+               "short_name" : "Viale della Regione Siciliana Nord Ovest",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90145",
+               "short_name" : "90145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale della Regione Siciliana Nord Ovest, 2620, 90145 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1281329,
+                  "lng" : 13.3293701
+               },
+               "southwest" : {
+                  "lat" : 38.1281326,
+                  "lng" : 13.3293516
+               }
+            },
+            "location" : {
+               "lat" : 38.1281326,
+               "lng" : 13.3293516
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1294817302915,
+                  "lng" : 13.3307098302915
+               },
+               "southwest" : {
+                  "lat" : 38.1267837697085,
+                  "lng" : 13.3280118697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale della Regione Siciliana",
+               "short_name" : "Viale della Regione Siciliana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viale della Regione Siciliana, Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1273278,
+               "lng" : 13.3299684
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1286767802915,
+                  "lng" : 13.3313173802915
+               },
+               "southwest" : {
+                  "lat" : 38.1259788197085,
+                  "lng" : 13.3286194197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

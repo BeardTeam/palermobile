@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza San Francesco di Paola",
+               "short_name" : "Piazza San Francesco di Paola",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90138",
+               "short_name" : "90138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza San Francesco di Paola, 42, 90138 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1214657,
+                  "lng" : 13.3531486
+               },
+               "southwest" : {
+                  "lat" : 38.1214515,
+                  "lng" : 13.3531451
+               }
+            },
+            "location" : {
+               "lat" : 38.1214657,
+               "lng" : 13.3531486
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12280758029149,
+                  "lng" : 13.3544958302915
+               },
+               "southwest" : {
+                  "lat" : 38.1201096197085,
+                  "lng" : 13.3517978697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

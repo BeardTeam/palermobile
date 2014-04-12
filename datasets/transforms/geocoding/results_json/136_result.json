@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Vittorio Emanuele Orlando",
+               "short_name" : "Piazza Vittorio Emanuele Orlando",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prizzi",
+               "short_name" : "Prizzi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prizzi",
+               "short_name" : "Prizzi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90038",
+               "short_name" : "90038",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Vittorio Emanuele Orlando, 41, 90038 Prizzi Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7204043,
+                  "lng" : 13.4357098
+               },
+               "southwest" : {
+                  "lat" : 37.7203898,
+                  "lng" : 13.4357073
+               }
+            },
+            "location" : {
+               "lat" : 37.7204043,
+               "lng" : 13.4357098
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7217460302915,
+                  "lng" : 13.4370575302915
+               },
+               "southwest" : {
+                  "lat" : 37.7190480697085,
+                  "lng" : 13.4343595697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Vittorio Emanuele Orlando",
+               "short_name" : "Piazza Vittorio Emanuele Orlando",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balata di Baida",
+               "short_name" : "Balata di Baida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castellammare del Golfo",
+               "short_name" : "Castellammare del Golfo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Trapani",
+               "short_name" : "TP",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91010",
+               "short_name" : "91010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Vittorio Emanuele Orlando, 41, 91010 Balata di Baida Trapani, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0241464,
+                  "lng" : 12.7888221
+               },
+               "southwest" : {
+                  "lat" : 38.024133,
+                  "lng" : 12.7888151
+               }
+            },
+            "location" : {
+               "lat" : 38.0241464,
+               "lng" : 12.7888221
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0254886802915,
+                  "lng" : 12.7901675802915
+               },
+               "southwest" : {
+                  "lat" : 38.0227907197085,
+                  "lng" : 12.7874696197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Orlando Vittorio Emanuele",
+               "short_name" : "Piazza Orlando Vittorio Emanuele",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piazza Orlando Vittorio Emanuele, 41, Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1193027,
+                  "lng" : 13.3524795
+               },
+               "southwest" : {
+                  "lat" : 38.1193025,
+                  "lng" : 13.3524611
+               }
+            },
+            "location" : {
+               "lat" : 38.1193027,
+               "lng" : 13.3524611
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12065158029149,
+                  "lng" : 13.3538192802915
+               },
+               "southwest" : {
+                  "lat" : 38.11795361970849,
+                  "lng" : 13.3511213197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

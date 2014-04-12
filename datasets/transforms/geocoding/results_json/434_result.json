@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Plauto",
+               "short_name" : "Via Plauto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90147",
+               "short_name" : "90147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Plauto, 90147 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2016245,
+                  "lng" : 13.2762464
+               },
+               "southwest" : {
+                  "lat" : 38.1977333,
+                  "lng" : 13.2584272
+               }
+            },
+            "location" : {
+               "lat" : 38.2001018,
+               "lng" : 13.266431
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2016245,
+                  "lng" : 13.2762464
+               },
+               "southwest" : {
+                  "lat" : 38.1977333,
+                  "lng" : 13.2584272
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

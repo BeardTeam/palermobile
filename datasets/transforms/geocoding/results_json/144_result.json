@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Principe di Villafranca",
+               "short_name" : "Via Principe di Villafranca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90141",
+               "short_name" : "90141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Principe di Villafranca, 57, 90141 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1264993,
+                  "lng" : 13.3510966
+               },
+               "southwest" : {
+                  "lat" : 38.1264934,
+                  "lng" : 13.3510797
+               }
+            },
+            "location" : {
+               "lat" : 38.1264993,
+               "lng" : 13.3510966
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1278453302915,
+                  "lng" : 13.3524371302915
+               },
+               "southwest" : {
+                  "lat" : 38.1251473697085,
+                  "lng" : 13.3497391697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

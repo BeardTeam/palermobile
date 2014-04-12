@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "125",
+               "short_name" : "125",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Toselli Pietro Maggiore",
+               "short_name" : "Via Toselli Pietro Maggiore",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90143",
+               "short_name" : "90143",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Toselli Pietro Maggiore, 125, 90143 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.139354,
+                  "lng" : 13.3504887
+               },
+               "southwest" : {
+                  "lat" : 38.1393473,
+                  "lng" : 13.3504723
+               }
+            },
+            "location" : {
+               "lat" : 38.139354,
+               "lng" : 13.3504887
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.14069963029151,
+                  "lng" : 13.3518294802915
+               },
+               "southwest" : {
+                  "lat" : 38.13800166970851,
+                  "lng" : 13.3491315197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

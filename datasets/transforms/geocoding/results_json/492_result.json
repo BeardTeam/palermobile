@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Piccola Teatro Santa Cecilia",
+               "short_name" : "Via Piccola Teatro Santa Cecilia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Piccola Teatro Santa Cecilia, 22, 90133 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1143439,
+               "lng" : 13.3656145
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1156928802915,
+                  "lng" : 13.3669634802915
+               },
+               "southwest" : {
+                  "lat" : 38.1129949197085,
+                  "lng" : 13.3642655197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

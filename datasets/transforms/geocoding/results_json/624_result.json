@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagheria",
+               "short_name" : "Bagheria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagheria",
+               "short_name" : "Bagheria",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bagheria Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1195271,
+                  "lng" : 13.5189373
+               },
+               "southwest" : {
+                  "lat" : 38.057686,
+                  "lng" : 13.4810703
+               }
+            },
+            "location" : {
+               "lat" : 38.0789178,
+               "lng" : 13.512365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1195271,
+                  "lng" : 13.5189373
+               },
+               "southwest" : {
+                  "lat" : 38.057686,
+                  "lng" : 13.4810703
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

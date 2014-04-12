@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Porta di Castro",
+               "short_name" : "Via Porta di Castro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90134",
+               "short_name" : "90134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Porta di Castro, 223, 90134 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1108085,
+                  "lng" : 13.3556344
+               },
+               "southwest" : {
+                  "lat" : 38.1107952,
+                  "lng" : 13.3556271
+               }
+            },
+            "location" : {
+               "lat" : 38.1108085,
+               "lng" : 13.3556271
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1121508302915,
+                  "lng" : 13.3569797302915
+               },
+               "southwest" : {
+                  "lat" : 38.10945286970851,
+                  "lng" : 13.3542817697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

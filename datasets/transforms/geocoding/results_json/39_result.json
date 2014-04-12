@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88",
+               "short_name" : "88",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Roccazzo",
+               "short_name" : "Via Roccazzo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90135",
+               "short_name" : "90135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roccazzo, 88, 90135 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1224842,
+               "lng" : 13.3089822
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1238331802915,
+                  "lng" : 13.3103311802915
+               },
+               "southwest" : {
+                  "lat" : 38.1211352197085,
+                  "lng" : 13.3076332197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

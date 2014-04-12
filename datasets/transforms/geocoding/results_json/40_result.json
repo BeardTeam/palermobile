@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Largo Mariano Accardo",
+               "short_name" : "Largo Mariano Accardo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90145",
+               "short_name" : "90145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Largo Mariano Accardo, 50, 90145 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.125439,
+                  "lng" : 13.3330678
+               },
+               "southwest" : {
+                  "lat" : 38.1254334,
+                  "lng" : 13.3330508
+               }
+            },
+            "location" : {
+               "lat" : 38.1254334,
+               "lng" : 13.3330508
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1267851802915,
+                  "lng" : 13.3344082802915
+               },
+               "southwest" : {
+                  "lat" : 38.1240872197085,
+                  "lng" : 13.3317103197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

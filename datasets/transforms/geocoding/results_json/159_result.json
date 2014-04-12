@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale delle Alpi",
+               "short_name" : "Viale delle Alpi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90144",
+               "short_name" : "90144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale delle Alpi, 30, 90144 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1409198,
+                  "lng" : 13.335369
+               },
+               "southwest" : {
+                  "lat" : 38.1409106,
+                  "lng" : 13.3353547
+               }
+            },
+            "location" : {
+               "lat" : 38.1409106,
+               "lng" : 13.3353547
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.14226418029149,
+                  "lng" : 13.3367108302915
+               },
+               "southwest" : {
+                  "lat" : 38.1395662197085,
+                  "lng" : 13.3340128697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

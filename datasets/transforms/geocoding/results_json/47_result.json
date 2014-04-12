@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "206",
+               "short_name" : "206",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Serradifalco",
+               "short_name" : "Via Serradifalco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90145",
+               "short_name" : "90145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Serradifalco, 206, 90145 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1276695,
+               "lng" : 13.3375263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1290184802915,
+                  "lng" : 13.3388752802915
+               },
+               "southwest" : {
+                  "lat" : 38.1263205197085,
+                  "lng" : 13.3361773197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

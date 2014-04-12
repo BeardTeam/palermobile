@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "144",
+               "short_name" : "144",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Principe di Scordia",
+               "short_name" : "Via Principe di Scordia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90139",
+               "short_name" : "90139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Principe di Scordia, 144, 90139 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1268657,
+               "lng" : 13.3593792
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12821468029149,
+                  "lng" : 13.3607281802915
+               },
+               "southwest" : {
+                  "lat" : 38.12551671970849,
+                  "lng" : 13.3580302197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicolo Caldomai",
+               "short_name" : "Vicolo Caldomai",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90134",
+               "short_name" : "90134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vicolo Caldomai, 90134 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1177127,
+                  "lng" : 13.3599122
+               },
+               "southwest" : {
+                  "lat" : 38.1172005,
+                  "lng" : 13.3597687
+               }
+            },
+            "location" : {
+               "lat" : 38.1172935,
+               "lng" : 13.35989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1188055802915,
+                  "lng" : 13.3611894302915
+               },
+               "southwest" : {
+                  "lat" : 38.1161076197085,
+                  "lng" : 13.3584914697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

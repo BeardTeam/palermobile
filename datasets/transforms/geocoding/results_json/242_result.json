@@ -1,0 +1,345 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via O. R.",
+               "short_name" : "Via O. R.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90127",
+               "short_name" : "90127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via O. R., 1, 90127 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.10583039999999,
+                  "lng" : 13.3696125
+               },
+               "southwest" : {
+                  "lat" : 38.1058174,
+                  "lng" : 13.3696043
+               }
+            },
+            "location" : {
+               "lat" : 38.1058174,
+               "lng" : 13.3696125
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1071728802915,
+                  "lng" : 13.3709573802915
+               },
+               "southwest" : {
+                  "lat" : 38.1044749197085,
+                  "lng" : 13.3682594197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Vito Cesare Piazza",
+               "short_name" : "Via Vito Cesare Piazza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90129",
+               "short_name" : "90129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vito Cesare Piazza, 1, 90129 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1057337,
+                  "lng" : 13.3324054
+               },
+               "southwest" : {
+                  "lat" : 38.1057312,
+                  "lng" : 13.3323872
+               }
+            },
+            "location" : {
+               "lat" : 38.1057337,
+               "lng" : 13.3324054
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.10708143029151,
+                  "lng" : 13.3337452802915
+               },
+               "southwest" : {
+                  "lat" : 38.10438346970851,
+                  "lng" : 13.3310473197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Barocchieri",
+               "short_name" : "Via Barocchieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portella di Mare",
+               "short_name" : "Portella di Mare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Misilmeri",
+               "short_name" : "Misilmeri",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90036",
+               "short_name" : "90036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Barocchieri, 7, 90036 Portella di Mare Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0741963,
+               "lng" : 13.4531357
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0755452802915,
+                  "lng" : 13.4544846802915
+               },
+               "southwest" : {
+                  "lat" : 38.0728473197085,
+                  "lng" : 13.4517867197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via C 1",
+               "short_name" : "Via C 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Capaci",
+               "short_name" : "Capaci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capaci",
+               "short_name" : "Capaci",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90040",
+               "short_name" : "90040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via C 1, 7, 90040 Capaci Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1791186,
+               "lng" : 13.2475138
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1804675802915,
+                  "lng" : 13.2488627802915
+               },
+               "southwest" : {
+                  "lat" : 38.1777696197085,
+                  "lng" : 13.2461648197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Strada Provinciale 1",
+               "short_name" : "Strada Provinciale 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Partinico",
+               "short_name" : "Partinico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Partinico",
+               "short_name" : "Partinico",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90047",
+               "short_name" : "90047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strada Provinciale 1, 7, 90047 Partinico Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.04842259999999,
+               "lng" : 13.1217613
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.04977158029149,
+                  "lng" : 13.1231102802915
+               },
+               "southwest" : {
+                  "lat" : 38.04707361970849,
+                  "lng" : 13.1204123197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

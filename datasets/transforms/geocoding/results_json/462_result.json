@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90142",
+               "short_name" : "90142",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "90142, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.192106,
+                  "lng" : 13.3801929
+               },
+               "southwest" : {
+                  "lat" : 38.1226139,
+                  "lng" : 13.333746
+               }
+            },
+            "location" : {
+               "lat" : 38.1458328,
+               "lng" : 13.3616168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.192106,
+                  "lng" : 13.3801929
+               },
+               "southwest" : {
+                  "lat" : 38.1226139,
+                  "lng" : 13.333746
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

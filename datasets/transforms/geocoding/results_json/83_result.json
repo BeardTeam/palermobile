@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Carmelo Raiti",
+               "short_name" : "Via Carmelo Raiti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90128",
+               "short_name" : "90128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carmelo Raiti, 4, 90128 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0957081,
+               "lng" : 13.3480143
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.09705708029149,
+                  "lng" : 13.3493632802915
+               },
+               "southwest" : {
+                  "lat" : 38.09435911970849,
+                  "lng" : 13.3466653197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Mariano Stabile",
+               "short_name" : "Via Mariano Stabile",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90139",
+               "short_name" : "90139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Mariano Stabile, 112, 90139 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1239199,
+               "lng" : 13.3603587
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12526888029149,
+                  "lng" : 13.3617076802915
+               },
+               "southwest" : {
+                  "lat" : 38.12257091970849,
+                  "lng" : 13.3590097197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

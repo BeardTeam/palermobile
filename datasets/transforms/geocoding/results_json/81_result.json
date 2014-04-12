@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "385",
+               "short_name" : "385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale Strasburgo",
+               "short_name" : "Viale Strasburgo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90146",
+               "short_name" : "90146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Strasburgo, 385, 90146 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1620749,
+                  "lng" : 13.3217346
+               },
+               "southwest" : {
+                  "lat" : 38.1620663,
+                  "lng" : 13.3217198
+               }
+            },
+            "location" : {
+               "lat" : 38.1620749,
+               "lng" : 13.3217346
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1634195802915,
+                  "lng" : 13.3230761802915
+               },
+               "southwest" : {
+                  "lat" : 38.1607216197085,
+                  "lng" : 13.3203782197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

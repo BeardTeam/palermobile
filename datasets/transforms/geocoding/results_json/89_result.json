@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Valderice",
+               "short_name" : "Via Valderice",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90144",
+               "short_name" : "90144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Valderice, 11, 90144 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1491826,
+                  "lng" : 13.3363545
+               },
+               "southwest" : {
+                  "lat" : 38.1491762,
+                  "lng" : 13.3363379
+               }
+            },
+            "location" : {
+               "lat" : 38.1491826,
+               "lng" : 13.3363545
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1505283802915,
+                  "lng" : 13.3376951802915
+               },
+               "southwest" : {
+                  "lat" : 38.1478304197085,
+                  "lng" : 13.3349972197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

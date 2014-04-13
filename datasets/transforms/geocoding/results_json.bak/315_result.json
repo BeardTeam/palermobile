@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Vincenzo Riolo",
+               "short_name" : "Via Vincenzo Riolo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90139",
+               "short_name" : "90139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vincenzo Riolo, 7, 90139 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1227682,
+               "lng" : 13.3631965
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12411718029149,
+                  "lng" : 13.3645454802915
+               },
+               "southwest" : {
+                  "lat" : 38.12141921970849,
+                  "lng" : 13.3618475197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

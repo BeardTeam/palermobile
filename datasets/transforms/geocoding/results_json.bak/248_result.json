@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Principe di Pantelleria",
+               "short_name" : "Via Principe di Pantelleria",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90146",
+               "short_name" : "90146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Principe di Pantelleria, 12, 90146 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1609284,
+                  "lng" : 13.3250021
+               },
+               "southwest" : {
+                  "lat" : 38.1609183,
+                  "lng" : 13.3249888
+               }
+            },
+            "location" : {
+               "lat" : 38.1609284,
+               "lng" : 13.3249888
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.16227233029149,
+                  "lng" : 13.3263444302915
+               },
+               "southwest" : {
+                  "lat" : 38.15957436970849,
+                  "lng" : 13.3236464697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

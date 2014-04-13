@@ -1,0 +1,291 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Carbone a Partanna Mondello",
+               "short_name" : "Via Carbone a Partanna Mondello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carbone a Partanna Mondello, 48, 90151 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.19786029999999,
+                  "lng" : 13.3161156
+               },
+               "southwest" : {
+                  "lat" : 38.1978462,
+                  "lng" : 13.3161113
+               }
+            },
+            "location" : {
+               "lat" : 38.1978462,
+               "lng" : 13.3161156
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.19920223029149,
+                  "lng" : 13.3174624302915
+               },
+               "southwest" : {
+                  "lat" : 38.1965042697085,
+                  "lng" : 13.3147644697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Gallo a Partanna Mondello",
+               "short_name" : "Via Gallo a Partanna Mondello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Gallo a Partanna Mondello, 48, 90151 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.210224,
+                  "lng" : 13.3276381
+               },
+               "southwest" : {
+                  "lat" : 38.2102136,
+                  "lng" : 13.3276254
+               }
+            },
+            "location" : {
+               "lat" : 38.210224,
+               "lng" : 13.3276254
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2115677802915,
+                  "lng" : 13.3289807302915
+               },
+               "southwest" : {
+                  "lat" : 38.2088698197085,
+                  "lng" : 13.3262827697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Mondello",
+               "short_name" : "Piazza Mondello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Mondello, 90151 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2081877,
+                  "lng" : 13.3274869
+               },
+               "southwest" : {
+                  "lat" : 38.2072963,
+                  "lng" : 13.3261041
+               }
+            },
+            "location" : {
+               "lat" : 38.2078595,
+               "lng" : 13.3267301
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.20909098029149,
+                  "lng" : 13.3281444802915
+               },
+               "southwest" : {
+                  "lat" : 38.20639301970849,
+                  "lng" : 13.3254465197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Mondello",
+               "short_name" : "Via Mondello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Mondello, 48, 90151 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2060562,
+                  "lng" : 13.3239975
+               },
+               "southwest" : {
+                  "lat" : 38.206045,
+                  "lng" : 13.3239859
+               }
+            },
+            "location" : {
+               "lat" : 38.206045,
+               "lng" : 13.3239975
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.20739958029151,
+                  "lng" : 13.3253406802915
+               },
+               "southwest" : {
+                  "lat" : 38.20470161970851,
+                  "lng" : 13.3226427197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

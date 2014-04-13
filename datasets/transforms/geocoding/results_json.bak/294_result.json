@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Porta di Castro",
+               "short_name" : "Via Porta di Castro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90134",
+               "short_name" : "90134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Porta di Castro, 75, 90134 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1118147,
+                  "lng" : 13.3585751
+               },
+               "southwest" : {
+                  "lat" : 38.1118014,
+                  "lng" : 13.3585676
+               }
+            },
+            "location" : {
+               "lat" : 38.1118147,
+               "lng" : 13.3585676
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.11315703029149,
+                  "lng" : 13.3599203302915
+               },
+               "southwest" : {
+                  "lat" : 38.1104590697085,
+                  "lng" : 13.3572223697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

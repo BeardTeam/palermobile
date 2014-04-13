@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Torretta",
+               "short_name" : "Via Torretta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90147",
+               "short_name" : "90147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Torretta, 78, 90147 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1978105,
+                  "lng" : 13.273606
+               },
+               "southwest" : {
+                  "lat" : 38.1977962,
+                  "lng" : 13.2736027
+               }
+            },
+            "location" : {
+               "lat" : 38.1977962,
+               "lng" : 13.273606
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1991523302915,
+                  "lng" : 13.2749533302915
+               },
+               "southwest" : {
+                  "lat" : 38.1964543697085,
+                  "lng" : 13.2722553697085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

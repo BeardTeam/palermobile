@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "74",
+               "short_name" : "74",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Re Ruggero Settimo",
+               "short_name" : "Piazza Re Ruggero Settimo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90141",
+               "short_name" : "90141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Re Ruggero Settimo, 74, 90141 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1247704,
+                  "lng" : 13.3546215
+               },
+               "southwest" : {
+                  "lat" : 38.1247633,
+                  "lng" : 13.3546055
+               }
+            },
+            "location" : {
+               "lat" : 38.1247704,
+               "lng" : 13.3546215
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1261158302915,
+                  "lng" : 13.3559624802915
+               },
+               "southwest" : {
+                  "lat" : 38.1234178697085,
+                  "lng" : 13.3532645197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "74",
+               "short_name" : "74",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Ruggiero Settimo",
+               "short_name" : "Via Ruggiero Settimo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90139",
+               "short_name" : "90139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ruggiero Settimo, 74, 90139 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1233054,
+                  "lng" : 13.356527
+               },
+               "southwest" : {
+                  "lat" : 38.1232995,
+                  "lng" : 13.3565102
+               }
+            },
+            "location" : {
+               "lat" : 38.1232995,
+               "lng" : 13.3565102
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1246514302915,
+                  "lng" : 13.3578675802915
+               },
+               "southwest" : {
+                  "lat" : 38.1219534697085,
+                  "lng" : 13.3551696197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Rosolino Pilo",
+               "short_name" : "Via Rosolino Pilo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90139",
+               "short_name" : "90139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Rosolino Pilo, 43, 90139 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.12227430000001,
+               "lng" : 13.3582491
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12362328029151,
+                  "lng" : 13.3595980802915
+               },
+               "southwest" : {
+                  "lat" : 38.12092531970851,
+                  "lng" : 13.3569001197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

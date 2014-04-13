@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Indipendenza",
+               "short_name" : "Piazza Indipendenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piazza Indipendenza, 41, Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1100881,
+                  "lng" : 13.3520594
+               },
+               "southwest" : {
+                  "lat" : 38.1100867,
+                  "lng" : 13.3520411
+               }
+            },
+            "location" : {
+               "lat" : 38.1100881,
+               "lng" : 13.3520594
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1114363802915,
+                  "lng" : 13.3533992302915
+               },
+               "southwest" : {
+                  "lat" : 38.1087384197085,
+                  "lng" : 13.3507012697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

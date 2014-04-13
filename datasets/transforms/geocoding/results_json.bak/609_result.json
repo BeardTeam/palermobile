@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via D'Ossuna",
+               "short_name" : "Via D'Ossuna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90138",
+               "short_name" : "90138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via D'Ossuna, 45, 90138 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1154791,
+               "lng" : 13.3499088
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1168280802915,
+                  "lng" : 13.3512577802915
+               },
+               "southwest" : {
+                  "lat" : 38.11413011970851,
+                  "lng" : 13.3485598197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

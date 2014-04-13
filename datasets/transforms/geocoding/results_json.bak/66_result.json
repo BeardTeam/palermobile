@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "70",
+               "short_name" : "70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giovanni Aurispa",
+               "short_name" : "Via Giovanni Aurispa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90145",
+               "short_name" : "90145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Aurispa, 70, 90145 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1265428,
+               "lng" : 13.3409086
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12789178029149,
+                  "lng" : 13.3422575802915
+               },
+               "southwest" : {
+                  "lat" : 38.12519381970849,
+                  "lng" : 13.3395596197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

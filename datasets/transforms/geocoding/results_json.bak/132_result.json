@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90124",
+               "short_name" : "90124",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "90124 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.105162,
+                  "lng" : 13.4345999
+               },
+               "southwest" : {
+                  "lat" : 38.058871,
+                  "lng" : 13.3499541
+               }
+            },
+            "location" : {
+               "lat" : 38.0824516,
+               "lng" : 13.393389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.105162,
+                  "lng" : 13.4345999
+               },
+               "southwest" : {
+                  "lat" : 38.058871,
+                  "lng" : 13.3499541
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

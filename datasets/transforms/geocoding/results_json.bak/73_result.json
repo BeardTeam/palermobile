@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Emanuele Notarbartolo",
+               "short_name" : "Via Emanuele Notarbartolo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90141",
+               "short_name" : "90141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Emanuele Notarbartolo, 90141 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1332282,
+                  "lng" : 13.3483841
+               },
+               "southwest" : {
+                  "lat" : 38.129538,
+                  "lng" : 13.3399941
+               }
+            },
+            "location" : {
+               "lat" : 38.13213260000001,
+               "lng" : 13.3440272
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1332282,
+                  "lng" : 13.3483841
+               },
+               "southwest" : {
+                  "lat" : 38.129538,
+                  "lng" : 13.3399941
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

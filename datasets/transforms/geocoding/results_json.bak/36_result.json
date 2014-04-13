@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Ausonia",
+               "short_name" : "Via Ausonia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90146",
+               "short_name" : "90146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ausonia, 95, 90146 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1517288,
+               "lng" : 13.3331213
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1530777802915,
+                  "lng" : 13.3344702802915
+               },
+               "southwest" : {
+                  "lat" : 38.1503798197085,
+                  "lng" : 13.3317723197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

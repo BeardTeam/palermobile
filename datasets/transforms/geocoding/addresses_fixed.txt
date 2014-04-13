@@ -1,0 +1,656 @@
+Via Leonardo Da Vinci, 32, 90145 Palermo, Italy
+Via Sampolo, 73, 90143 Palermo, Italy
+Via del Corso, 149, 90033 San Carlo Palermo, Italy
+Via Gaetano Daita, 66, 90139 Palermo, Italy
+Via Empedocle Restivo, 34-36, 90144 Palermo, Italy
+Via Federico Giuseppe Pipitone, 33, 90100 Palermo, Italy
+Via Vincenzo di Marco, 5A, 90143 Palermo, Italy
+Via Gioacchino di Marzo, 13, 90144 Palermo, Italy
+Via Ausonia, 116, 90146 Palermo, Italy
+Viale della Regione Siciliana Nord Ovest, 9939, 90147 Sferracavallo, Palermo, Italy
+Via Montalbo, 1E, 90142 Palermo, Italy
+Via Trapani, 12-14, 90141 Palermo, Italy
+Via Pietro Scaglione, 6, 90145 Palermo, Italy
+Via Messina, 7A, 90141 Palermo, Italy
+Via Briuccia, 84, 90146 Palermo, Italy
+via Nicolò Garzilli, 38A, 90141, Palermo, Italy
+Via Trinacria, 20, 90144 Palermo, Italy
+Via Dante Alighieri, 56C, 90141 Palermo, Italy
+Via Maqueda, 260, 90134 Palermo, Italy
+Piazza Giovanni Amendola, 15, 90141 Palermo, Italy
+Via Ammiraglio Gravina, 80, 90139 Palermo, Italy
+Via Maqueda, 231, 90133 Palermo, Italy
+Via XII Gennaio, 1C, 90141 Palermo, Italy
+Corso Calatafimi, 801, 90129 Palermo, Italy
+Via San Lorenzo, 91C, 90146 Palermo, Italy
+Via Nicolò Turrisi, 33, 90138 Palermo, Italy
+Piazza San Francesco di Paola, 23, 90138 Palermo, Italy
+Via Paolo Paternostro, 10, 90144 Palermo, Italy
+Via Marchese di Villabianca, 82C, 90143 Palermo, Italy
+Via Alloro, 113, 90133 Palermo, Italy
+Via Mariano Stabile, 94, 90139 Palermo, Italy
+Via Terra Santa, 59, 90141 Palermo, Italy
+Piazza Due Palme, 13-14, 90133 Palermo, Italy
+Via Francesco Lo Jacono, 61, 90144 Palermo, PA, Italy
+Via Giovanni Campolo, 16, 90145 Palermo, Italy
+Via Ausonia, 95, 90146 Palermo, Italy
+Via Florestano Pepe, 13, 90139 Palermo, Italy
+Via dei Nebrodi, 10, 90144 Palermo, Italy
+Via Roccazzo, 88, 90135 Palermo, Italy
+Largo Mariano Accardo, 50, 90145 Palermo, Italy
+Via Emerico Amari, 40, 90139 Palermo, Italy
+Via Camillo Benso Cavour, 117, 90133 Palermo, Italy
+Via Tommaso Natale, 53, 90147 Sferracavallo Palermo, Italy
+Corso Calatafimi, 164, 90129 Palermo, Italy
+Via Principe di Palagonia, 82F, 90145 Palermo, Italy
+Via Giuseppe Sciuti, 77A, 90144 Palermo, Italy
+Via Serradifalco, 206, 90145 Palermo, Italy
+Piazza Ottavio Ziino, 32, 90145 Palermo, Italy
+Via Costantino Nigra, 69, 90141 Palermo, Italy
+Via Olanda, 23A, 90146 Palermo, Italy
+Via Torquato Tasso, 76, 90144 Palermo, Italy
+Via Francesco Petrarca, 20, 90144 Palermo, Italy
+Via Giuseppe Alessi, 10, 90143 Palermo, Italy
+Calata Marinai d'Italia, 1, 90139 Palermo, Italy
+Via Catania, 23, 90141 Palermo, Italy
+Piazza Castelnuovo, 35, 90141 Palermo, Italy
+Viale Strasburgo, 167, 90146 Palermo, Italy
+Via Michele Amari, 6, 90139 Palermo, Italy
+Via Giacomo Puccini, 54, 90144 Palermo, Italy
+Via Enrico Albanese, 31, 90139 Palermo, Italy
+Corso Alberto Amedeo, 168, 90138 Palermo, Italy
+Piazza Giulio Cesare, 8, 90127 Palermo, Italy
+PIazza Giulio Cesare - Stazione di Palermo, 1, 90127 Palermo, Italy
+Via Francesco Lo Jacono, 22C, 90144 Palermo, Italy
+Corso C. Finocchiaro Aprile, 188, 90138 Palermo, Italy
+Via Giovanni Aurispa, 70A, 90145 Palermo, Italy
+Via Nunzio Morello, 21, 90144 Palermo, Italy
+Via Mariano Stabile, 97, 90139 Palermo, Italy
+Via Alessio Di Giovanni, 21, 90144 Palermo, Italy
+Viale Leonardo Da Vinci, 233, 90145 Palermo, Italy
+Via Marchese Ugo, 72, 90141 Palermo, Italy
+Via Michele Amari, 13, 90139 Palermo, Italy
+Via Emanuele Notarbartolo, 49, 90141 Palermo, Italy
+Via Brunetto Latini, 11, 90141 Palermo, Italy
+Viale Emilia, 35, 90146 Palermo, Italy
+Via Praga, 48, 90143, Palermo, Italy
+Via Maggiore Pietro Toselli, 28d, 90143 Palermo, Italy
+Via del Quarnaro, 14, 90144 Palermo, Italy
+Via Salvatore Puglisi, 15, 90143 Palermo, Italy
+Via Giusino, 51, 90146 Palermo, Italy
+Viale Strasburgo, 385, 90146 Palermo, Italy
+Piazza Virgilio, 16, 90141 Palermo, Italy
+Via Carmelo Raiti, 4, 90128 Palermo, Italy
+Via Malaspina, 35, 90145 Palermo, Italy
+Via Libertà, 103, 90143 Palermo, Italy
+Corso Calatafimi, 724, 90129 Palermo, Italy
+Via Principe di Paternò, 85, 90144 Palermo, Italy
+Via Napoli, 52, 90133 Palermo, Italy
+Via Valderice, 11, 90144 Palermo, Italy
+Via Sammartino, 9, 90141 Palermo, Italy
+Viale Emilia, 45, 90144 Palermo, Italy
+Via Serradifalco, 2C, 90145 Palermo, Italy
+Via Sampolo, 125, 90143 Palermo, Italy
+Via Giovanni Pascoli, 13, 90144 Palermo, Italy
+Piazza Indipendenza, 41, 90129 Palermo, Italy
+Via Onorato Carmelo, 39, 90129 Palermo, Italy
+Via dell'Orsa Maggiore, 98, 90125 Palermo, Italy
+Via dei Nebrodi, 65, 90146 Palermo, Italy
+Via Salvatore Puglisi, 55, 90143 Palermo, Italy
+Via Uditore, 2, 90145 Palermo, Italy
+Via Generale Francesco La Ferla, 9-11, 90123 Palermo, Italy
+Via San Lorenzo, 95, 90146 Palermo, Italy
+Via Vittorio Emanuele, 311, 90134 Palermo, Italy
+Via Mendola, 2, 90127 Palermo, Italy
+Via Ernesto Basile, 80, 90128 Palermo, Italy
+Via Pacinotti Antonio, 21, 90145 Palermo, Italy
+Piazza Don Luigi Sturzo, 5, 90139 Palermo, Italy
+Corso Calatafimi, 705, 90129 Palermo, Italy
+Via Giuseppe Sciuti, 140, 90144 Palermo, Italy
+Via Giuseppe Giusti, 49, 90144 Palermo, Italy
+Via Giotto, 36, 90145 Palermo, Italy
+Uffici Giudiziari Tribunale, Via Turrisi Nicolo', 90138 Palermo, Italy
+Via Generale Arimondi Giuseppe, 2, 90143 Palermo, Italy
+Via Dante Alighieri, 66, 90141 Palermo, Italy
+Via Giovanni Zappalà, 22-24, 90145 Palermo, Italy
+Via Vittorio Emanuele, 117, 90133 Palermo, Italy
+Via Uditore, 12, 90145 Palermo, Italy
+Lungomare C. Colombo, 30, 90142 Palermo, Italy
+Piazza San Francesco Saverio, 3, 90134 Palermo, Italy
+Via Carbone a Partanna Mondello, 139, 90151 Mondello Palermo, Italy
+Via Maggiore Pietro Toselli, 103, 90143 Palermo, Italy
+Via Isidoro la Lumia, 56, 90139 Palermo, Italy
+Via Terra Santa, 12, 90141 Palermo, Italy
+Corso C. Finocchiaro Aprile, 165, 90138 Palermo, Italy
+Via Siracusa, 3, 90141 Palermo, Italy
+Via Domenico Scinà, 106B, 90139 Palermo, Italy
+Via Archimede, 56, 90139 Palermo, Italy
+P.zza Sant'Oliva, 43-44, 90144 Palermo, Italy
+Via Umberto Giordano, 37, 90144 Palermo, Italy
+Via Principe di Belmonte, 55, 90139 Palermo, Italy
+Via Luigi Pirandello, 19, 90144 Palermo, Italy
+Via Pecoraino (Centro Commerciale Forum), , 90124 Palermo, Italy
+Via Ammiraglio Rizzo, 50, 90142 Palermo, Italy
+Via Ludovico Ariosto, 14, 90144 Palermo, Italy
+Via Palmerino, 24, 90129 Palermo, Italy
+Piazza Vittorio Emanuele Orlando, 41, 90141, Palermo, Italy
+Viale della Libertà, 159, 90143, Palermo, Italy
+Via Roma, 386, 90139 Palermo, Italy
+Viale Orfeo, 18, 90149 Palermo, Italy
+Via Scannaserpe, 3, 90146 Palermo, Italy
+Via Noto, 34, 90141 Palermo, Italy
+Via Riccardo Wagner, 9, 90139 Palermo, Italy
+Via Siracusa, 34, 90141 Palermo, Italy
+Via Principe di Villafranca, 57, 90141 Palermo, Italy
+Piazza Sant'Oliva, 28, 90141 Palermo, Italy
+Via Selinunte, 1, 90141 Palermo, Italy
+Via Emerico Amari, 8, 90139 Palermo, Italy
+Via Principe di Villafranca, 33, 90141 Palermo, Italy
+Via Principe Granatelli, 86, 90139 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Principe di Belmonte, 101, 90139 Palermo, Italy
+Via Villa Verona, 35, 90100 Palermo, Italy
+Via Emerico Amari, 8, 90139 Palermo, Italy
+Via Mariano Stabile, 172, 90139 Palermo, Italy
+Via Pietro Bonanno, 26, 90142 Palermo, Italy
+Piazza Federico Chopin, 13, 90144 Palermo, Italy
+Via Principe di Belmonte, 55, 90139 Palermo, Italy
+Piazzale Ungheria, 73, 90141 Palermo, Italy
+Viale delle Alpi, 30, 90144 Palermo, Italy
+Via Leonardo Da Vinci, 145, 90145 Palermo, Italy
+Via Trapani, 1D, 90141 Palermo, Italy
+Via Giovan Battista Vaccarini, 1, 90143 Palermo, Italy
+Via Trapani, 1D, 90141 Palermo, Italy
+Salita Belmonte, 43, 90142 Palermo, Italy
+Via Abramo Lincoln, 30, 90123 Palermo, Italy
+Via Roma, 276, 90133 Palermo, Italy
+Via Mariano Stabile, 139, 90139 Palermo, Italy
+Via Roma, 62, 90133 Palermo, Italy
+Via Divisi, 99, 90133 Palermo, Italy
+Via Maqueda, 26, 90134 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Maqueda, 417, 90133 Palermo, Italy
+Piazzale Ungheria, 84, 90141 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Principe di Belmonte, 33, 90139 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Alessandro Manzoni, 11, 90133 Palermo, Italy
+Via Roma, 118, 90133 Palermo, Italy
+Via Divisi, 99, 90133 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Mariano Stabile, 139, 90139 Palermo, Italy
+Viale Cloe, 9, 90149 Palermo, Italy
+Via Principe Granatelli, 60, 90139 Palermo, Italy
+Via Roma, 72, 90133 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Michele Amari, 11, 90139 Palermo, Italy
+Viale della Regione Siciliana Nord Ovest, 2620, 90145 Palermo, Italy
+Foro Italico Umberto I, 22, 90133 Palermo, Italy
+Piazza Ruggero Settimo, 15, 90139 Palermo, Italy
+Via Messina Marine, 91, 90123 Palermo, Italy
+Via Piano di Gallo, 11, 90151 Mondello Palermo, Italy
+Via del Bersagliere, 21, 90143 Palermo, Italy
+Via Messina Marine, 178-180, 90121 Palermo, Italy
+Via Minutilla Salvatore, 3, 90146 Palermo, Italy
+Via Scarparelli, 16, 90134 Palermo, Italy
+Via Onorato, 13, 90139 Palermo, Italy
+Via Luigi Giannettino, 4, 90128 Palermo, Italy
+Via Roma, 499, 90139 Palermo, Italy
+Via Vittorio Emanuele, 327, 90134 Palermo, Italy
+Via Roma, 477, 90139 Palermo, Italy
+Via Roma, 398, 90139 Palermo, Italy
+Via Riccardo Wagner, 2, 90139 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Antonio Gagini, 77, 90133 Palermo, Italy
+Via Mariano Stabile, 126, 90139 Palermo, Italy
+Via Quintino Sella, 1, 90139 Palermo, Italy
+Lungomare Cristoforo Colombo, 4452, 90149 Palermo, Italy
+Via Emerico Amari, 146, 90139 Palermo, Italy
+Via Bottai, 30, 90133 Palermo, Italy
+Via Maqueda, 437, 90133 Palermo, Italy
+Viale Principe di Scalea, , 90151 Mondello Palermo, Italy
+Via Vincenzo Errante, 12, 90127 Palermo, Italy
+Via Roma, 72, 90133 Palermo, Italy
+Via Monte Pellegrino, 62, 90142 Palermo, Italy
+Via Marchese Ugo, 3, 90144 Palermo, Italy
+Via Cartari, 18, 90133 Palermo, Italy
+Via del Celso, 31, 90134 Palermo, Italy
+Via Nicolò Gallo, 2, 90139 Palermo, Italy
+Via Butera, 35-37, 90133 Palermo, Italy
+Via Rosolino Pilo, 43, 90139 Palermo, Italy
+Via Vittorio Emanuele, 114, 90133 Palermo, Italy
+Via Francesco Crispi, 228, 90139 Palermo, Italy
+Via Enrico Albanese, 34, 90139 Palermo, Italy
+Via Salvatore Puglisi, 9, 90143 Palermo, Italy
+Via Ottavio D'Aragona, 25, 90139 Palermo, Italy
+Via Vittorio Emanuele, 316, 90134 Palermo, Italy
+Via Maqueda, 8, 90134 Palermo, Italy
+Piazza Sant'Oliva, 8, 90141 Palermo, Italy
+Via Roma, 111, 90133 Palermo, Italy
+Via Aquino, 19cD, 90126 Borgo Molara Palermo, Italy
+Via Ruffo di Calabria, 20, 90137 Palermo, Italy
+Via Plauto, 40, 90148 Palermo, Italy
+Via Villa Rosato, 20-22, 90146 Palermo, Italy
+Via Agrigento, 3, 90141 Palermo, Italy
+Via Libertà, 63, 90143 Palermo, Italy
+Via Monfenera, 106, 90128 Palermo, Italy
+Viale Regina Margherita di Savoia, 53, 90149 Palermo, Italy
+Via Mariano Stabile, 112, 90139 Palermo, Italy
+Via Giuseppina Turrisi Colonna, 4, 90141 Palermo, Italy
+Via Vittorio Emanuele, 310, 90134 Palermo, Italy
+Via San Sebastiano, 13, 90133 Palermo, Italy
+Via Lungarini, 8, 90133 Palermo, Italy
+Piazza Giovanni Amendola, 43, 90141 Palermo, Italy
+Via Valerio Villareale, 28, 90141 Palermo, Italy
+Corso Calatafimi, 1096, 90131 Palermo, Italy
+Piazza Giulio Cesare, 44, 90127 Palermo, Italy
+Via Niccolò Machiavelli, 6, 90127 Palermo, Italy
+Via Principe di Pantelleria, 12, 90146 Palermo, Italy
+Via Agnetta, 91, 90126 Palermo, Italy
+Via Asilo Infantile Sella, 24, 90151 Mondello Palermo, Italy
+Via Rosario Gregorio, 36, 90123 Palermo, Italy
+Via Torretta, 7, 90147 Sferracavallo Palermo, Italy
+Via Bari, 18, 90133 Palermo, Italy
+Via Orologio, 9, 90133 Palermo, Italy
+Via Maqueda, 7, 90133 Palermo, Italy
+Via Carini, 25, 90138 Palermo, Italy
+Via Giuseppe Garibaldi, 8, 90133 Palermo, Italy
+Via Apollo, 4, 90151 Mondello Palermo, Italy
+Via Alloro, 145, 90133 Palermo, Italy
+Via Cosmo Guastella, 5, 90127 Palermo, Italy
+Via Roma, 171, 90133 Palermo, Italy
+Via Croce Rossa, 118, 90146 Palermo, Italy
+Via Pietro Novelli, 14, 90134 Palermo, Italy
+Via Mariano Stabile, 136, 90139 Palermo, Italy
+Via Houel, 30, 90138 Palermo, Italy
+Via Orologio, 31, 90133 Palermo, Italy
+Foro Italico Umberto I, 1, 90133 Palermo, Italy
+Via Mariano Stabile, 37, 90139 Palermo, Italy
+Via Roma, 62, 90133 Palermo, Italy
+Via Vincenzo di Marco, 28, 90143 Palermo, Italy
+Via Bara All'Olivella, 67, 90133 Palermo, Italy
+Via Filippo Turati, 5, 90139 Palermo, Italy
+Via Antonello da Messina, 15, 90142 Palermo, Italy
+Via Montecarlo, 7, 90146 Palermo, Italy
+Via Bari, 52, 90133 Palermo, Italy
+Via Roma, 62, 90133 Palermo, Italy
+Via Lungarini, 60, 90133 Palermo, Italy
+Via Emerico Amari, 112, 90139 Palermo, Italy
+Via Roma, 72, 90133 Palermo, Italy
+Via D'Ossuna, 85, 90138 Palermo, Italy
+Via Bari, 7, 90133 Palermo, Italy
+Via Piano di Gallo, 12-14, 90151 Mondello Palermo, Italy
+Lungomare Cristoforo Colombo, 1931, 90151 Mondello Palermo, Italy
+Via Bandiera, 77, 90133 Palermo, Italy
+Via Volontari Italiani del Sangue, 10, 90128 Palermo, Italy
+Via dello Spezio, 41, 90139 Palermo, Italy
+Via Gorizia, 8, 90133 Palermo, Italy
+Via Camillo Benso Cavour, 32, 90133 Palermo, Italy
+Via Roma, 83, 90133 Palermo, Italy
+Via Emerico Amari, 140, 90139 Palermo, Italy
+Via Benedetto Civiletti, 4, 90141 Palermo, Italy
+Via Toselli Pietro Maggiore, 26, 90143 Palermo, Italy
+Largo Cavalieri di Malta, 6, 90133 Palermo, Italy
+Via Porta di Castro, 75, 90134 Palermo, Italy
+Via Principe di Scordia, 126, 90139 Palermo, Italy
+Viale delle Sirene, 30, 90149 Palermo, Italy
+Piazza Giulio Cesare, 9, 90127 Palermo, Italy
+Via Garraffello, 6, 90133 Palermo, Italy
+Via XX Settembre, 70, 90141 Palermo, Italy
+Via del Manderino, 3, 90147 Sferracavallo Palermo, Italy
+Via Tenente Giovanni Ingrao, 2, 90138 Palermo, Italy
+Piazza Acquasanta, 12, 90142 Palermo, Italy
+Via Emanuele Notarbartolo, 35, 90141 Palermo, Italy
+Via Ammiraglio Gravina, 59, 90139 Palermo, Italy
+Via Cappuccini, 9, 90129 Palermo, Italy
+Via Cefalonia, 26, 90129 Palermo, Italy
+Via Pazienza, 33A, 90151 Mondello Palermo, Italy
+Via Maqueda, 92, 90133 Palermo, Italy
+Via Emerico Amari, 140, 90139 Palermo, Italy
+Via Cosmo Guastella, 1, 90127 Palermo, Italy
+Via Saffo, 23, 90151 Mondello Palermo, Italy
+Via Porta di Castro, 23, 90134 Palermo, Italy
+Via Alloro, 107, 90133 Palermo, Italy
+Via Sant'Antonio, 6, 90134, Palermo, Italy
+Via Vincenzo Riolo, 7, 90139 Palermo, Italy
+Via Sferracavallo, 236, 90147 Sferracavallo Palermo, Italy
+Via Dammuso, 88, 90147 Sferracavalo Palermo, Italy
+Via Nicolò Turrisi, 38B, 90138 Palermo, Italy
+Via Principe di Belmonte, 90, 90139 Palermo, Italy
+Viale Regina Elena, 1C, 90151 Mondello Palermo, Italy
+Via Oreto, 29, 90127 Palermo, Italy
+Via San Cristoforo, 15, 90133 Palermo, Italy
+Via Roma, 97, 90133 Palermo, Italy
+Via Camillo Benso Cavour, 32, 90133 Palermo, Italy
+Via Roma, 72, 90133 Palermo, Italy
+Via Merlo, 30, 90133 Palermo, Italy
+Via Gaetano Donizetti, 19, 90134 Palermo, Italy
+Via Bari, 52, 90133 Palermo, Italy
+Via Giovanni di Giovanni, 14, 90139 Palermo, Italy
+Via Alessio Narbone, 66, 90138 Palermo, Italy
+Via Generale Arimondi Giuseppe, 48, 90143 Palermo, Italy
+Via Antonio Mongitore, 11, 90134 Palermo, Italy
+Via Houel, 30, 90138 Palermo, Italy
+Via Stesicoro, 3, 90151 Mondello Palermo, Italy
+Via Saffo, 4, 90151 Mondello Palermo, Italy
+Via Vittorio Emanuele, 376, 90134 Palermo, Italy
+Via Corleo Simone, 7, 90124 Palermo, Italy
+Via Lincoln, 81, 90133 Palermo, Italy
+Via Sant'Agostino, 5, 90134 Palermo, Italy
+Via Alloro, 3, 90133 Palermo, Italy
+Via Principe di Belmonte, 25, 90139 Palermo, Italy
+Via Terra Santa, 82, 90141 Palermo, Italy
+Via Mariano Stabile, 200, 90141 Palermo, Italy
+Via Cappuccini, , 90129 Palermo, Italy
+Via Vittorio Emanuele, 316, 90134 Palermo, Italy
+Via Ernesto Tricomi, 10, 90127 Palermo, Italy
+Via Coltellieri, 46, 90133 Palermo, Italy
+Via Orazio Antinori, 33, 90138 Palermo, Italy
+Via Lincoln, 161, 90133 Palermo, Italy
+Via Generale Luigi Cadorna, 5, 90134 Palermo, Italy
+Via Piccola del Teatro Santa Cecilia, 5, 90133 Palermo, Italy
+Via Lattarini Grande, 17, 90133 Palermo, Italy
+Via dell'Autonomia Siciliana, 51, 90143 Palermo, Italy
+Via del Bersagliere, 30, 90143 Palermo, Italy
+Via Giuseppe Mazzini, 49, 90139 Palermo, Italy
+Cortile del Secco, 3, 90134 Palermo, Italy
+Via Antonio Gagini, 70, 90133 Palermo, Italy
+Via Ignazio Gioè, 13, 90146 Palermo, Italy
+Via Sampolo, 47, 90143 Palermo, Italy
+Viale Orfeo, 9-11, 90149 Palermo, Italy
+Via Restivo Empedocle, 95, 90144 Palermo, Italy
+Via XX Settembre, 14, 90141 Palermo, Italy
+Via Vincenzo di Marco, 45, 90143 Palermo, Italy
+Via Lincoln, 101, 90133 Palermo, Italy
+Via Belgio, 2, 90146 Palermo, Italy
+Via Pignatelli Aragona, 82, 90141 Palermo, Italy
+Via Giuseppe Sciuti, 120, 90144 Palermo, Italy
+Via Volturno, 6, 90138 Palermo, Italy
+Via Divisi, 49, 90133 Palermo, Italy
+Via Roma, 188, 90133 Palermo, Italy
+Via Alessandro Paternostro, 62, 90133 Palermo, Italy
+Via Giovan Battista Odierna, 40, 90127 Palermo, Italy
+Vicolo San Carlo, 8, 90133 Palermo, Italy
+Cortile Rizzuto, 1, 90147 Sferracavallo Palermo, Italy
+Corso Alberto Amedeo, 190, 90138 Palermo, Italy
+Via Dante Alighieri, 54, 90141 Palermo, Italy
+Viale Principe di Scalea, 52, 90151 Mondello Palermo, Italy
+Via dei Francescani, 6, 90136 Palermo, Italy
+Via Roma, 171, 90133 Palermo, Italy
+Via Catalano, 31, 90134 Palermo, Italy
+Via Emerico Amari, 58, 90139 Palermo, Italy
+Via Principe di Belmonte, 94, 90139 Palermo, Italy
+Vicolo Lo Casto, 4, 90142 Palermo, Italy
+Vicolo Madonna del Cassaro, 7, 90133 Palermo, Italy
+Via Porta di Castro, 223, 90134 Palermo, Italy
+Via Giovan Battista Pagano, 3, 90134 Palermo, Italy
+via Francesco Guardione, 77, 90139 Palermo, Italy
+Via Alessandro Paternostro, 16, 90133 Palermo, Italy
+Via Armida, 5, 90151 Mondello Palermo, Italy
+Via San Nicolò All'Albergheria, 4, 90134 Palermo, Italy
+Via alla Piazza dei Tedeschi, 4, 90134 Palermo, Italy
+Primo Cortile Trapani, 7-8-9, 90146 Palermo, Italy
+Via alla Piazza dei Tedeschi, 4, 90134 Palermo, Italy
+Via Gallo, 31, 90151 Mondello Palermo, Italy
+Piazza Bordonaro, 9, 90146 Palermo, Italy
+Corso C. Finocchiaro Aprile, 140, 90138 Palermo, Italy
+Via Montalbo, 241, 90142 Palermo, Italy
+Via Roma, 118, 90133 Palermo, Italy
+Via Riccardo Wagner, 8, 90139 Palermo, Italy
+Via degli Schioppettieri, 8, 90133 Palermo, Italy
+Piazza Re Ruggero Settimo, 74H, 90141 Palermo, Italy
+Via Principe di Belmonte, 102, 90139 Palermo, Italy
+Via Gallo, 31, 90151 Mondello Palermo, Italy
+Via Rocco Pirri, 12, 90123 Palermo, Italy
+Via Antonio Gagini, 111, 90133 Palermo, Italy
+Via Rocco Pirri, 12, 90123 Palermo, Italy
+Via Carini, 2, 90138 Palermo, Italy
+Via Vittorio Emanuele, 71, 90133 Palermo, Italy
+Via Tunisi, 8, 90138 Palermo, Italy
+Via Riolo, 10, 90139 Palermo, Italy
+Via Bottai, 9, 90133 Palermo, Italy
+Vicolo San Carlo, 8, 90133 Palermo, Italy
+Via Giacomo Cusmano, 28, 90141 Palermo, Italy
+Via Gallo, 19, 90151 Mondello Palermo, Italy
+Via Pantelleria, 22, 90133 Palermo, Italy
+Via Monfenera, 140, 90128 Palermo, Italy
+Via Plauto, 27, 90147 Sferracavallo Palermo, Italy
+Via D'Ossuna, 110, 90138 Palermo, Italy
+Via Al Convento di Baida, 43, 90136 Palermo, Italy
+Corso Re Ruggero, 2, 90134 Palermo, Italy
+Via Monfenera, 106, 90128 Palermo, Italy
+Via del Bersagliere, 21, 90143 Palermo, Italy
+Via Ottavio D'Aragona, 23, 90139 Palermo, Italy
+Via del Celso, 14, 90134 Palermo, Italy
+Lungomare Cristoforo Colombo, 4765, 90149 Palermo, Italy
+Via Roma, 111, 90133 Palermo, Italy
+Piazzetta Lucrezia Brunaccini, , 90134 Palermo, Italy
+Via Salvatore Puglisi, 9, 90143 Palermo, Italy
+Lungomare Cristoforo Colombo, 4452, 90149 Palermo, Italy
+Discesa Tonnara, 4, 90142 Trabia Palermo, Italy
+Viale dell'Olimpo, 3, 90149 Palermo, Italy
+Via Cristoforo Colombo, 132, 90142 Palermo, Italy
+Via La Malfa Ugo, 96, 90146 Palermo, Italy
+Via Plauto, , 90147 Sferracavallo Palermo, Italy
+Via Messina Marine, 636, 90121 Palermo, Italy
+Via Faraone, 2, 90147 Sferracavallo Palermo, Italy
+Via Castelforte, 126, 90146 Palermo, Italy
+Via P.v., 46, 90146 Palermo, Italy
+Via Bara All'Olivella, 2, 90133 Palermo, Italy
+Via Monteleone, 12, 90133 Palermo, Italy
+Via Giuseppe Mazzini, 54, 90139 Palermo, Italy
+Piazza San Giovanni Bosco, 1, 90143 Palermo, Italy
+Via S. Oliva, 20, 90141 Palermo, Italy
+Via Lattarini Grande, 22, 90133 Palermo, Italy
+Via Salvatore Spinuzza, 3, 90133 Palermo, Italy
+Via Sammartino, 117, 90141 Palermo, Italy
+Via Della Libertà, 6, 90141 Palermo, Italy
+Via San Basilio, 37, 90133 Palermo, Italy
+Via Papireto, 74, 90134 Palermo, Italy
+Via XX Settembre, 82, 90141 Palermo, Italy
+Via Giuseppe Mazzini, 1, 90139 Palermo, Italy
+Piazzetta della Canna, 8-9, 90134 Palermo, Italy
+Discesa Santa Marina, 3, 90134 Palermo, Italy
+Via Giacalone, 2, 90133 Palermo, Italy
+Piazza San Francesco di Paola, 40, 90138 Palermo, Italy
+Via Gioacchino di Marzo, 61, 90144 Palermo, Italy
+Via dei Candelai, 65, 90134 Palermo, Italy
+Via Bertolino Giuseppe Puglisi, 25, 90139 Palermo, Italy
+Via Giuseppe Sciuti, 79F, 90144 Palermo, Italy
+Piazza Ungheria, 33, 90141 Palermo, Italy
+Via Damiani Almeyda, 32, 90141 Palermo, Italy
+Via Pottino Monsignore Filippo, 3, 90142 Palermo, Italy
+Via Bara All'Olivella, 18, 90133 Palermo, Italy
+Via Enrico Parisi, 7, 90141 Palermo, Italy
+Largo Cavalieri di Malta, 11, 90133 Palermo, Italy
+Viale della Resurrezione, 80, 90146 Palermo, Italy
+Piazzetta Pietro Speciale, 5, 90134 Palermo, Italy
+Via dei Candelai, 75, 90134 Palermo, Italy
+Piazza Giovanni Borgese, 3, 90133 Palermo, Italy
+Via Daniele Manin, 36, 90139 Palermo, Italy
+Via Principe di Belmonte, 45, 90139 Palermo, Italy
+Via Belgio, 4, 90146 Palermo, Italy
+Via Torremuzza, 27, 90133 Palermo, Italy
+Piazza Niscemi, 55, 90146 Palermo, Italy
+Via Filippo Angelitti, 2, 90145 Palermo, Italy
+Via Campolo Giovanni, 25-36, 90100 Palermo, Italy
+Via Restivo Empedocle, 106, 90144 Palermo, Italy
+Via Ludovico Ariosto, 32, 90144 Palermo, Italy
+Piazza San Francesco di Paola, 42, 90138 Palermo, Italy
+Via Giovanni Meli, 13, 90133 Palermo, Italy
+Via dell'Orologio, 37, 90133 Palermo, Italy
+Via Archimede, 189, 90139 Palermo, Italy
+Via Isidoro la Lumia, 21, 90139 Palermo, Italy
+Via Cagliari, 14, 90133 Palermo, Italy
+Via Giuseppe Patania, 34, 90133 Palermo, Italy
+Via del Celso, 69, 90134 Palermo, Italy
+Via Pietro Paolo Rubens, 5, 90145 Palermo, Italy
+Piazza Castelnuovo, 35, 90141 Palermo, Italy
+Via Giotto, 45, 90145 Palermo, Italy
+Piazza della Rivoluzione, 34-35, 90133 Palermo, Italy
+Via Selinunte, 7, 90141 Palermo, Italy
+Via Piccola Teatro Santa Cecilia, 22, 90133 Palermo, Italy
+Lungomare Cristoforo Colombo, 2351, 90149 Palermo, Italy
+Viale Campania, 44, 90144 Palermo, Italy
+Via dell'Orologio, 38, 90133 Palermo, Italy
+Via Salvatore Spinuzza, 59, 90133 Palermo, Italy
+Via Giuseppe Giusti, 34, 90144 Palermo, Italy
+Via Chiavettieri, 18, 90133 Palermo, Italy
+Via Toselli Pietro Maggiore, 125-127, 90143 Palermo, Italy
+Via Giacalone, 29, 90133 Palermo, Italy
+Foro Italico Umberto I, 1, 90133 Palermo, Italy
+Piazza della Rivoluzione, 1, 90133 Palermo, Italy
+Via Velasquez, 34, 90141 Palermo, Italy
+Viale Francesco Scaduto, 2, 90144 Palermo, Italy
+Via Chiavettieri, 17, 90133 Palermo, Italy
+Via Ludovico Ariosto, 11, 90144 Palermo, Italy
+Via della Libertà, 84, 90143 Palermo, Italy
+Via Rua Formaggi, 15, 90134 Palermo, Italy
+Via Enrico Parisi, 30A, 90141 Palermo, Italy
+Via Alessandro Paternostro, 59, 90133 Palermo, Italy
+Via Castrofilippo, 24, 90133 Palermo, Italy
+Via Principe di Belmonte, 44, 90139 Palermo, Italy
+Piazzetta Chiesa dei Cocchieri, 5, 90133 Palermo, Italy
+Via Monteleone, 5, 90133 Palermo, Italy
+Piazza Marina, 50, 90133 Palermo, Italy
+Piazza Principe di Camporeale, 13, 90138 Palermo, Italy
+Via Venezia, 20, 90133 Palermo, Italy
+Via Riccardo Wagner, 14, 90139 Palermo, Italy
+Via XII Gennaio, 1, 90141 Palermo, Italy
+Via Filippo Turati, 7, 90139 Palermo, Italy
+Vicolo Caldomai, , 90134 Palermo, Italy
+Via Coltellieri, 5, 90133 Palermo, Italy
+Piazza Bologni, 4, 90134 Palermo, Italy
+Via Messina Marine, 118, 90121 Palermo, Italy
+Via Vittorio Emanuele, 150, 90133 Palermo, Italy
+Via Giuseppe la Masa, 11, 90139 Palermo, Italy
+Piazza Sant'Andrea, 4, 90133 Palermo, Italy
+Via dei Tintori, 22, 90133 Palermo, Italy
+Piazza della Vittoria, 25, 90134 Palermo, Italy
+Piazza Bologni, 22, 90134 Palermo, Italy
+Piazza Sant'Onofrio, 42, 90134 Palermo, Italy
+Piazza Croce dei Vespri, 6, 90133 Palermo, Italy
+Via Torremuzza, 21, 90133 Palermo, Italy
+Piazzetta Mulino a Vento, 4, 90139 Palermo, Italy
+Viale Regina Margherita di Savoia, 53, 90149 Palermo, Italy
+Via Saline, 108, 90149 Mondello Palermo, Italy
+Viale Regina Elena, , 90151 Mondello Palermo, Italy
+Piazza Mondello, 48, 90151 Mondello Palermo, Italy
+Via Catullo, 15, 90147 Sferracavallo Palermo, Italy
+Via Torretta, 66, 90147 Sferracavallo Palermo, Italy
+Via Torrearsa, 10, 90139 Palermo, Italy
+Piazza Verdi, 59, 90138 Palermo, Italy
+Via Bara All'Olivella, 107, 90133 Palermo, Italy
+Via della Vetriera, 46, 90133 Palermo, Italy
+Via Principe di Villafranca, 59, 90141 Palermo, Italy
+Piazza Bordonaro, 9, 90142 Palermo, Italy
+Via Antigone, 40, 90149 Palermo, Italy
+Via V. Magliocco, 15, 90141 Palermo, Italy
+Via Torretta, 94, 90147 Sferracavallo Palermo, Italy
+Via Barcarello, 71, 90147 Sferracavallo Palermo, Italy
+Viale Galatea, 55, 90151 Mondello Palermo, Italy
+Via Mattei, 1, 90149 Palermo, Italy
+Via Torre di Mondello, 28, 90151 Mondello Palermo, Italy
+Via Torretta, 104, 90147 Sferracavallo Palermo, Italy
+Via Torretta, 80, 90147 Sferracavallo Palermo, Italy
+Piazza Marina a Sferracavallo, 18, 90147 Sferracavallo Palermo, Italy
+Via Quintino Sella, 53, 90139 Palermo, Italy
+Cortile Santa Caterina, 1, 90133 Palermo, Italy
+Piazza Marina, 52, 90133 Palermo, Italy
+Viale Regina Margherita di Savoia, 72, 90149 Palermo, Italy
+Via Torre di Mondello, 22, 90151 Mondello Palermo, Italy
+Via Scalo di Sferracavallo, 4, 90147 Sferracavallo Palermo, Italy
+Via Torretta, 78, 90147 Sferracavallo Palermo, Italy
+Via Messina Marine, 381, 90123 Palermo, Italy
+Via Trapani, 4, 90141 Palermo, Italy
+Via Vittorio Emanuele, 316, 90134 Palermo, Italy
+Via Isidoro la Lumia, 32, 90139 Palermo, Italy
+Piazza Marina, 16, 90133 Palermo, Italy
+Via Catania, 44, 90139 Palermo, Italy
+Via Volturno, 41, 90138 Palermo, Italy
+Piazzetta Colonna, , 90139 Palermo, Italy
+Viale Regione Siciliana Nord - Ovest, 2286, 90135 Palermo, Italy
+Via Vittorio Emanuele, 175, 90133 Palermo, Italy
+Via Sammartino, 97, 90139 Palermo, Italy
+Via Emerico Amari, 55, 90139 Palermo, Italy
+Via Emerico Amari, 64, 90139 Palermo, Italy
+Piazza Giuseppe Verdi, 27, 90134 Palermo, Italy
+Via Cuba, 8, 90129, Monreale, PA, Italy
+Piazza Marina, 48, 90133 Palermo, Italy
+Via Butera, 55, 90133 Palermo, Italy
+Via dei Cassari, 35, 90133 Palermo, Italy
+Via Alloro, 26, 90133 Palermo, Italy
+Piazza Re Ruggero Settimo, 68, 90141 Palermo, Italy
+Via Pignatelli Aragona, 52 , 90141 Palermo, Italy
+Via XX Settembre, 59, 90141 Palermo, Italy
+Via Ottavio D'Aragona, 34, 90139 Palermo, Italy
+Via Gaetano Filangeri, 22, 90133 Palermo, Italy
+Via Vittorio Emanuele, 176-178, 90133 Palermo, Italy
+Via Emerico Amari, 88, 90139 Palermo, Italy
+Salita Sant'Antonio, 9, 90133 Palermo, Italy
+Via Principe di Belmonte, 45, 90139 Palermo, Italy
+Via Toselli Pietro Maggiore, 127, 90143 Palermo, Italy
+Via Judica, 21, 90134 Palermo, Italy
+Via Porta Carini, 5, 90134 Palermo, Italy
+Via Sammartino, 121, 90141 Palermo, Italy
+Via Sammartino, 65, 90141 Palermo, Italy
+Via Mariano Stabile, 134, 90139 Palermo, Italy
+Piazza Virgilio, 9, 90141 Palermo, Italy
+Via Bara All'Olivella, 2, 90133 Palermo, Italy
+Via Emerico Amari, 104, 90139 Palermo, Italy
+Via della Vetriera, 1, 90133 Palermo, Italy
+Via della Libertà , 12, 90141 Palermo, Italy
+Via XII Gennaio, 8, 90141 Palermo, Italy
+Piazza Sant'Onofrio, 3, 90134 Palermo, Italy
+Piazza Fonderia, 3, 90133 Palermo, Italy
+Via Francesco Ferrara, 46, 90141 Palermo, Italy
+Via delle Balate, 15, 90134 Palermo, Italy
+Via Principe di Scordia, 144, 90139 Palermo, Italy
+Via D'Ossuna, 45, 90138 Palermo, Italy
+Via Conte Federico, 24, 90124 Palermo, Italy
+Via Giorgio Castriota, 3, 90139 Palermo, Italy
+Piazza Principe di Camporeale, 83, 90138 Palermo, Italy
+Via Salvatore Vigo, 3, 90139 Palermo, Italy
+Via dello Spasimo, 44, 90133 Palermo, Italy
+Via Re Federico, 8, 90141 Palermo, Italy
+Piazza Virgilio, 30, 90141 Palermo, Italy
+Via XII Gennaio, 11, 90141 Palermo, Italy
+Piazza Sant'Oliva, 10, 90141 Palermo, Italy
+Via Principe di Belmonte, 32, 90139 Palermo, Italy
+Via Re Federico, 109, 90138 Palermo, Italy
+Via Messina Marine, 178-180, 90121 Palermo, Italy
+Discesa Maccheronai, 47, 90133 Palermo, Italy
+Via degli Scalini, 6, 90134 Palermo, Italy
+Via Sant'Oliva, 26, 90141 Palermo, Italy
+Via Manin, 22, 90139 Palermo, Italy
+Via Messina Marine, 447, 90123 Palermo, Italy
+Piazza Marina, 5-6, 90133 Palermo, Italy
+Piazza Sant'Onofrio, 37, 90134 Palermo, Italy
+Via Maddalena Umberto, 14, 90131 Palermo, Italy
+Piazza San Francesco Saverio, 4, 90134 Palermo, Italy
+Via Pignatelli Aragona, 64, 90141 Palermo, Italy
+Via Porta Sant'Agata, 10, 90134 Palermo, Italy
+Piazza Bellini, 6, 90133 Palermo, Italy
+Via Paolo Paternostro, 28, 90141 Palermo, Italy
+Via Nicolò Gallo,1C, 90139 Palermo, Italy
+Via Dante Alighieri, 212 , 90141 Palermo, Italy
+Via Giovanni da Procida, 19, 90133 Palermo, Italy
+Via Principe di Belmonte, 69, 90139 Palermo, Italy
+Via Enrico Albanese, 24, 90139 Palermo, Italy
+Via Orologio, 54, 90133 Palermo, Italy
+Piazza Bordonaro, 30, 90142 Palermo, Italy
+Via Pietro Bonanno, 42, 90142 Palermo, Italy
+Lungomare Cristoforo Colombo, 31, 90149 Palermo, Italy
+Piazza Re Ruggero Settimo, 86, 90141 Palermo, Italy
+Via Principe di Belmonte, 107-115, 90139 Palermo, Italy
+Via Libertà, 100A-B, 90143 Palermo, Italy
+Via Principe di Belmonte, 108, 90139 Palermo, Italy
+Via Emanuele Notarbartolo, 7B, 90141 Palermo, Italy
+Via Lincoln, 15, 90133 Palermo, Italy
+Corso Calatafimi, 795, 90129 Palermo, Italy
+Via Alessandro Paternostro, 58, 90133 Palermo, Italy
+Via Giuseppe Mazzini, 54, 90139 Palermo, Italy
+Via Vittorio Emanuele, 102, 90133 Palermo, Italy
+Via Bara All'Olivella, 76, 90133 Palermo, Italy
+Via Cala, 62, 90133 Palermo, Italy
+Via Messina Marine, 683, 90121 Palermo, Italy

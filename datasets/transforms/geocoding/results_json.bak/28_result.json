@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Alessandro Paternostro",
+               "short_name" : "Via Alessandro Paternostro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Alessandro Paternostro, 10, 90133 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1170537,
+                  "lng" : 13.3653584
+               },
+               "southwest" : {
+                  "lat" : 38.1170418,
+                  "lng" : 13.3653477
+               }
+            },
+            "location" : {
+               "lat" : 38.1170537,
+               "lng" : 13.3653584
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.11839673029149,
+                  "lng" : 13.3667020302915
+               },
+               "southwest" : {
+                  "lat" : 38.11569876970849,
+                  "lng" : 13.3640040697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Paolo Paternostro",
+               "short_name" : "Via Paolo Paternostro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90141",
+               "short_name" : "90141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Paolo Paternostro, 10, 90141 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1232794,
+                  "lng" : 13.3535012
+               },
+               "southwest" : {
+                  "lat" : 38.1232661,
+                  "lng" : 13.3534937
+               }
+            },
+            "location" : {
+               "lat" : 38.1232661,
+               "lng" : 13.3535012
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.12462173029149,
+                  "lng" : 13.3548464302915
+               },
+               "southwest" : {
+                  "lat" : 38.12192376970849,
+                  "lng" : 13.3521484697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

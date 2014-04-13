@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Foro Italico Umberto I",
+               "short_name" : "Foro Italico Umberto I",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Foro Italico Umberto I, 22, 90133 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1156411,
+                  "lng" : 13.3757757
+               },
+               "southwest" : {
+                  "lat" : 38.1156301,
+                  "lng" : 13.3757638
+               }
+            },
+            "location" : {
+               "lat" : 38.1156411,
+               "lng" : 13.3757757
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1169845802915,
+                  "lng" : 13.3771187302915
+               },
+               "southwest" : {
+                  "lat" : 38.1142866197085,
+                  "lng" : 13.3744207697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

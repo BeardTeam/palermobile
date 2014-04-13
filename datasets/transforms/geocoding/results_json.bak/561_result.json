@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Torre di Mondello",
+               "short_name" : "Via Torre di Mondello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Torre di Mondello, 22, 90151 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.2068999,
+               "lng" : 13.3258387
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2082488802915,
+                  "lng" : 13.3271876802915
+               },
+               "southwest" : {
+                  "lat" : 38.2055509197085,
+                  "lng" : 13.3244897197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

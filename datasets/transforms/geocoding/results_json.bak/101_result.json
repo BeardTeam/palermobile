@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90123",
+               "short_name" : "90123",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "90123, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.115938,
+                  "lng" : 13.4055041
+               },
+               "southwest" : {
+                  "lat" : 38.0940889,
+                  "lng" : 13.3660339
+               }
+            },
+            "location" : {
+               "lat" : 38.107492,
+               "lng" : 13.3789461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.115938,
+                  "lng" : 13.4055041
+               },
+               "southwest" : {
+                  "lat" : 38.0940889,
+                  "lng" : 13.3660339
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

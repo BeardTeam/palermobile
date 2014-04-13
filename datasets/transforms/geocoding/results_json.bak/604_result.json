@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Sant'Onofrio",
+               "short_name" : "Piazza Sant'Onofrio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90134",
+               "short_name" : "90134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Sant'Onofrio, 3, 90134 Palermo, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.11750139999999,
+               "lng" : 13.3593912
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1188503802915,
+                  "lng" : 13.3607401802915
+               },
+               "southwest" : {
+                  "lat" : 38.1161524197085,
+                  "lng" : 13.3580422197085
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

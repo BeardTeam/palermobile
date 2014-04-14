@@ -134,21 +134,39 @@
     <!-- List view -->
     <div data-role="page" id="page-list">
         <div data-theme="a" data-role="header">
-            <a data-role="button" data-direction="reverse"
-            data-transition="slideup" href="index.html#page-map"
-            data-icon="arrow-l" data-iconpos="left" class=
-            "ui-btn-left" id="list_back">Indietro</a>
+	  <a data-role="button" data-direction="reverse"
+	  data-transition="slideup" href="index.html#page-map"
+	  data-icon="arrow-l" data-iconpos="left" class=
+	  "ui-btn-left" id="list_back">Indietro</a>
 
-            <h3>Lista risultati</h3>
+	  <h3>Lista risultati</h3>
         </div>
 
         <div data-role="content">
-            <ul data-role="listview" id="listview" data-divider-theme=""
-            data-inset="false">
-                <li data-theme="c">Caricamento dei risultati...</li>
-            </ul>
+	  <ul data-role="listview" id="listview" data-divider-theme="" data-inset="false">
+	    <li data-theme="c">Caricamento dei risultati...</li>
+	  </ul>
         </div>
     </div>
+    
+<!--     k0z -->
+    <!-- Detail view -->
+    <div data-role="page" id="page-details">
+      <div data-theme="a" data-role="header">
+	<a data-role="button" data-direction="reverse"
+	  data-transition="slideup" href="index.html#page-map"
+	  data-icon="arrow-l" data-iconpos="left" class="ui-btn-left" id="list_back">Indietro</a>
+
+	<h3>Lista risultati</h3>
+      </div>
+
+      <div data-role="content">
+	<div data-role="page" id="detailsview" data-divider-theme="" data-inset="false">
+	  <div data-theme="c">Caricamento dei dati...</div>
+	</div>
+      </div>
+    </div>
+<!--  end k0z -->
 
     <!-- Search dialog -->
     <div data-role="page" id="page-search">

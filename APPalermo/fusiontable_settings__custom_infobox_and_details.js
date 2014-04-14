@@ -18,6 +18,106 @@
  * 4. Map Preferences
  *     - How It Should Use Your Nearby Location
  */
+// k0z 
+function queryDetailsCard(nome) {
+  var queryPage = "https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
+      queryPage += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"";
+      
+  function jsonpCallback(data) {
+    console.log(data);
+    var html = "<div>";
+    html += "<h4 class='infobox-header'>"+data.nome+"</h4>"; // nome
+    html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
+    
+    html += "<div class='tipo'>";
+    if (data['consolato#console']) { // consolato section      
+      html += "<div><b>Console: </b>"+data['consolato#console']+"</div>";
+      html += "<div><b>Orari di apertura:</b></div>";
+      html += "<div>giorni: "+data['consolato#orari#giorni']+"</div>";
+      html += "<div>dalle:"+Number(data['consolato#orari#apertura']).toFixed(2)+"</div>";
+      html += "<div>alle:"+Number(data['consolato#orari#chiusura']).toFixed(2)+"</div>";
+      html += "<div>note:"+data['consolato#orari#note']+"</div>";
+    }
+    if (data['accoglienza#stelle']) { // accoglienza section
+      html += "<div><b>Categoria: </b>"+data['tipi_specifici']+"</div>";
+      html += "<div><b>Stelle: </b>"+data['accoglienza#stelle']+"</div>";
+      html += "<div><b>Camere: </b>"+data['accoglienza#camere']+"</div>";
+      if (data['accoglienza#sale_meeting']) {
+	html += "<div><b>Sale Meeting: </b>"+data['accoglienza#sale_meeting']+"</div>";
+      }
+      if (data['accoglienza#residences']) {
+	html += "<div><b>Residences: </b>"+data['accoglienza#residences']+"</div>";
+      }
+      if (data['accoglienza#direttore']) {
+	html += "<div><b>Direttore: </b>"+data['accoglienza#direttore']+"</div>";
+      }
+      if (data['accoglienza#gestione']) {
+	html += "<div><b>Gestione: </b>"+data['accoglienza#gestione']+"</div>";
+      }
+      if (data['accoglienza#informazioni']) {
+	html += "<div><b>Informazioni: </b>"+data['accoglienza#informazioni']+"</div>";
+      }  
+    }
+    if (data.tipi.indexOf('ristoro')>=0 || data.tipi.indexOf('divertimento')>=0) { // ristoro/divertimento section
+      
+      if (data['divertimento-e-ristoro#cucina']) {
+	html += "<div><b>Cucina:</b> "+data['divertimento-e-ristoro#cucina']+"</div>";
+      }
+      html += "<div><b>Orari di apertura:</b></div>";
+      html += "<div>giorni: "+data['divertimento-e-ristoro#orari#giorni']+"</div>";
+      html += "<div>dalle:"+Number(data['divertimento-e-ristoro#orari#apertura']).toFixed(2)+"</div>";
+      html += "<div>alle:"+Number(data['divertimento-e-ristoro#orari#chiusura']).toFixed(2)+"</div>";
+      html += "<div>note:"+data['divertimento-e-ristoro#orari#note']+"</div>";     
+    }
+    /*if (data.tipi.indexOf('divertimento')) { // divertimento section
+    }*/
+    html += "</div>";
+    
+    
+    html += "<div class='phone'>"; // start telefono/mobile
+    if (data.telefono) {
+	html += "<div><i>telefono:</i> "+data.telefono+"</div>";
+    } else { 
+      if (data.mobile) {
+	html += "<div><i>mobile:</i> "+data.mobile+"</div>";
+      }
+    }
+    html += "</div>"; // end telefono/mobile
+    
+    html += "<div class='internet'>"; // start email/mobile
+    if (data.email) {
+	html += "<div><i>email:</i> <a href=mailto:"+data.email+">"+data.email+"</a></div>";
+    } else {
+      if (data.web) {
+	html += "<div><i>email:</i> <a href="+data.web+">"+data.web+"</a></div>";
+      }
+    }
+    html += "</div>"; // end email/mobile
+    
+    html += "<div class='address'>"+data.indirizzo+" "+data['numero-civico']; // start address block
+    if (data.quartiere) {
+      html += "(quartiere "+data.quartiere+")";
+    }
+    html += "</div>"; // end address block
+    
+    
+    html += "</p></div>";
+    
+    $('#detailsview').html( html );    
+  }
+
+  var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
+  
+  $.ajax({
+    url: queryPage,
+    dataType: 'jsonp',
+    timeout: 10000,
+    success: jsonpCallback
+  });
+  
+  return true;
+}
+// end k0z 
 
 var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
@@ -34,8 +134,9 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.
-    MapsLib.googleApiKey ="AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY";
-    
+//     MapsLib.googleApiKey ="AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY"; // Antonio (suppongo openfarmacie)
+//     MapsLib.googleApiKey ="AIzaSyCE52c6f98loed2n33zkSL0USEWa14oEE8"; // Massimiliano (appalermo-iubris, browser)
+    MapsLib.googleApiKey = "AIzaSyCRGbA1Di_3M0F1sCXrUJViVAwQ6sJ4Qq8"; // Massimiliano (appalermo-iubris, server)
 
     // DONE!  YOU COULD DELETE EVERYTHING AFTER THIS POINT AND STILL HAVE A WORKING APP.
     // BELOW ARE CUSTOM OVERRIDES TO MAKE YOUR APP MORE AWESOME.  UNCOMMENT EACH SECTION AS YOU GO.
@@ -45,8 +146,6 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
 
 $.extend(MapsLib, {
-
-
 
     ////////////////////////
     // 2. SEARCH SETTINGS //
@@ -191,6 +290,8 @@ $.extend(MapsLib, {
     title: "APPalermo",
 
     // Contents of the About Page.  You can use "{title}" to insert your title.
+    // k0z
+    // CAMBIA !!!
     aboutPage: " \
         <h3>About {title}</h3> \
         <p>This is a demonstration of a Mobile Template using Fusion Tables.    Developed by SF Brigade for Code For America, it's an adaptation of Derek Eder's searchable Fusion Table template, licensed under the <a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/License' target='_blank'>MIT License</a>.    This particular application uses health inspection data for businesses in San Francisco.</p> \
@@ -202,12 +303,13 @@ $.extend(MapsLib, {
     // (You can find your IDs inside the link generated by the 'Publish' option in Fusion Tables.)
     // (for more details, see https://developers.google.com/fusiontables/docs/v1/using#WorkingStyles)
     styleId: 2,
-//     templateId: 3,
+    //templateId: 3,
+    
     
     // This will go in your style block.  Useful if customizing your infoboxes.
     customCSS: " \
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
-        .infobox-map { width:220px; height:107px;} \
+        .infobox-map { width:225px; height:120px;} \
         .infobox-header { display:inline; padding-right: 10px; } \
         .infobox-subheader { padding-top: 5px; } \
         .moreinfo { margin-left:7px; min-width:18px; position:absolute; \
@@ -217,6 +319,8 @@ $.extend(MapsLib, {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
+        .internet, .address, .phone { margin-top: 2px; } \
+	.tipo { margin-top: 3px; }
     ",
 
     // customInfoboxHtml can be defined as a string or a function:
@@ -240,112 +344,138 @@ $.extend(MapsLib, {
     //                                  append "DESC" to sort in reverse
 //     listViewSortByColumn: "nome",
     
-    customInfoboxHtml: "\
-      {{#if isListView}} \
-	<div>{{row.nome}} \
-      {{else}} \
-	<div class='infobox-map'>map \
-      {{/if}} \
-	  <h4 class='infobox-header'>{{row.nome}}</h4> \
-	  <p class='ui-li-desc infobox-subheader'>subheader</p> \
-	</div>",
+    /* each syntax
+    {{#each row.violations}} \
+      <br>- {{this}} \
+    {{/each}} \
+    */
     
-    customInfoboxHtml_uff: "\
-      {{#if isListView}} \
-	<div> \
-      {{else}} \
-	<div class='infobox-map'> \
-      {{/if}} \
-	  <h4 class='infobox-header'>{{row.nome}}</h4> \
-	  <p class='ui-li-desc infobox-subheader'> \
-	  {{#if isListView}} \
-	    {{row.indirizzo}} {{row.indirizzo}}, {{row.cap}}<br> \
-	    {{#if row.quartiere}} \
-	      (quartiere {{row.quartiere}}) \
-	    {{/if}} \
-	  {{else}} \
-	    {{row.indirizzo}} {{row.indirizzo}} \
-	  {{/if} \
-	  </p> \
-	</div>",
-    
-    customInfoboxHtml_not_working: " \
-      {{#if isListView}} \
-	  <div> \
-      {{else}} \
-	  <div class='infobox-map'> \
-      {{/if}} \
-      <h4 class='infobox-header'>{{row.nome}}</h4> \
-      <p class='ui-li-desc infobox-subheader'>\
-      {{#if isListView}} \
-	{{row.indirizzo}} {{row.numero-civico}}, {{row.cap}}<br> \
-	{{#if row.quartiere}}(quartiere {{row.quartiere}})<br>{{/if}} \
-      {{/if} \
-      {{#if row.telefono}} \
-	<div> \
-	<i>tel:</i> {{row.telefono}}<br> \
-      {{else}} \
-	{{if row.mobile}} \
-	  <i>cell:</i> {{row.mobile}} \
-	{{/if}} \
-	</div> \
-      {{/if}} \
-      \
-      {{#if row.tipi == 'accoglienza'}} \
-	<div> \
-	  <i>{{row.tipi-specifici} a {{row.accoglienza#stelle}} \
-	    {{#if row.accoglienza#stelle > 1}} \
-	      stelle \
-	    {{else}} \
-	      stella \
-	    {{/if}} \
-	  </i> \
-	</div> \
-      {{/if}} \
-      \
-      \
-      {{#if row.tipi == 'ristoro'}} \
-	<div> \
-	<i>{{row.tipi-specifici} {{#if row.divertimento-e-ristoro#cucina}}con particolare cucina {{row.divertimento-e-ristoro#cucina}}{{/if}</i> \
-	</div> \
-      {{/if}} \
-      </p></div>",
+    customInfoboxHtml: function(row, isListView) {
+      var html = "";
+      // start outer div
+      if (isListView) { // specify if list or map
+	html += "<div>";
+      } else {
+	html += "<div class='infobox-map'>";
+      }
       
-//      {{#each row.violations}} \
-//		  <br>- {{this}} \
-// 	      {{/each}} \
+      var nome = row.nome;
+      html += "<h4 class='infobox-header'>"+nome+"</h4>"; // nome
+      
+      html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
+      
+      html += "<p>";
+      // start accoglienza
+      var tipi = row.tipi;
+      var tipi_specifici = row['tipi-specifici'];
+      if (tipi == 'accoglienza') {
+	// CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
+	var howStelle = row['accoglienza_stelle'];
+	html += "<div class='accoglienza'><i>"+tipi_specifici;
+	if (howStelle == 1) {
+	  html += " a "+howStelle+" stella";
+	}
+	if (howStelle > 1) {
+	  html += " a "+howStelle+" stelle";
+	}
+	html += "</i></div>";
+      } // end accoglienza
+      // start ristoro
+      if (tipi == 'ristoro') {
+	html += "<div><i>"+tipi_specifici;
+	// CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
+	var cucina = row['divertimento-e-ristoro_cucina'];
+	if (cucina) {
+	  html += " con particolare cucina "+cucina;
+	}
+	html += "</i></div>";
+      } // end ristoro
+      html += "</p>";
+      
+      html += "<div>"+row.indirizzo+" "+row['numero-civico']; // start address block
+      if (isListView) {
+	if (row.quartiere) {
+	  html += "(quartiere "+row.quartiere+")";
+	}
+      }
+      html += "</div>"; // end address block
+      
+      html += "<div class='phone'>"; // start telefono/mobile
+      if (row.telefono) {
+	  html += "<div><i>tel:</i> "+row.telefono+"</div>";
+      } else { 
+	if (row.mobile) {
+	  html += "<div><i>mobile:</i> "+row.mobile+"</div>";
+	}
+      }
+      html += "</div>"; // end telefono/mobile
+      
+      html += "<div class='internet'>"; // start email/mobile
+      if (row.email) {
+	  html += "<div><i>email:</i> <a href=mailto:"+row.email+">"+row.email+"</a></div>";
+      } else {
+	if (row.web) {
+	  html += "<div><i>email:</i> <a href="+row.web+">"+row.web+"</a></div>";
+	}
+      }
+      html += "</div>"; // end email/mobile
+      
+      // dettagli, pointing to card
+      /*
+      html += "<div><a href=";
+      html += "\"https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
+      html += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"" ;
+      html += " target='_self'>Dettagli</a>";
+      html += "</div>";
+      */
+      // end dettagli
+      // dettagli with page
+      html += "<div><a href=#page-details";
+      html += " onclick=\"queryDetailsCard('"+nome+"');\">Dettagli</a>";
+      html += "</div>";
+      // end dwp
+      
+      html += "</p>"; // end subheader
+      html += "</div>"; // end outer div
+      
+      return html;
+    },
 
-    _NO_customInfoboxHtml: " \
+    customInfoboxHtmlHB: " \
         {{#if isListView}} \
             <div> \
         {{else}} \
             <div class='infobox-map'> \
         {{/if}} \
-        <div class='score {{row.last_score_category}}'><span id='score-text'>{{row.last_score}}</span></div> \
-        <h4 class='infobox-header'>{{row.name}}</h4> \
-        <p class='ui-li-desc infobox-subheader'> \
-        {{#if isListView}} \
-            {{row.address}}</p> \
-        {{else}} \
-            <strong>Last inspected: {{row.last_inspection_date}}</strong> \
-            <br>{{row.address}}</p> \
-            <p class='ui-li-desc infobox-subheader'> \
-            {{#if row.violations}} \
-                <b>Recent violations ({{row.violations.length}}):</b> \
-                {{#each row.violations}} \
-                    <br>- {{this}} \
-                {{/each}} \
-            {{else}} \
-                <b>Recent violations:</b> None \
-            {{/if}} \
-        {{/if}} \
-        </p></div>",
-
+	      <h4 class='infobox-header'>{{row.nome}}</h4> \
+	      <p class='ui-li-desc infobox-subheader'> \
+		<div>\
+		  {{row.indirizzo}} {{row.numero-civico}} \
+		  {{#if isListView}} {{#if row.quartiere}}(quartiere {{row.quartiere}}) {{/if}} {{/if}} \
+		</div> \
+		{{#if row.tipi}} \
+		<div><i>{{row[tipi-specifici]} a {{row[accoglienza#stelle]}} \
+		  {{#if row[accoglienza#stelle] > 1}} stelle{{else}} stella{{/if}}</i> \
+		</div> \
+		{{/if}} \
+		<div> \
+		{{#if row.telefono}} \
+		  <div><i>tel:</i> {{row.telefono}}</div> \
+		{{else}} \
+		  {{#if row.mobile}} \
+		    <div><i>mobile:</i> {{row.mobile}}</div> \
+		  {{/if}} \
+		{{/if}} \
+		</div> \
+	      </p>\
+	    </div>",
 
     // Infoboxes will also appear (unless blank) on your nearby or search address pins.
     // HTML is OK.  Use "{address}" to denote the entered address for addressPinInfobox.
+	 /*
     nearbyPinInfobox: "Tu sei qui!",
     addressPinInfobox: "{address}",
+	*/
 
 
     ////////////////////////
@@ -385,7 +515,7 @@ $.extend(MapsLib, {
         // false (default)   = never snap to zoom level
         // int               = snap to zoom level if ratio between current and nearby zoom radii
         //                       is greater than this (in either direction)
-        snapToNearbyZoomIfRatioGreaterThan: 8
+        snapToNearbyZoomIfRatioGreaterThan: 11
     },
 
     // mapOverlays is an array of overlays, where each overlay can be either of the following:

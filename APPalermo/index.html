@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
     <link rel="icon" type="image/png" href="favicon.ico"/>
 
-    <title>Mobile Fusion Table</title>
+    <title>APPalermo</title>
     <!-- if updating jQueryMobile, please see MOBILE-FUSION-TABLES comments in current version -->
     <link rel="stylesheet" href="source/jquery.mobile-1.3.1.modified.css" type="text/css"/>
 
@@ -80,7 +80,7 @@
             <a id="about" data-role="button" data-transition="slide"
             data-direction="reverse" href=
             "#page-about" data-icon="info" data-iconpos="left" class=
-            "ui-btn-left">About</a>
+            "ui-btn-left">Info su APPalermo</a>
     <!-- Search button -->
     <a data-role="button" id="search_page"
             data-transition="slide" href="#page-search" data-icon="search"
@@ -122,9 +122,9 @@
     <div data-role="page" id="page-about">
         <div data-theme="a" data-role="header">
             <a data-role="button" data-transition="slide" data-icon="arrow-l" data-iconpos=
-            "left" href="#page-map" class="ui-btn-left" id="about_back">Indietro</a>
+            "left" href="#page-map" class="ui-btn-left" id="about_back">Torna alla mappa</a>
 
-            <h3>About</h3>
+            <h3>Info su APPalermo</h3>
         </div>
 
         <div data-role="content" id="section-about">
@@ -134,18 +134,19 @@
     <!-- List view -->
     <div data-role="page" id="page-list">
         <div data-theme="a" data-role="header">
-	  <a data-role="button" data-direction="reverse"
-	  data-transition="slideup" href="index.html#page-map"
-	  data-icon="arrow-l" data-iconpos="left" class=
-	  "ui-btn-left" id="list_back">Indietro</a>
+            <a data-role="button" data-direction="reverse"
+            data-transition="slideup" href="index.html#page-map"
+            data-icon="arrow-l" data-iconpos="left" class=
+            "ui-btn-left" id="list_back">Torna alla mappa</a>
 
-	  <h3>Lista risultati</h3>
+            <h3>Lista risultati</h3>
         </div>
 
         <div data-role="content">
-	  <ul data-role="listview" id="listview" data-divider-theme="" data-inset="false">
-	    <li data-theme="c">Caricamento dei risultati...</li>
-	  </ul>
+            <ul data-role="listview" id="listview" data-divider-theme=""
+            data-inset="false">
+                <li data-theme="c">Caricamento dei risultati...</li>
+            </ul>
         </div>
     </div>
     
@@ -174,7 +175,7 @@
             <a data-role="button" data-direction="reverse"
             data-transition="slide" href="index.html#page-map"
             data-icon="arrow-l" data-iconpos="left" class=
-            "ui-btn-left" id="search_back">Indietro</a>
+            "ui-btn-left" id="search_back">Torna alla mappa</a>
 
             <a data-role="button" href="index.html#page-map"
             data-icon="arrow-r" data-iconpos="right" class=
@@ -239,6 +240,7 @@
 				slideToggleAperitivoElements(true);
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleConsolatoElements(true);
 			} else if ($(this).val().indexOf("'ristorante'") !== -1 ) {
 				console.log("Entrato nel caso tipi di cucina");
 				//label e dropdown relativi a ristoro appaiono
@@ -247,6 +249,16 @@
 				slideToggleDivertimentoElements(true);
 				slideToggleAperitivoElements(true);
 				slideToggleAccoglienzaElements(true);
+				slideToggleConsolatoElements(true);
+			} else if ($(this).val().indexOf("'consolato'") !== -1 ) {
+				console.log("Entrato nel caso consolato");
+				//slider relativi a consolato appaiono
+				slideToggleConsolatoElements(false);
+				//le altre label e contenitori di tipi specifici scompaiono
+				slideToggleDivertimentoElements(true);
+				slideToggleAperitivoElements(true);
+				slideToggleAccoglienzaElements(true);
+				slideToggleCucinaElements(true);
 			} else if ($(this).val().indexOf("'divertimento'") !== -1 ) {
 				console.log("Entrato nel caso divertimento");
 				//label e dropdown relativi a ristoro appaiono
@@ -256,6 +268,7 @@
 				slideToggleAperitivoElements(true);
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleConsolatoElements(true);
 			} else if ($(this).val().indexOf("'wine bar','cocktail bar','bar'") !== -1 ) {
 				console.log("Entrato nel caso aperitivo");
 				//label e dropdown relativi a ristoro appaiono
@@ -265,6 +278,7 @@
 				slideToggleDivertimentoElements(true);
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleConsolatoElements(true);
 			} else if ($(this).val().indexOf("'accoglienza'") !== -1 ) {
 				console.log("Entrato nel caso dove alloggiare");
 				//label e dropdown relativi a ristoro appaiono
@@ -274,6 +288,7 @@
 				slideToggleDivertimentoElements(true);
 				slideToggleAperitivoElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleConsolatoElements(true);
 			} else if ($(this).val().indexOf("'discopub'") !== -1 || $(this).val().indexOf("'discoteca'") !== -1 
 					|| $(this).val().indexOf("'italiana'") !== -1 || $(this).val().indexOf("'mediterranea'") !== -1
 					|| $(this).val().indexOf("'pizza'") !== -1 || $(this).val().indexOf("'tipica'") !== -1
@@ -281,10 +296,13 @@
 					|| $(this).val().indexOf("'internazionale'") !== -1 || $(this).val().indexOf("'europea'") !== -1
 					|| $(this).val().indexOf("'spagnola'") !== -1 || $(this).val().indexOf("'fusion'") !== -1 
 					|| $(this).find("option:selected").text() == "Qualunque tipo di divertimento"
-					|| $(this).find("option:selected").text() == "Qualunque tipo di cucina") {
+					|| $(this).find("option:selected").text() == "Qualunque tipo di cucina"
+					|| $(this).find("option:selected").text() == "Qualunque tipo di alloggio"
+					|| $(this).val().indexOf("'Hotel'") !== -1 || $(this).val().indexOf("'Bed and Breakfast'") !== -1 
+					|| $(this).val().indexOf("'Affittacamere'") !== -1 || $(this).val().indexOf("'Ostello'") !== -1 
+					|| $(this).val().indexOf("'Casa ferie'") !== -1 || $(this).val().indexOf("'Residence'") !== -1 ) {
 				console.log("Entrato nel caso dei nodi foglia");
 				//do nothing
-				
 			} else if ($(this).val().indexOf("'pizzeria'") !== -1 || $(this).val().indexOf("'pub'") !== -1
 					|| $(this).val().indexOf("'american bar'") !== -1 || $(this).val().indexOf("'sushi bar'") !== -1
 					|| $(this).val().indexOf("'street food'") !== -1 || $(this).find("option:selected").text() == "Qualunque tipo di ristoro") {
@@ -299,6 +317,7 @@
 				slideToggleDivertimentoElements(true);
 				slideToggleAperitivoElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleConsolatoElements(true);
 			}
 		});
 	</script>
@@ -309,11 +328,21 @@
 			if ($('#sc_Tipi_di_divertimento').closest('.ui-select').is(":visible") == visibility){
 				$("label:contains('Tipi di divertimento:')").slideToggle();
 				$('#sc_Tipi_di_divertimento').closest('.ui-select').slideToggle();
+				$('#sc_divertimento-e-ristoro_orari_apertura').slideToggle();
+				$('#sc_divertimento-e-ristoro_orari_chiusura').slideToggle();
 			}
-			//setto i dropdown dei tipi specifici ai loro valori di default
+			//setto i dropdown e gli slider dei tipi specifici ai loro valori di default
 			if ($('#sc_Tipi_di_divertimento').closest('.ui-select').is(":visible") == true) {
 				$('#sc_Tipi_di_divertimento').find("option:selected").removeAttr("selected");
 				$('#sc_Tipi_di_divertimento').selectmenu('refresh');
+				$('#sc_min_divertimento-e-ristoro_orari_apertura').val(6.3);
+				$('#sc_min_divertimento-e-ristoro_orari_apertura').slider('refresh');
+				$('#sc_max_divertimento-e-ristoro_orari_apertura').val(23);
+				$('#sc_max_divertimento-e-ristoro_orari_apertura').slider('refresh');
+				$('#sc_min_divertimento-e-ristoro_orari_chiusura').val(0);
+				$('#sc_min_divertimento-e-ristoro_orari_chiusura').slider('refresh');
+				$('#sc_max_divertimento-e-ristoro_orari_chiusura').val(4);
+				$('#sc_max_divertimento-e-ristoro_orari_chiusura').slider('refresh');
 			}
 		}
 	</script>
@@ -324,11 +353,21 @@
 			if ($('#sc_Tipi_di_ristoro').closest('.ui-select').is(":visible") == visibility){
 				$("label:contains('Tipi di ristoro:')").slideToggle();
 				$('#sc_Tipi_di_ristoro').closest('.ui-select').slideToggle();
+				$('#sc_divertimento-e-ristoro_orari_apertura').slideToggle();
+				$('#sc_divertimento-e-ristoro_orari_chiusura').slideToggle();
+			}
 			//setto i dropdown dei tipi specifici ai loro valori di default
 			if ($('#sc_Tipi_di_ristoro').closest('.ui-select').is(":visible") == true) {
 				$('#sc_Tipi_di_ristoro').find("option:selected").removeAttr("selected");
 				$('#sc_Tipi_di_ristoro').selectmenu('refresh');
-			}
+				$('#sc_min_divertimento-e-ristoro_orari_apertura').val(6.3);
+				$('#sc_min_divertimento-e-ristoro_orari_apertura').slider('refresh');
+				$('#sc_max_divertimento-e-ristoro_orari_apertura').val(23);
+				$('#sc_max_divertimento-e-ristoro_orari_apertura').slider('refresh');
+				$('#sc_min_divertimento-e-ristoro_orari_chiusura').val(0);
+				$('#sc_min_divertimento-e-ristoro_orari_chiusura').slider('refresh');
+				$('#sc_max_divertimento-e-ristoro_orari_chiusura').val(4);
+				$('#sc_max_divertimento-e-ristoro_orari_chiusura').slider('refresh');
 			}
 		}
 	</script>
@@ -370,10 +409,40 @@
 			//se gli elementi sono visibili allora verranno nascosti, e viceversa
 			if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == visibility){
 				$("span:contains('Sale meeting')").closest('.ui-checkbox').slideToggle();
+				$('#sc_accoglienza_stelle').slideToggle();
+				$("label:contains('Tipi di alloggio:')").slideToggle();
+				$('#sc_Tipi_di_alloggio').closest('.ui-select').slideToggle();
 			}
-			//setto le checkbox dei tipi specifici ai loro valori di default
+			//setto le checkbox e lo slider dei tipi specifici ai loro valori di default
 			if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == true) {
 				$('#sc_Sale_meeting').prop('checked', false).checkboxradio("refresh");
+				$('#sc_min_accoglienza_stelle').val(1);
+				$('#sc_min_accoglienza_stelle').slider('refresh');
+				$('#sc_max_accoglienza_stelle').val(5);
+				$('#sc_max_accoglienza_stelle').slider('refresh');
+				$('#sc_Tipi_di_alloggio').find("option:selected").removeAttr("selected");
+				$('#sc_Tipi_di_alloggio').selectmenu('refresh');
+			}
+		}
+	</script>
+	
+	<script type="text/javascript">
+		function slideToggleConsolatoElements(visibility) {
+			//se gli elementi sono visibili allora verranno nascosti, e viceversa
+			if ($('#sc_consolato_orari_apertura').is(":visible") == visibility){
+				$('#sc_consolato_orari_apertura').slideToggle();
+				$('#sc_consolato_orari_chiusura').slideToggle();
+			}
+			//setto gli slider dei tipi specifici ai loro valori di default
+			if ($('#sc_consolato_orari_apertura').is(":visible") == true) {
+				$('#sc_min_consolato_orari_apertura').val(8.3);
+				$('#sc_min_consolato_orari_apertura').slider('refresh');
+				$('#sc_max_consolato_orari_apertura').val(16,3);
+				$('#sc_max_consolato_orari_apertura').slider('refresh');
+				$('#sc_min_consolato_orari_chiusura').val(12);
+				$('#sc_min_consolato_orari_chiusura').slider('refresh');
+				$('#sc_max_consolato_orari_chiusura').val(20);
+				$('#sc_max_consolato_orari_chiusura').slider('refresh');
 			}
 		}
 	</script>

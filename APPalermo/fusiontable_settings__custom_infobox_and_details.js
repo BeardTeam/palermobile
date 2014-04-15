@@ -344,11 +344,11 @@ $.extend(MapsLib, {
     //                                  append "DESC" to sort in reverse
 //     listViewSortByColumn: "nome",
     
-    /* each syntax
-    {{#each row.violations}} \
-      <br>- {{this}} \
-    {{/each}} \
-    */
+//      each syntax
+//     {{#each row.violations}} \
+//       <br>- {{this}} \
+//     {{/each}} \
+    
     
     customInfoboxHtml: function(row, isListView) {
       var html = "";

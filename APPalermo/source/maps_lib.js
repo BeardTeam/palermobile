@@ -47,7 +47,7 @@ $.extend(MapsLib, {
     // k0z
     map_centroid:       new google.maps.LatLng(38.115132,13.362185), // center on Palermo if all else fails
     // end k0z
-    defaultZoom:        14,
+    defaultZoom:        9,
 
     // markers
     addrMarker:         null,
@@ -67,7 +67,6 @@ $.extend(MapsLib, {
     addressPinInfobox:  MapsLib.addressPinInfobox || "{address}",
 
     // about
-    // k0z CAMBIA !
     defaultAboutPage:   " \
     <h3>About {title}</h3> \
     <p>This is a demonstration of a Mobile Template using Fusion Tables.  Developed by SF Brigade for Code For America, it's an adaptation of Derek Eder's searchable Fusion Table template, licensed under the <a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/License' target='_blank'>MIT License</a>.</p> \
@@ -97,9 +96,9 @@ $.extend(MapsLib, {
         MapsLib.ignoreIdle = true;
     },
     onPopState: function() {
-      // k0z
+        // k0z
         var nonMaps = ["#page-search", "#page-about", "#page-list", "page-details"];
-      // end k0z
+	// end k0z
         var inMap = true;
         $.each(nonMaps, function(i, tag)
         {
@@ -439,7 +438,7 @@ $.extend(MapsLib, {
 
         // request list of columns
         var qstr = "https://www.googleapis.com/fusiontables/v1/tables/" + MapsLib.fusionTableId + "?maxResults=100&callback=MapsLib.setColumns&key=" + MapsLib.googleApiKey;
-//         console.log("Query: " + qstr);
+        console.log("Query: " + qstr);
         $.ajax({
             url: qstr,
             dataType: "jsonp"
@@ -953,6 +952,9 @@ $.extend(MapsLib, {
 
                 case "slider":
                 {
+					if ($.inArray(cdata.column, MapsLib.numericalColumns) == -1 && $.inArray(cdata.column, MapsLib.dateColumns) == -1)
+						console.log("WARNING: using slider for non-numerical, non-date column (" + cdata.column + ")!  Your searches won't work properly.");
+                    
                     var safename = MapsLib.safeField(cdata.column);
                     var range = MapsLib.columnRanges[cdata.column];
                     if (range != undefined)
@@ -964,10 +966,10 @@ $.extend(MapsLib, {
                         if (fmin != undefined && fmax != undefined)
                         {
                             html.push('<hr><div id="sc_' + safename + '" data-role="rangeslider">');
-                            html.push("<label for='sc_min_" + safename + "'>" + cdata.label + ":</label>");
+                            html.push("<label for='sc_min_" + safename + "'>" + cdata.label + "</label>");
                             html.push("<input type='range' data-disabled='" + isDisabled + "' data-dtype='" + dtype + "' name='sc_min_" + safename + "' id='sc_min_" + safename + "' data-ref='column' data-field='" + 
                             cdata.column + "' data-compare='>=' value='" + fmin + "' min='" + fmin + "' max='" + fmax + "' />");
-                            html.push("<label for='sc_max_" + safename + "'>" + cdata.label + ":</label>");
+                            html.push("<label for='sc_max_" + safename + "'>" + cdata.label + "</label>");
                             html.push("<input type='range' data-disabled='" + isDisabled + "' data-dtype='" + dtype + "' name='sc_max_" + safename + "' id='sc_max_" + safename + "' data-ref='column' data-field='" + 
                             cdata.column + "' data-compare='<=' value='" + fmax + "' min='" + fmin + "' max='" + fmax + "' />");
                             html.push('</div>');
@@ -980,7 +982,7 @@ $.extend(MapsLib, {
                 {
                     var field_id = MapsLib.safeField(cdata.label);
 					//controllo il valore della label e lo nascondo se si tratta di un tipo specifico
-					if (cdata.label === "Tipi di cucina:" || cdata.label === "Tipi di ristoro:" || cdata.label === "Tipi di divertimento:")
+					if (cdata.label === "Tipi di cucina:" || cdata.label === "Tipi di ristoro:" || cdata.label === "Tipi di divertimento:" || cdata.label === "Tipi di alloggio:")
 						html.push("<hr><label style='display:none' for='sc_" + field_id + "'>" + cdata.label + "</label>");
 					else
 						html.push("<hr><label for='sc_" + field_id + "'>" + cdata.label + "</label>");
@@ -1290,7 +1292,7 @@ $.extend(MapsLib, {
     },
     submitSearch: function(whereClause, map, location) {
         //get using all filters
-//         console.log("SQL Query: " + whereClause);
+        console.log("SQL Query: " + whereClause);
 
         MapsLib.searchrecords.setOptions({
           query: {
@@ -1520,7 +1522,7 @@ $.extend(MapsLib, {
             subset = columnRangeQueries.slice(i, i + chunk);
             var sql = encodeURIComponent("SELECT " + subset.join(", ") + " FROM " + MapsLib.fusionTableId);
             var qstr = "https://www.googleapis.com/fusiontables/v1/query?sql=" + sql + "&callback=MapsLib.sliderMinMaxResult&key=" + MapsLib.googleApiKey;
-//             console.log("Query: " + qstr);
+            console.log("Query: " + qstr);
             $.ajax({
                 url: qstr,
                 dataType: "jsonp"
@@ -1706,3 +1708,4 @@ $.extend(MapsLib, {
     // This also applies to the convertToPlainString function above
     //-----end of custom functions-----------------------------------------------
 });
+

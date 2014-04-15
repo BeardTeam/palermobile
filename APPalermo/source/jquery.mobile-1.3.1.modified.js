@@ -8249,6 +8249,7 @@ $.widget( "mobile.selectmenu", $.mobile.widget, $.extend( {
 		$('#search_radius').closest('.ui-select').show();
 		$('#sc_Cosa_cerchi').closest('.ui-select').show();
 		$('div.ui-checkbox').hide();
+		$('div.ui-rangeslider').hide();
 	},
 
 	build: function() {

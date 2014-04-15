@@ -75,6 +75,7 @@ function queryDetailsCard(nome) {
 
     if (data.tipi.indexOf('visitare')>=0) {
       html += "<div class='visitare'>";
+      html += "<div><i>"+tipi_specifici+"</i></div>";
             
       var orari_note = data['luogo-da-visitare#orari#note'];
       if (orari_note !== "") {

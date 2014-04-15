@@ -375,14 +375,20 @@ $.extend(MapsLib, {
 
 
     // Title bar (including title of website)
-    title: "APPalermo",
+    title: "PalerMobile",
 
     // Contents of the About Page.  You can use "{title}" to insert your title.
     aboutPage: " \
+        <div> \
         <h3>Info su {title}</h3> \
-        <p>Questa applicazione nasce dall'esigenza dei turisti di avere tutto a portata di smartphone. APPalermo permette di trovare tutto ciò che un turista desidera da una città come Palermo, dai giardini ai luoghi da visitare, dai ristoranti agli hotel,ecc. Attraverso una interfaccia semplice ed intuitiva è possibile ottenere immediatamente informazioni sulla propria meta, capire in quali orari l'offerta e fruibile e come raggiungerla.</p> \
-        <p>APPalermo è un progetto Open Source rilasciato su licenza GNU/GPL i cui sorgenti sono accessibili tramite questo link: <a href='https://bitbucket.org/quellifregni/appalermo' target='_blank'>accedi alla repository</a> </p> \
-        ",
+        <p>Questa applicazione nasce dall'esigenza dei turisti di avere tutto a portata di smartphone. PalerMobile permette di trovare tutto ciò che un turista desidera da una città come Palermo, dai giardini ai luoghi da visitare, dai ristoranti agli hotel,ecc. Attraverso una interfaccia semplice ed intuitiva è possibile ottenere immediatamente informazioni sulla propria meta, capire in quali orari l'offerta e fruibile e come raggiungerla.</p> \
+        <p>PalerMobile è un progetto Open Source rilasciato su licenza GNU/GPL i cui sorgenti sono accessibili tramite questo link: <a href='https://bitbucket.org/BeardTeam/palermobile' target='_blank'>accedi alla repository</a></p> \
+        <p> \
+        <div>Autori:</div> \
+        <div><a href=https://plus.google.com/u/0/109344146425894173692>Massimiliano Leone</a></div> \
+        <div><a href=https://plus.google.com/u/0/104954524097130358596>Antonio Notarangelo</a></div> \
+        </p> \
+        </div>",
 
     // If you already customized your marker styles and infoboxes within the Fusion Table,
     // you can use them by setting the style and template IDs here.

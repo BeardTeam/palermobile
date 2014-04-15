@@ -239,8 +239,41 @@ $.extend(MapsLib, {
                 ["Dove alloggiare", "'tipi' CONTAINS IGNORING CASE 'accoglienza'"],
                 ["Divertimenti", "'tipi' CONTAINS IGNORING CASE 'divertimento'"],
                 ["Ristoro", "'tipi' CONTAINS IGNORING CASE 'ristoro'"],
-                ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('wine bar','cocktail bar','bar')"]
+                ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('wine bar','cocktail bar','bar')"],
+                ["Luoghi da visitare", "'tipi' CONTAINS IGNORING CASE 'luoghi da visitare'"],
+                ["Parcheggi", "'tipi' CONTAINS IGNORING CASE 'parcheggi'"],
+                ["Spazi verdi", "'tipi' CONTAINS IGNORING CASE 'spazi verdi'"]
             ] },
+			{ label: "Chiese", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'chiesa'"},
+			{ label: "Teatri storici", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'teatro storico'"},
+			{ label: "Oratori", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'oratorio'"},
+			{ label: "Gallerie artistiche e musei", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'galleria artistica'"},
+			{ label: "Biblioteche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'biblioteca'"},
+			{ label: "Zone archeologiche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'zona archeologica'"},
+			{ label: "Monumenti", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'monumento'"},
+			{ label: "Palazzi", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'palazzo'"},
+			{ label: "Dimore e Ville Storiche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'dimora'"},
+			{ label: "Santuari", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'santuario'"},
 			{ label: "Tipi di ristoro:", type: "dropdown", entries: [
                 ["Qualunque tipo di ristoro", "", true],
                 ["Ristorante", "'tipi-specifici' CONTAINS IGNORING CASE 'ristorante'"],
@@ -309,9 +342,9 @@ $.extend(MapsLib, {
 
     // Contents of the About Page.  You can use "{title}" to insert your title.
     aboutPage: " \
-        <h3>About {title}</h3> \
-        <p>This is a demonstration of a Mobile Template using Fusion Tables.    Developed by SF Brigade for Code For America, it's an adaptation of Derek Eder's searchable Fusion Table template, licensed under the <a href='https://github.com/derekeder/FusionTable-Map-Template/wiki/License' target='_blank'>MIT License</a>.    This particular application uses health inspection data for businesses in San Francisco.</p> \
-        <p>To use this template for your own Fusion Table data, <a href='https://github.com/sfbrigade/Mobile-Fusion-Tables' target='_blank'>clone this repository</a> and replace the fields inside fusiontable_settings.js to match your content.</p> \
+        <h3>Info su {title}</h3> \
+        <p>Questa applicazione nasce dall'esigenza dei turisti di avere tutto a portata di smartphone. APPalermo permette di trovare tutto ciò che un turista desidera da una città come Palermo, dai giardini ai luoghi da visitare, dai ristoranti agli hotel,ecc. Attraverso una interfaccia semplice ed intuitiva è possibile ottenere immediatamente informazioni sulla propria meta, capire in quali orari l'offerta e fruibile e come raggiungerla.</p> \
+        <p>APPalermo è un progetto Open Source rilasciato su licenza GNU/GPL i cui sorgenti sono accessibili tramite questo link: <a href='https://bitbucket.org/quellifregni/appalermo' target='_blank'>accedi alla repository</a> </p> \
         ",
 
     // If you already customized your marker styles and infoboxes within the Fusion Table,

@@ -78,10 +78,10 @@
       <div data-theme="a" data-role="header">
 	<!-- About button -->
 	<a id="about" data-role="button" data-transition="slide"
-	    data-direction="reverse" href="#page-about" data-icon="info" data-iconpos="left" class="ui-btn-left">Info su APPalermo</a>
+	    data-direction="reverse" href="#page-about" data-icon="info" data-iconpos="left" class="ui-btn-left">Info</a>
 	<!-- Search button -->
 	<a data-role="button" id="search_page" data-transition="slide" href="#page-search" data-icon="search"
-	  data-iconpos="right" class="ui-btn-right">Raffina la ricerca</a>
+	  data-iconpos="right" class="ui-btn-right">Filtra</a>
 	<h3><span id="titlebar"></span></h3>
       </div>
 
@@ -121,7 +121,7 @@
             <a data-role="button" data-transition="slide" data-icon="arrow-l" data-iconpos=
             "left" href="#page-map" class="ui-btn-left" id="about_back">Torna alla mappa</a>
 
-            <h3>Info su APPalermo</h3>
+            <h3>Info</h3>
         </div>
 
         <div data-role="content" id="section-about">
@@ -176,7 +176,7 @@
 	<a data-role="button" href="index.html#page-map"
 	  data-icon="arrow-r" data-iconpos="right" class=
 	  "ui-btn-right" id="search_top">Effettua ricerca</a>
-	<h3>Raffina la ricerca</h3>
+	<h3>Filtra</h3>
       </div>
 
       <div data-role="content">
@@ -215,6 +215,8 @@
 			slideToggleDivertimentoElements(true);
 			slideToggleAperitivoElements(true);
 			slideToggleCucinaElements(true);
+			slideToggleConsolatoElements(true);
+			slideToggleLuoghiDaVisitareElements(true);
 			MapsLib.resetSearch();
         });
         window.addEventListener('popstate', function(e) { 
@@ -237,6 +239,7 @@
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'ristorante'") !== -1 ) {
 				console.log("Entrato nel caso tipi di cucina");
 				//label e dropdown relativi a ristoro appaiono
@@ -246,6 +249,17 @@
 				slideToggleAperitivoElements(true);
 				slideToggleAccoglienzaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
+			} else if ($(this).val().indexOf("'luoghi da visitare'") !== -1 ) {
+				console.log("Entrato nel caso luoghi da visitare");
+				//label e dropdown relativi a ristoro appaiono
+				slideToggleLuoghiDaVisitareElements(false);
+				//le altre label e contenitori di tipi specifici scompaiono
+				slideToggleDivertimentoElements(true);
+				slideToggleAperitivoElements(true);
+				slideToggleAccoglienzaElements(true);
+				slideToggleConsolatoElements(true);
+				slideToggleCucinaElements(true);
 			} else if ($(this).val().indexOf("'consolato'") !== -1 ) {
 				console.log("Entrato nel caso consolato");
 				//slider relativi a consolato appaiono
@@ -255,6 +269,7 @@
 				slideToggleAperitivoElements(true);
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'divertimento'") !== -1 ) {
 				console.log("Entrato nel caso divertimento");
 				//label e dropdown relativi a ristoro appaiono
@@ -265,6 +280,7 @@
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'wine bar','cocktail bar','bar'") !== -1 ) {
 				console.log("Entrato nel caso aperitivo");
 				//label e dropdown relativi a ristoro appaiono
@@ -275,6 +291,7 @@
 				slideToggleAccoglienzaElements(true);
 				slideToggleCucinaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'accoglienza'") !== -1 ) {
 				console.log("Entrato nel caso dove alloggiare");
 				//label e dropdown relativi a ristoro appaiono
@@ -285,6 +302,7 @@
 				slideToggleAperitivoElements(true);
 				slideToggleCucinaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'discopub'") !== -1 || $(this).val().indexOf("'discoteca'") !== -1 
 					|| $(this).val().indexOf("'italiana'") !== -1 || $(this).val().indexOf("'mediterranea'") !== -1
 					|| $(this).val().indexOf("'pizza'") !== -1 || $(this).val().indexOf("'tipica'") !== -1
@@ -314,6 +332,7 @@
 				slideToggleAperitivoElements(true);
 				slideToggleCucinaElements(true);
 				slideToggleConsolatoElements(true);
+				slideToggleLuoghiDaVisitareElements(true);
 			}
 		});
 	</script>
@@ -380,6 +399,68 @@
 				$('#sc_Tipi_di_cucina').find("option:selected").removeAttr("selected");
 				$('#sc_Tipi_di_cucina').selectmenu('refresh');
 			}
+		}
+	</script>
+	
+	<script type="text/javascript">
+		function slideToggleLuoghiDaVisitareElements(visibility) {
+			//se gli elementi sono visibili allora verranno nascosti, e viceversa
+			if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == visibility){
+				$("span:contains('Chiese')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Teatri storici')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Oratori')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Gallerie artistiche e musei')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Biblioteche')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Zone archeologiche')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Monumenti')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Palazzi')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Dimore e Ville Storiche')").closest('.ui-checkbox').slideToggle();
+				$("span:contains('Santuari')").closest('.ui-checkbox').slideToggle();
+			}
+			//setto le checkbox dei tipi specifici ai loro valori di default
+			if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == true) {
+				$('#sc_Chiese').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Teatri_storici').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Oratori').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Gallerie_artistiche_e_musei').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Biblioteche').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Zone_archeologiche').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Monumenti').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Palazzi').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Dimore_e_Ville_storiche').prop('checked', false).checkboxradio("refresh");
+				$('#sc_Santuari').prop('checked', false).checkboxradio("refresh");
+			}
+			
+			/*{ label: "Chiese", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'chiesa'"},
+			{ label: "Teatri storici", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'teatro storico'"},
+			{ label: "Oratori", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'oratorio'"},
+			{ label: "Gallerie di arte e musei", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'museo'"},
+			{ label: "Biblioteche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'biblioteca'"},
+			{ label: "Zone archeologiche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'zona archeologica'"},
+			{ label: "Monumenti", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'monumento'"},
+			{ label: "Palazzi", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'palazzo'"},
+			{ label: "Dimore e Ville Storiche", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'dimora'"},
+			{ label: "Santuari", type: "checkbox", 
+                is_checked: false,
+                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'santuario'"},*/
 		}
 	</script>
 	

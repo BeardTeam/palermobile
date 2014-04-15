@@ -31,6 +31,7 @@ function queryDetailsCard(nome) {
     html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
     
     html += "<div class='tipo'>";
+    var tipi_specifici = data['tipi-specifici'];
     if (data['consolato#console']) { // consolato section      
       html += "<div><b>Console: </b>"+data['consolato#console']+"</div>";
       html += "<div><b>Orari di apertura:</b></div>";
@@ -40,7 +41,7 @@ function queryDetailsCard(nome) {
       html += "<div>note:"+data['consolato#orari#note']+"</div>";
     }
     if (data['accoglienza#stelle']) { // accoglienza section
-      html += "<div><b>Categoria: </b>"+data['tipi_specifici']+"</div>";
+      html += "<div><b>Categoria: </b>"+tipi_specifici+"</div>";
       html += "<div><b>Stelle: </b>"+data['accoglienza#stelle']+"</div>";
       html += "<div><b>Camere: </b>"+data['accoglienza#camere']+"</div>";
       if (data['accoglienza#sale_meeting']) {
@@ -61,6 +62,7 @@ function queryDetailsCard(nome) {
     }
     if (data.tipi.indexOf('ristoro')>=0 || data.tipi.indexOf('divertimento')>=0) { // ristoro/divertimento section
       
+      html += "<div><i>"+tipi_specifici+"</i></div>";
       if (data['divertimento-e-ristoro#cucina']) {
 	html += "<div><b>Cucina:</b> "+data['divertimento-e-ristoro#cucina']+"</div>";
       }
@@ -104,15 +106,16 @@ function queryDetailsCard(nome) {
     
     html += "</p></div>";
     
-//     $('#detailsview').html( html );
+    $('#details-content').html( html );
   }
 
   var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
   
   $.ajax({
     url: queryPage,
+    async: false,
     dataType: 'jsonp',
-    timeout: 10000,
+    timeout: 2000,
     success: jsonpCallback
   });
   

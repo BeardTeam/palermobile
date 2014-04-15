@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Authors: TeamBeard
+#    Massimiliano Leone: https://plus.google.com/+MassimilianoLeone
+#    Copyleft 2014, GPLv3 license         
+
 [ $# -lt 1 ] && exit 1
 
 OUT=$1

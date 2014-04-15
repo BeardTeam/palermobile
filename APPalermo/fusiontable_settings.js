@@ -1,4 +1,15 @@
 /*!
+ * 
+ * Authors: TeamBeard
+    Antonio Notarangelo: https://plus.google.com/u/0/104954524097130358596
+    Massimiliano Leone: https://plus.google.com/+MassimilianoLeone
+    
+  Copyleft 2014, GPLv3 license
+  
+  based on https://github.com/sfbrigade/Mobile-Fusion-Tables
+ * 
+ * 
+ * 
  * Customization file for Fusion Table Mobile Templates
  * See maps_lib.js for license and repository
  *

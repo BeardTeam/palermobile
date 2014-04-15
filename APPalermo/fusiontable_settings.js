@@ -76,7 +76,7 @@ function queryDetailsCard(nome) {
     }*/
     html += "</div>";
     
-    
+    html += "<p><b>Contatti:</b>";
     html += "<div class='phone'>"; // start telefono/mobile
     if (data.telefono) {
 	html += "<div><i>telefono:</i> "+data.telefono+"</div>";
@@ -102,6 +102,7 @@ function queryDetailsCard(nome) {
       html += "(quartiere "+data.quartiere+")";
     }
     html += "</div>"; // end address block
+    html += "</p>";
     
     
     html += "</p></div>";
@@ -333,6 +334,8 @@ $.extend(MapsLib, {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
+        .internet, .address, .phone { margin-top: 2px; } \
+        .tipo { margin-top: 3px; } \
     ",
 
     // customInfoboxHtml can be defined as a string or a function:

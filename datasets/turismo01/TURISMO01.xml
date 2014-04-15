@@ -14,7 +14,7 @@
     <residences></residences>
     <direttore>Vito Giglio</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>5</stelle>
     <descrizione></descrizione>
   </luogo>
@@ -29,7 +29,7 @@
     <email>villaarchirafi@libero.it</email>
     <web>http://www.villaarchirafi.com</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -44,7 +44,7 @@
     <web>http://www.hotelmodernopa.com</web>
     <descrizione>L'Hotel moderno Gesa soddisfa da sempre tutte le esigenze della clientela. Tutte le camere sono con servizi privati e pompe di calore. Servizio 24 su 24. Provatelo una sera, Vi resterete un mese.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -58,7 +58,7 @@
     <email>info@aristonpalermo.it - info@bbaristonpalermo.com</email>
     <web>http://www.aristonpalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -73,7 +73,7 @@
     <email>hotelitaly@email.it</email>
     <web>http://www.hotelitalia-palermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -87,7 +87,7 @@
     <email>informazioni@hotel-alessandra.it - direzione@hotel-alessandra.it</email>
     <web>http://www.hotel-alessandra.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -101,7 +101,7 @@
     <email>prenotazioni@albergoorientale.191.it</email>
     <web>http://www.albergoorientale.191.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -114,7 +114,7 @@
     <fax>091345676</fax>
     <web>http://www.libertahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -128,7 +128,7 @@
     <email>info@albergoverdi.it</email>
     <web>http://www.albergoverdi.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -143,7 +143,7 @@
     <email>info@hotelrainbow.it</email>
     <web>http://www.hotelrainbow.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -155,7 +155,7 @@
     <telefono>091333672 - 0916113532</telefono>
     <fax>091335364</fax>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -169,7 +169,7 @@
     <email>info@hotelflorio.net</email>
     <web>http://www.hotelflorio.info</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -180,7 +180,7 @@
     <citta>Palermo</citta>
     <telefono>091580234</telefono>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -195,7 +195,7 @@
     <web>http://www.albergocavour.com</web>
     <camere>9</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -209,7 +209,7 @@
     <email>totobenigno@libero.it</email>
     <camere>11</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -224,7 +224,7 @@
     <web>http://www.hotelsiciliapalermo.it</web>
     <camere>15</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -238,7 +238,7 @@
     <email>gardeniahotel@gardeniahotel.com</email>
     <web>http://www.gardeniahotel.com</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -254,7 +254,7 @@
     <camere>8</camere>
     <direttore>Enzo Vena</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -270,7 +270,7 @@
     <camere>50</camere>
     <direttore>Giovanni Genovese</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -286,7 +286,7 @@
     <camere>64</camere>
     <direttore>Antonio Buscemi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -301,7 +301,7 @@
     <web>http://www.hoteldelcentro.it</web>
     <descrizione>Nella città più esotica d'Italia, nel cuore del centro storico più grande d'Europa, sorge l'Hotel del Centro. La sua ubicazione in un edificio storico conferisce all'hotel l'atmosfera elegante e un po' nostalgica d'altri tempi, offrendo al contempo un ambiente accogliente e confortevole. Scegliere l'Hotel del Centro vi garantirà non soltanto la certezza di soggiornare in un luogo piacevole ed accogliente dove opera uno staff sempre molto attento alle esigenze della clientela, ma vi consentirà altresì di visitare a piedi il centro storico di Palermo, qualunque sia l'itinerario da voi prescelto fra i numerosi che la nostra città offre. Inoltre l'hotel si trova a circa 200 metri dal terminal degli autobus da e per l'aeroporto e dalla stazione centrale, il che rende agevole raggiungere qualunque altra meta siciliana.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -319,7 +319,7 @@
     <direttore>Giordano Silvia</direttore>
     <gestione>Società Giove</gestione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -335,7 +335,7 @@
     <camere>30</camere>
     <direttore>Pietro Silano</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -350,7 +350,7 @@
     <web>http://www.ideahotel.it</web>
     <descrizione>L'Idea Hotel Palermo è ubicato sul Viale Regione Siciliana, strada di comunicazione principale della città, a soli 3 Km dal centro di Palermo e poco più di 1 Km da via Notarbartolo conosciuta come una delle principali vie dello shopping della città. L'aeroporto di Palermo Falcone e Borsellino dista 28 Km e le famose spiagge di Mondello sono raggiungibili in solo 20 minuti di auto. Uno dei punti di forza dell'Idea Hotel Palermo è la prima colazione sempre ricca di dolci fatti in casa e tante prelibatezze: crostate di frutta fresca, torte di cioccolato, brioches ripiene, panna cotta, plum cakes e ancora frutta fresca, frutta sciroppata e, naturalmente, succhi di arancia di Sicilia. Non manca poi una vasta scelta di salumi, formaggi, uova, bacon, salsicce accompagnate sempre dal buon pane siciliano.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -366,7 +366,7 @@
     <camere>237</camere>
     <direttore>Salvatore Patanè</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -382,7 +382,7 @@
     <web>http://www.hotelpoliteama.it</web>
     <descrizione>Classic Hotel nel centro di Palermo di 94 camere, dove l'eleganza della tradizione e il fascino del design convivono in un raffinato equilibrio. La vista, esclusiva, su Piazza Politeama e una posizione centrale rendono questo hotel storico la scelta ideale per una vacanza a Palermo alla scoperta di arte e cultura. Vicino ai negozi dello shopping, a ottimi ristoranti, e alla fermata della navetta per l' aeroporto, l' Hotel Politeama è la scelta ideale per chi è in viaggio d'affari a Palermo, o per un breve weekend romantico in città. Dormire all 'Hotel Politema significa essere accolti dal calore del nostro staff sempre pronto a suggerimenti e informazioni varie per fare sentire l'ospite come a casa propria e rendere il Suo soggiorno un'esperienza indimenticabile.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -400,7 +400,7 @@
     <sale_meeting>10</sale_meeting>
     <direttore>Marcello Pizzuto</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -415,7 +415,7 @@
     <web>http://www.latorrehotel.it</web>
     <descrizione>Lo Splendid Hotel La Torre si trova a Palermo, in quella parte della città nota come Mondello: un luogo a metà fra un improbabile ma autentico borgo marino, ed il fascino di una delle più belle ed incontaminate spiagge del Mediterraneo, impregnato ancora oggi con i sapori e gli odori della "belle - epoque". Mondello dista pochi minuti di bus dal centro della città: subito al di là dei grandi viali del parco della "Favorita". Sul lato opposto, un breve tratto autostradale, collega Mondello all'aeroporto di Punta Raisi. Una posizione ideale quindi per chi voglia allo stesso tempo godere di un soggiorno in pieno relax, e visitare in tutta comodità il centro di Palermo ed i suoi straordinari monumenti. Oltre il grande semicerchio della rinomata spiaggia , poco distante dal borgo marinaro,sorge il piccolo promontorio roccioso, che ospita il complesso turistico della "Torre". L'Albergo occupa la porzione più piccola del promontorio, quella che guarda la baia; dall'altra parte invece e fino al limite della riserva marina di "Capo Gallo", si stende il parco del complesso. LO STABILIMENTO BALNEARE: Da giugno a settembre,ospita uno dei più noti stabilimenti balneari siciliani,aperto al pubblico. Nella località è possibile praticare tutti gli Sports acquatici (Vela, Windsurf,Water-bike,Sci, immersioni, ecc. ) A esclusiva disposizione degli ospiti dell'albergo, è invece il grande solarium attrezzato, realizzato a ridosso della scogliera. Qui essi troveranno l'ampia ed accogliente piscina con acqua di mare con annessa vasca idromassaggi ed il comodo accesso alla piattaforma realizzata sugli scogli per i bagni in mare. LA PISCINA : L'Hotel dispone di una piscina con un ampio solarium, (un bar attrezzato per uno spuntino oppure un aperitivo prima del pranzo) acqua di mare con accesso diretto nelle limpide acque del nostro golfo. IL RISTORANTE : Le nostre terrazze sul mare sono le protagoniste incontrastate della stagione estiva alla"Torre". Qui trova posto il noto ed esclusivo ristorante sul mare ( fino a 200 posti, ideale per i conviviali di nozze ed altri eventi esclusivi), nel periodo estivo si può cenare a lume di candela sulla terrazza del nostro ristorante in un'atmosfera dal sapore antico. Il Bar : con ampi spazi interni e grandi vetrate da dove si può ammirare la splendida baia di Mondello, con annesso terrazzo sul mare con possibilità di gustare ottimi cocktail ed ascoltare della ottima musica dal vino facendosi cullare dalle onde del mare che baciano gli scogli a ridosso della terrazza. LA SALA COLAZIONE : La nostra esclusiva sala per la piccola colazione, adatta anche per eventi esclusivi con ampi finestroni panoramici ubicata nel piano attico della struttura da dove si può ammirare l'azzurro del nostro mare e se il tempo e sereno e terso di foschia si intravede la cima maestosa del vulcano Etna. L'albergo dispone di un garage coperto con sistema di video controllo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -431,7 +431,7 @@
     <camere>54</camere>
     <direttore>Rocca Raineri</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -447,7 +447,7 @@
     <camere>37</camere>
     <direttore>D'amato</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -462,7 +462,7 @@
     <web>http://www.villabonocoremaletto.it</web>
     <camere>15</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -476,7 +476,7 @@
     <email>htcortese@iol.it</email>
     <web>http://www.hotelcortese.info</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -490,7 +490,7 @@
     <email>palermohotelgaia@yahoo.it</email>
     <web>http://www.palermohotelgaia.com</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -505,7 +505,7 @@
     <web>http://www.albergoathenaeum.it</web>
     <descrizione>L'albergo Athenaeum, è una struttura alberghiera di nuova costruzione, sorge vicino al centro storico ed a soli 500 mt dall'ingresso delle autostrade per Catania e Trapani. Ubicato a pochi passi dall'ingresso della cittadella universitaria, offre un preciso riferimento non solo a chi frequenta l'Università ma anche a chi viaggia per turismo e per affari. Le 80 descrizione di cui dispone l'albergo, sono tutte arredate con cura e gusto e sono dotate di cassetta di sicurezza, telefono con linea diretta, TV color, aria condizionata, frigobar ed asciuga capelli. In hotel, sono inoltre preseti,due sale ristorante, un bar, ed una saletta meeting per incontri di lavoro,tutti gli ambienti comuni, così come le camere, sono coperte dal segnale internet WI-FI ad alta velocità. Per chi dovesse essere sprovvisto di un proprio pc, è presente, al piano terra, di fronte alla reception, un internet point. Un capiente garage, a disposizione dei clienti H24 è situato nel piano cantinato dell'albergo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -521,7 +521,7 @@
     <camere>19</camere>
     <direttore>Antonio Sorrentino</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -537,7 +537,7 @@
     <camere>104</camere>
     <direttore>Elio Barraco</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>5</stelle>
   </luogo>
   <luogo>
@@ -554,7 +554,7 @@
     <sale_meeting>1</sale_meeting>
     <direttore>Salvatore Romano</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -570,7 +570,7 @@
     <camere>183</camere>
     <direttore>Giovanni Sapienza</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -587,7 +587,7 @@
     <camere>61</camere>
     <direttore>Roberto Mannino</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>5</stelle>
   </luogo>
   <luogo>
@@ -601,7 +601,7 @@
     <email>booking@hotelflorioopera.it</email>
     <web>http://www.hotelflorioopera.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -617,7 +617,7 @@
     <camere>30</camere>
     <direttore>Alessia Longo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -634,7 +634,7 @@
     <camere>40</camere>
     <direttore>Carmelo Messina</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -650,7 +650,7 @@
     <camere>32</camere>
     <direttore>Lanfranco Rizzo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -668,7 +668,7 @@
     <camere>50</camere>
     <residences>30</residences>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -685,7 +685,7 @@
     <sale_meeting>4</sale_meeting>
     <direttore>Lanfranco Rizzo Gestione Astoria Palace</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -701,7 +701,7 @@
     <camere>13</camere>
     <direttore>Letizia Rusignolo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -717,7 +717,7 @@
     <camere>11</camere>
     <direttore>Nicola Farruggio</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -733,7 +733,7 @@
     <camere>84</camere>
     <direttore>Attilio Cessati</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -745,7 +745,7 @@
     <telefono>0916167524 - 0916161308</telefono>
     <fax>0916167525</fax>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -759,7 +759,7 @@
     <email>info@hotelconcordiapalermo.it</email>
     <web>http://www.hotelconcordiapalermo.it</web>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -777,7 +777,7 @@
     <sale_meeting>6</sale_meeting>
     <direttore>Lanfranco Rizzo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -793,7 +793,7 @@
     <camere>119</camere>
     <direttore>Alessandro Innocenti</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -809,7 +809,7 @@
     <camere>127</camere>
     <direttore>Mario Monforte</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -824,7 +824,7 @@
     <web>http://www.hotelcolumbiapalermo.com</web>
     <descrizione>¿Ubicato nel cuore del centro storico della città di Palermo, a meno di 300 metri dal Teatro Massimo, Cattedrale, Piazza Pretoria, dai mercati Ballarò e Vucciria, a due passi dalla celebre piazza dei Quattro Canti. Situato all'interno di un palazzo del '800interamente ristrutturato, l'hotel Columbia offre un ambiente accogliente e corredato di tutti i più moderni comfort.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -840,7 +840,7 @@
     <descrizione>Cosmopolita senza perdere il gusto della tradizione, l'Hotel Plaza Opéra vanta un'atmosfera unica nel suo genere, in cui un carattere fortemente siciliano si mescola al mood dei più attuali lifestyle hotel. L'hotel, membro di Summit Hotels and Resorts e parte del gruppo The HotelSphere, sorge in via Nicolò Gallo, alle spalle del teatro Politeama e del viale della Libertà, e rappresenta il fiore all'occhiello di un quartiere in pieno fermento, dove le più esclusive boutique e i migliori ristoranti si alternano alle sedi dei principali uffici, banche e studi professionali. Nella hall si alternano antiquariato, moderno d'autore e le firme del design più all'avanguardia, in un gioco di luci e forme in cui spicca un gusto eclettico e raffinato per il dettaglio; nell'elegante e riservato lounge bar, ci si rilassa sfogliando libri d'arte o sorseggiando un bicchiere di buon vino, mentre la mattina gli ospiti hanno l'opportunità di prepararsi ad affrontare la loro giornata con una ricca colazione a buffet che comprende una varietà di prodotti freschi e locali, sia dolci che salati, insieme a una selezione di salumi e formaggi prelibati. Durante la bella stagione, una splendida terrazza solarium panoramica diventa il luogo ideale dove rilassarsi al sole o sorseggiare un aperitivo al tramonto. Per gli ospiti più esigenti, l'hotel dispone anche di camere superior, più ampie e confortevoli, e camere deluxe, caratterizzate da grandi spazi ed elementi di design contemporaneo. Nelle camere superior e deluxe, tutte dotate di vasca idromassaggio, gli ospiti possono lasciare fuori dalla porta stress e stanchezza, e scivolare in un'atmosfera che invita al relax. Al piano attico si trovano le suite, la Agata e la Corallo. Non si può restare indifferenti alla ricercata e armoniosa eleganza di questi due ambienti d'eccezione: arredi in acero, lampade d'arte, elementi di design europeo, vasca idromassaggio a due posti e terrazza panoramica con solarium privato rendono il soggiorno nelle due suite un'esperienza da vivere all'insegna del gusto. La clientela business troverà a sua disposizione anche due sale riunioni, rispettivamente da 8 e da 50 posti, dotate delle migliori e più moderne attrezzature, nonché di accesso Internet wireless a banda larga. Il moderno minimalismo degli arredi e dell'illuminazione garantisce una cornice sobria e ricercata, ideale per meeting e riunioni di successo. A disposizione esclusiva degli ospiti, l'hotel offre anche un business center, dotato di una postazione da lavoro completa di pc con accesso Internet ad alta velocità, scanner e stampante, nonché di una postazione per riunioni flash fino a un massimo di 4 partecipanti.</descrizione>
     <sale_meeting>2</sale_meeting>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -856,7 +856,7 @@
     <descrizione>Situato nel cuore di Palermo, in pieno centro storico, a due passi dai Giardini del Foro Italico, P.zza Marina, via Alloro e Corso Vittorio Emanuele. Tranquillo ed accogliente, nasce dalle fondamenta di un edificio del '700, interamente ristrutturato. La prima colazione ed il servizio bar sono proposti sulla panoramica terrazza dell'ultimo piano da cui è possibile ammirare le mura dello splendido Palazzo Steri. Nel Wellness Club al piano terra, si può godere dei servizi di un'area relax dotata di sauna, bagno di vapore, minipiscina con idromassaggio, docce emozionali e trattamenti beauty personalizzati. E' disponibile, inoltre, una sale meeting fino a 25 posti e, su richiesta, parcheggio custodito nei pressi.</descrizione>
     <sale_meeting>1</sale_meeting>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -871,7 +871,7 @@
     <web>http://www.hotelmediterraneopa.com</web>
     <descrizione>Affacciato su due tranquille strade nel cuore di Palermo, l'Hotel Mediterraneo sorge tra il Teatro Massimo e Piazza Politeama. Le sistemazioni presentano eleganti pavimenti in parquet e arredi moderni. Al mattino vi attende una variegata colazione a buffet. Il Mediterraneo Hotel si trova nei pressi del porto e di Piazza Politeama, punto di partenza del bus per l'aeroporto e per tutte le visite guidate della città. Il personale della reception, aperta 24 ore su 24, sarà lieto di fornirvi informazioni turistiche e di viaggio. Il Mediterraneo hotel è anche una confortevole ed elegante residenza alberghiera.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -886,7 +886,7 @@
     <web>http://www.palazzositano.it</web>
     <descrizione>L'Hotel Palazzo Sitano a Palermo, 4 stelle in Sicilia, si trova nel pieno centro storico di Palermo, a pochi passi da alcuni dei monumenti e delle zone più belle della città: Piazza Marina, il Giardino Garibaldi, i Quattro Canti, il Mercato della Vucciria, la Chiesa della Martorana. In posizione ideale per raggiungere a piedi, in pochi minuti i monumenti e i quartieri del centro storico. Ristorante interno caratterizzato da suggestive arcate del loggiato ottocentesco facente parte dell'antico adiacente convento francescano. La sala dispone inoltre di un'ampia area dedicata alla ricca prima colazione a buffet american style. Sala meeting di 85 mq con capacità massima di 70 posti e allestimento modulabile dotata delle più moderne attrezzature tecniche. Una piccola area benessere che mette a disposizione bagno turco, sauna, doccia emozionale e zona relax.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -902,7 +902,7 @@
     <camere>129</camere>
     <direttore>Michele Scarlato</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -918,7 +918,7 @@
     <camere>11</camere>
     <direttore>Giovanni Ruisi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -934,7 +934,7 @@
     <descrizione>Posto in una zona residenziale nella parte nord di Palermo, il Marbela residence dista 10 minuti in auto dal centro città e offre circa 50 unità abitative tra appartamenti arredati e corredati e descrizione moderne ed eleganti provviste di TV a schermo piatto e di angolo cottura. Gli appartamenti e le camere sono climatizzate, dotate di cucina attrezzata e di un'area soggiorno e pranzo, con grandi terrazze panoramiche sul Monte Pellegrino e il porto di Palermo, tutte con bagno in camera con vasca e doccia. In ognuna troverete anche una TV satellitare, phon, forno,cassaforte e biancheria completa da letto, bagno e cucina. Il personale è disponibile 24 ore su 24 e sarà lieto di fornirvi il servizio di noleggio auto e biciclette. Il Marbela giace proprio davanti al parco Favorita e a 15 minuti a piedi dal porto di Palermo, da dove partono i traghetti per Genova, Civitavecchia e Salerno.</descrizione>
     <direttore>Giovanni Ucciardi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -949,7 +949,7 @@
     <web>http://www.residenzadaragona.it</web>
     <camere>20</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -964,7 +964,7 @@
     <web>http://www.hotelregina.it</web>
     <descrizione>HOTEL REGINA:VIVI Palermo con noi! E' un hotel dove si respira aria di casa propria, essendo a conduzione familiare...Saremo a Vostra disposizione, Vi consegneremo una mappa della citta' con i nostri consigli dove mangiare e cosa visitare. 1^ piano di un antico palazzo con Ascensore, l'Hotel Regina sorge nel centro storico di Palermo, tra la Cattedrale e i Quattro Canti e a 1 km dalla stazione ferroviaria. Il Regina Hotel si affaccia sul Cassaro, una delle più antiche vie della città, attraversata ogni anno dalla processione di Santa Rosalia.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -979,7 +979,7 @@
     <web>http://www.hotelvittoriapalermo.it</web>
     <descrizione>L'hotel Vittoria a Palermo è l'ideale per tutti coloro che amano ritrovarsi in un ambiente familiare e lindo usufruendo dei servizi di un hotel superiore al prezzo di una stella! La gestione familiare ed i prezzi contenuti ne fanno il punto di riferimento nel centro della città per veri viaggiatori, studenti, famiglie ed estimatori del turismo tout court. L'hotel si trova in una delle arterie principali di Palermo, in via Maqueda, vicino alla stazione ferroviaria, alla metropolitana ed ai capolinea delle principali linee d'autobus urbani ed extraurbani, è possibile infatti oltre a girare facilmente la città con i mezzi pubblici, organizzare un tour dell'Isola low cost. Inoltre saremo lieti di consigliarvi posti tipici e menù, anche per questo potete considerarci... very friendly!</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -994,7 +994,7 @@
     <web>http://www.aicavalierihotel.com</web>
     <camere>39</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1010,7 +1010,7 @@
     <camere>24</camere>
     <direttore>Mario Attinasi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1026,7 +1026,7 @@
     <web>http://www.hotelbaglioconcadoro.com</web>
     <descrizione>Fuori dal caos cittadino, ma solo a pochi km dal centro, alle pendici di Monreale e della splendida Conca D'oro in Contrada Molara, che fino alla fine del '700 era denominata "Pietra Molara" per la presenza di cave da cui si estraeva il materiale per costruire le macine dei mulini, sorge il "Baglio Conca d'Oro alla Cartiera Grande ".La "Cartiera Grande", era la più grande di tre cartiere che originariamente fabbricavano e confezionavano carta di vario tipo, ed oggi, dopo una attenta ristrutturazione che nel 1998 ha ridato vita all'intero edificio del '700, ospita il Baglio Conca d'Oro, un albergo 4 stelle dove antico charme e moderno comfort si uniscono armoniosamente. Soffitti dipinti, travature lignee, arredi sofisticati e toni solari caratterizzano gli ambienti comuni; le descrizione sono ornate da tendaggi e tessuti coordinati sulle sfumature del rosa, pavimenti in ceramica, il tutto curato nei minimi dettagli per rendere unico ed indimenticabile il soggiorno degli ospiti.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1043,7 +1043,7 @@
     <descrizione>" l'Hotel Bel3 è situato sulla collina di Baida ad 8 km dal centro di Palermo ed offre una vista panoramica su tutta la città. È Dotato di una grande terrazza solarium con piscina e vasca jacuzzi panoramica, inoltre l'hotel dispone di un ristorante con specialità siciliane e pizzeria, una palestra, un parcheggio gratuito, una sala biliardo e una sala meeting. Tutte le 67 spaziose descrizione godono di vista panoramica su Palermo, sono dotate di balcone, telefono, tv, frigobar, cassaforte, aria condizionata, bagno con vasca o doccia, asciugacapelli e connessione internet WIFI gratuito".</descrizione>
     <camere>67</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1059,7 +1059,7 @@
     <camere>40</camere>
     <direttore>Livio Paduano</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1075,7 +1075,7 @@
     <camere>93</camere>
     <direttore>Giorgio Valdesi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1091,7 +1091,7 @@
     <camere>73</camere>
     <direttore>Umberto Di Mariano</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1108,7 +1108,7 @@
     <sale_meeting>1</sale_meeting>
     <direttore>Girolamo Liga</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1123,7 +1123,7 @@
     <web>http://www.hotelorleans.it</web>
     <descrizione>Ricavato dal sapiente restauro di una villa padronale di fine 800, con un inaspettato giardino interno, lontano dai rumori del traffico, dove il profumo di arance e limoni si confonde con quello del gelsomino, il nuovissimo Hotel Orleans si apre ai visitatori di questa splendida città. L'arredamento accogliente ed ovattato delle sue descrizione, la tv satellitare, l'internet WI-FI, il salottino con internet point, creano un oasi di pace e di relax nel cuore della città. A 300 m dall'omonima stazione della metropolitana collegata all'aeroporto, a poca distanza dalla stazione centrale, dal palazzo reale e dalla cattedrale, l'Hotel Orleans è il punto di riferimento per chiunque voglia addentrarsi per i diversi itinerari che si snodano per la città, senza rinunziare al silenzio ed alla tranquillità.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1139,7 +1139,7 @@
     <camere>22</camere>
     <direttore>Vittorio Petruso</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1156,7 +1156,7 @@
     <camere>93</camere>
     <direttore>Marcello Manca</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1171,7 +1171,7 @@
     <web>http://www.principedivillafranca.it</web>
     <descrizione>Aperto nel 1998 e completamente rinnovato nel 2010, l'Hotel Principe di Villafranca sorge nel cuore del quartiere più eclettico e moderno di Palermo, in cui le firme della moda più esclusiva vivono accanto ai centri della finanza e degli affari. A pochi passi dal viale della Libertà, verdissimo boulevard che taglia in due il centro della città, e dalla maestosa Piazza Politeama, l'hotel, parte del gruppo The HotelSphere, rappresenta un sofisticato angolo di quiete in cui ritemprarsi a pochi passi dal fermento cittadino. Un'atmosfera nobile e raffinata pervade le aree comuni: nella hall e nei saloni, i colori chiari e luminosi degli ambienti mettono in risalto le tinte primarie dei preziosi tessuti, mentre capolavori degli antichi mobilieri siciliani si alternano a quadri d'autore e originali pezzi di antiquariato. Gli ospiti potranno immergersi nella lettura in biblioteca, sorseggiando una tazza di thé, o conversare nella sala camino; il lounge bar, decorato con dettagli liberty e illuminazione di design, è il luogo ideale dove bere un calice dei migliori vini siciliani e nazionali, mentre la sala colazione, sobria e ariosa, è perfetta per iniziare la giornata con una ricca varietà di prodotti freschi e locali, dolci e salati. Nelle 32 camere, gli ospiti saranno trasportati in una dimensione pura e senza tempo, dal fascino indimenticabile. Le forme essenziali degli arredi e delle lampade, realizzati in finiture materiche come la resina, il cemento e l'acciaio spazzolato, vengono sottolineate sapientemente dal total white degli ambienti e dai toni decisi delle tele dell'artista locale Simona Cavaglieri. L'hotel dispone anche di eleganti junior suite, rese uniche da opere di arte contemporanea, lampade d'arte e ambienti insoliti e privati, in cui gli ospiti potranno trascorrere un soggiorno d'eccezione. L'hotel dispone di due sale riunioni dallo stile inconfondibile, la sala Gattopardo e la sala Paliotto, dotate delle più moderne tecnologie. Adatte ad ospitare meeting rispettivamente fino a 20 e 100 persone, le sale sono arredate con splendidi mobili di antiquariato siciliano e confortevoli sedute, e riflettono la ricercata eleganza dell'albergo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1188,7 +1188,7 @@
     <camere>20</camere>
     <direttore>Giovanni Ruisi</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>hotel</tipi-specifici>
+    <tipi-specifici>Hotel</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -1202,7 +1202,7 @@
     <email>cultnseapalermo@hotmail.com</email>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1217,7 +1217,7 @@
     <web>http://www.bbpalazzolungarini.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1232,7 +1232,7 @@
     <web>http://www.dolcedormirepalermo.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1247,7 +1247,7 @@
     <camere>3</camere>
     <direttore>Giuseppina La Manna</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1261,7 +1261,7 @@
     <email>mauro64@neomedia.it</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1275,7 +1275,7 @@
     <web>http://www.palermobedandbreakfastcentro.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1290,7 +1290,7 @@
     <web>http://www.bbpalermofelix.com</web>
     <descrizione>Palermo Felix Bed &amp; Breakfast, di nuovissima realizzazione, offre un'ambiente moderno, confortevole e funzionale. E' a due passi dal Policlinico "Giaccone", dall'Università, e dai principali monumenti turistici: Cappella Palatina, Cattedrale, San Giovanni degli Eremiti. E' la struttura più vicina all'Ospedale Policlinico ed è vicinisima al restante polo sanitario dell'Ospedale dei Bambini, Civico, Ismett. Si offre, poi, come soluzione ideale per soggiorni di studio, lavoro, turismo. In pochi minuti piedi si raggiunge la Metro Orleans (collegamento con l'aeroporto di Punta Rais), la Stazione Centrale FFSS, il terminal bus per l'aeroporto e dei bus regionali. il Palermo Felix Bed &amp; Breakfast, dispone di tre descrizione da letto, ciascuna dotata del proprio bagno ad uso esclusivo con doccia e phon. Tutte le camere dispongono di connessione Wi-Fi gratuita e climatizzazione indipendente. A libero uso degli ospiti la sala colazione.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1304,7 +1304,7 @@
     <web>http://www.villantonietta.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1319,7 +1319,7 @@
     <web>http://www.villamaurigi.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1331,7 +1331,7 @@
     <telefono>0916840509 - 091451610</telefono>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1346,7 +1346,7 @@
     <web>http://www.bbwhite.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1361,7 +1361,7 @@
     <web>http://www.palermomare.it</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1376,7 +1376,7 @@
     <web>http://www.gliaristogatti.com</web>
     <descrizione>Il B&amp;B Gli Aristogatti, cosi' denominato in virtu' della grande passione dei proprietari per i gatti, e' ubicato in un raffinato appartamento, appena ristrutturato, sito nel cuore del centro storico di Palermo. Il B&amp;B Gli Aristogatti si pone come scopo primario quello di fornire in un'atmosfera cordiale e accogliente, un servizio di alto livello che consenta di godere di comfort tipicamente alberghieri, seppur con i prezzi e la semplicita' di un B&amp;B. L'appartamento dispone di grandi e luminose descrizione elegantemente arredate e dotate di ogni comfort. La centralissima posizione del nostro B&amp;B, vicinissimo sia al porto che alla stazione centrale consente ai visitatori di raggiungere comodamente a piedi i piu' importanti siti monumentali della citta' quali La Cattedrale, Il Teatro Massimo, il Teatro Politeama, gli antichi e pittoreschi mercati cittadini del Capo e della Vucciria, nonche' il fulcro della movida notturna palermitana viaggiando alla scoperta del ricco patrimonio storico, artistico e culturale della nostra bella citta'. La vicinanza della Via Roma e della Via Maqueda, strade commerciali e ricche di negozi alla moda, rende il B&amp;B Gli Aristogatti luogo, altresi', ideale per chi voglia, invece, divertirsi con lo shopping.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1391,7 +1391,7 @@
     <web>http://www.beb-museosalinas.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1406,7 +1406,7 @@
     <web>http://www.bbnimia.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1420,7 +1420,7 @@
     <email>marigtp@inwind.it</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1434,7 +1434,7 @@
     <web>http://www.bb-oscia.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1448,7 +1448,7 @@
     <web>http://www.villartemide.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1461,7 +1461,7 @@
     <email>ilmezz.gattopardo@tiscali.it</email>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1475,7 +1475,7 @@
     <email>bblacasadeicolori@libero.it</email>
     <descrizione>Ci troviamo a circa 350 metri dalla stazione centrale dei treni, punto di snodo della città, da dove partono e arrivano i principali mezzi di trasporto pubblico da e per l'aeroporto Punta Raisi, interno città, paesi limitrofi come Cefalù e località balneari come Mondello. La sua posizione permette agli ospiti di raggiungere facilmente il centro storico della città con i suoi innumerevoli monumenti (quattro Canti, Piazza Pretoria, Museo Archeologico Nazionale, Teatro Massimo, Teatro Politeama ecc.) e di usufruire agevolmente dei vari mezzi di trasporto pubblici. Inoltre i visitatori potranno vivere a due passi dal B&amp;B i luoghi della movida notturna palermitana. Il B&amp;B è stato ristrutturato e ammodernato nel 2011. L'appartamento ha mantenuto tetti e pavimenti nella loro condizione originaria. Le bellissime maioliche compongono un tappeto nelle descrizione, con i soffitti dipinti a mano. Il bed and breakfast "La casa dei colori" si trova al terzo piano di un palazzo senza ascensore, costruito nel 1928.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1489,7 +1489,7 @@
     <web>http://www.lacasadizoe.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1502,7 +1502,7 @@
     <email>lagalleriapalermo@gmail.com</email>
     <descrizione>Il B&amp;B La Galleria¿, situato nella zona residenziale adiacente allo Stadio Renzo Barbera e all'ospedale Villa Sofia, si trova nella posizione strategica ottimale per raggiungere il centro storico, la stazione centrale, l'aeroporto e la spiaggia di Mondello. L'appartamento, posto al secondo piano di un edificio prospiciente a un lussureggiante viale alberato, si trova in un'area abitativa che gode di numerosi servizi e ottimi collegamenti sia urbani che extraurbani. La Galleria è un nuovissimo B&amp;B nato dallo spirito di iniziativa di Mauro, operatore sociale e pittore. Le sue opere, infatti, originali e personalissime, sono esposte, proprio come in una galleria d'arte, lungo le pareti ampie e luminose di tutti gli ambienti dell'appartamento</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1516,7 +1516,7 @@
     <web>http://www.leterrazzebb.it</web>
     <descrizione>Questo B&amp;B "tre stelle de charme" si trova nel cuore del centro storico di Palermo, proprio di fronte alla Cattedrale, in un edificio ricco di testimonianze del continuo succedersi di importanti civiltà in questa parte della città, chiamata "paleapolis": ruderi punici nel sottosuolo, mura medievali a grandi blocchi al piano terra, su fino al secondo e terzo piano, con ambienti decorati da stucchi e affreschi del '600 e del '700. I monumenti più importanti della città sono raggiungibili a piedi. Monreale può essere visitata utilizzando un autobus delle linee urbane che ha una fermata di fronte alla Cattedrale. I mezzi più comodi e veloci per spostarsi negli altri luoghi di interesse turistico della Sicilia sono gli autobus extraurbani e la stazione di partenza dista 15 minuti a piedi dal B&amp;B. Via Pietro Novelli è uno dei luoghi più sicuri della città: su di essa si affaccia l'edificio che è sede della Questura e della Squadra Mobile della Polizia.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1530,7 +1530,7 @@
     <web>http://www.bbmaxim.it</web>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1544,7 +1544,7 @@
     <web>http://www.namaste.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1559,7 +1559,7 @@
     <web>http://www.bedbreakfastpalermo.it</web>
     <descrizione>Bed and breakfast Teatro Massimo è una dimora elegante nel cuore di Palermo, situato a soli 50 metri dal famoso Teatro Massimo, nella zona pedonale del centro storico. Il palazzo storico che ospita il B&amp;B è totalmente restaurato ed è dotato di ascensore.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -1573,7 +1573,7 @@
     <web>http://www.cleopatrabb.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1587,7 +1587,7 @@
     <web>http://www.coffeandthecity.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1602,7 +1602,7 @@
     <web>http://www.bbdavidsroom.com</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1616,7 +1616,7 @@
     <email>jerryhouse@gmail.com</email>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1630,7 +1630,7 @@
     <web>http://www.olivellabb.it</web>
     <descrizione>L'Olivella è un b&amp;b familiare situato nell'omonimo quartiere storico di Palermo, fra il museo archeologico "A. Salinas" e il Teatro Massimo. Grazie alla sua posizione strategica risulta ideale per visitare la città ed è inoltre facilmente raggiungibile con i mezzi che collegano Palermo all'aeroporto "Falcone e Borsellino". Particolare cura è dedicata al rituale della prima colazione, servita tutte le mattine nell'elegante sala da pranzo che conserva ancora il suo originale fascino. Potrete gustare dolci genuini e specialità locali.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1645,7 +1645,7 @@
     <web>http://www.bedandbreakfastliberta.it</web>
     <descrizione>Il bed e breakfast è sito nel bel salotto Palermitano "Piazza Politeama", dall'omonimo teatro che domina la piazza che si trova alla fine di Via Libertà ed all'inizio di via Ruggero Settimo, lungo l'asse principale della città e a pochi passi dalle fermate bus collegate con tutte le destinazioni aeroporto, stazione, porto e dalle più importanti attrattive artistiche presenti in città. In un palazzo nobiliare e con una visuale d'altri tempi il bed &amp; breakfast Libertà è una delle più belle accomodation per soggiornare nel cuore di Palermo sia per dei viaggi di lavoro che per trascorrere una rilassante vacanza. Principale centro urbano della Sicilia, Palermo è una polis dalla storia millenaria che ha regalato un notevole patrimonio artistico spaziando tra resti di mura puniche per giungere a ville liberty, residenze in stile arabo-normanno, chiese barocche e teatri neoclassici ed è oggi tra le principali mete turistiche del Sud Italia e tra le maggiori mete crocieristiche del bacino mediterraneo. Va sottolineato che il popolo Siciliano è famoso per lo spirito di ospitalità ed è questa la caratteristica principale del bed e breakfast, luogo che vi consentirà di soggiornare in "Libertà" nonostante i km di distanza da casa propria</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1660,7 +1660,7 @@
     <web>http://www.maridehouse.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1675,7 +1675,7 @@
     <web>http://www.bebmontecarlo.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1690,7 +1690,7 @@
     <web>http://www.bandbnicadomus.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1705,7 +1705,7 @@
     <descrizione>Che voi siate a Palermo per lavoro o per diletto, il b&amp;b Novecento è la sistemazione ideale in quanto si trova in una posizione ottima per visitare a piedi la città: il nostro B&amp;B trova luogo nel cuore del centro storico di Palermo, all'ultimo piano (con ascensore) di un prestigioso edificio di inizio secolo, sapientemente restaurato per mantenere il fascino del vissuto e le comodità del moderno. Si caratterizza per gli alti soffitti decorati in stile, arredo di inizio secolo e la grande cura dei dettagli. Ottima prima colazione con dolci freschi, prodotti biologici e frutta fresca di stagione. Composizione camere: n.4 camere doppie/matrimoniali, ciascuna con bagno privato esterno (ogni bagno ad uso esclusivo di ciascuna camera) n.1 camera tripla con bagno privato interno</descrizione>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1718,7 +1718,7 @@
     <email>luna@neomedia.it</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1732,7 +1732,7 @@
     <web>http://www.politeamasquare.com</web>
     <descrizione>Situato in posizione centralissima, nelle vicinanze dell'antico teatro da cui prende il nome e che venne inaugurato nel 1874, ancora incompleto e a cielo aperto, con i "I Capuleti e i Montecchi" di Vincenzo Bellini, il Bed &amp; Breakfast "Politeama Square" vi offre la possibilità di visitare a piedi e con facilità i monumenti del centro storico e la Palermo dei vicoli notturni, per scoprire atmosfere romantiche e piene di vitalità. l B&amp;B Politeama Square offre camere con balcone e connessione Wi-Fi gratuita nel centro di Palermo, vicino al porto e al Teatro Politeama, e a meno di 10 minuti a piedi dal Teatro Massimo. Questo B&amp;B a conduzione familiare si trova al 4° piano di un edificio storico e le sue camere sono climatizzate e dotate di TV e vista sulla città. Il Politeama Square B&amp;B dista 200 metri da un parcheggio pubblico e 50 metri dalla fermata dell'autobus più vicina. La struttura gode di ottimi collegamenti in autobus per le altre zone della città e per l'aeroporto di Palermo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1747,7 +1747,7 @@
     <web>http://www.rosellabianchibb.com</web>
     <descrizione>Il nostro B&amp;B, situato nel centro storico di Palermo, in un palazzo liberty degli anni venti, la vista spazia sulle cupole ed i tetti del centro. Ci troviamo in Via Roma, arteria commerciale che attraversa tutto il cento storico di Palermo, i monumenti ed i musei più importanti sono raggiungibili a piedi. Dista 200 mt. dalla stazione centrale ed è ben collegato all'aereoporto ed all'porto, trovandosi nelle immediate vicinanze delle fermate di autobus, pullman e metropolitana.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1761,7 +1761,7 @@
     <email>bbscalareale@gmail.com</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1775,7 +1775,7 @@
     <web>http://www.seralcadio.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1790,7 +1790,7 @@
     <web>http://www.simpatymondello.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1804,7 +1804,7 @@
     <web>http://www.villa-addaura.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1818,7 +1818,7 @@
     <web>http://www.giugagio.it</web>
     <descrizione>Il B&amp;B Giugagiò è felice di ospitarvi a Palermo. Siamo nel cuore del centro storico di Palermo, la via Bandiera delimita infatti due dei famosi mercati di Palermo "il Capo"¿ e la "Vucciria". La struttura dispone di una camera doppia e una quadrupla entrambe con bagno ad uso esclusivo, tv, aria condizionata ed internet wifi gratuito. Una sala colazione con camino e terrazzino adiacente, una sala comune con angolo lettura, angolo tv con lettore dvd, angolo per ascolto musica e scacchi o dama.Non dimenticate di portare con voi un oggetto, un piccolo souvenir tipico della vostra terra per arricchire la nostra bacheca con il ricordo di chi ci è venuto a trovare. Saremo lieti di omaggiarvi un ricordo tipico della nostra città.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1831,7 +1831,7 @@
     <email>casacatti@libero.it</email>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1846,7 +1846,7 @@
     <web>http://www.casettamanfredi.com</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1860,7 +1860,7 @@
     <web>http://www.bbcastiglia.it</web>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1876,7 +1876,7 @@
     <camere>3</camere>
     <direttore>Chiara Castiglia</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1891,7 +1891,7 @@
     <web>http://www.bedbreakfastdangelo.com</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1906,7 +1906,7 @@
     <web>http://www.desalinas.com</web>
     <descrizione>Bed and Breakfast Museo Salinas è una raffinata dimora nel centro storico di Palermo sito a pochi metri dal Museo Nazionale Archeologico A. Salinas e dal notissimo Teatro Massimo. L'appartamento, posto al primo piano di un edificio storico, è completamente e finemente ristrutturato con terrazzo annesso ove d'estate sarà possibile consumare la prima colazione. La sua posizione strategica offre tutto ciò che un ospite può ricercare per trascorrere una vacanza a Palermo, con il vantaggio di raggiungere con facilità, anche a piedi, tutti i punti di maggiore interesse della città. Dal nostro B&amp;B, in pochi minuti puoi raggiungere il porto, la stazione dei treni e degli autobus (urbani ed extraurbani) e la fermata del bus da e per l'aeroporto. A piedi potrai visitare la città storica che accoglie i più grandi monumenti della Sicilia, come il Teatro Massimo, il Museo Salinas, le chiese barocche Sant'Ignazio all'Olivella e San Domenico, il Teatro Politeama, i Quattro Canti, Piazza Pretoria, la Chiesa della Martorana, la Cattedrale, il Palazzo Reale, la Cappella Palatina ed i mercati storici di Ballarò, Vucciria, Capo e tanto altro. Per gli amanti dello shopping e della buona cucina, la possibilità di fare acquisti nelle più rinomate vie di Palermo come Via Roma, Via Ruggero Settimo e Via Libertà e di gustare la cucina tradizionale dei numerosi ristoranti e locali tipici nei caratteristici vicoli pedonali del centro storico Bed &amp; Breakfast Museo Salinas è situato nel Centro Storico di Palermo a circa 40 metri dal Museo Archeologico Antonio Salinas e circa 100 metri dal famoso Teatro Massimo di Palermo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1923,7 +1923,7 @@
     <direttore>Simona Faldetta</direttore>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1936,7 +1936,7 @@
     <email>mvalente44@yahoo.it</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1950,7 +1950,7 @@
     <web>http://www.icavalieridimalta.it</web>
     <descrizione>Ubicato nel centro storico di Palermo, "I Cavalieri di Malta" è un bed and breakfast che gode di un'eccellente posizione centrale. Le maggiori attrazioni di Palermo, il teatro Massimo, il teatro Politeama, i negozi, i ristoranti, la vita notturna dei pubs, così come i luoghi d'interesse storico - dal Palazzo Reale, con la sua splendida Cappella Palatina, al Cassaro, alla Cattedrale Normanna si trovano a pochi passi dal nostro bed and breakfast.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1965,7 +1965,7 @@
     <web>http://www.ilgiardinodiballaro.it</web>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -1980,7 +1980,7 @@
     <web>http://www.bebilprincipe.com</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -1994,7 +1994,7 @@
     <web>http://www.invillabbmondello.splinder.com</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2008,7 +2008,7 @@
     <web>http://www.lacasadeilimoni.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2024,7 +2024,7 @@
     <descrizione>La Fuitina si trova in un edificio seicentesco nel vero cuore del centro storico di Palermo. Situata infatti ai margini del mercato della Vucciria, l'appartamento si affaccia su Corso Vittorio Emanuele, una delle due più antiche strade della città. Grazie alla sua posizione, Fuitina, dista a pochi minuti di passeggiata dai luoghi e i monumenti più importanti della città come Piazza Marina, lungomare del Foro Italico, Chiesa di San Francesco, i Quattro canti, la Cattedrale, La Martorana, Piazza Pretoria, Chiesa di San Domenico, Casa Professa e dagli altri storici mercati come Ballarò e Capo. Per gustare le prelibatezze della nostra terra o ascoltare della musica, basta raggiungere a piedi in pochi minuti, ristoranti, pub, teatro. Il centro storico, infatti come Corso Vittorio, Piazza Marina e la Vucciria, sono ritrovo per la vita notturna della città. L'appartamento, appena ristrutturato, dispone di una camera doppia, una tripla e di una grande camera che può contenere sino a 4 posti letto, ideale per una famiglia di quattro persone o per amici. Tutte le camere sono dotate di climatizzazione e balconi. Fuitina, inoltre, ospita due zone living; la cucina, dotata di ogni accessorio a disposizione dei clienti e dove, nella formula B&amp;B, vengono servite ricche colazioni. Avrete anche la possibilità, di accedere ad Internet, leggere o ascoltare musica nella saletta comune. Lo staff con la sua atmosfera simpatica e informale, vi aiuterà a scorrere un buon soggiorno a Palermo. Luca &amp; Jessica</descrizione>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2038,7 +2038,7 @@
     <descrizione>Situata in una zona centrale ed elegante di Palermo, ottimamente servita dai mezzi pubblici, al terzo piano (con ascensore) di un edificio dei primi del Novecento, la struttura (classifica 3 stelle) è costituita da tre camere: una singola, una doppia/matrimoniale e una tripla - una vera e propria suite, con un ampio soggiorno, che dà sulle tegole e dal quale si gode una bella vista sul Monte Pellegrino. Privacy e tranquillità sono assicurate. La prima colazione, a base di prodotti locali, viene servita nell'ampia cucina dell'appartamento. La permanenza minima è di due notti; non si accettano animali, né bambini sotto i sei anni. Si parlano francese, inglese, tedesco e polacco. Si fornisce materiale informativo.</descrizione>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2052,7 +2052,7 @@
     <web>http://www.malusi.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2067,7 +2067,7 @@
     <web>http://www.bedmediterraneo.it</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2080,7 +2080,7 @@
     <email>helgaomodei@libero.it</email>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2094,7 +2094,7 @@
     <web>http://www.bed-and-breakfast-palermo.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2109,7 +2109,7 @@
     <web>http://www.bbnottimagiche.com</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2124,7 +2124,7 @@
     <web>http://www.palazzoreale.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2138,7 +2138,7 @@
     <email>bbulisse@tiscali.it</email>
     <descrizione>Il bed &amp; breakfast Ulisse si trova nel cuore di Palermo, a metri 100 dal centro selezione VFP1 Caserma Tukori Corso Calatafimi, in posizione centralissima, vicino al Palazzo Reale, alla Cappella Palatina, alla Cattedrale e tantissimi siti di interesse turistico e culturale. Gli interni del bed &amp; breakfast Ulisse sono studiati per offrire il massimo dell'ospitalita' nel modo piu' semplice e discreto. La camera è molto confortevole ed arredata con gusto. Infatti è dotata di aria condizionata e riscaldamento, frigo e la possibilità di connessione ad internet.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2152,7 +2152,7 @@
     <email>bbilgirasole@hotmail.it</email>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2166,7 +2166,7 @@
     <web>http://www.palazzofilangeri.it</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2180,7 +2180,7 @@
     <web>http://www.bbpalike.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2195,7 +2195,7 @@
     <web>http://www.facebook.com/people.palermo</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2209,7 +2209,7 @@
     <web>http://www.pomelia.com</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2222,7 +2222,7 @@
     <email>bebportadicastro@gmail.com</email>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2237,7 +2237,7 @@
     <web>http://www.bebsangabriele.com</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2251,7 +2251,7 @@
     <web>http://www.sikeliabb.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2265,7 +2265,7 @@
     <web>http://www.solelunabedandbreakfast.org</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2281,7 +2281,7 @@
     <descrizione>Il b&amp;B "The Garden" si trova nel vecchio borgo marinaro d Sferracavallo, lungo la omonoma via, al civico n.236 ,piano terra. Le due stanze matrimoniali , ciascuna con bagno in camera , si affacciano e fruiscono di un piccolo giardino attrezzato per un relax confortevole e gradevole. Entrambe le stanze fruiscono di accesso indipendente ed autonomo adatto anche a persone diversamente abili, nonchè di area a parcheggio.</descrizione>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2296,7 +2296,7 @@
     <camere>3</camere>
     <direttore>Marta Favaloro</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2311,7 +2311,7 @@
     <web>http://www.kemonia.com</web>
     <descrizione>Il B&amp;B Kemonia è situato al quarto piano di un palazzo in centro con una splendida vista su villa Filippina e monte Pellegrino, a due passi è possibile visitare i monumenti simbolo della città quali: Il teatro Massimo, il teatro Politeama, il mercato antico del Capo, la Cattedrale, palazzo dei Normanni e molti altri che gravitano nella nostra zona. In zona sono presenti numerosi locali e ristoranti dove gustare la cucina tradizionale. Il parcheggio è agevole data la presenza di numerosi garage custoditi.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2326,7 +2326,7 @@
     <web>http://www.bblabellavita.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2341,7 +2341,7 @@
     <web>http://www.bbmondello.com</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2356,7 +2356,7 @@
     <web>http://www.bboretocentro.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2370,7 +2370,7 @@
     <web>http://www.palazzoamaribajardi.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2382,7 +2382,7 @@
     <telefono>0916175818</telefono>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2397,7 +2397,7 @@
     <web>http://www.bbpalermoart.it</web>
     <descrizione>L'Art Lincoln è un elegante bed and breakfast nel centro di Palermo,bellissima struttura seppure centrale molto silenziosa a breve distanza a piedi dalla stazione ferroviaria e dai mezzi pubblici. Servizi di alta qualità. Premiato per la qualità nel 2009. Terrazza fruibile dagli ospiti per rilassarsi col profumo dei fiori Le confortevoli camere hanno tutte bagno interno. Atmosfera accogliente e molto familiare ma non invadente. Il cordiale personale dell'Art Lincoln vi assisterà per l'intero soggiorno.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2412,7 +2412,7 @@
     <web>http://www.bbpanormus.com</web>
     <descrizione>Il nostro B&amp;B è situato nel centro storico di Palermo in un elegante palazzo Liberty degli anni 20, dista 300 metri dalla stazione centrale ed è ben collegato all' aeroporto Falcone-Borsellino/PuntaRaisi e Trapani - Birgi ed al porto, trovandosi nelle immediate vicinanze delle fermate di autobus, pullman e metropolitana. La posizione del bed and breakfast permette inoltre di raggiungere a piedi i monumenti più importanti della città di Palermo (i 4 Canti, il teatro Massimo, il teatro Politeama, la Cattedrale, il Palazzo dei Normanni, Piazza Pretoria, Piazza Marina), i caratteristici mercati della Vucciria, Capo e Ballarò e la zona commerciale che offre una grande varietà di negozi e boutique. B&amp;B Panormus è il bed and breakfast a Palermo ideale per soggiornare e pernottare nella città in maniera comoda e confortevole.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2427,7 +2427,7 @@
     <web>http://www.sanfrancescopalermo.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2442,7 +2442,7 @@
     <web>http://www.vadoalmassimo.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2456,7 +2456,7 @@
     <web>http://www.bbdellevittorie.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2471,7 +2471,7 @@
     <web>http://www.dietroilpoliteama.it</web>
     <descrizione>Il B&amp;B Dietro il Politeama sorge a pochi metri dal Teatro Politeama, Via Ruggiero Settimo e Via Libertà, nel pieno centro di Palermo. La struttura moderna e confortevole offre descrizione ampie e luminose tutte dotate di Balcone e arredate con gusto e raffinatezza. Il cliente ha la possibilità di scegliere in base alle proprie esigenze fra camere con bagno condiviso o bagno privato. In prossimità della struttura si trovano le fermate da e per gli aeroporti di Palermo e Trapani, le principali linee bus per la città e i capoluoghi siciliani. In pochi minuti a piedi è possibile raggiungere i principali siti di interesse storico e artistico ma anche i mercati storici del "Capo" "Vucciria" e "Ballarò", la sera basta uscire dal B&amp;B per avere l'imbarazzo della scelta fra i locali più moderni e alla moda e quelli più storici e caratteristici.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2486,7 +2486,7 @@
     <web>http://www.eurekabeb.com</web>
     <descrizione>Il Bed and Breakfast EUREKA è situato nel centro di Palermo in via Alessio Narbone 66, vicino al Tribunale, Piazza Castelnuovo, Teatro Massimo, proprio nel cuore di Palermo in una zona ricca di negozi, di prestigiosi ristoranti, di pizzerie e di pub. A pochissimi passi dal b&amp;b si trovano le Cliniche: Macchiarella, Demma, Noto, Orestano.L'appartamento, completamente ristrutturato, è dotato di ogni confort, una camera da letto matrimoniale, due descrizione doppie o singole e di una cucina interamente attrezzata. Le camere ampie e luminose sono arredate con gusto e dotate di aria condizionata, riscaldamento, televisione, collegamento wifi. Offriamo una ricca colazione in self service. La gestione familiare del b&amp;b crea un'atmosfera calda ed accogliente ideale per una vacanza di piacere o un soggiorno di lavoro.Al vostro arrivo vi verranno fornite la mappa e la guida all'uso della città con tutte le informazioni per passare un piacevole soggiorno. Vi verranno forniti, inoltre, consigli per itinerari culturali, gastronomici e di svago, informazioni sulla città.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2502,7 +2502,7 @@
     <camere>4</camere>
     <direttore>Giorgio Marchella</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2515,7 +2515,7 @@
     <email>sugi@libero.it</email>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2530,7 +2530,7 @@
     <web>http://www.houel30.com</web>
     <descrizione>.... accoglienza, cordialità, ospitalità, calore, charme, luce, storia, romanticismo, colori .... A pochi passi dal centro storico di Palermo, da Piazza Politeama, dal Teatro Massimo, da via Libertà, via Ruggero Settimo e via Roma (le vie dello shopping), il B&amp;B Houel 30 è un'elegante struttura in cui poter trascorrere il vostro soggiorno in pieno relax. La conduzione familiare crea un rapporto cordiale e diretto con gli ospiti. Il B&amp;B HOUEL30 L'appartamento è ubicato al quarto piano di una palazzina di fine 800(con ascensore), recentemente ristrutturato in uno stile che unisce il moderno a ricordi del passato e alla tradizione siciliana. Dal B&amp;B, grazie alla sua posizione centrale si possono raggiungere comodamente a piedi i più importanti monumenti della città, musei e mercati quali la Vucciria, Ballarò ed il Capo. Servito da mezzi pubblici, sono facilmente raggiungibili Mondello, Sferracavallo e Monreale. La zona è servita da numerosi ristoranti e locali tipici.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2544,7 +2544,7 @@
     <web>http://www.ilbanano.com</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2559,7 +2559,7 @@
     <web>http://www.sicily-accomodation.com</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2575,7 +2575,7 @@
     <camere>4</camere>
     <direttore>Simona Arnone Di Valentino</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2590,7 +2590,7 @@
     <camere>1</camere>
     <direttore>Giuseppe Jaforte</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2603,7 +2603,7 @@
     <email>gandolfosausa@virgilio.it</email>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2617,7 +2617,7 @@
     <web>http://www.abali.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2632,7 +2632,7 @@
     <web>http://www.abatellisluxury.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2647,7 +2647,7 @@
     <web>http://www.bbafea.it</web>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2663,7 +2663,7 @@
     <descrizione>Il nostro accogliente B&amp;B si trova in una posizione centralissima. A pochi passi dal teatro Politeama, difronte alla bella Villa Trabia ed alla Chiesa di Terrasanta a fianco del cinema-teatro Golden, sede delle maggiori manifestazioni concertistiche palermitane. A 100 metri dalla stazione Metro Notarbartolo, quindi facilmente raggiungibile sia dall'aeroporto che dalla stazione ferroviaria. Zafferano, menta, anice, gelsomino, cannella e limone si respirano attraverso l'allestimento tematico delle diverse stanze e sono gli elementi a cui ciascuna di esse si ispira.In ogni stanza è stata creata un'atmosfera unica legata agli "odori" di Sicilia usati nella nostra cucina e radicati nelle nostre tradizioni, creando un clima particolare in cui le sensazioni divengono le forme più intense del ricordo. 3 Stelle , frigobar, Camere 5 (bagni 5) Posti letto 10</descrizione>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2679,7 +2679,7 @@
     <camere>4</camere>
     <direttore>Giuseppe Marino</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2693,7 +2693,7 @@
     <web>http://www.ainormanni.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2708,7 +2708,7 @@
     <camere>5</camere>
     <direttore>Fabrizio Farana</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2722,7 +2722,7 @@
     <web>http://www.alcivico10.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2738,7 +2738,7 @@
     <camere>4</camere>
     <direttore>Claudio Cutrona</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2754,7 +2754,7 @@
     <camere>2</camere>
     <direttore>Antonella Oddo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2769,7 +2769,7 @@
     <web>http://www.bedandbreakfast-palermoart.com</web>
     <descrizione>L'Art Lincoln è un elegante bed and breakfast nel centro di Palermo, bellissima struttura seppure centrale molto silenziosa. A breve distanza a piedi dalla stazione ferroviaria e dai mezzi pubblici. Servizi di alta qualità .Premiato per la qualità nel 2009. Terrazza fruibile dagli ospiti per rilassarsi col profumo dei fiori Le confortevoli descrizione hanno tutte bagno interno. Atmosfera accogliente e molto familiare ma non invadente. Il cordiale personale dell'Art Lincoln vi assisterà per l'intero soggiorno.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2785,7 +2785,7 @@
     <camere>2</camere>
     <direttore>Emilio Aiovalasit</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2800,7 +2800,7 @@
     <web>http://www.bbatlantide.com</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2815,7 +2815,7 @@
     <web>http://www.bebattarin.com</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2830,7 +2830,7 @@
     <web>http://www.wix.com/attic12/attic-12</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2845,7 +2845,7 @@
     <camere>2</camere>
     <direttore>Francesca Amenta</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2859,7 +2859,7 @@
     <web>http://www.bbflorio.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2873,7 +2873,7 @@
     <web>http://www.bagliojudica.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2888,7 +2888,7 @@
     <web>http://www.balarm-bb.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2903,7 +2903,7 @@
     <web>http://www.benfratellibb.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2917,7 +2917,7 @@
     <email>bnbcarmelita@libero.it</email>
     <descrizione>Il B&amp;B Carmelita sarà lieto di accogliere gli ospiti in un ambiente familiare e amichevole. Il B&amp;B mette a disposizione degli ospiti due descrizione, una matrimoniale e una doppia, dotate di tutti i comfort, climatizzatore, tv, frigobar, connessione internet. Si segnala inoltre la disponibilità di parcheggio nel garage condominiale. A disposizione dei clienti phon e macchina caffè espresso. Il B&amp;B è situato nelle vicinanze del porto per chi viaggia con la propria auto o in barca. Inoltre è in una zona tranquilla e ben servita: bar, ristoranti, supermercati e negozi per fare shopping e le fermate delle linee principali di autobus e metropolitana, situate in un raggio di 200 metri e da cui sono raggiungibili in 15 minuti il centro storico e la spiaggia di Mondello. Il Giardino Inglese, uno dei parchi principali della città, è raggiungibile a piedi in 5 min. Simpatia, cortesia, consigli e curiosità relative alla Città , renderanno ancor più soddisfacente la vostra vacanza: sarà un piacere poter partecipare alla programmazione di un itinerario, alla scelta di un'escursione o semplicemente darvi qualche notizia in più da aggiungere a quelle in vostro possesso. E' inoltre a disposizione una fornita bibliografia su Palermo e provincia e della Sicilia in generale.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2931,7 +2931,7 @@
     <email>info@casacquarello.it</email>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -2946,7 +2946,7 @@
     <web>http://www.casacunpari.com</web>
     <descrizione>Il B&amp;B Casa C'un Pari è un bellissimo appartamento ristrutturato nel 2009, dotato di tutti i comfort necessari a rendere il vostro soggiorno più confortevole possibile. L'appartamento è situato in via E. Restivo n°95, in un quartiere centralissimo e pieno di attività commerciali. La zona offre, infatti, numerosi ristoranti, negozi per lo shopping, oltre a numerosi impianti sportivi come la piscina comunale al chiuso e all'aperto, il bowling, il Circolo del Tennis, campi da golf, lo Stadio sede delle partite dell'U.S. Città di PALERMO, e tanto altro ancora. Inoltre vicinissimi sono anche i mezzi pubblici che vi permetteranno di raggiungere in breve tempo tutti i maggiori luoghi d'interesse come la spiaggia di Mondello o il centro storico.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -2960,7 +2960,7 @@
     <email>carlottanodice@hotmail.it</email>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2975,7 +2975,7 @@
     <web>http://www.casamediterraneo.it</web>
     <camere>1</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -2990,7 +2990,7 @@
     <web>http://www.casaartisti.it</web>
     <descrizione>Una vacanza nel centro storico di Palermo, non c'è niente di meglio per trascorrere qualche giorno nel cuore antico della città. Gli ospiti del B&amp;B saranno accolti da un atmosfera magica e mediterranea che le opere dell'artista Anna Maria Sannino (di fama nazionale ed estera) suscitano a chiunque le osservi. Una sala comune accoglierà gli ospiti per garantire loro un ottimo risveglio con una gradevole prima colazione sperando di ricreare un ambiente piacevole e cordiale. Approfittate del vostro soggiorno nel nostro bed &amp; breakfast e troverete ospitalità, comfort e tanti buoni consigli sui percorsi da fare e le opere da visitare.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3004,7 +3004,7 @@
     <email>casaeputia@gmail.com</email>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3020,7 +3020,7 @@
     <descrizione>Il B&amp;B ai Vicerè è situato a pochi passi dal Teatro Massimo di Palermo, in centro città. Le descrizione ampie e confortevoli sono dotati di bagno privato. Il bed and breakfast è uno tra i più raccomandati da Tripadvisor vincitore del premio eccellenza 2013.</descrizione>
     <direttore>Luca Lepre</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3035,7 +3035,7 @@
     <web>http://www.bb-rodionoff.com</web>
     <descrizione>120 Rodionoff B&amp;B Palermo è un bed &amp; breakfast moderno e raffinato situato in una elegante palazzina nel cuore di Palermo, Sicilia. 120 Rodionoff B&amp;B Palermo si trova in una posizione strategica, nel centro di Palermo ma in una zona tranquilla. A soli 5 minuti a piedi dalla fermata della metropolitana Notarbartolo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3050,7 +3050,7 @@
     <web>http://www.acasadiamici.com</web>
     <descrizione>"A casa di amici" B&amp;B e Guesthouse! Le due strutture si trovano al centro della città di Palermo. Gli appartamenti, arredati come musei di arte contemporanea sono curati nei minimi dettagli e offrono il massimo del comfort. Le camere sono rilassanti, spaziose e pulite. Il design con cui sono arredate le rende uniche e differenti le une dalle altre. La sala relax con altissimi tetti a volta, è il luogo dove gli ospiti in un atmosfera sobria e affascinante possono incontrarsi e rilassarsi, leggere un libro, guardare la Tv, suonare diversi strumenti musicali, tra cui chitarra, percussioni e tanti altri. La ricca colazione viene servita al mattino dalle 8:30 alle 10:00 nella breakfast room. Inoltre a vostra disposizione vi è anche una zona cucina confortevole e ben organizzata dove potrete preparare i vostri piatti preferiti. La reception è in Via Volturno n°6 ed è organizzata in base all'orario d'arrivo da voi indicato al momento della prenotazione. Dopo il check-in vi assegneremo la camera in base alla soluzione da voi scelta e vi consegneremo le chiavi così da farvi sentire "a casa lontani da casa". Le opzioni di vendita delle camere sono: *standard = bagno in comune - *deluxe = bagno esterno riservato - *superior = bagno in camera</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3066,7 +3066,7 @@
     <camere>2</camere>
     <direttore>Fabio Aiovalasit</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3081,7 +3081,7 @@
     <web>http://www.bbagata.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3097,7 +3097,7 @@
     <camere>1</camere>
     <direttore>Rosi Loria</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3113,7 +3113,7 @@
     <camere>5</camere>
     <direttore>Giovanni Medico</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3130,7 +3130,7 @@
     <camere>4</camere>
     <direttore>Donatella Petronio</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3145,7 +3145,7 @@
     <web>http://www.bbalterrazzo.it</web>
     <descrizione>Il B&amp;B "Al Terrazzo Fiorito" si trova nell'antico borgo marinaro di Sferracavallo (Km.10 dal centro storico di Palermo , a km.10 dal porto, a km. 18 dall' aereoporto ) , da sempre luogo di villeggiatura e turismo. Sferracavallo offre da sempre una vasta scelta di luoghi da visitare è che ne fanno il posto ideale per gite giornaliere di particolare interesse. Dal B&amp;B "Al Terrazzo fiorito" sarà facile raggiungere mete turistiche quali Monreale, Cefalù, Erice , Imera, Segesta, Selinunte, ect . grazie ad efficienti servizi pubblici e alla sua posizione strategica. Per una vacanza di assoluto relax, Sferracavallo offre bellezze naturali ineguali come "La riserva di Capo Gallo" e una moltitudine piccole trattorie dove si possono gustare ottimi piatti tipici a base di frutti di mare e pesce. Il B&amp;B fruisce di uno splendido terrazzo dove i profumi degli agrumi si mescolano quelli dei fioriche copiosi sbocciano nei numerosi vasi.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3161,7 +3161,7 @@
     <descrizione>"Al tribunale" si trova in pieno centro di fronte il Palazzo di Giustizia, proprio a due passi dal Teatro Massimo. Grazie alla sua posizione raggiungerete a piedi tutti i posti di interesse turistico come la maestosa Cattedrale, il Palazzo dei Normanni, la Cappella Palatina, sita all'interno del palazzo stesso, il Politeama, il Mercato delle Pulci, il Mercato del Capo, il variopinto Mercato della Vucciria e tanti altri posti e monumenti che renderanno il vostro soggiorno unico ed indimenticabile. Situato al primo piano di un palazzo anni '30, è composto da 4 stanze (doppie, triple e quadruple), raffinate ed eleganti, caratterizzate da tetti a volta e pavimenti in maioliche antiche. All'interno di ciascuna stanza potrete godere di ogni confort: tv, climatizzatore e bagno in camera. Durante la stagione fredda saremo lieti di servirvi la colazione nella comoda cucina, mentre in estate potrete fruire del giardino contornato da alberi di limoni, nespole e arance in perfetto stile siciliano. "Al tribunale" è, inoltre, particolarmente indicato per quanti dovranno intrattenersi nel centro di Palermo per motivi di lavoro, poiché potranno raggiungere ogni destinazione con molta semplicità, sia a piedi che con i mezzi pubblici. Per tutti i nostri ospiti sarà possibile usufruire di un parcheggio convenzionato.</descrizione>
     <direttore>Matteo Ciriminna</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3176,7 +3176,7 @@
     <camere>3</camere>
     <direttore>Lorenza Di Dio</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3189,7 +3189,7 @@
     <telefono>0916254349 - 091451484</telefono>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3203,7 +3203,7 @@
     <email>rinopi1@alice.it</email>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3218,7 +3218,7 @@
     <web>http://www.allamartorana.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3233,7 +3233,7 @@
     <camere>5</camere>
     <direttore>Adriano Ribeiro</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3247,7 +3247,7 @@
     <web>http://www.bbamari58palermo.it</web>
     <descrizione>Il Bed&amp;Breakfast Amari 58 è un moderno ed accogliente B&amp;B situato nella strada che congiunge il Porto a piazza Ruggero Settimo dove si trova il Teatro Politeama Garibaldi. Per la sua incantevole posizione, unica e privilegiata lo rende il luogo perfetto per trascorrere le proprie vacanze o soggiorni lavorativi vivendo la città piacevolmente a piedi, tra le numerose attrazioni culturali e monumenti; Presenti nei dintorni: bar, ristoranti ed i tradizionali mercati. Ha inoltre il grande vantaggio di essere vicinissimo alla fermata dei bus turistici e da quella della navetta da e verso l'aeroporto Appena ristrutturato e dotato di ogni comfort, Amari 58 si compone di 3 belle e comode stanze da letto con bagno in camera, TV, climatizzatore, connessione Wi-Fi, tutte prospicienti sulla Via Emerico Amari, la colazione è servita tutte le mattine in una accogliente e vivace sala colazione, offriamo latte, the, caffèš, succo di frutta, cereali, torte fatte in casa, pane, marmellate. Gestita direttamente dai proprietari la struttura offre un'ospitalità cordiale e pronta a soddisfare le vostre esigenze. A richiesta gratuitamente mettiamo a disposizione degli ospiti con bambini, lettino da campeggio, riduttore wc, scalda biberon, seggiolone per la pappa.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3262,7 +3262,7 @@
     <web>http://www.bb-amelie.it</web>
     <descrizione>Tra il Teatro Politeama Garibaldi e il Teatro Massimo di Palermo troverete il "salotto di Palermo", così i palermitani chiamano la via Principe di Belmonte. Una via pedonale che vi saprà coccolare con la sua eleganza: inizia, infatti, con un profumatissimo fioraio, continua con la deliziosa Caffetteria Spinnato, per poi lasciare spazio allo shopping più sfrenato, in un susseguirsi di negozi e di esercizi commerciali tra cui il B&amp;b Amélie. La via è un porto sicuro di Palermo popolata da un brulicare di persone durante il giorno e lusingata dalle note del pianoforte della Caffetteria di sera. E' da questa via tranquilla, sicura, ben illuminata e pulita di Palermo che inizierà il vostro tour per il centro della città! - Composizione descrizione: Il b&amp;b Amélie è dotato di 2 camere matrimoniali con bagno in camera 2 camere con bagno privato esterno 1 camera tripla con bagno privato esterno Il B&amp;b ha quindi 5 camere e 5 bagni per un totale di 11 posti letto.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3277,7 +3277,7 @@
     <web>http://www.arbariabnb.it</web>
     <camere>2</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3291,7 +3291,7 @@
     <web>http://www.palermo-bed-and-breakfast.com</web>
     <descrizione>Artepalermo è un Bed&amp;Breakfast situato nel cuore di Palermo, all'ultimo piano di un'antica casa popolare, sensa ascensore, a pochi passi dai mercati, negozi, ristoranti, monumenti e musei. Abiterete nella casa di un'artista e potrete visitarne il laboratorio.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>bed and breakfast, B&amp;B</tipi-specifici>
+    <tipi-specifici>Bed and Breakfast</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3308,7 +3308,7 @@
     <descrizione>2 trivani13</descrizione>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3324,7 +3324,7 @@
     <descrizione>4 bivani</descrizione>
     <camere>8</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3341,7 +3341,7 @@
     <descrizione>3 bivani</descrizione>
     <camere>9</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3358,7 +3358,7 @@
     <descrizione>1 trivani</descrizione>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3372,7 +3372,7 @@
     <descrizione>3 trivani; 1 quadrivani</descrizione>
     <camere>13</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3387,7 +3387,7 @@
     <web>http://www.palazzoprestipino.it</web>
     <descrizione>5 bivani; 1 monovano</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3402,7 +3402,7 @@
     <web>http://www.casaorioles.it</web>
     <descrizione>2 bivani</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3417,7 +3417,7 @@
     <web>http://www.bagliodicalabruca.it</web>
     <descrizione>4 bivani</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa vacanze</tipi-specifici>
+    <tipi-specifici>Casa vacanze</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3432,7 +3432,7 @@
     <web>http://www.casaorioles.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3448,7 +3448,7 @@
     <camere>4</camere>
     <direttore>Giosuè Corrao</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3464,7 +3464,7 @@
     <camere>4</camere>
     <direttore>Alberto Coppola</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3478,7 +3478,7 @@
     <web>http://www.skysleeping.com</web>
     <descrizione>benvenuti in "Sky Sleeping" Si tratta di una struttura ricettiva a 3 stelle situata in un panoramico attico di un palazzo anni '60, composto da 5 stanze (singole, doppie e triple) per un totale di n. 10 posti letto. Durante la stagione fredda saremo lieti di servirvi la colazione nella sala arancione, mentre in estate potrete fruire del panorama offerto dalla splendida terrazza antistante. Sky Sleeping si trova nella zona del Tribunale, proprio a due passi dal Teatro Massimo. Grazie alla posizione centrale del B&amp;B raggiungerete a piedi tutti i posti di interesse turistico e folkloristico, come la maestosa Cattedrale, il Palazzo dei Normanni e la Cappella Palatina, sita all'interno del palazzo stesso, il Politeama, il Mercato delle Pulci, il Mercato del Capo, il variopinto Mercato della Vucciria e tanti altri posti e monumenti che renderanno il vostro soggiorno unico ed indimenticabile. Vi consigliamo, inoltre, di gustare alcune specialità della cucina siciliana e palermitana; non esitate, dunque, a soffermarvi in una delle molteplici pasticcerie, trattorie, rosticcerie e friggitorie che incontrerete camminando per le strade principali e per i vicoli del centro storico e che inebrieranno i vostri sensi con i profumi accattivanti della nostra gastronomia. Sky Sleeping è, inoltre, particolarmente indicato per quanti dovranno intrattenersi nel centro di Palermo per motivi di lavoro, poiché potranno raggiungere ogni destinazione con molta semplicità, sia a piedi che con i mezzi pubblici. Siamo a due passi dalle principali cliniche private palermitane. Clinica Macchiarella (150 mt), Clinica Demma (300 mt.) Clinica Noto (500 mt.) Clinica Orestano (500 mt.) Clinica Torina (500 mt.) Clinica Candela (700 mt.) Per tutti i nostri ospiti sarà possibile usufruire di un parcheggio convenzionato a pagamento all'interno dello stesso stabile.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3493,7 +3493,7 @@
     <camere>6</camere>
     <direttore>Sebastiano Quartararo</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3507,7 +3507,7 @@
     <email>ctbpalermo@libero.it</email>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3521,7 +3521,7 @@
     <web>http://www.residenzawagner.com</web>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3537,7 +3537,7 @@
     <descrizione>Nel cuore del centro storico di Palermo, a pochi passi dai principali monumenti e luoghi di ritrovo della vita notturna, Palazzo Savona offre ai suoi ospiti una accoglienza amichevole ed informale all'interno di una antica dimora Liberty recentemente restaurata. Tutte le stanze, ampie e luminose sono dotate di climatizzazione, TV digitale terrestre, Internet wireless e balcone privato con sorprendente vista sulle vie del centro. Nella spaziosa sala comune è possibile vedere film, fermarsi a leggere un libro o semplicemente prendere un caffè.</descrizione>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3554,7 +3554,7 @@
     <descrizione>Palazzo Pantaleo è una comoda e accogliente dimora nel pieno centro cittadino che occupa il secondo piano di un palazzo, risalente alla metà dell'800, situato in una piazzetta adiacente alla via Ruggero Settimo, arteria principale della città , tra il Teatro Politeama e il Teatro Massimo, nel cuore della Palermo storica e dello shopping.</descrizione>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3570,7 +3570,7 @@
     <camere>6</camere>
     <direttore>Marco Valenti</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3586,7 +3586,7 @@
     <camere>4</camere>
     <direttore>Giosuè Corrao</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3601,7 +3601,7 @@
     <web>http://www.maisonlandolina.it</web>
     <camere>5</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3615,7 +3615,7 @@
     <web>http://www.lalocandadelgagini.it</web>
     <camere>3</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3628,7 +3628,7 @@
     <email>info@dimorannulina.it</email>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3643,7 +3643,7 @@
     <web>http://www.cortilepalermo.it</web>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3658,7 +3658,7 @@
     <camere>5</camere>
     <direttore>Maria Giambruno</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3676,7 +3676,7 @@
     <direttore>Claudia Vitale</direttore>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3692,7 +3692,7 @@
     <web>http://www.bb10serpotta.com</web>
     <camere>6</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3705,7 +3705,7 @@
     <email>info@lacambusa.it</email>
     <camere>4</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3721,7 +3721,7 @@
     <descrizione>Il B&amp;B Centro Storico Hotel è la base ideale per i Vostri soggiorni a Palermo, che siate venuti per goderne delle bellezze artistiche e storiche offerte al turista o che Vi troviate a soggiornare per motivi di lavoro o studio. Tutti i principali luoghi della città sono raggiungibili in pochi minuti a piedi o con i mezzi pubblici. Il B&amp;B si trova nel quartiere della Kalsa, al centro di un progetto di profondo rinnovamento, che ha riportato al centro storico attività commerciali, uffici, ristoranti e residenze di pregio. Offriamo ai nostri Ospiti un'accoglienza di elevato livello, comfort alberghiero, il calore e la cortesia di una famiglia abituata al contatto con i viaggiatori di tutto il mondo. Non riceviamo clienti, ma ospiti, che spesso ripartono dopo essere diventati nostri amici!</descrizione>
     <direttore>Donatella Petronio</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>2</stelle>
   </luogo>
   <luogo>
@@ -3737,7 +3737,7 @@
     <web>http://www.casariccio.com</web>
     <descrizione>"Casa Riccio" si trova al centro della città a due passi dalla Via Libertà, il salotto commerciale di Palermo. Vicinissima ai Teatri Massimo e Politeama è ben servita dai mezzi pubblici. Offre un soggiorno confortevole ed economico per scoprire Palermo e la Sicilia. A pochi passi da Casa Riccio si trovano la fermata della Metropolitana Stazione Notabartolo e la fermata del Bus Shuttle Prestia e Comandè proveniente dall'aeroporto (fermate Piazza Mordini detta piazza Croci, e Piazza Castelnuovo Politeama). Casa Riccio si trova in un edificio fra i piu' alti della città e dalla sua terrazza si gode la vista più bella di Palermo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3754,7 +3754,7 @@
     <camere>3</camere>
     <direttore>Giosuè Corrao</direttore>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3769,7 +3769,7 @@
     <web>http://www.bb22.it</web>
     <descrizione>BB22 un luogo unico e irripetibile: nel cuore del centro storico di Palermo, all'interno della foresteria di Palazzo Pantelleria, vi ritroverete in un'atmosfera molto particolare... un luogo di grande fascino, dove l'amore per il dettaglio e la passione per l'interior design si fondono in una calda accoglienza. BB22, un luogo speciale per visitare Palermo. Le camere, raffinate ed eleganti, offrono confort e stile. Sarete accolti da un'ospitalità tutta italiana nel cuore del centro storico di Palermo.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>affittacamere</tipi-specifici>
+    <tipi-specifici>Affittacamere</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3783,7 +3783,7 @@
     <web>http://www.casamarconi.it</web>
     <descrizione>A poche centinaia di metri dalla Cattedrale, dal Palazzo Reale e da altri importanti siti storici, Casa Marconi è ideale per una vacanza comoda e libera. La prossimità della città universitaria e dei poli medici, della stazione metro Orleans collegata all'aeroporto Falcone e Borsellino, e delle fermate dei mezzi pubblici, consentono di muoversi con facilità e comodità. Per la tua prossima vacanza a Palermo scegli Casa Marconi che ti accoglierà con un soggiorno confortevole ed economico.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>ostello</tipi-specifici>
+    <tipi-specifici>Ostello</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3797,7 +3797,7 @@
     <web>http://www.ostellopalermo.it</web>
     <camere>23</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>ostello</tipi-specifici>
+    <tipi-specifici>Ostello</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3809,7 +3809,7 @@
     <telefono>0916516678 - 0916512700</telefono>
     <camere>7</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa ferie</tipi-specifici>
+    <tipi-specifici>Casa ferie</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3824,7 +3824,7 @@
     <web>http://www.ofmsicilia.it</web>
     <camere>43</camere>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa ferie</tipi-specifici>
+    <tipi-specifici>Casa ferie</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3836,7 +3836,7 @@
     <telefono>091590227</telefono>
     <email>istitutoi@alice.it</email>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>casa ferie</tipi-specifici>
+    <tipi-specifici>Casa ferie</tipi-specifici>
     <stelle>1</stelle>
   </luogo>
   <luogo>
@@ -3849,7 +3849,7 @@
     <email>info@hotelorleans.it</email>
     <descrizione>1 monov.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3863,7 +3863,7 @@
     <web>http://www.torreata.it</web>
     <descrizione>30 biv. 6 monov.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3877,7 +3877,7 @@
     <web>http://www.residenzadaragona.it</web>
     <descrizione>16 biv. 4 monov.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -3892,7 +3892,7 @@
     <web>http://www.nuvoleresidenza.it</web>
     <descrizione>All'interno del perimetro murario che i Fenici edificarono nel IV secolo a.C. per delimitare il primo nucleo della città, a pochi passi dai Quattro Canti, in via del Celso 14, c'è un piccolo palazzo con una bifora del '300 incastonata nel prospetto. Sui resti delle mura poderose del monastero del Gran Cancelliere distrutto nei bombardamenti dell'ultima guerra, crescono spontanei il sommacco, l'acacia e l'agave e, un tempo, anche un grande gelso ombreggiava la via. Nuvole Residenza si trova qui, alle spalle della Chiesa di Santa Ninfa dei Crociferi, in un magico angolo di quiete. Due grandi appartamenti, che formano un sistema di descrizione e suites, sono arredati con ironia, accostando sapientemente mobili di varia provenienza: mobili d'epoca, di design e mobili realizzati da artigiani di Palermo, su progettazione e ideazione di Gaetano Cipolla. Le camere e gli spazi comuni ospitano a rotazione parte della collezione d'arte moderna e contemporanea dell'Associazione Nuvole Galleria.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3906,7 +3906,7 @@
     <web>http://www.lamarsa.it</web>
     <descrizione>10 biv. 1 triv. 10 bung.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -3920,7 +3920,7 @@
     <web>http://www.ambasciatorihotelpalermo.com</web>
     <descrizione>1 app.to</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3934,7 +3934,7 @@
     <email>booking@palazzobrunaccini.it</email>
     <descrizione>15 monov. 2 biv.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>4</stelle>
   </luogo>
   <luogo>
@@ -3948,7 +3948,7 @@
     <web>http://www.marbelaresidence.com</web>
     <descrizione>Posto in una zona residenziale nella parte nord di Palermo, il Marbela residence dista 10 minuti in auto dal centro città e offre circa 50 unità abitative tra appartamenti arredati e corredati e descrizione moderne ed eleganti provviste di TV a schermo piatto e di angolo cottura. Gli appartamenti e le camere sono climatizzate, dotate di cucina attrezzata e di un'area soggiorno e pranzo, con grandi terrazze panoramiche sul Monte Pellegrino e il porto di Palermo, tutte con bagno in camera con vasca e doccia. In ognuna troverete anche una TV satellitare, phon, forno,cassaforte e biancheria completa da letto, bagno e cucina. Il personale è disponibile 24 ore su 24 e sarà lieto di fornirvi il servizio di noleggio auto e biciclette. Il Marbela giace proprio davanti al parco Favorita e a 15 minuti a piedi dal porto di Palermo, da dove partono i traghetti per Genova, Civitavecchia e Salerno.</descrizione>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
   <luogo>
@@ -3966,7 +3966,7 @@
     <camere>50</camere>
     <residences>30</residences>
     <tipi>accoglienza</tipi>
-    <tipi-specifici>residence</tipi-specifici>
+    <tipi-specifici>Residence</tipi-specifici>
     <stelle>3</stelle>
   </luogo>
 </luoghi>

@@ -326,7 +326,7 @@ $.extend(MapsLib, {
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
         .infobox-map { width:auto; height:auto;} \
         .infobox-header { display:inline; padding-right: 10px; } \
-        .infobox-subheader { padding-top: 5px; } \
+        .infobox-subheader { padding-top: 3px; } \
         .moreinfo { margin-left:7px; min-width:18px; position:absolute; \
                 top:45%; bottom:45%; min-height:18px; } \
         .score { float:left; font-size:medium; padding:5px; border:1px solid black; margin:2px 7px 5px 0px; } \
@@ -335,7 +335,7 @@ $.extend(MapsLib, {
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
         .internet, .address, .phone, .details { margin-top: 1px; } \
-        .tipo { margin-top: 3px; } \
+        .tipo { margin-top: 2px; } \
     ",
 
     // customInfoboxHtml can be defined as a string or a function:
@@ -361,16 +361,18 @@ $.extend(MapsLib, {
     
     // start k0z
     customInfoboxHtml: function(row, isListView) {
+      
       var html = "";
       // start outer div
-      if (isListView) { // specify if list or map
+      if (isListView == true || isListView == "true") { // specify if list or map
+	console.log("isListView: "+isListView);
 	html += "<div>";
       } else {
 	html += "<div class='infobox-map'>";
       }
       
       var nome = row.nome;
-      html += "<h3 class='infobox-header'>"+nome+"</h3>"; // nome
+      html += "<div class='infobox-header'><b>"+nome+"</b></div>"; // nome
       
       html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
       

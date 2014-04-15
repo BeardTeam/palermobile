@@ -3,13 +3,8 @@
       {
          "address_components" : [
             {
-               "long_name" : "62",
-               "short_name" : "62",
-               "types" : [ "street_number" ]
-            },
-            {
-               "long_name" : "Via Cala",
-               "short_name" : "Via Cala",
+               "long_name" : "Piazza Orlando Vittorio Emanuele",
+               "short_name" : "Piazza Orlando Vittorio Emanuele",
                "types" : [ "route" ]
             },
             {
@@ -23,8 +18,8 @@
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
-               "long_name" : "PA",
-               "short_name" : "PA",
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
                "types" : [ "administrative_area_level_1", "political" ]
             },
             {
@@ -33,30 +28,41 @@
                "types" : [ "country", "political" ]
             },
             {
-               "long_name" : "90133",
-               "short_name" : "90133",
+               "long_name" : "90138",
+               "short_name" : "90138",
                "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "Via Cala, 62, 90133 Palermo, Italy",
+         "formatted_address" : "Piazza Orlando Vittorio Emanuele, 90138 Palermo, Italy",
          "geometry" : {
-            "location" : {
-               "lat" : 38.1186118,
-               "lng" : 13.3681218
-            },
-            "location_type" : "ROOFTOP",
-            "viewport" : {
+            "bounds" : {
                "northeast" : {
-                  "lat" : 38.11996078029149,
-                  "lng" : 13.3694707802915
+                  "lat" : 38.1195719,
+                  "lng" : 13.3523632
                },
                "southwest" : {
-                  "lat" : 38.11726281970849,
-                  "lng" : 13.3667728197085
+                  "lat" : 38.1193041,
+                  "lng" : 13.3506925
+               }
+            },
+            "location" : {
+               "lat" : 38.1195719,
+               "lng" : 13.3506925
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1207869802915,
+                  "lng" : 13.3528768302915
+               },
+               "southwest" : {
+                  "lat" : 38.1180890197085,
+                  "lng" : 13.3501788697085
                }
             }
          },
-         "types" : [ "street_address" ]
+         "partial_match" : true,
+         "types" : [ "route" ]
       }
    ],
    "status" : "OK"

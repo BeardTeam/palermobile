@@ -1,6 +1,7 @@
 #!/bin/bash
 
-DIRS="agenzie consolato turismo01 turismo02"
+DIRS="agenzie consolato turismo01 turismo02 turismo03"
+#DIRS="turismo03"
 for i in $DIRS; do
    xml="$(echo ${i} | tr a-z A-Z).xml"
    xslt="${i}-transform_stylesheet.xslt"

@@ -1,0 +1,133 @@
+1|Via Valverde	1	90133		Palermo|"Via Valverde, 1, 90133 Palermo, Italy"|38.120223000000003,13.3618478
+2|Via Francesco Raimondo	3	90134		Palermo|"Via Francesco Raimondo, 3, 90134 Palermo, Italy"|38.118020899999998,13.3573658
+3|Piazza Santa Chiara	11	90134		Palermo|"Piazza Santa Chiara, 11, 90134 Palermo, Italy"|38.112944900000002,13.3597036
+4|Piazza San Francesco d'Assisi		90133		Palermo|"Piazza San Francesco D'Assisi, 90133 Palermo, Italy"|38.116487599999999,13.366416600000001
+5|Via Torremuzza	1	90133		Palermo|"Via Torremuzza, 1, 90133 Palermo, Italy"|38.1172428,13.3720626
+6|Largo Cavalieri di Malta		90133		Palermo|"Largo Cavalieri di Malta, 90133 Palermo, Italy"|38.1202836,13.364128900000001
+7|Corso Vittorio Emanuele		90134		Palermo|"Corso Vittorio Emanuele, Palermo, Italy"|38.114898799999999,13.359110899999999
+8|Via delle Cappuccinelle	109	90138		Palermo|"Via Cappuccinelle, 109, 90138 Palermo, Italy"|38.116008299999997,13.351992900000001
+9|Via Porta Carini	38	90134		Palermo|"Via Porta Carini, 38, 90134 Palermo, Italy"|38.118485700000001,13.3541904
+10|Piazzetta Chiesa Cocchieri	1	90133		Palermo|"90133, Italy"|38.118412499999998,13.3630608
+11|Via dei Pellegrini	2	90134		Palermo|"Via Monte Pellegrino, 2, 90142 Palermo, Italy"|38.135980600000003,13.358571400000001
+38.1072688,13.3616572
+12|Via Patania		90133		Palermo|"Via Giuseppe Patania, 90133 Palermo, Italy"|38.119707900000002,13.3601774
+13|Piazza San Giorgio dei Genovesi		90133		Palermo|"Piazza San Giorgio dei Genovesi, 90133 Palermo, Italy"|38.122610199999997,13.3640594
+14|Via Vittorio Emanuele	247	90133		Palermo|"Via Vittorio Emanuele, 247, 90133 Palermo, Italy"|38.116337700000003,13.362989900000001
+15|Piazza dei SS. Quaranta Martiri		90134		Palermo|"90134 Palermo, Italy"|38.1116229,13.354396899999999
+16|Via Vittorio Emanuele	395	90134		Palermo|"Via Vittorio Emanuele, 395, 90134 Palermo, Italy"|38.114894,13.359100099999999
+17|Via San Sebastiano		90133		Palermo|"Via San Sebastiano, 90133 Palermo, Italy"|38.119954700000001,13.3661099
+18|Via del Noviziato	1	90134		Palermo|"Via del Noviziato, 1, 90134 Palermo, Italy"|38.116631400000003,13.3531771
+19|Piazza Duomo		90046		Monreale|"Piazza Duomo, 90047 Partinico Palermo, Italy"|38.0464311,13.118813299999999
+20|Piazza Casa Professa	21	90134		Palermo|"Via Casa Professa, 21, 90134 Palermo, Italy"|38.112584699999999,13.3605768
+21|Piazzetta delle Dogane		90133		Palermo|"Piazzetta delle Dogane, 90133 Palermo, Italy"|38.119067100000002,13.3692133
+22|Via Alloro	27	90133		Palermo|"Via Alloro, 27, 90133 Palermo, Italy"|38.116869199999996,13.3712693
+23|Via Roma 203/A		90133		Palermo|"Via Roma, 203, 90133 Palermo, Italy"|38.117165700000001,13.363338600000001
+24|Piazza Bellini		90133		Palermo|"Piazza Bellini, 90133 Palermo, Italy"|38.115265099999988,13.362862399999999
+25|Piazza S. Domenico		90133		Palermo|"Piazza San Domenico, 90133 Palermo, Italy"|38.118750400000003,13.363118800000001
+26|Via Argenteria Nuova	33	90133		Palermo|"90133, Italy"|38.118412499999998,13.3630608
+27|Piazza San Francesco Saverio		90134		Palermo|"Piazza San Francesco Saverio, 90134 Palermo, Italy"|38.109031299999998,13.3590138
+28|Via Salvatore Cappello	38	90123		Palermo|"Via Salvatore Cappello, 90123 Palermo, Italy"|38.105014300000001,13.3813949
+29|Via dei Benedettini	16	90134		Palermo|"Via dei Benedettini, 16, 90134 Palermo, Italy"|38.109867700000002,13.354460100000001
+30|Corso Vittorio Emanuele		90134		Palermo|"Corso Vittorio Emanuele, Palermo, Italy"|38.114898799999999,13.359110899999999
+31|Via Porta di Carini		90134		Palermo|"Via Porta Carini, 90134 Palermo, Italy"|38.118646499999997,13.3540543
+32|Piazza Olivella	1	90133		Palermo|"Piazza Olivella, 1, 90133 Palermo, Italy"|38.120683100000001,13.361369
+33|Piazza S. Giacomo La Marina	13	90133		Palermo|"90133, Italy"|38.118412499999998,13.3630608
+34|Piazza Marina		90133		Palermo|"Piazza Marina, 90133 Palermo, Italy"|38.117665000000002,13.367846399999999
+35|Via Torremuzza		90133		Palermo|"Via Torremuzza, 90133 Palermo, Italy"|38.116564599999997,13.3725477
+36|Via Maqueda	159	90133		Palermo|"Via Maqueda, 159, 90133 Palermo, Italy"|38.1135965,13.362818499999999
+37|Via Maqueda	220	90134		Palermo|"Via Maqueda, 90134 Palermo, Italy"|38.114445500000002,13.3621879
+38|Via Bentivegna	 62/b	90139		Palermo|"Via Francesco Bentivegna, 62, 90139 Palermo, Italy"|38.122976800000004,13.360094999999999
+39|Piazza Indipendenza		90129		Palermo|"Piazza Indipendenza, 90129 Palermo, Italy"|38.1100937,13.3521357
+40|Piazza del Carmine		90134		Palermo|"Piazza del Carmine, 90134 Palermo, Italy"|38.111274000000002,13.3620289
+41|Piazza Indipendenza	9	90129		Palermo|"Piazza Indipendenza, 9, Palermo, Italy"|38.1098158,13.350698400000001
+42|Via Dei Benedettini		90134		Palermo|"Via dei Benedettini, Palermo, Italy"|38.109226999999997,13.355173300000001
+43|Via Valverde	1	90133		Palermo|"Via Valverde, 1, 90133 Palermo, Italy"|38.120223000000003,13.3618478
+44|Via Nunzio Nasi	18	90134		Palermo|"Via Nasi Nunzio, 18, 90134 Palermo, Italy"|38.111757799999999,13.359719200000001
+45|Via Santo Spirito		90139		Palermo|"Via Santo Spirito, 90010 Pollina Palermo, Italy"|37.992495599999998,14.1456084
+37.931401299999997,13.6614051
+38.119318100000001,13.3710342
+37.812710799999998,13.9956566
+37.8276173,13.5712774
+37.793320000000001,14.208102
+37.792793499999988,14.2056845
+46|Corso Vittorio Emanuele		90133		Palermo|"Corso Vittorio Emanuele, 90133 Palermo, Italy"|38.117219499999997,13.365283
+47|Via Porta Carini	37	90134		Palermo|"Via Porta Carini, 37, 90134 Palermo, Italy"|38.117657700000002,13.3516578
+48|Piazza Marina		90133		Palermo|"Piazza Marina, 90133 Palermo, Italy"|38.117665000000002,13.367846399999999
+49|Piazza Kalsa		90133		Palermo|"Piazza della Kalsa, 90133 Palermo, Italy"|38.116032400000002,13.373049999999999
+50|Piazza Bellini	3	90133		Palermo|"Piazza Bellini, 3, 90133 Palermo, Italy"|38.115005199999999,13.362621000000001
+51|Piazza Magione	44	90133		Palermo|"Via Magione, 44, 90133 Palermo, Italy"|38.113551600000001,13.3694001
+52|Piazza Giuseppe Verdi		90138		Palermo|"Piazza Verdi Giuseppe, 90138 Palermo, Italy"|38.121005599999997,13.3575979
+53|Piazza Ruggero Settimo	15	90139		Palermo|"Piazza Ruggero Settimo, 15, 90139 Palermo, Italy"|38.125312399999999,13.3560771
+54|Piazzetta dei Bianchi		90133		Palermo|"Piazzetta dei Bianchi, 90133 Palermo, Italy"|38.115919599999998,13.3713394
+55|Via Monteleone	50	90133		Palermo|"Via Monteleone, 50, 90133 Palermo, Italy"|38.120254899999999,13.3605392
+56|Via Roma 320 / A		90133		Palermo|"Via Roma, 320, 90133 Palermo, Italy"|38.119333400000002,13.362234300000001
+57|Via dell'Immacolatella	5	90133		Palermo|"90133, Italy"|38.118412499999998,13.3630608
+58|Via dei Bambinai	2	90133		Palermo|"Via Bambinai, 2, 90133 Palermo, Italy"|38.119280400000001,13.364108399999999
+59|Piazza Monte di Pietà		90134		Palermo|"Piazza del Monte di Pietà, 90134 Palermo, Italy"|38.116891299999999,13.3569054
+60|Via Porta Sant' Agata	5	90134		Palermo|"Via Porta Sant'Agata, 5, 90134 Palermo, Italy"|38.1109516,13.361147799999999
+61|Via Valverde	3	90133		Palermo|"Via Valverde, 3, 90133 Palermo, Italy"|38.120284599999998,13.362125900000001
+62|Via Messina Marine	32	90123		Palermo|"Via Messina Marine, 32, 90123 Palermo, Italy"|38.108643700000002,13.380711
+63|Corso Calatafimi	217	90129		Palermo|"Corso Calatafimi, 217, 90129 Palermo, Italy"|38.109623599999999,13.3463706
+64|Piazza dei Quartieri	2	90146		Palermo|"Via dei Quartieri, 2, 90146 Palermo, Italy"|38.161391600000002,13.325332599999999
+65|Via Paolo Gili	4	90138		Palermo|"Via Paolo Gili, 4, 90138 Palermo, Italy"|38.118202900000007,13.340582599999999
+66|Via Sant'Anna	21	90133		Palermo|"Via Sant'Anna, 21, 90133 Palermo, Italy"|38.115201800000001,13.3647759
+67|Via Alloro	4	90133		Palermo|"Via Alloro, 4, 90133 Palermo, Italy"|38.116872699999988,13.371328399999999
+68|Via Vittorio Emanuele	365	90133		Palermo|"Via Vittorio Emanuele, 365, 90134 Palermo, Italy"|38.115177500000001,13.360079199999999
+69|Piazza Guglielmo il Buono		90138		Palermo|"Via Guglielmo Il Buono, 90138 Palermo, Italy"|38.117167100000003,13.3440297
+70|Via Arcivescovado	2	90046		Palermo|"Via Arcivescovado, 2, 90046 Monreale Palermo, Italy"|38.082766100000001,13.292476300000001
+71|Via Duca degli Abruzzi	1	90146		Palermo|"Viale Duca degli Abruzzi, 90146 Palermo, Italy"|38.171505400000001,13.327406399999999
+72|Via Rammacca	9	90011		Bagheria|"Via Rammacca, 9, 90011 Bagheria Palermo, Italy"|38.089217699999999,13.5029711
+73|Via Matteo Bonello	2	90134		Palermo|"Via Matteo Bonello, 2, 90134 Palermo, Italy"|38.113742199999997,13.355606399999999
+74|Via Paolo Gili	4	90138		Palermo|"Via Paolo Gili, 4, 90138 Palermo, Italy"|38.118202900000007,13.340582599999999
+75|Via Vittorio Emanuele	429	90134		Palermo|"Via Vittorio Emanuele, 429, 90134 Palermo, Italy"|38.114311099999988,13.357999599999999
+76|Via Sant'Anna	21	90133		Palermo|"Via Sant'Anna, 21, 90133 Palermo, Italy"|38.115201800000001,13.3647759
+77|Piazza Indipendenza	1	90129		Palermo|"Piazza Indipendenza, 1, Palermo, Italy"|38.1098158,13.350698400000001
+78|Via Filippo Patti		90133		Palermo|"Via Filippo Patti, 90133 Palermo, Italy"|38.123229799999997,13.3672562
+79|Parco della Favorita		90151		Palermo|"Favorita Park, Viale Diana, 90142 Palermo, Italy"|38.159579999999998,13.34313
+80|Via Gualtiero da Caltagirone		90149		Palermo|"Via Gualtiero da Caltagirone, 90149 Palermo, Italy"|38.188049499999998,13.3475628
+81|Corso Calatafimi	100	90129		Palermo|"Corso Calatafimi, 100, 90129 Palermo, Italy"|38.108138599999997,13.3425586
+82|Fondo Picciullo		90100		Palermo|"Palermo, Italy"|38.115687899999998,13.361267099999999
+83|Piazza Vittoria		90134		Palermo|"Piazza Vittoria, 90134 Palermo, Italy"|38.111714800000001,13.3553418
+84|Via Nunzio Nasi	18	90134		Palermo|"Via Nasi Nunzio, 18, 90134 Palermo, Italy"|38.111757799999999,13.359719200000001
+85|Piazza Duomo		90046		Monreale|"Piazza Duomo, 90047 Partinico Palermo, Italy"|38.0464311,13.118813299999999
+86|Piazza Guglielmo il Buono		90135		Palermo|"Via Guglielmo Il Buono, 90135 Palermo, Italy"|38.116840099999997,13.3445182
+87|Corso Calatafimi	100	90129		Palermo|"Corso Calatafimi, 100, 90129 Palermo, Italy"|38.108138599999997,13.3425586
+88|Via di Villa Napoli		90129		Palermo|"Via Villa di Napoli, 90129 Palermo, Italy"|38.1055353,13.334374499999999
+89|Vicolo Castellaccio		90124		Palermo|"Vicolo Castellaccio, 90124 Palermo, Italy"|38.092608499999997,13.386950799999999
+90|Via Matteo Bonello		90134		Palermo|"Via Matteo Bonello, 90134 Palermo, Italy"|38.114914300000002,13.354739500000001
+91|Via Matteo Bonello	2	90134		Palermo|"Via Matteo Bonello, 2, 90134 Palermo, Italy"|38.113742199999997,13.355606399999999
+92|Piazza Bologni	18	90134		Palermo|"Piazza Bologni, 18, 90134 Palermo, Italy"|38.114546099999998,13.3602612
+93|Via Bara All'Olivella	2	90133		Palermo|"Via Bara All'Olivella, 2, 90133 Palermo, Italy"|38.121394600000002,13.3622687
+94|Via Garibaldi	44	90133		Palermo|"Via Giuseppe Garibaldi, 44, 90133 Palermo, Italy"|38.112750699999999,13.3673599
+38.114337499999998,13.368476599999999
+95|Via Maqueda	100	90134		Palermo|"Via Maqueda, 100, 90134 Palermo, Italy"|38.112591899999998,13.363533800000001
+96|Piazza Indipendenza		90129		Palermo|"Piazza Indipendenza, 90129 Palermo, Italy"|38.1100937,13.3521357
+97|Via Dante	53	90141		Palermo|"Via Dante Alighieri, 53, 90141 Palermo, Italy"|38.124072499999997,13.351702899999999
+98|Piazza Pretoria	1	90133		Palermo|"Piazza Pretoria, 90133 Palermo, Italy"|38.115712899999998,13.3621249
+99|Via G. Garibaldi	23	90133		Palermo|"Via Giuseppe Garibaldi, 23, 90133 Palermo, Italy"|38.113107100000001,13.3672054
+38.113903000000001,13.369001900000001
+100|Via Vittorio Emanuele	365	90134		Palermo|"Via Vittorio Emanuele, 365, 90134 Palermo, Italy"|38.115177500000001,13.360079199999999
+101|Piazza Marina	46	90133		Palermo|"Piazza Marina, 46, 90133 Palermo, Italy"|38.116952900000001,13.368792600000001
+102|Via Lincoln	71	90133		Palermo|"Via Abramo Lincoln, Palermo, Italy"|38.113992499999988,13.373288799999999
+103|Via Merlo	2	90133		Palermo|"Via Merlo, 2, 90133 Palermo, Italy"|38.116591300000003,13.368641
+104|Via del IV Aprile	2	90133		Palermo|"Via IV Aprile, 90133 Palermo, Italy"|38.117009299999999,13.3700429
+105|Via Maqueda	83	90133		Palermo|"Via Maqueda, 83, 90133 Palermo, Italy"|38.112282999999998,13.3636649
+106|Via delle Pergole	74	90134		Palermo|"Via delle Pergole, 74, 90134 Palermo, Italy"|38.110400400000003,13.3622947
+107|Piazza Niscemi		90146		Palermo|"Piazza Niscemi, 90146 Palermo, Italy"|38.1624725,13.331958
+108|Viale Regina Margherita	38	90138		Palermo|"Viale Regina Margherita, 38, 90138 Palermo, Italy"|38.1193022,13.3433514
+109|Via Antonio Salinas	3	90141		Palermo|"Via Antonio Salinas, 3, 90141 Palermo, Italy"|38.128247500000001,13.3463207
+110|Via Dante	167	90141		Palermo|"Via Dante Alighieri, 90141 Palermo, Italy"|38.123831600000003,13.351494600000001
+111|Via Francesco Speciale		90129		Palermo|"Via Francesco Speciale, 90129 Palermo, Italy"|38.105667099999998,13.3344503
+112|Via Libertà	52	90143		Palermo|"Via Liberta', 52, 90143 Palermo, Italy"|38.135282699999998,13.3485344
+113|Via Dante Alighieri	167	90141		Palermo|"Via Dante Alighieri, 90141 Palermo, Italy"|38.123831600000003,13.351494600000001
+114|Viale Lazio		90144		Palermo|"Viale Lazio, 90144 Palermo, Italy"|38.1413765,13.336013700000001
+115|Viale della Libertà	63	90143		Palermo|"Via della Libertà, 63, 90143 Palermo, Italy"|38.132706499999998,13.350517
+38.131518499999999,13.3511579
+116|Piazza Marina		90133		Palermo|"Piazza Marina, 90133 Palermo, Italy"|38.117665000000002,13.367846399999999
+117|Corso Re Ruggero		90134		Palermo|"Corso Re Ruggero, 90134 Palermo, Italy"|38.108846100000001,13.3541071
+118|Via Antonio Salinas	3	90141		Palermo|"Via Antonio Salinas, 3, 90141 Palermo, Italy"|38.128247500000001,13.3463207
+119|Via Francesco Speciale		90129		Palermo|"Via Francesco Speciale, 90129 Palermo, Italy"|38.105667099999998,13.3344503
+120|Via delle Scienze		90128		Palermo|"Viale delle Scienze, 90128 Palermo, Italy"|38.103259100000002,13.3481442
+121|Via dei Quartieri	2	90146		Palermo|"Via dei Quartieri, 2, 90146 Palermo, Italy"|38.161391600000002,13.325332599999999
+122|Via Lincoln		90133		Palermo|"Via Abramo Lincoln, Palermo, Italy"|38.113992499999988,13.373288799999999
+123|Piazza Vittorio Emanuele Orlando	49	90138		Palermo|"Piazza Orlando Vittorio Emanuele, 90138 Palermo, Italy"|38.119571899999997,13.350692499999999

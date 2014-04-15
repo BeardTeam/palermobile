@@ -6,8 +6,8 @@
     <indirizzo>Via Valverde, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><giorni>lmmgvs</giorni><apertura>9.00</apertura>
-    <chiusura>16.00</chiusura><note>da aprile ad ottobre: dal lunedi al venerdi: chiusura: 18.00; sabato: chiusura: 15.00</note>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note>Orario invernale (novembre - marzo): lunedì - sabato 9.00 - 16.00 Orario estivo (aprile - ottobre):lunedì - venerdì 9.00 - 18.00 e sabato 9.00 - 15.00</note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -19,7 +19,7 @@ arte realizzate da illustri artisti, come: Antonio Grano, Antonello Gagini, Fili
     <fax></fax>
     <email></email>
     <web>http://www.santacita.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -36,8 +36,8 @@ arte realizzate da illustri artisti, come: Antonio Grano, Antonello Gagini, Fili
     <indirizzo>Via Francesco Raimondo, 3</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><giorni>lmmgvs</giorni><apertura>feriali 7.00 - 12.00 e 16.00 - 18.00 domenica e festivi 7.00 - 12.00</apertura>
-    <chiusura></chiusura><note></note>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note>feriali 7.00 - 12.00 e 16.00 - 18.00 domenica e festivi 7.00 - 12.00</note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -48,7 +48,7 @@ arte realizzate da illustri artisti, come: Antonio Grano, Antonello Gagini, Fili
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -65,8 +65,8 @@ arte realizzate da illustri artisti, come: Antonio Grano, Antonello Gagini, Fili
     <indirizzo>Piazza Santa Chiara, 11</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><giorni></giorni><apertura>sabato 17.00 - 18.30 e domenica 9.00 - 10.30</apertura>
-    <chiusura></chiusura><note></note>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note>sabato 17.00 - 18.30 e domenica 9.00 - 10.30</note>
     <prezzi></prezzi>
     <servizi>E' operativo il Centro Salesiano all'interno della chiesa con centro d'accoglienza dalle 06.30 alle 23.00.</servizi>
     <visite>La chiesa è visitabile durante i giorni feriali solo su richiesta.</visite></orari>
@@ -78,7 +78,7 @@ realizzata da Gaspare Serenario con la "Crocifissione". L'arco trionfale conserv
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -95,8 +95,8 @@ realizzata da Gaspare Serenario con la "Crocifissione". L'arco trionfale conserv
     <indirizzo>Piazza San Francesco d'Assisi</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><giorni></giorni><apertura>tutti i giorni: 07.00 - 11.30 e 16.00 - 18.00 domenica 7.00 - 13.00 e 16.30 - 18.00</apertura>
-    <chiusura></chiusura><note></note>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note>tutti i giorni: 07.00 - 11.30 e 16.00 - 18.00 domenica 7.00 - 13.00 e 16.30 - 18.00</note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -108,7 +108,7 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -125,8 +125,8 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <indirizzo>Via Torremuzza, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><giorni></giorni><apertura>lunedì - sabato 9.00 - 12.00 e 16.00 - 19.00 domenica e festivi 8.00 - 12.00</apertura>
-    <chiusura></chiusura><note></note>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note>lunedì - sabato 9.00 - 12.00 e 16.00 - 19.00 domenica e festivi 8.00 - 12.00</note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -138,7 +138,7 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -168,7 +168,7 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <fax></fax>
     <email></email>
     <web>http://www.santacita.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -198,7 +198,7 @@ realizzata da Domenico Gagini del '500 con conca a conchiglia e rilievi rapprese
     <fax>091334375</fax>
     <email>cattedrale@diocesipa.it - segreteriacattedrale@diocesipa.it</email>
     <web>http://www.cattedrale.palermo.it/</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -227,7 +227,7 @@ realizzata da Domenico Gagini del '500 con conca a conchiglia e rilievi rapprese
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -257,7 +257,7 @@ suo insieme è talmente sfarzosa da lasciare "a bocca aperta" tutti i visitatori
     <fax></fax>
     <email></email>
     <web>www.santippolito.arcidiocesi.palermo.it/concezione</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -286,7 +286,7 @@ suo insieme è talmente sfarzosa da lasciare "a bocca aperta" tutti i visitatori
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -316,7 +316,7 @@ successivamente a luogo di culto. Il suo interno è a pianta greca su base quadr
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Culturale Itinerari del Mediterraneo</nome>
     <indirizzo>Via Giacomo Cusmano, 28</indirizzo>
     <cap>90141</cap>
@@ -346,7 +346,7 @@ marmi mischi separa la tribuna, dove è l'altare del 1770. le due statue, S. Gre
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -376,7 +376,7 @@ marmi mischi separa la tribuna, dove è l'altare del 1770. le due statue, S. Gre
     <fax></fax>
     <email></email>
     <web>http://www.santacita.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -406,7 +406,7 @@ dal Purgatorio" e, nella cupola "Trionfo della Vergine", che ne fanno un tempio 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -435,7 +435,7 @@ dal Purgatorio" e, nella cupola "Trionfo della Vergine", che ne fanno un tempio 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -465,7 +465,7 @@ parte degli stucchi delle paraste, quelli che contornavano gli altari e le quatt
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -495,7 +495,7 @@ architettura dipinta; di notevole interesse sono, inoltre, le decorazioni a stuc
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -525,7 +525,7 @@ del Lume in quanto è presente il simulacro della Vergine, realizzato prendendo 
     <fax></fax>
     <email></email>
     <web>http://www.sanstanislao.diocesipa.it/</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -555,7 +555,7 @@ L'interno è vasto, a croce latina, con tutte le pareti interamente coperte da u
     <fax></fax>
     <email></email>
     <web>http://www.webdiocesi.chiesacattolica.it/sicilia/monreale</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Monreale</nome>
     <indirizzo>Via Palermo, 8</indirizzo>
     <cap>90046</cap>
@@ -585,7 +585,7 @@ continuità tutta la superficie, ne fanno un insieme di incredibile espressivit�
     <fax></fax>
     <email></email>
     <web>http://www.itinerars.it/ - http://www.casaprofessa.blogspot.com</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Turistico Culturale Itiner'ars</nome>
     <indirizzo>Via Giacinto Carini, 10</indirizzo>
     <cap>90146</cap>
@@ -614,7 +614,7 @@ continuità tutta la superficie, ne fanno un insieme di incredibile espressivit�
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Amici dei Musei Siciliani</nome>
     <indirizzo>Via Mariano Stabile, 160</indirizzo>
     <cap>90139</cap>
@@ -644,7 +644,7 @@ affreschi. Il convento, al quale si accede dal portale sul fianco destro della c
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Turistico Culturale Itiner'ars</nome>
     <indirizzo>Via Giacinto Carini, 10</indirizzo>
     <cap>90146</cap>
@@ -674,7 +674,7 @@ primi decenni del XVII secolo. Una transenna in marmi mischi chiude la tribuna. 
     <fax></fax>
     <email></email>
     <web>http://www.santoantonioabate.diocesipa.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -704,7 +704,7 @@ cupola, eseguiti nel 1751, con il "Trionfo dei Santi Domenicani", sono opera di 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Turistico Culturale Itiner'ars</nome>
     <indirizzo>Via Giacinto Carini, 10</indirizzo>
     <cap>90146</cap>
@@ -734,7 +734,7 @@ piedistalli d'angolo vi sono quattro angeli in marmo, opera di alcuni tra i migl
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Turistico Culturale Itiner'ars</nome>
     <indirizzo>Via Giacinto Carini, 10</indirizzo>
     <cap>90146</cap>
@@ -764,7 +764,7 @@ costruita; una trabeazione continua corre sotto le volte, unificando lo spazio, 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -794,7 +794,7 @@ chiesa accoglie alcune notevoli opere d'arte: la prima cappella a sinistra è qu
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -824,7 +824,7 @@ dipinto della metà del XV secolo.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -854,7 +854,7 @@ dà l'abito a S. Benedetto", eseguito da Giuseppe Tresca, come i due tondi ad ol
     <fax></fax>
     <email></email>
     <web>www.sangiuseppecafasso.arcidiocesi.palermo.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -884,7 +884,7 @@ fine del '700 da Ignazio Marabitti e Filippo Siragusa. La volta della navata cen
     <fax></fax>
     <email></email>
     <web>http://www.sangiuseppeteatini.arcidiocesi.palermo.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -914,7 +914,7 @@ fine del '700 da Ignazio Marabitti e Filippo Siragusa. La volta della navata cen
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -944,7 +944,7 @@ introduce al cappellone rettangolare. La decorazione, eseguita durante il XVIII 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -974,7 +974,7 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1003,7 +1003,7 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1032,7 +1032,7 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -1062,7 +1062,7 @@ coglie la vastità degli spazi. Di notevole interesse sono le due tele di Pietro
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1093,7 +1093,7 @@ a canonica.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1122,7 +1122,7 @@ a canonica.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web>http://www.museoduocesanopa.it/chiese/ss-pietro-e-paolo</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1152,7 +1152,7 @@ Cappella ha tre navate separate da dieci colonne, cinque per lato, di granito eg
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Fondazione FEDERICO II</nome>
     <indirizzo>via Nicolò Garzilli, 36</indirizzo>
     <cap>90141</cap>
@@ -1181,7 +1181,7 @@ Cappella ha tre navate separate da dieci colonne, cinque per lato, di granito eg
     <fax></fax>
     <email></email>
     <web>www.museodiocesanopa.it/chiese/maria-ss-del-carmelo-carmine-maggiore</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1211,7 +1211,7 @@ fuochi, una chiesetta chiamata "S. Maria dei Rimedi". Nel 1610 la chiesetta venn
     <fax></fax>
     <email></email>
     <web>http://www.carmelitaniscalzidipalermo.com</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1241,7 +1241,7 @@ secolo. Esso si presenta di forma rettangolare, con gli archi a sesto acuto su c
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -1270,7 +1270,7 @@ secolo. Esso si presenta di forma rettangolare, con gli archi a sesto acuto su c
     <fax></fax>
     <email></email>
     <web>http://www.santacita.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -1300,7 +1300,7 @@ orologio meccanico, non più esistente.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1330,7 +1330,7 @@ fantasia, riportarono alla luce le strutture normanne. Infatti l'edificio rappre
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1360,7 +1360,7 @@ dipinti del XVIII secolo, in parte recuperati, ed era dotata di un magnifico org
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1390,7 +1390,7 @@ affrescato, in cui si conservano alcuni antichi arredi.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web>http://www.santippolito.arcidiocesi.palermo.it</web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1420,7 +1420,7 @@ ad archi centrici, coevo alla chiesa o di poco precedente, che venne chiuso ed u
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1450,7 +1450,7 @@ Teresa e di S. Anna di Giacomo Serpotta e, alle pareti, quattro quadri, opera di
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1480,7 +1480,7 @@ realizzati da Olivio Sozzi e Guglielmo Borremans. Il profondo presbiterio quadra
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Eparchia di Piana degli Albanesi</nome>
     <indirizzo>Piazza San Nicola,1</indirizzo>
     <cap>90037</cap>
@@ -1510,7 +1510,7 @@ chiesa. Internamente la chiesa presenta la snellezza propria dello stile gotico,
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Chiese</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Chiesa</tipi-specifici>
     <gestore><nome>Associazione Esperanza Socio-Culturale</nome>
     <indirizzo>Via Magione, 44</indirizzo>
     <cap>90133</cap>
@@ -1541,7 +1541,7 @@ di alcune riprese del film Il padrino - Parte III di Francis Ford Coppola, con A
     <fax>0916053342</fax>
     <email>marketing@teatromassimo.it</email>
     <web>http://www.teatromassimo.it/index.php</web>
-    <tipi>Teatri storici</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Teatro storico</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -1572,7 +1572,7 @@ ne fece nulla; per oltre vent'anni il teatro principale per la lirica della citt
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Teatri storici</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Teatro storico</tipi-specifici>
     <gestore><nome>Fondazione Orchestra Sinfonica Siciliana</nome>
     <indirizzo>Via Turati, 2</indirizzo>
     <cap>90139</cap>
@@ -1602,7 +1602,7 @@ e classicheggianti dei secoli XVII e XVIII. Alle spalle della grande aula orator
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -1632,7 +1632,7 @@ tela col "Martirio di S. Caterina" del 1609 è opera di Giuseppe Salerno. Sulla 
     <fax></fax>
     <email>itimed@gmail.com</email>
     <web>http://www.santosepolcro.sicilia.it/chiese/s_caterina</web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Associazione Culturale Itinerari del Mediterraneo</nome>
     <indirizzo>Via Giacomo Cusmano, 28</indirizzo>
     <cap>90141</cap>
@@ -1661,7 +1661,7 @@ tela col "Martirio di S. Caterina" del 1609 è opera di Giuseppe Salerno. Sulla 
     <fax></fax>
     <email></email>
     <web>http://oratoriosanfilipponeripalermo.org/</web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1691,7 +1691,7 @@ che introduce il cappellone, su cui poggia la figura di "S. Francesco che riceve
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Associazione Amici dei Musei Siciliani</nome>
     <indirizzo>Via Mariano Stabile, 160</indirizzo>
     <cap>90139</cap>
@@ -1722,7 +1722,7 @@ alternano le statue delle dodici Virtù, vero capolavoro serpottiano in cui si r
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -1751,7 +1751,7 @@ alternano le statue delle dodici Virtù, vero capolavoro serpottiano in cui si r
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1781,7 +1781,7 @@ volta. A questa sala è collegato il colatoio dove avveniva l'essicazione dei ca
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -1811,7 +1811,7 @@ architettoniche; sui timpani, sulle mensole e sui drappeggi sono putti e statue;
     <fax></fax>
     <email></email>
     <web>http://www.santacita.it</web>
-    <tipi>Oratori</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Oratorio</tipi-specifici>
     <gestore><nome>Centro San Mamiliano</nome>
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
@@ -1840,7 +1840,7 @@ architettoniche; sui timpani, sulle mensole e sui drappeggi sono putti e statue;
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -1871,7 +1871,7 @@ di rappresentanza mentre un'altra parte è proprietà della Sovraintendenza ai B
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -1900,7 +1900,7 @@ di rappresentanza mentre un'altra parte è proprietà della Sovraintendenza ai B
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -1930,7 +1930,7 @@ Sperimentale di Cinematografia.Dal 2012 è sede anche di ZAC_ Zisa Zona Arti Con
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -1961,7 +1961,7 @@ italiano e il Novecento in Sicilia.</informazioni_storiche>
     <fax>0918889893</fax>
     <email>didattica@galleriadartemodernapalermo.it</email>
     <web>http://www.galleriadartemodernapalermo.it/mediacenter/FE/home.aspx</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -1991,7 +1991,7 @@ Eleonora d'Aragona eseguito da Francesco Laurana; l'intensa "Annunziata" di Anto
     <fax></fax>
     <email>gall.abatellis@regione.sicilia.it</email>
     <web>http://www.regione.sicilia.it/beniculturali/palazzoabatellis/</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2020,7 +2020,7 @@ Eleonora d'Aragona eseguito da Francesco Laurana; l'intensa "Annunziata" di Anto
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html - http://www.palazzoriso.it</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2050,7 +2050,7 @@ diversi paesi del bacino del Mediterraneo.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2079,7 +2079,7 @@ diversi paesi del bacino del Mediterraneo.</informazioni_storiche>
     <fax></fax>
     <email>info@museodiocesanomonreale.it</email>
     <web>http://www.museodiocesanomonreale.it/</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Arcidiocesi di Monreale</nome>
     <indirizzo>Via Palermo, 8</indirizzo>
     <cap>90046</cap>
@@ -2109,7 +2109,7 @@ che illustrano, attraverso le varie dominazioni cui è stata sottoposta la Sicil
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -2138,7 +2138,7 @@ che illustrano, attraverso le varie dominazioni cui è stata sottoposta la Sicil
     <fax>091933315</fax>
     <email>villacattolica@tiscali.it</email>
     <web>http://www.museoguttuso.it/site/</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2169,7 +2169,7 @@ Giovane cavaliere giacente attribuito a Francesco Laurana, il paliotto con la Pr
     <fax></fax>
     <email>museo@diocesipa.it</email>
     <web>http://www.museodiocesanopa.it/</web>
-    <tipi>gallerie d'arte, musei</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Galleria artistica, Museo</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -2198,7 +2198,7 @@ Giovane cavaliere giacente attribuito a Francesco Laurana, il paliotto con la Pr
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Biblioteche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Biblioteca</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -2228,7 +2228,7 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali/bibliotecacentrale/</web>
-    <tipi>Biblioteche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Biblioteca</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2257,7 +2257,7 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <fax>0918889893</fax>
     <email></email>
     <web></web>
-    <tipi>Biblioteche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Biblioteca</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -2286,7 +2286,7 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Biblioteche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Biblioteca</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2317,7 +2317,7 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2346,7 +2346,7 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</nome>
     <indirizzo>Via Nicolò Garzilli, 59</indirizzo>
     <cap>90141</cap>
@@ -2375,7 +2375,7 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</nome>
     <indirizzo>Via Nicolò Garzilli, 59</indirizzo>
     <cap>90141</cap>
@@ -2405,7 +2405,7 @@ incinerazione. Tra febbraio e giugno del 2004 si è completato lo scavo di quest
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2435,7 +2435,7 @@ notizia bibliografica dei Qanat risale al 1722 ma le opere cunicolari del Gesuit
     <fax></fax>
     <email></email>
     <web>http://www.gscaipalermo.com/</web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Club Alpino italiano - Sezione della Conca d'Oro di Palermo</nome>
     <indirizzo>Via Nicolò Garzilli, 59</indirizzo>
     <cap>90141</cap>
@@ -2466,7 +2466,7 @@ carattere termale. Dall'atrio, attraverso una sorta di vestibolo, decorato al ce
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Zone Archeologiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Zona archeologica</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2495,7 +2495,7 @@ carattere termale. Dall'atrio, attraverso una sorta di vestibolo, decorato al ce
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -2525,7 +2525,7 @@ stilizzato, con figure in piedi, teste e foglie a rilievo. L'acqua fuoriesce in 
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali</web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2555,7 +2555,7 @@ in senso rotatorio. Il pavimento della sala è attraversato da una canaletta che
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2585,7 +2585,7 @@ necessario per rinfrescare l'aria. La sala centrale era abbellita da muqarnas, s
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2615,7 +2615,7 @@ necessario per rinfrescare l'aria. La sala centrale era abbellita da muqarnas, s
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2645,7 +2645,7 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <fax></fax>
     <email></email>
     <web>http://www.castellodimaredolce.it - http://www.regione.sicilia.it/beniculturali</web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2674,7 +2674,7 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Monumenti</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Monumento</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -2703,7 +2703,7 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>
@@ -2732,7 +2732,7 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Associazione Amici dei Musei Siciliani</nome>
     <indirizzo>Via Mariano Stabile, 160</indirizzo>
     <cap>90139</cap>
@@ -2762,7 +2762,7 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <fax></fax>
     <email></email>
     <web>http://www.palazzobranciforte.it</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Fondazione Sicilia</nome>
     <indirizzo>Via Bara All'Olivella, 2</indirizzo>
     <cap>90133</cap>
@@ -2791,7 +2791,7 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -2820,7 +2820,7 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Provincia Regionale di Palermo</nome>
     <indirizzo>Via Maqueda, 100</indirizzo>
     <cap>90134</cap>
@@ -2850,7 +2850,7 @@ stati collocati dei mosaici a motivi naturalistici su un fondo di tessere dorate
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Fondazione FEDERICO II</nome>
     <indirizzo>via Nicolò Garzilli, 36</indirizzo>
     <cap>90141</cap>
@@ -2880,7 +2880,7 @@ per mostre temporanee.</informazioni_storiche>
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -2910,7 +2910,7 @@ dove si riunisce la Giunta Comunale; la Sala delle Lapidi, così chiamata per le
     <fax></fax>
     <email>didattica@palermocultura.it</email>
     <web>http://www.comune.palermo.it/</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -2940,7 +2940,7 @@ secoli. Di particolare interesse è la sala da ballo dal soffitto affrescato da 
     <fax></fax>
     <email>info@palazzoajutamicristo.it</email>
     <web>http://www.palazzo-ajutamicristo.com</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2970,7 +2970,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -2999,7 +2999,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -3028,7 +3028,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Provincia Regionale di Palermo</nome>
     <indirizzo>Via Maqueda, 100</indirizzo>
     <cap>90134</cap>
@@ -3058,7 +3058,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web>http://www.regione.sicilia.it/beniculturali/palazzomirto</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -3087,7 +3087,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -3116,7 +3116,7 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <fax></fax>
     <email></email>
     <web>http://www.provincia.palermo.it/palazzo_s.elia</web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Provincia Regionale di Palermo</nome>
     <indirizzo>Via Maqueda, 100</indirizzo>
     <cap>90134</cap>
@@ -3147,7 +3147,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Palazzi</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Palazzo</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3176,7 +3176,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3205,7 +3205,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -3234,7 +3234,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3263,7 +3263,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Fondazione "Giuseppe Whitaker"</nome>
     <indirizzo>Via Dante, 167</indirizzo>
     <cap>90141</cap>
@@ -3292,7 +3292,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -3321,7 +3321,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email>info@fondazionesicilia.it</email>
     <web></web>
-    <tipi>Dimore e Ville Storiche</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Dimora, Villa storica</tipi-specifici>
     <gestore><nome>Fondazione Sicilia</nome>
     <indirizzo>Via Bara All'Olivella, 2</indirizzo>
     <cap>90133</cap>
@@ -3350,7 +3350,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Fondazione "Giuseppe Whitaker"</nome>
     <indirizzo>Via Dante, 167</indirizzo>
     <cap>90141</cap>
@@ -3379,7 +3379,7 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3409,7 +3409,7 @@ gruppo dei "Fratelli", nel laghetto centrale, opera di Mario Rutelli. Nell'area 
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -3439,7 +3439,7 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -3468,7 +3468,7 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -3497,7 +3497,7 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3526,7 +3526,7 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Regione Siciliana</nome>
     <indirizzo>Via Ausonia, 122</indirizzo>
     <cap>90146</cap>
@@ -3556,7 +3556,7 @@ di Querce; il Teatro all'Aperto; la Radura delle Palme dove è stata creata un'a
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3585,7 +3585,7 @@ di Querce; il Teatro all'Aperto; la Radura delle Palme dove è stata creata un'a
     <fax></fax>
     <email></email>
     <web>http://www.comune.palermo.it/comune/villa_niscemi/niscemi.htm</web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Comune di Palermo</nome>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90100</cap>
@@ -3616,7 +3616,7 @@ orologio solare, eseguito su progetto del matematico Lorenzo Feredici nel 1784 e
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>giardini pubblici, spazi verdi</tipi>
+    <tipi>Giardino pubblico, Spazio verde</tipi>
     <gestore><nome>Distretto Culturale di Palermo</nome>
     <indirizzo>Via sant'Anna, 21</indirizzo>
     <cap>90133</cap>
@@ -3645,7 +3645,7 @@ orologio solare, eseguito su progetto del matematico Lorenzo Feredici nel 1784 e
     <fax></fax>
     <email></email>
     <web></web>
-    <tipi>Parcheggi pubblici</tipi>
+    <tipi>Parcheggio pubblico</tipi>
     <gestore><nome>APCOA Parking</nome>
     <indirizzo>Via Chiassi, 20/D</indirizzo>
     <cap>46100</cap>
@@ -3675,7 +3675,7 @@ santa dei sovrani borbonici e sabaudi, e quella che ricorda la visita del letter
     <fax></fax>
     <email></email>
     <web>http://www.santuariosantarosalia.it/</web>
-    <tipi>Santuari</tipi>
+    <tipi>luogo da visitare</tipi><tipi-specifici>Santuario</tipi-specifici>
     <gestore><nome>Arcidiocesi di Palermo</nome>
     <indirizzo>Corso Vittorio Emanuele, 461</indirizzo>
     <cap>90134</cap>

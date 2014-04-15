@@ -1,0 +1,124 @@
+Via Valverde	1	90133		Palermo
+Via Francesco Raimondo	3	90134		Palermo
+Piazza Santa Chiara	11	90134		Palermo
+Piazza San Francesco d'Assisi		90133		Palermo
+Via Torremuzza	1	90133		Palermo
+Largo Cavalieri di Malta		90133		Palermo
+Corso Vittorio Emanuele		90134		Palermo
+Via delle Cappuccinelle	109	90138		Palermo
+Via Porta Carini	38	90134		Palermo
+Piazzetta Chiesa Cocchieri	1	90133		Palermo
+Via dei Pellegrini	2	90134		Palermo
+Via Patania		90133		Palermo
+Piazza San Giorgio dei Genovesi		90133		Palermo
+Via Vittorio Emanuele	247	90133		Palermo
+Piazza dei SS. Quaranta Martiri		90134		Palermo
+Via Vittorio Emanuele	395	90134		Palermo
+Via San Sebastiano		90133		Palermo
+Via del Noviziato	1	90134		Palermo
+Piazza Duomo		90046		Monreale
+Piazza Casa Professa	21	90134		Palermo
+Piazzetta delle Dogane		90133		Palermo
+Via Alloro	27	90133		Palermo
+Via Roma 203/A		90133		Palermo
+Piazza Bellini		90133		Palermo
+Piazza S. Domenico		90133		Palermo
+Via Argenteria Nuova	33	90133		Palermo
+Piazza San Francesco Saverio		90134		Palermo
+Via Salvatore Cappello	38	90123		Palermo
+Via dei Benedettini	16	90134		Palermo
+Corso Vittorio Emanuele		90134		Palermo
+Via Porta di Carini		90134		Palermo
+Piazza Olivella	1	90133		Palermo
+Piazza S. Giacomo La Marina	13	90133		Palermo
+Piazza Marina		90133		Palermo
+Via Torremuzza		90133		Palermo
+Via Maqueda	159	90133		Palermo
+Via Maqueda	220	90134		Palermo
+Via Bentivegna	 62/b	90139		Palermo
+Piazza Indipendenza		90129		Palermo
+Piazza del Carmine		90134		Palermo
+Piazza Indipendenza	9	90129		Palermo
+Via Dei Benedettini		90134		Palermo
+Via Valverde	1	90133		Palermo
+Via Nunzio Nasi	18	90134		Palermo
+Via Santo Spirito		90139		Palermo
+Corso Vittorio Emanuele		90133		Palermo
+Via Porta Carini	37	90134		Palermo
+Piazza Marina		90133		Palermo
+Piazza Kalsa		90133		Palermo
+Piazza Bellini	3	90133		Palermo
+Piazza Magione	44	90133		Palermo
+Piazza Giuseppe Verdi		90138		Palermo
+Piazza Ruggero Settimo	15	90139		Palermo
+Piazzetta dei Bianchi		90133		Palermo
+Via Monteleone	50	90133		Palermo
+Via Roma 320 / A		90133		Palermo
+Via dell'Immacolatella	5	90133		Palermo
+Via dei Bambinai	2	90133		Palermo
+Piazza Monte di Pietà		90134		Palermo
+Via Porta Sant' Agata	5	90134		Palermo
+Via Valverde	3	90133		Palermo
+Via Messina Marine	32	90123		Palermo
+Corso Calatafimi	217	90129		Palermo
+Piazza dei Quartieri	2	90146		Palermo
+Via Paolo Gili	4	90138		Palermo
+Via Sant'Anna	21	90133		Palermo
+Via Alloro	4	90133		Palermo
+Via Vittorio Emanuele	365	90133		Palermo
+Piazza Guglielmo il Buono		90138		Palermo
+Via Arcivescovado	2	90046		Palermo
+Via Duca degli Abruzzi	1	90146		Palermo
+Via Rammacca	9	90011		Bagheria
+Via Matteo Bonello	2	90134		Palermo
+Via Paolo Gili	4	90138		Palermo
+Via Vittorio Emanuele	429	90134		Palermo
+Via Sant'Anna	21	90133		Palermo
+Piazza Indipendenza	1	90129		Palermo
+Via Filippo Patti		90133		Palermo
+Parco della Favorita		90151		Palermo
+Via Gualtiero da Caltagirone		90149		Palermo
+Corso Calatafimi	100	90129		Palermo
+Fondo Picciullo		90100		Palermo
+Piazza Vittoria		90134		Palermo
+Via Nunzio Nasi	18	90134		Palermo
+Piazza Duomo		90046		Monreale
+Piazza Guglielmo il Buono		90135		Palermo
+Corso Calatafimi	100	90129		Palermo
+Via di Villa Napoli		90129		Palermo
+Vicolo Castellaccio		90124		Palermo
+Via Matteo Bonello		90134		Palermo
+Via Matteo Bonello	2	90134		Palermo
+Piazza Bologni	18	90134		Palermo
+Via Bara All'Olivella	2	90133		Palermo
+Via Garibaldi	44	90133		Palermo
+Via Maqueda	100	90134		Palermo
+Piazza Indipendenza		90129		Palermo
+Via Dante	53	90141		Palermo
+Piazza Pretoria	1	90133		Palermo
+Via G. Garibaldi	23	90133		Palermo
+Via Vittorio Emanuele	365	90134		Palermo
+Piazza Marina	46	90133		Palermo
+Via Lincoln	71	90133		Palermo
+Via Merlo	2	90133		Palermo
+Via del IV Aprile	2	90133		Palermo
+Via Maqueda	83	90133		Palermo
+Via delle Pergole	74	90134		Palermo
+Piazza Niscemi		90146		Palermo
+Viale Regina Margherita	38	90138		Palermo
+Via Antonio Salinas	3	90141		Palermo
+Via Dante	167	90141		Palermo
+Via Francesco Speciale		90129		Palermo
+Via Libertà	52	90143		Palermo
+Via Dante Alighieri	167	90141		Palermo
+Viale Lazio		90144		Palermo
+Viale della Libertà	63	90143		Palermo
+Piazza Marina		90133		Palermo
+Corso Re Ruggero		90134		Palermo
+Via Antonio Salinas	3	90141		Palermo
+Via Francesco Speciale		90129		Palermo
+Via delle Scienze		90128		Palermo
+Via dei Quartieri	2	90146		Palermo
+Via Lincoln		90133		Palermo
+Piazza Vittorio Emanuele Orlando	49	90138		Palermo
+via Pietro Bonanno		90142		Palermo

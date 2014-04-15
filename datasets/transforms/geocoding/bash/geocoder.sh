@@ -2,7 +2,8 @@
 
 MAPSAPIURL="http://maps.googleapis.com/maps/api/geocode/json"
 
-OUT="latlng.txt"
+IN="$1"
+OUT="$2"
  
 LAR="last_address_results.json"
 [ -f ${OUT} ] && rm ${OUT}
@@ -30,4 +31,4 @@ while read line; do
 #  tail -1 latlng.txt
   i=$((i+1))
   sleep 1
-done < $1
+done < $IN

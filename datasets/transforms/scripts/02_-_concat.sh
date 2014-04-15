@@ -10,6 +10,7 @@ TO_CONCAT=("${TO_CONCAT[@]}" "agenzie/agenzie${SUFFIX}")
 TO_CONCAT=("${TO_CONCAT[@]}" "consolato/consolato${SUFFIX}")
 TO_CONCAT=("${TO_CONCAT[@]}" "turismo01/turismo01${SUFFIX}")
 TO_CONCAT=("${TO_CONCAT[@]}" "turismo02/turismo02${SUFFIX}")
+TO_CONCAT=("${TO_CONCAT[@]}" "turismo03/turismo03${SUFFIX}")
 
 #OUT="tot.xml"
 echo '<?xml version="1.0" encoding="UTF-8"?>' > $OUT

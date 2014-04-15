@@ -1,0 +1,125 @@
+id,nome,indirizzo,cap,citta,geolocazione,telefono,fax,mobile,email,web,tipi,tipi-specifici,agenzia.intestazione,consolato.stato,consolato.console,consolato.pec,consolato.orari.giorni,consolato.orari.apertura,consolato.orari.chiusura,consolato.orari.note,accoglienza.stelle,accoglienza.camere,accoglienza.sale_meeting,accoglienza.residences,accoglienza.descrizione,accoglienza.direttore,accoglienza.gestione,divertimento-e-ristoro.cucina,divertimento-e-ristoro.orari.giorni,divertimento-e-ristoro.orari.apertura,divertimento-e-ristoro.orari.chiusura,divertimento-e-ristoro.orari.note,divertimento-e-ristoro.informazioni,luoghi-da-visitare.orari.giorni,luoghi-da-visitare.orari.apertura,luoghi-da-visitare.orari.chiusura,luoghi-da-visitare.orari.note,luoghi-da-visitare.orari.visite,luoghi-da-visitare.orari.servizi,luoghi-da-visitare.orari.prezzi,luoghi-da-visitare.informazioni_storiche,luoghi-da-visitare.note,luoghi-da-visitare.gestore.nome,luoghi-da-visitare.gestore.indirizzo,luoghi-da-visitare.gestore.cap,luoghi-da-visitare.gestore.localita,luoghi-da-visitare.gestore.mobile,luoghi-da-visitare.gestore.telefono,luoghi-da-visitare.gestore.fax,luoghi-da-visitare.gestore.email,luoghi-da-visitare.gestore.web,icon
+22,Chiesa di Santa Cita (oggi San Mamiliano),Chiesa di Santa Cita (oggi San Mamiliano),90133,Palermo,,091/32779,,,,http://www.santacita.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+17,Chiesa di Sant' Agostino,Chiesa di Sant' Agostino,90134,Palermo,,091/84632,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+20,Chiesa di Santa Chiara,Chiesa di Santa Chiara,90134,Palermo,,091/31141,,3409840657,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+26,Chiesa di San Francesco d'Assisi,Chiesa di San Francesco d'Assisi,90133,Palermo,,091/82370,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+41,Chiesa di Santa Maria della Pietà,Chiesa di Santa Maria della Pietà,90133,Palermo,,091/165266,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+43,Chiesa di Santa Maria in Valverde,Chiesa di Santa Maria in Valverde,90133,Palermo,,091/32779,,,,http://www.santacita.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+7,Cattedrale,Cattedrale,90134,Palermo,,091/34373,091/34375,,cattedrale@diocesipa.it - segreteriacattedrale@diocesipa.it,http://www.cattedrale.palermo.it/,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+8,Chiesa del Monastero delle Cappuccinelle,Chiesa del Monastero delle Cappuccinelle,90138,Palermo,,091/114745,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+13,Chiesa dell'Immacolata Concezione al Capo,Chiesa dell'Immacolata Concezione al Capo,90134,,,091/28430,,,,www.santippolito.arcidiocesi.palermo.it/concezione,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+14,Chiesa della Madonna dell'Itria ai Cocchieri,Chiesa della Madonna dell'Itria ai Cocchieri,90133,Palermo,,091/165848,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+23,Chiesa di Santa Cristina La Vetere,Chiesa di Santa Cristina La Vetere,90134,Palermo,,091/48728,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+28,Chiesa di San Gioacchino (al Collegio Maria all'Olivella),Chiesa di San Gioacchino (al Collegio Maria all'Olivella),90133,Palermo,,. 091581058,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+29,Chiesa di San Giorgio dei Genovesi,Chiesa di San Giorgio dei Genovesi,90133,Palermo,,091/32779,,,,http://www.santacita.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+44,Chiesa di San Matteo,Chiesa di San Matteo,90133,Palermo,,,,3296198263,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+50,Chiesa dei SS. Quaranta Martiri Pisani alla Guilla,Chiesa dei SS. Quaranta Martiri Pisani alla Guilla,90134,Palermo,,,,3391588692 - 3293977513,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+51,Chiesa del SS. Salvatore,Chiesa del SS. Salvatore,90134,Palermo,,091/23392,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+52,Chiesa di San Sebastiano,Chiesa di San Sebastiano,90133,Palermo,,,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+53,Chiesa di San Stanislao Kostka,Chiesa di San Stanislao Kostka,90134,Palermo,,091/83859 - 0916622430,,,,http://www.sanstanislao.diocesipa.it/,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+56,Duomo di Monreale,Duomo di Monreale,90046,Monreale,,091/402424,,,,http://www.webdiocesi.chiesacattolica.it/sicilia/monreale,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+10,Chiesa del Gesù o di Casa Professa,Chiesa del Gesù o di Casa Professa,90134,Palermo,,091/32 213,,334187 9038,,http://www.itinerars.it/ - http://www.casaprofessa.blogspot.com,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+11,Chiesa di Santa Maria della Catena,Chiesa di Santa Maria della Catena,90133,Palermo,,091/21529 - 0916118168,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+12,Chiesa Santa Maria degli Angeli (detta la Gancia),Chiesa Santa Maria degli Angeli (detta la Gancia),90133,Palermo,,091/165221,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+18,Chiesa di Sant' Antonio Abate Magno,Chiesa di Sant' Antonio Abate Magno,90133,Palermo,,091/89940,,,,http://www.santoantonioabate.diocesipa.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+19,Chiesa di Santa Caterina d'Alessandria,Chiesa di Santa Caterina d'Alessandria,90133,Palermo,,,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+24,Chiesa di San Domenico,Chiesa di San Domenico,90133,Palermo,,091/89172 - 0916114314,,3294259159,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+25,Chiesa di Sant'Eulalia dei Catalani,Chiesa di Sant'Eulalia dei Catalani,90133,Palermo,,091/430481,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+27,Chiesa di San Francesco Saverio,Chiesa di San Francesco Saverio,90134,Palermo,,091/517052,,3283227667,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+31,Chiesa di San Giovanni dei Lebbrosi,Chiesa di San Giovanni dei Lebbrosi,90123,Palermo,,091/75024,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+32,Chiesa di San Giuseppe Cafasso (ex S.Giorgio in Kemonia),Chiesa di San Giuseppe Cafasso (ex S.Giorgio in Kemonia),90134,Palermo,,091/518223 - 0913822777,,,,www.sangiuseppecafasso.arcidiocesi.palermo.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+34,Chiesa di San Giuseppe dei Teatini,Chiesa di San Giuseppe dei Teatini,90134,Palermo,,091/31239,,,,http://www.sangiuseppeteatini.arcidiocesi.palermo.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+35,Chiesa di San Gregorio Papa,Chiesa di San Gregorio Papa,90134,Palermo,,091/83791,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+36,Chiesa di Sant'Ignazio all'Olivella,Chiesa di Sant'Ignazio all'Olivella,90133,Palermo,,091/86867,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+40,Chiesa di Santa Maria La Nova,Chiesa di Santa Maria La Nova,90133,Palermo,,091/26797,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+42,Chiesa di Santa Maria di Portosalvo,Chiesa di Santa Maria di Portosalvo,90133,Palermo,,,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+45,Chiesa di San Mattia dei Crociferi,Chiesa di San Mattia dei Crociferi,90133,Palermo,,091/406903,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+47,Chiesa di San Nicolò da Tolentino,Chiesa di San Nicolò da Tolentino,90133,Palermo,,091/163013,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+48,Chiesa di Santa Ninfa dei Crociferi,Chiesa di Santa Ninfa dei Crociferi,90134,Palermo,,091/34838,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+49,Chiesa di Santi Pietro e Paolo,Chiesa di Santi Pietro e Paolo,90139,Palermo,,091/35485 - 0916126843,,,,http://www.museoduocesanopa.it/chiese/ss-pietro-e-paolo,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+4,Cappella Palatina,Cappella Palatina,90129,Palermo,,091/262833,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+9,Chiesa di Santa Maria del Carmine,Chiesa di Santa Maria del Carmine,90134,Palermo,,091/512018,,,,www.museodiocesanopa.it/chiese/maria-ss-del-carmelo-carmine-maggiore,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+15,Chiesa della Madonna dei Rimedi dei Carmelitani Scalzi,Chiesa della Madonna dei Rimedi dei Carmelitani Scalzi,90129,Palermo,,091/22473,,,,http://www.carmelitaniscalzidipalermo.com,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+30,Chiesa di San Giovanni degli Eremiti,Chiesa di San Giovanni degli Eremiti,90134,Palermo,,091/515019,,,,http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+38,Chiesa di San Mamiliano,Chiesa di San Mamiliano,90133,Palermo,,091/32779,,,,http://www.santacita.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+46,Chiesa di San Nicolo' di Bari (all'Albergheria),Chiesa di San Nicolo' di Bari (all'Albergheria),90134,Palermo,,091/512820,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+55,Chiesa di Santo Spirito o dei Vespri,Chiesa di Santo Spirito o dei Vespri,90139,Palermo,,091/22691,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+33,Chiesa di San Giovanni dei Napoletani,Chiesa di San Giovanni dei Napoletani,90133,Palermo,,,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+37,Chiesa di Sant' Ippolito,Chiesa di Sant' Ippolito,90134,Palermo,,091/28430,,,,http://www.santippolito.arcidiocesi.palermo.it,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+39,Chiesa di Santa Maria dei Miracoli,Chiesa di Santa Maria dei Miracoli,90133,Palermo,,,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+54,Chiesa di Santa Teresa alla Kalsa,Chiesa di Santa Teresa alla Kalsa,90133,Palermo,,091/171658,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+224,Chiesa Santa Maria dell'Ammiraglio (detta Martorana),Chiesa Santa Maria dell'Ammiraglio (detta Martorana),90133,Palermo,,091/161692,,,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+225,Chiesa della SantissimaTrinità o Magione,Chiesa della SantissimaTrinità o Magione,90133,Palermo,,091/170596,,3288039833,,,luogo da visitare,Chiesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+166,Teatro Massimo Vittorio Emanuele,Teatro Massimo Vittorio Emanuele,90138,Palermo,,091/053521,091/053342,,marketing@teatromassimo.it,http://www.teatromassimo.it/index.php,luogo da visitare,Teatro storico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+167,Teatro Politeama Garibaldi,Teatro Politeama Garibaldi,90139,Palermo,,091/072532,,,,,luogo da visitare,Teatro storico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+58,Oratorio dei Bianchi,Oratorio dei Bianchi,90133,Palermo,,091/173080,,,,,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+60,Oratorio di Santa Caterina d'Alessandria,Oratorio di Santa Caterina d'Alessandria,90133,Palermo,,091/02667,,,itimed@gmail.com,http://www.santosepolcro.sicilia.it/chiese/s_caterina,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+62,Oratorio di San Filippo Neri,Oratorio di San Filippo Neri,90133,Palermo,,091/091324,,,,http://oratoriosanfilipponeripalermo.org/,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+63,Oratorio di San Lorenzo,Oratorio di San Lorenzo,90133,Palermo,,091/118168,,,,,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+65,Oratorio del Santissimo Rosario in San Domenico,Oratorio del Santissimo Rosario in San Domenico,90133,Palermo,,091/32779,,,,,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+66,Oratorio di Santo Stefano Protomartire,Oratorio di Santo Stefano Protomartire,90134,Palermo,,091/22480,,3397152542,,,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+59,Oratorio del Carminello,Oratorio del Carminello,90134,Palermo,,,,3292950170,,,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+61,Oratorio di Santa Cita,Oratorio di Santa Cita,90133,Palermo,,091/32779,,,,http://www.santacita.it,luogo da visitare,Oratorio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+76,Ex Deposito Locomotive S. Erasmo,Ex Deposito Locomotive S. Erasmo,90123,Palermo,,091/30 8489,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+169,Albergo delle Povere,Albergo delle Povere,90129,Palermo,,091/22314,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+170,Area di Servizio d'Arte,Area di Servizio d'Arte,90146,Palermo,,091/404815,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+171,Cantieri Culturali alla Zisa,Cantieri Culturali alla Zisa,90138,Palermo,,091/524942,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+175,Galleria d'Arte Moderna (G.A.M),Galleria d'Arte Moderna (G.A.M),90133,Palermo,,091/431605,091/889893,,didattica@galleriadartemodernapalermo.it,http://www.galleriadartemodernapalermo.it/mediacenter/FE/home.aspx,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+177,Galleria Regionale della Sicilia - Palazzo Abatellis,Galleria Regionale della Sicilia - Palazzo Abatellis,90133,Palermo,,091/230011 - 0916230006,,,gall.abatellis@regione.sicilia.it,http://www.regione.sicilia.it/beniculturali/palazzoabatellis/,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+179,Museo d'Arte Contemporanea della Sicilia,Museo d'Arte Contemporanea della Sicilia,90133,Palermo,,091/87717,,,,http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html - http://www.palazzoriso.it,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+180,Museo d'Arte Islamica,Museo d'Arte Islamica,90138,Palermo,,091/520269,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+197,Museo Diocesano di Monreale,Museo Diocesano di Monreale,90046,Palermo,,091/419001 - 0916417232,,,info@museodiocesanomonreale.it,http://www.museodiocesanomonreale.it/,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+185,Museo Etnografico "G. Pitrè",Museo Etnografico "G. Pitrè",90146,Palermo,,091/409012 - 0917409002,,,,,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+196,Museo Civico "Renato Guttuso",Museo Civico "Renato Guttuso",90011,Bagheria,,091/4390,091/33315,,villacattolica@tiscali.it,http://www.museoguttuso.it/site/,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+183,Museo Diocesano,Museo Diocesano,90134,Palermo,,091/077111 - 0916077215,,,museo@diocesipa.it,http://www.museodiocesanopa.it/,luogo da visitare,"Galleria artistica, Museo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+214,Biblioteca Gramsci - Cantieri Culturali alla Zisa,Biblioteca Gramsci - Cantieri Culturali alla Zisa,90138,Palermo,,091/91523 - 091591557,,,,,luogo da visitare,Biblioteca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+209,Biblioteca Centrale della Regione Siciliana,Biblioteca Centrale della Regione Siciliana,90134,Palermo,,091/077642,,,,http://www.regione.sicilia.it/beniculturali/bibliotecacentrale/,luogo da visitare,Biblioteca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+213,Biblioteca della Galleria d'Arte Moderna,Biblioteca della Galleria d'Arte Moderna,90133,Palermo,,091/431605,091/889893,,,,luogo da visitare,Biblioteca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+216,Biblioteca dell'Osservatorio Astronomico,Biblioteca dell'Osservatorio Astronomico,90129,Palermo,,091/33243 - 091233444,,,,,luogo da visitare,Biblioteca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+199,Castello a Mare,Castello a Mare,90133,Palermo,,091/071317,,335227009,,,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+201,Grotta Niscemi,Grotta Niscemi,90151,Palermo,,091/716066 - 0917071406,,,,,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+202,Grotte Paleolitiche dell'Addaura,Grotte Paleolitiche dell'Addaura,90149,Palermo,,091/071406 - 0916716066,,,,,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+203,Necropoli Punica,Necropoli Punica,90129,Palermo,,091/90299,,,,,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+204,Qanat Gesuitico Alto,Qanat Gesuitico Alto,,Palermo,,091/80433,,,,http://www.gscaipalermo.com/,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+206,Resti di case romane Area Archeologica Villa Bonanno,Resti di case romane Area Archeologica Villa Bonanno,90134,Palermo,,091/071317 - 0917071411,,,,,luogo da visitare,Zona archeologica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+123,Torre di San Nicolò all'Albergheria,Torre di San Nicolò all'Albergheria,90134,Palermo,,,,3388529705 - 3392937159,,,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+57,Chiostro di Monreale,Chiostro di Monreale,90046,Monreale,,091/404403,,,,http://www.regione.sicilia.it/beniculturali,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+71,Castello della Zisa,Castello della Zisa,90135,Palermo,,091/520269,,,,,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+74,Cuba,Cuba,90129,Palermo,,091/90299,,,,,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+75,Cubola,Cubola,90129,Palermo,,,,3283605846,,,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+77,Castello della Favara o Maredolce,Castello della Favara o Maredolce,90124,Palermo,,,,3331531785,,http://www.castellodimaredolce.it - http://www.regione.sicilia.it/beniculturali,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+78,Loggia dell'Incoronazione,Loggia dell'Incoronazione,90134,Palermo,,,,,,,luogo da visitare,Monumento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+82,Palazzo Arcivescovile,Palazzo Arcivescovile,90134,Palermo,,091/077111,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+86,Palazzo Bologna di Villafranca Alliata,Palazzo Bologna di Villafranca Alliata,90134,Palermo,,091/118168 - 091322601,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+87,Palazzo Branciforte,Palazzo Branciforte,90133,Palermo,,091/792731,,,,http://www.palazzobranciforte.it,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+88,Palazzo Burgio di Villafiorita,Palazzo Burgio di Villafiorita,90133,Palermo,,,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+90,Palazzo Comitini,Palazzo Comitini,90134,Palermo,,091/628260 - 091668921,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+106,Palazzo Reale o dei Normanni,Palazzo Reale o dei Normanni,90129,Palermo,,091/262833,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+116,Palazzo Ziino,Palazzo Ziino,90141,Palermo,,091/407631,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+81,Palazzo delle Aquile (o Pretorio),Palazzo delle Aquile (o Pretorio),90133,Palermo,,091/402216,,,didattica@palermocultura.it,http://www.comune.palermo.it/,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+79,Palazzo Ajutamicristo,Palazzo Ajutamicristo,90133,Palermo,,091/161894,,,info@palazzoajutamicristo.it,http://www.palazzo-ajutamicristo.com,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+84,Palazzo Belmonte Riso,Palazzo Belmonte Riso,90134,Palermo,,091/87717,,,,http://www.regione.sicilia.it/beniculturali/dirbenicult/info/riso.html,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+95,Palazzo Galletti di S. Cataldo,Palazzo Galletti di S. Cataldo,90133,Palermo,,091/431605,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+99,Palazzo Jung,Palazzo Jung,90133,Palermo,,091/628145,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+101,Palazzo Mirto,Palazzo Mirto,90133,Palermo,,091/167541 - 0916164751,,,,http://www.regione.sicilia.it/beniculturali/palazzomirto,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+103,Palazzo Palagonia,Palazzo Palagonia,90133,Palermo,,091/431605,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+108,Palazzo Sant'Elia (Palazzo Celestri di Santa Croce),Palazzo Sant'Elia (Palazzo Celestri di Santa Croce),90133,Palermo,,091/628289,,,,http://www.provincia.palermo.it/palazzo_s.elia,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+112,Palazzo Tarallo,Palazzo Tarallo,90134,Palermo,,091/166621 - 0916101388,,,,,luogo da visitare,Palazzo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+139,Villa Niscemi,Villa Niscemi,90146,Palermo,,091/404822,,,,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+146,Villino Florio,Villino Florio,90138,Palermo,,091/025471,,,,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+141,Villa Trabia,Villa Trabia,90141,Palermo,,091/405905,,,,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+135,Villa Malfitano,Villa Malfitano,90141,Palermo,,091/820522 - 0916816133,,,,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+138,Villa Napoli,Villa Napoli,90129,Palermo,,,,,,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+143,Villa Zito,Villa Zito,90143,Palermo,,091/259519,,,info@fondazionesicilia.it,,Dimore e Ville Storiche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+155,Parco di Villa Malfitano,Parco di Villa Malfitano,90141,Palermo,,,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+162,Villa Terrasi,Villa Terrasi,90144,Palermo,,,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+148,Giardino Inglese,Giardino Inglese,90143,Palermo,,091/406790,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+160,Villa Garibaldi,Villa Garibaldi,90133,Palermo,,,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+154,Parco d'Orleans,Parco d'Orleans,90134,Palermo,,091/075038,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+157,Parco di Villa Trabia,Parco di Villa Trabia,90141,Palermo,,091/405905,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+149,Giardino di Villa Napoli,Giardino di Villa Napoli,90129,Palermo,,,,3283605846,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+153,Parco Ninni Cassarà,Parco Ninni Cassarà,,,,,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+156,Parco di Villa Niscemi,Parco di Villa Niscemi,90146,Palermo,,,,,,http://www.comune.palermo.it/comune/villa_niscemi/niscemi.htm,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+161,Villa Giulia,Villa Giulia,90133,Palermo,,091/404028,,,,,"Giardino pubblico, Spazio verde",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+227,Parcheggio Orlando,Parcheggio Orlando,90138,Palermo,,,,,,,Parcheggio pubblico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank
+67,Santuario Santa Rosalia,Santuario Santa Rosalia,90142,Palermo,,091/40326,,,,http://www.santuariosantarosalia.it/,luogo da visitare,Santuario,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,red_blank

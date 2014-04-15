@@ -334,7 +334,7 @@ $.extend(MapsLib, {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
-        .internet, .address, .phone { margin-top: 2px; } \
+        .internet, .address, .phone, .details { margin-top: 1px; } \
         .tipo { margin-top: 3px; } \
     ",
 
@@ -370,11 +370,11 @@ $.extend(MapsLib, {
       }
       
       var nome = row.nome;
-      html += "<h4 class='infobox-header'>"+nome+"</h4>"; // nome
+      html += "<h3 class='infobox-header'>"+nome+"</h3>"; // nome
       
       html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
       
-      html += "<p>";
+      html += "<div class='tipo'>";
       // start accoglienza
       var tipi = row.tipi;
       var tipi_specifici = row['tipi-specifici'];
@@ -400,7 +400,7 @@ $.extend(MapsLib, {
 	}
 	html += "</i></div>";
       } // end ristoro
-      html += "</p>";
+      html += "</div>";
       
       html += "<div class='address'>"+row.indirizzo+" "+row['numero-civico']; // start address block
       if (isListView) {
@@ -421,13 +421,15 @@ $.extend(MapsLib, {
       html += "</div>"; // end telefono/mobile
       
       html += "<div class='internet'>"; // start email/mobile
-      if (row.email) {
-	  html += "<div><i>email:</i> <a href=mailto:"+row.email+">"+row.email+"</a></div>";
-      } else {
-	if (row.web) {
-	  html += "<div><i>email:</i> <a href="+row.web+">"+row.web+"</a></div>";
-	}
+      var email = row.email;
+      if (email) {
+	  html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:15px; margin-top: -2px;'>"+email+"</a></div>";
       }
+      var web = row.web;
+      if (web) {
+	  html += "<div><i>web:</i> <a href="+web+" style='margin-left:15px;'>"+web+"</a></div>";
+      }
+      
       html += "</div>"; // end email/mobile
       
       // dettagli, pointing to card
@@ -440,8 +442,8 @@ $.extend(MapsLib, {
       */
       // end dettagli
       // dettagli with page
-      html += "<div><a href=#page-details";
-      html += " onclick=\"queryDetailsCard('"+nome+"');\">Dettagli</a>";
+      html += "<div class='details' style='margin-top:4px;'><a href=#page-details";
+      html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:15px;'>Dettagli</a>";
       html += "</div>";
       // end dwp
       

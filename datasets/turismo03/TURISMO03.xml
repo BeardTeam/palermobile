@@ -6,8 +6,8 @@
     <indirizzo>Via Valverde, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario invernale (novembre - marzo): lunedì - sabato 9.00 - 16.00 Orario estivo (aprile - ottobre):lunedì - venerdì 9.00 - 18.00 e sabato 9.00 - 15.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni>lmmgvs</giorni><apertura>9.00</apertura>
+    <chiusura>16.00</chiusura><note>da aprile ad ottobre: dal lunedi al venerdi: chiusura: 18.00; sabato: chiusura: 15.00</note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -36,14 +36,13 @@ arte realizzate da illustri artisti, come: Antonio Grano, Antonello Gagini, Fili
     <indirizzo>Via Francesco Raimondo, 3</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>feriali 7.00 - 12.00 e 16.00 - 18.00 domenica e festivi 7.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni>lmmgvs</giorni><apertura>feriali 7.00 - 12.00 e 16.00 - 18.00 domenica e festivi 7.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
     <note></note>
-    <informazioni_storiche>Edificata intorno al 1275, durante la dominazione angioina, presenta un interessante prospetto trecentesco con portale arricchito da una serie degradante di archi e più in alto con uno splendido rosone. Il suo interno è ad un'unica navata arricchita da una bella decorazione realizzata da Giacomo Serpotta, nel XVII secolo: le statue a tutto tondo raffigurano santi e personaggi allegorici i cui nomi è agevole rilevare nelle scritte sui sottostanti plinti. La seconda statua posta a destra reca sul dorso la firma del Serpotta e sulla mensola una lucertola, simbolo dell'artista. Sull'arco del presbiterio è l'emblema agostiniano sollevato da sensibili figure di angeli. Inoltre, la chiesa conserva notevoli opere d'arte, come: il busto di Francesco Medici di Ignazio Marabitti; "S. Tommaso di Villanova", pittura realizzata da Giuseppe Salerno detto Lo Zoppo di Gangi; altare maggiore in pietre dure del 1792 etc. La chiesa è affiancata da un chiostro della seconda metà del cinquecento, con 
-agili arcate su eleganti colonne; qui è posizionato un sarcofago barocco con coperchio gaginesco , dove è rappresentata una "Annunciazione".</informazioni_storiche>
+    <informazioni_storiche>Edificata intorno al 1275, durante la dominazione angioina, presenta un interessante prospetto trecentesco con portale arricchito da una serie degradante di archi e più in alto con uno splendido rosone. Il suo interno è ad un'unica navata arricchita da una bella decorazione realizzata da Giacomo Serpotta, nel XVII secolo: le statue a tutto tondo raffigurano santi e personaggi allegorici i cui nomi è agevole rilevare nelle scritte sui sottostanti plinti. La seconda statua posta a destra reca sul dorso la firma del Serpotta e sulla mensola una lucertola, simbolo dell'artista. Sull'arco del presbiterio è l'emblema agostiniano sollevato da sensibili figure di angeli. Inoltre, la chiesa conserva notevoli opere d'arte, come: il busto di Francesco Medici di Ignazio Marabitti; "S. Tommaso di Villanova", pittura realizzata da Giuseppe Salerno detto Lo Zoppo di Gangi; altare maggiore in pietre dure del 1792 etc. La chiesa è affiancata da un chiostro della seconda metà del cinquecento, con agili arcate su eleganti colonne; qui è posizionato un sarcofago barocco con coperchio gaginesco , dove è rappresentata una "Annunciazione".</informazioni_storiche>
     <mobile></mobile>
     <telefono>091584632</telefono>
     <fax></fax>
@@ -66,8 +65,8 @@ agili arcate su eleganti colonne; qui è posizionato un sarcofago barocco con co
     <indirizzo>Piazza Santa Chiara, 11</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>sabato 17.00 - 18.30 e domenica 9.00 - 10.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>sabato 17.00 - 18.30 e domenica 9.00 - 10.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>E' operativo il Centro Salesiano all'interno della chiesa con centro d'accoglienza dalle 06.30 alle 23.00.</servizi>
     <visite>La chiesa è visitabile durante i giorni feriali solo su richiesta.</visite></orari>
@@ -96,8 +95,8 @@ realizzata da Gaspare Serenario con la "Crocifissione". L'arco trionfale conserv
     <indirizzo>Piazza San Francesco d'Assisi</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni: 07.00 - 11.30 e 16.00 - 18.00 domenica 7.00 - 13.00 e 16.30 - 18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni: 07.00 - 11.30 e 16.00 - 18.00 domenica 7.00 - 13.00 e 16.30 - 18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -126,8 +125,8 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <indirizzo>Via Torremuzza, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - sabato 9.00 - 12.00 e 16.00 - 19.00 domenica e festivi 8.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>lunedì - sabato 9.00 - 12.00 e 16.00 - 19.00 domenica e festivi 8.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -156,8 +155,8 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <indirizzo>Largo Cavalieri di Malta</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>ORARIO INVERNALE (Novembre-Marzo) dal lunedì al sabato ore 9.00-16.00 ORARIO ESTIVO (Aprile - Ottobre) dal lunedì al venerdì ore 9.00-18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>ORARIO INVERNALE (Novembre-Marzo) dal lunedì al sabato ore 9.00-16.00 ORARIO ESTIVO (Aprile - Ottobre) dal lunedì al venerdì ore 9.00-18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -186,8 +185,8 @@ presbiterio, decorata nel 1624 a spese del Senato cittadino, dove è possibile a
     <indirizzo>Corso Vittorio Emanuele</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario Cattedrale da lunedì a sabato 7.00 - 19.00 domenica e festivi 8.00 - 13.00 e 16.00 - 19.00 Orario tomba, cripta, tesoro tutti i giorni 9.00 - 13.30 da novembre a febbraio e 9.00 - 17.30 da marzo ad ottobre.</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orario Cattedrale da lunedì a sabato 7.00 - 19.00 domenica e festivi 8.00 - 13.00 e 16.00 - 19.00 Orario tomba, cripta, tesoro tutti i giorni 9.00 - 13.30 da novembre a febbraio e 9.00 - 17.30 da marzo ad ottobre.</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Area Monumentale (tesoro + cripta + tombe reali) ¿ 3,00. Area Monumentale + Museo Diocesano ¿ 5. Riduzioni per ragazzi al di sotto dei 18 anni: 1,00 - adulti over 65 anni ¿ 2,00. E' noleggiabile impianto di radioguida, obbligatorio in caso di guida turistica a seguito al costo di: 1,50.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -216,8 +215,8 @@ realizzata da Domenico Gagini del '500 con conca a conchiglia e rilievi rapprese
     <indirizzo>Via delle Cappuccinelle, 109</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>martedì e mercoledì 9.00 - 12.00 giovedì 9.30 - 12.30 e 15.00 - 18.00 domenica 10.30 - 12.30 e 15.00 - 18.00</apertura>
-    <chiusura>lunedì, venerdì, sabato e festivi</chiusura>
+    <orari><giorni></giorni><apertura>martedì e mercoledì 9.00 - 12.00 giovedì 9.30 - 12.30 e 15.00 - 18.00 domenica 10.30 - 12.30 e 15.00 - 18.00</apertura>
+    <chiusura>lunedì, venerdì, sabato e festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -245,8 +244,8 @@ realizzata da Domenico Gagini del '500 con conca a conchiglia e rilievi rapprese
     <indirizzo>Via Porta Carini, 38</indirizzo>
     <cap>90134</cap>
     <citta></citta>
-    <orari><apertura>tutti i giorni 9.00 - 12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni 9.00 - 12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -275,8 +274,8 @@ suo insieme è talmente sfarzosa da lasciare "a bocca aperta" tutti i visitatori
     <indirizzo>Piazzetta Chiesa Cocchieri, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>sabato 15.30 - 18.00 domenica 10.30 - 12.30</apertura>
-    <chiusura>dal lunedì al venerdì</chiusura>
+    <orari><giorni></giorni><apertura>sabato 15.30 - 18.00 domenica 10.30 - 12.30</apertura>
+    <chiusura>dal lunedì al venerdì</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -304,8 +303,8 @@ suo insieme è talmente sfarzosa da lasciare "a bocca aperta" tutti i visitatori
     <indirizzo>Via dei Pellegrini, 2</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>la domenica 10.00 - 13.00 o su prenotazione maggio e giugno il martedì, giovedì e domenica 10.00 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>la domenica 10.00 - 13.00 o su prenotazione maggio e giugno il martedì, giovedì e domenica 10.00 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>¿ 2,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -334,8 +333,8 @@ successivamente a luogo di culto. Il suo interno è a pianta greca su base quadr
     <indirizzo>Via Patania</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - sabato 6.40 - 7.40 domenica e festivi 7.15 - 8.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>lunedì - sabato 6.40 - 7.40 domenica e festivi 7.15 - 8.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>E' possibile visitare la Chiesa in altri orari su prenotazione telefonica.</servizi>
     <visite></visite></orari>
@@ -364,8 +363,8 @@ marmi mischi separa la tribuna, dove è l'altare del 1770. le due statue, S. Gre
     <indirizzo>Piazza San Giorgio dei Genovesi</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario invernale (Novembre-Marzo): dal lunedì al sabato ore 9.00-16.00 Orario estivo (Aprile - Ottobre):dal lunedì al venerdì ore 9.00-18.00 e sabato 9.00 - 15.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orario invernale (Novembre-Marzo): dal lunedì al sabato ore 9.00-16.00 Orario estivo (Aprile - Ottobre):dal lunedì al venerdì ore 9.00-18.00 e sabato 9.00 - 15.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Associazione Civitasicilia - info e prenotazioni tel. 091.8431605</servizi>
     <visite></visite></orari>
@@ -394,8 +393,8 @@ marmi mischi separa la tribuna, dove è l'altare del 1770. le due statue, S. Gre
     <indirizzo>Via Vittorio Emanuele, 247</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 10.00 -16.30 (fino al 30 aprile) 10.00 -18.00 (dal 1 maggio) domenica e festivi 9.30 - 11.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 10.00 -16.30 (fino al 30 aprile) 10.00 -18.00 (dal 1 maggio) domenica e festivi 9.30 - 11.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>¿ 1,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -424,8 +423,8 @@ dal Purgatorio" e, nella cupola "Trionfo della Vergine", che ne fanno un tempio 
     <indirizzo>Piazza dei SS. Quaranta Martiri</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>domenica 9.00 - 13.00</apertura>
-    <chiusura>da lunedì a sabato</chiusura>
+    <orari><giorni></giorni><apertura>domenica 9.00 - 13.00</apertura>
+    <chiusura>da lunedì a sabato</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>La chiesa è visitabile su prenotazione telefonica.</visite></orari>
@@ -453,8 +452,8 @@ dal Purgatorio" e, nella cupola "Trionfo della Vergine", che ne fanno un tempio 
     <indirizzo>Via Vittorio Emanuele, 395</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>il lunedì e da mercoledì a sabato 9.30 - 12.30 e 15.00 - 17.00 domenica (1° e 3° di ogni mese) 9.30 - 13.00</apertura>
-    <chiusura>martedì</chiusura>
+    <orari><giorni></giorni><apertura>il lunedì e da mercoledì a sabato 9.30 - 12.30 e 15.00 - 17.00 domenica (1° e 3° di ogni mese) 9.30 - 13.00</apertura>
+    <chiusura>martedì</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -483,8 +482,8 @@ parte degli stucchi delle paraste, quelli che contornavano gli altari e le quatt
     <indirizzo>Via San Sebastiano</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>sabato 16.30 - 18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>sabato 16.30 - 18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Possibile visitare la Chiesa su prenotazione telefonica.</visite></orari>
@@ -513,8 +512,8 @@ architettura dipinta; di notevole interesse sono, inoltre, le decorazioni a stuc
     <indirizzo>Via del Noviziato, 1</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a venerdì 8.50 - 12.00 e 16.00 - 18.00 domenica e festivi 9.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a venerdì 8.50 - 12.00 e 16.00 - 18.00 domenica e festivi 9.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -543,8 +542,8 @@ del Lume in quanto è presente il simulacro della Vergine, realizzato prendendo 
     <indirizzo>Piazza Duomo</indirizzo>
     <cap>90046</cap>
     <citta>Monreale</citta>
-    <orari><apertura>giorni feriali 8.30 - 12.45 e 14.30 - 17.00 giorni festivi 8.00 - 10.00 e 14.30 - 17.30 (dall'1 marzo al 30 ottobre) Tutti i giorni 8.30 - 12.45 e 15.30 - 17.30 (dall'1 novembre al 31 marzo)</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>giorni feriali 8.30 - 12.45 e 14.30 - 17.00 giorni festivi 8.00 - 10.00 e 14.30 - 17.30 (dall'1 marzo al 30 ottobre) Tutti i giorni 8.30 - 12.45 e 15.30 - 17.30 (dall'1 novembre al 31 marzo)</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Contributo per la manutenzione e salvaguardia del sito: 1,50 con ausilio di audioguida ¿ 5,00 ;"tesoro" ¿ 2,00 ; "terrazze" ¿ 2,00.</prezzi>
     <servizi></servizi>
     <visite>Per le visite di gruppi prenotazione telefonica al 3273510886</visite></orari>
@@ -573,8 +572,8 @@ L'interno è vasto, a croce latina, con tutte le pareti interamente coperte da u
     <indirizzo>Piazza Casa Professa, 21</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario di apertura estivo (aprile-ottobre) da lunedì a venerdì 9.30 - 14.00, sabato 9.30 - 16.00, domenica 9.00 - 10.30 (solo la chiesa) Orario di apertura invernale (novembre-marzo) da lunedì a sabato:9.30 - 13.30. Orario di agosto da lunedì a sabato 9.30 - 18.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orario di apertura estivo (aprile-ottobre) da lunedì a venerdì 9.30 - 14.00, sabato 9.30 - 16.00, domenica 9.00 - 10.30 (solo la chiesa) Orario di apertura invernale (novembre-marzo) da lunedì a sabato:9.30 - 13.30. Orario di agosto da lunedì a sabato 9.30 - 18.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Nel mese di dicembre saranno previste aperture straordinarie. N.B: durante Cerimonie e Liturgie, le visite turistiche alla Chiesa saranno sospese. I singoli visitatori ed i gruppi potranno accedere, rispettando massimo silenzio, solo ai restanti altri Ambienti del Complesso, ovvero alla Sacrestia, al Museo, all'Oratorio del Sabato ed alla Cripta.</servizi>
     <visite></visite></orari>
@@ -603,8 +602,8 @@ continuità tutta la superficie, ne fanno un insieme di incredibile espressivit�
     <indirizzo>Piazzetta delle Dogane</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni visite guidate 10.00 - 18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni visite guidate 10.00 - 18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>¿ 2,50</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -632,8 +631,8 @@ continuità tutta la superficie, ne fanno un insieme di incredibile espressivit�
     <indirizzo>Via Alloro, 27</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario estivo: (aprile - ottobre),da lunedì - sabato 9.30 -13.30. Orario invernale (novembre-marzo), solo sabato 9.30 - 13,30. Altri giorni della settimana solo su prenotazione</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orario estivo: (aprile - ottobre),da lunedì - sabato 9.30 -13.30. Orario invernale (novembre-marzo), solo sabato 9.30 - 13,30. Altri giorni della settimana solo su prenotazione</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Nel mese di dicembre saranno previste aperture straordinarie. Durante le Cerimonie le visite turistiche alla Chiesa saranno sospese.</servizi>
     <visite></visite></orari>
@@ -662,8 +661,8 @@ affreschi. Il convento, al quale si accede dal portale sul fianco destro della c
     <indirizzo>Via Roma 203/A</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>sabato 17.30 - 18.30 domenica e festivi 9.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>sabato 17.30 - 18.30 domenica e festivi 9.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -692,8 +691,8 @@ primi decenni del XVII secolo. Una transenna in marmi mischi chiude la tribuna. 
     <indirizzo>Piazza Bellini</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da aprile ad ottobre anche 9.30 - 18.30 domenica e festivi: 9.30 - 13.30 orario di apertura da novembre a maggio: tutti i giorni 9.30 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da aprile ad ottobre anche 9.30 - 18.30 domenica e festivi: 9.30 - 13.30 orario di apertura da novembre a maggio: tutti i giorni 9.30 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>¿ 2,00</prezzi>
     <servizi>nel mese di dicembre previste aperture straordinarie</servizi>
     <visite></visite></orari>
@@ -722,8 +721,8 @@ cupola, eseguiti nel 1751, con il "Trionfo dei Santi Domenicani", sono opera di 
     <indirizzo>Piazza S. Domenico</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da ottobre a maggio: da martedì a domenica 8.00 - 12.00 nei mesi di maggio ed ottobre anche il lunedì ore 9.00 - 12.00 da luglio a settembre da martedì a domenica 8.30 - 11.30</apertura>
-    <chiusura>lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da ottobre a maggio: da martedì a domenica 8.00 - 12.00 nei mesi di maggio ed ottobre anche il lunedì ore 9.00 - 12.00 da luglio a settembre da martedì a domenica 8.30 - 11.30</apertura>
+    <chiusura>lunedì</chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Le visite turistiche si effettuano solo su prenotazione e per gruppi di max 20 persone con partenza prevista alle ore 10.00, 11.00 e 12.00. La visita comprende il Chiostro, la Sala Santa Barbara e la sala del Calendario. Inoltre la sala del calendario il sabato dalle 9.30 alle 13.00. Richiesto un contributo minimo a sostegno dellìiniziativa. N.b. la domenica non è consentita la visita per gruppi turistici</servizi>
     <visite></visite></orari>
@@ -752,8 +751,8 @@ piedistalli d'angolo vi sono quattro angeli in marmo, opera di alcuni tra i migl
     <indirizzo>Via Argenteria Nuova, 33</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>dal 15 settembre al 30 giugno: da lunedì a giovedì: 9.00 - 13.30 e 15.30 - 18.30 venerdì 8.00 - 15.00 luglio e dall'1 settembre al 14 settembre: da lunedì a venerdì 8.00 - 15.00</apertura>
-    <chiusura>sabato, domenica e festivi</chiusura>
+    <orari><giorni></giorni><apertura>dal 15 settembre al 30 giugno: da lunedì a giovedì: 9.00 - 13.30 e 15.30 - 18.30 venerdì 8.00 - 15.00 luglio e dall'1 settembre al 14 settembre: da lunedì a venerdì 8.00 - 15.00</apertura>
+    <chiusura>sabato, domenica e festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -782,8 +781,8 @@ costruita; una trabeazione continua corre sotto le volte, unificando lo spazio, 
     <indirizzo>Piazza San Francesco Saverio</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da domenica a venerdì 9.30 - 13.00 la domenica 18.30 - 20.30 per funzione sacra</apertura>
-    <chiusura>sabato</chiusura>
+    <orari><giorni></giorni><apertura>da domenica a venerdì 9.30 - 13.00 la domenica 18.30 - 20.30 per funzione sacra</apertura>
+    <chiusura>sabato</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -812,8 +811,8 @@ chiesa accoglie alcune notevoli opere d'arte: la prima cappella a sinistra è qu
     <indirizzo>Via Salvatore Cappello, 38</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
-    <orari><apertura>feriali 9.00 - 11.00 e 16.00 - 19.00 domenica e festivi 7.30 - 12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>feriali 9.00 - 11.00 e 16.00 - 19.00 domenica e festivi 7.30 - 12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -842,8 +841,8 @@ dipinto della metà del XV secolo.</informazioni_storiche>
     <indirizzo>Via dei Benedettini,16</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>feriali 8.00 - 12.00 e 16.30 - 19.00 domenica e festivi 9.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>feriali 8.00 - 12.00 e 16.30 - 19.00 domenica e festivi 9.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>è possibile visitare anche la Torre di S. Giuseppe Cafasso: 1,5 da lunedì al sabato 10.30 - 15.30 (fino al 26 maggio) da lunedì al sabato 10.00 - 19.00 (dal 27 maggio)</visite></orari>
@@ -872,8 +871,8 @@ dà l'abito a S. Benedetto", eseguito da Giuseppe Tresca, come i due tondi ad ol
     <indirizzo>Corso Vittorio Emanuele</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>dal 16 luglio al 14 settembre da lunedì a sabato 7.30 - 11.00 e 18.15 - 20.00. dal 15 settembre al 15 luglio da lunedì a sabato 7.30 - 12.00 e 17.30 - 20.00. domenica e festivi 8.30 - 13.15 e 18.00 - 20.00 .</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>dal 16 luglio al 14 settembre da lunedì a sabato 7.30 - 11.00 e 18.15 - 20.00. dal 15 settembre al 15 luglio da lunedì a sabato 7.30 - 12.00 e 17.30 - 20.00. domenica e festivi 8.30 - 13.15 e 18.00 - 20.00 .</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -902,8 +901,8 @@ fine del '700 da Ignazio Marabitti e Filippo Siragusa. La volta della navata cen
     <indirizzo>Via Porta di Carini</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>giorni feriali 7.45 -11.00 domenica e festivi 7.45 -12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>giorni feriali 7.45 -11.00 domenica e festivi 7.45 -12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -932,8 +931,8 @@ fine del '700 da Ignazio Marabitti e Filippo Siragusa. La volta della navata cen
     <indirizzo>Piazza Olivella, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni (festivi compresi) 7.50 - 10.00 e 17.00 -18.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni (festivi compresi) 7.50 - 10.00 e 17.00 -18.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -962,8 +961,8 @@ introduce al cappellone rettangolare. La decorazione, eseguita durante il XVIII 
     <indirizzo>Piazza S. Giacomo La Marina, 13</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 9.00 - 11.00 domenica 9.00 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 9.00 - 11.00 domenica 9.00 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -992,8 +991,8 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <indirizzo>Piazza Marina</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 7.00 - 10.00 domenica e festivi 10.30 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 7.00 - 10.00 domenica e festivi 10.30 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1021,8 +1020,8 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <indirizzo>Via Torremuzza</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>chiusa per restauri</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>chiusa per restauri</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1050,8 +1049,8 @@ arcate, rinserrata tra piloni angolari ad arcatelle cieche che si fermano all'al
     <indirizzo>Via Maqueda, 159</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da ottobre a giugno da martedì a sabato 09.00 - 12.00 e 16.00 - 19.00 da luglio a settembre: da martedì a sabato 9.00 - 12.00 il sabato anche 16.30 - 18.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da ottobre a giugno da martedì a sabato 09.00 - 12.00 e 16.00 - 19.00 da luglio a settembre: da martedì a sabato 9.00 - 12.00 il sabato anche 16.30 - 18.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1080,8 +1079,8 @@ coglie la vastità degli spazi. Di notevole interesse sono le due tele di Pietro
     <indirizzo>Via Maqueda, 220</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - sabato 8.30 - 12.30 e 16.30 - 19.30 domenica 8.00 - 10.00 e 16.30 - 19.30 Il 1° sabato del mese la chiesa apre dalle 16.30 alle 19.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>lunedì - sabato 8.30 - 12.30 e 16.30 - 19.30 domenica 8.00 - 10.00 e 16.30 - 19.30 Il 1° sabato del mese la chiesa apre dalle 16.30 alle 19.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1111,8 +1110,8 @@ a canonica.</informazioni_storiche>
     <indirizzo>Via Bentivegna, 62/b</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
-    <orari><apertura>giorni feriali 8.00 - 12.00 e 16.00 - 20.45 domenica e festivi 8.00 - 12.30 e 18.30 - 21.30 nel mese di agosto feriali 16.00 - 20.45 festivi 8.00 - 12.30 e 18.30 - 21.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>giorni feriali 8.00 - 12.00 e 16.00 - 20.45 domenica e festivi 8.00 - 12.30 e 18.30 - 21.30 nel mese di agosto feriali 16.00 - 20.45 festivi 8.00 - 12.30 e 18.30 - 21.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1140,8 +1139,8 @@ a canonica.</informazioni_storiche>
     <indirizzo>Piazza Indipendenza</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 08.15 - 17.40 domenica e festivi 08.15 - 13.00 (ultimo ingresso ore 12.15)</apertura>
-    <chiusura>Giorni di chiusura: 25 dicembre e 1 gennaio Giorni di chiusura anticipata: i giorni 15 luglio e 4 settembre la chiusura è prevista alle ore 13.00. Nei giorni 24 e 31 dicembre, quando non sono festivi, la chiusura è prevista alle ore 15.00.</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 08.15 - 17.40 domenica e festivi 08.15 - 13.00 (ultimo ingresso ore 12.15)</apertura>
+    <chiusura>Giorni di chiusura: 25 dicembre e 1 gennaio Giorni di chiusura anticipata: i giorni 15 luglio e 4 settembre la chiusura è prevista alle ore 13.00. Nei giorni 24 e 31 dicembre, quando non sono festivi, la chiusura è prevista alle ore 15.00.</chiusura><note></note>
     <prezzi>lunedì, venerdì, sabato e domenica è possibile visitare sia la Cappella Palatina che il Palazzo Reale al costo di ¿ 8.50 (ridotto ¿ 6.50)</prezzi>
     <servizi>Funzione religiosa dalle 09.45 alle 11.15: non sono ammessi visitatori</servizi>
     <visite></visite></orari>
@@ -1170,8 +1169,8 @@ Cappella ha tre navate separate da dieci colonne, cinque per lato, di granito eg
     <indirizzo>Piazza del Carmine</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Tutti i giorni 9.00 -11.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Tutti i giorni 9.00 -11.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1199,8 +1198,8 @@ Cappella ha tre navate separate da dieci colonne, cinque per lato, di granito eg
     <indirizzo>Piazza Indipendenza, 9</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni 7.00 - 12.00 e 16.30 - 19.30</apertura>
-    <chiusura>chiusa lunedì mattina</chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni 7.00 - 12.00 e 16.30 - 19.30</apertura>
+    <chiusura>chiusa lunedì mattina</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1229,8 +1228,8 @@ fuochi, una chiesetta chiamata "S. Maria dei Rimedi". Nel 1610 la chiesetta venn
     <indirizzo>Via Dei Benedettini</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 9.00 - 19.00 lunedì, domenica e festivi infrasettimanali: 9.00 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 9.00 - 19.00 lunedì, domenica e festivi infrasettimanali: 9.00 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Prezzo ¿ 6,00 Prezzo ridotto insegnanti e ragazzi ¿ 3 ;Possibilità di acquisto biglietto cumulativo per: S.Giovanni degli Eremiti, Chiostro di Monreale, Zisa e Cuba costo: 12 validità 2 gg. ridotto 50% per insegnanti+alunni; gratis per i minorenni e gli over 65.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1259,8 +1258,8 @@ secolo. Esso si presenta di forma rettangolare, con gli archi a sesto acuto su c
     <indirizzo>Via Valverde, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>orario invernale (novembre - marzo): lunedì - sabato 9.00 - 16.00 orario estivo (aprile - ottobre):lunedì - venerdì 9.00 - 18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>orario invernale (novembre - marzo): lunedì - sabato 9.00 - 16.00 orario estivo (aprile - ottobre):lunedì - venerdì 9.00 - 18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1288,8 +1287,8 @@ secolo. Esso si presenta di forma rettangolare, con gli archi a sesto acuto su c
     <indirizzo>Via Nunzio Nasi, 18</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - sabato 9.00 - 12.00 e dalle 16.30 - 18.30 domenica e festivi dalle 9.00 alle 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>lunedì - sabato 9.00 - 12.00 e dalle 16.30 - 18.30 domenica e festivi dalle 9.00 alle 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1318,8 +1317,8 @@ orologio meccanico, non più esistente.</informazioni_storiche>
     <indirizzo>Via Santo Spirito</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Tutti i giorni 9.00 - 12.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Tutti i giorni 9.00 - 12.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1348,8 +1347,8 @@ fantasia, riportarono alla luce le strutture normanne. Infatti l'edificio rappre
     <indirizzo>Corso Vittorio Emanuele</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>giovedì 12.30 - 16.30 sabato 16.30 - 19.30 3° sabato del mese 17.30 - 19.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>giovedì 12.30 - 16.30 sabato 16.30 - 19.30 3° sabato del mese 17.30 - 19.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1378,8 +1377,8 @@ dipinti del XVIII secolo, in parte recuperati, ed era dotata di un magnifico org
     <indirizzo>Via Porta Carini, 37</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a venerdì 8.00 - 12.00 domenica 8.00 - 12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da martedì a venerdì 8.00 - 12.00 domenica 8.00 - 12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1408,8 +1407,8 @@ affrescato, in cui si conservano alcuni antichi arredi.</informazioni_storiche>
     <indirizzo>Piazza Marina</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>Momentaneamente chiusa per restauro</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>Momentaneamente chiusa per restauro</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1438,8 +1437,8 @@ ad archi centrici, coevo alla chiesa o di poco precedente, che venne chiuso ed u
     <indirizzo>Piazza Kalsa</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica 7.00 -11.00 e 16.00 -19.00</apertura>
-    <chiusura>lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 7.00 -11.00 e 16.00 -19.00</apertura>
+    <chiusura>lunedì</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1468,8 +1467,8 @@ Teresa e di S. Anna di Giacomo Serpotta e, alle pareti, quattro quadri, opera di
     <indirizzo>Piazza Bellini, 3</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 8.00 - 13.00 e 15.30 - 19.00 domenica e fesstivi 8.30 - 9.45 e 11.45 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 8.00 - 13.00 e 15.30 - 19.00 domenica e fesstivi 8.30 - 9.45 e 11.45 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1498,8 +1497,8 @@ realizzati da Olivio Sozzi e Guglielmo Borremans. Il profondo presbiterio quadra
     <indirizzo>Piazza Magione, 44</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 8.45 - 11.45 e 15.00 -18.00 domenica e festivi: 8.45 - 12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 8.45 - 11.45 e 15.00 -18.00 domenica e festivi: 8.45 - 12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1528,8 +1527,8 @@ chiesa. Internamente la chiesa presenta la snellezza propria dello stile gotico,
     <indirizzo>Piazza Giuseppe Verdi</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica dalle 9,30 alle 17,00</apertura>
-    <chiusura>lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica dalle 9,30 alle 17,00</apertura>
+    <chiusura>lunedì</chiusura><note></note>
     <prezzi>Biglietto intero: ¿ 8,00 Biglietto ridotto: ¿ 5,00 (meno di 18 anni, più di 65) Biglietto ridotto gruppi (minimo 20 persone): ¿ 6,00 Biglietto ridotto scolaresche: ¿ 3,00 Ingresso gratuito per bambini con meno di sei anni.</prezzi>
     <servizi></servizi>
     <visite>Informazioni e prenotazioni per gruppi: telefono 0916053267</visite></orari>
@@ -1559,8 +1558,8 @@ di alcune riprese del film Il padrino - Parte III di Francis Ford Coppola, con A
     <indirizzo>Piazza Ruggero Settimo, 15</indirizzo>
     <cap>90139</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visitabile solo su prenotazione al tel. 091.6072524</visite></orari>
@@ -1590,8 +1589,8 @@ ne fece nulla; per oltre vent'anni il teatro principale per la lirica della citt
     <indirizzo>Piazzetta dei Bianchi</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica 9.00 - 12.30</apertura>
-    <chiusura>Lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 9.00 - 12.30</apertura>
+    <chiusura>Lunedì</chiusura><note></note>
     <prezzi>Biglietto cumulativo (validità 3 gg.), Galleria Regionale di Palazzo Abatellis, Museo di Palazzo Mirto e Oratorio dei Bianchi Intero: 10.00 Ridotto ¿ 5,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1620,8 +1619,8 @@ e classicheggianti dei secoli XVII e XVIII. Alle spalle della grande aula orator
     <indirizzo>Via Monteleone, 50</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>chiuso al pubblico</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>chiuso al pubblico</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1650,8 +1649,8 @@ tela col "Martirio di S. Caterina" del 1609 è opera di Giuseppe Salerno. Sulla 
     <indirizzo>Via Roma 320 / A</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>chiuso per restauro</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>chiuso per restauro</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1679,8 +1678,8 @@ tela col "Martirio di S. Caterina" del 1609 è opera di Giuseppe Salerno. Sulla 
     <indirizzo>Via dell'Immacolatella, 5</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni 10.00 -18.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni 10.00 -18.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1709,8 +1708,8 @@ che introduce il cappellone, su cui poggia la figura di "S. Francesco che riceve
     <indirizzo>Via dei Bambinai, 2</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orario invernale (novembre-marzo): lunedì - sabato 9.00 -16.00 Orario estivo (aprile - ottobre): lunedì - venerdì 9.00 -18.00 sabato 9.00 - 15.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orario invernale (novembre-marzo): lunedì - sabato 9.00 -16.00 Orario estivo (aprile - ottobre): lunedì - venerdì 9.00 -18.00 sabato 9.00 - 15.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Biglietto singolo ¿ 5,00 Il biglietto cumulativo per visitare le chiese di S. Giorgio dei Genovesi, S. Maria in Valverde e S. Cita e gli oratori di S.Cita e del SS. Rosario. Biglietteria Chiesa di S.Cita ViaValverde, 1</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1740,8 +1739,8 @@ alternano le statue delle dodici Virtù, vero capolavoro serpottiano in cui si r
     <indirizzo>Piazza Monte di Pietà</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - venerdì 10.00 - 13.00 e 16.30 - 18.00 sabato e domenica 10.00 - 13.00 solo su prenotazione</apertura>
-    <chiusura>chiuso nei giorni festivi</chiusura>
+    <orari><giorni></giorni><apertura>lunedì - venerdì 10.00 - 13.00 e 16.30 - 18.00 sabato e domenica 10.00 - 13.00 solo su prenotazione</apertura>
+    <chiusura>chiuso nei giorni festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1769,8 +1768,8 @@ alternano le statue delle dodici Virtù, vero capolavoro serpottiano in cui si r
     <indirizzo>Via Porta Sant' Agata, 5</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>domenica 9.00 - 12.00</apertura>
-    <chiusura>chiuso da lunedì a sabato</chiusura>
+    <orari><giorni></giorni><apertura>domenica 9.00 - 12.00</apertura>
+    <chiusura>chiuso da lunedì a sabato</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Possibilità di visitare l'Oratorio con prenotazione telefonica.</visite></orari>
@@ -1799,8 +1798,8 @@ volta. A questa sala è collegato il colatoio dove avveniva l'essicazione dei ca
     <indirizzo>Via Valverde, 3</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>ORARIO INVERNALE (Novembre-Marzo): dal lunedì al sabato ore 9.00-16.00 ORARIO ESTIVO (Aprile - Ottobre): dal lunedì al venerdì ore 9.00-18.00 sabato 9.00 - 15.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>ORARIO INVERNALE (Novembre-Marzo): dal lunedì al sabato ore 9.00-16.00 ORARIO ESTIVO (Aprile - Ottobre): dal lunedì al venerdì ore 9.00-18.00 sabato 9.00 - 15.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Il biglietto è cumulativo per visitare le chiese di S. Giorgio dei Genovesi, S. Maria in Valverde e S. Cita e gli oratori di S.Cita e del SS. Rosario Biglietteria: Uffici Chiesa di S. Cita Via Valverde.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1829,8 +1828,8 @@ architettoniche; sui timpani, sulle mensole e sui drappeggi sono putti e statue;
     <indirizzo>Via Messina Marine, 32</indirizzo>
     <cap>90123</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Il sito è visitabile soltanto in occasione di mostre e/o eventi</visite></orari>
@@ -1858,8 +1857,8 @@ architettoniche; sui timpani, sulle mensole e sui drappeggi sono putti e statue;
     <indirizzo>Corso Calatafimi, 217</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>visitabile solo in occasione di mostre o eventi</visite></orari>
@@ -1889,8 +1888,8 @@ di rappresentanza mentre un'altra parte è proprietà della Sovraintendenza ai B
     <indirizzo>Piazza dei Quartieri, 2</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 9.00 - 13.30 e 16.00 - 19.30 domenica 9.00-12.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 9.00 - 13.30 e 16.00 - 19.30 domenica 9.00-12.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1918,8 +1917,8 @@ di rappresentanza mentre un'altra parte è proprietà della Sovraintendenza ai B
     <indirizzo>Via Paolo Gili, 4</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica 09.00 - 19.00</apertura>
-    <chiusura>lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 09.00 - 19.00</apertura>
+    <chiusura>lunedì</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -1948,8 +1947,8 @@ Sperimentale di Cinematografia.Dal 2012 è sede anche di ZAC_ Zisa Zona Arti Con
     <indirizzo>Via Sant'Anna, 21</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Dal martedì alla domenica 9.30 - 18.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Dal martedì alla domenica 9.30 - 18.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Intero euro 7,00 Ridotto euro 5,00</prezzi>
     <servizi></servizi>
     <visite>La prenotazione delle visite guidate è obbligatoria (gruppi max 25 persone). Da lunedì a venerdì ore 9,30 - 13,00</visite></orari>
@@ -1979,8 +1978,8 @@ italiano e il Novecento in Sicilia.</informazioni_storiche>
     <indirizzo>Via Alloro, 4</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a venerdì 9.00 - 18.00 (orario continuato) sabato e domenica 9.00 - 13.00</apertura>
-    <chiusura>lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a venerdì 9.00 - 18.00 (orario continuato) sabato e domenica 9.00 - 13.00</apertura>
+    <chiusura>lunedì</chiusura><note></note>
     <prezzi>Intero ¿ 8.00 Ridotto ¿ 4,00 Ingresso gratuito per i cittadini della Comunità Europea di età inferiore ai 18 anni e superiore ai 65 anni.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2009,8 +2008,8 @@ Eleonora d'Aragona eseguito da Francesco Laurana; l'intensa "Annunziata" di Anto
     <indirizzo>Via Vittorio Emanuele, 365</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2038,8 +2037,8 @@ Eleonora d'Aragona eseguito da Francesco Laurana; l'intensa "Annunziata" di Anto
     <indirizzo>Piazza Guglielmo il Buono</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato dalle 9.00 alle 19.00 lunedì, domenica e festivi infrasettimanali dalle 9.00 alle 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato dalle 9.00 alle 19.00 lunedì, domenica e festivi infrasettimanali dalle 9.00 alle 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2068,8 +2067,8 @@ diversi paesi del bacino del Mediterraneo.</informazioni_storiche>
     <indirizzo>Via Arcivescovado, 2</indirizzo>
     <cap>90046</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 9.00 - 13.00 e 14.30 - 18.30 domenica e festivi 9.00 - 12.00 e 14.30 - 18.30</apertura>
-    <chiusura>chiuso lunedì</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 9.00 - 13.00 e 14.30 - 18.30 domenica e festivi 9.00 - 12.00 e 14.30 - 18.30</apertura>
+    <chiusura>chiuso lunedì</chiusura><note></note>
     <prezzi>Biglietto ¿ 4,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2097,8 +2096,8 @@ diversi paesi del bacino del Mediterraneo.</informazioni_storiche>
     <indirizzo>Via Duca degli Abruzzi,1</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica 09.00 - 18.00</apertura>
-    <chiusura>lunedì chiuso</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 09.00 - 18.00</apertura>
+    <chiusura>lunedì chiuso</chiusura><note></note>
     <prezzi>Ingresso gratuito</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2127,8 +2126,8 @@ che illustrano, attraverso le varie dominazioni cui è stata sottoposta la Sicil
     <indirizzo>Via Rammacca, 9</indirizzo>
     <cap>90011</cap>
     <citta>Bagheria</citta>
-    <orari><apertura>da martedì a domenica 9.30 - 14.00 e 15.00 - 19.30</apertura>
-    <chiusura>lunedì chiuso chiusura il 25 dicembre e il 1 gennaio</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 9.30 - 14.00 e 15.00 - 19.30</apertura>
+    <chiusura>lunedì chiuso chiusura il 25 dicembre e il 1 gennaio</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2156,8 +2155,8 @@ che illustrano, attraverso le varie dominazioni cui è stata sottoposta la Sicil
     <indirizzo>Via Matteo Bonello, 2</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a venerdì 9.30-13.30 sabato 10.00-18.00 domenica e festivi 9.30-13.30</apertura>
-    <chiusura>Lunedì chiuso</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a venerdì 9.30-13.30 sabato 10.00-18.00 domenica e festivi 9.30-13.30</apertura>
+    <chiusura>Lunedì chiuso</chiusura><note></note>
     <prezzi>Intero ¿ 4,50 Scontato ¿ 3,00 Ridotto ¿ 2,00 Cumulativo Cattedrale + Museo ¿ 5,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2187,8 +2186,8 @@ Giovane cavaliere giacente attribuito a Francesco Laurana, il paliotto con la Pr
     <indirizzo>Via Paolo Gili, 4</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a giovedì 9.00-17.00 venerdì e sabato 9.00-13.00</apertura>
-    <chiusura>domenica chiuso</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a giovedì 9.00-17.00 venerdì e sabato 9.00-13.00</apertura>
+    <chiusura>domenica chiuso</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2216,8 +2215,8 @@ Giovane cavaliere giacente attribuito a Francesco Laurana, il paliotto con la Pr
     <indirizzo>Via Vittorio Emanuele, 429</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a venerdì 8.30 - 19.00 sabato 8.30 - 13.30</apertura>
-    <chiusura>chiusa domenica e festivi</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a venerdì 8.30 - 19.00 sabato 8.30 - 13.30</apertura>
+    <chiusura>chiusa domenica e festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2246,8 +2245,8 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <indirizzo>Via Sant'Anna, 21</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a venerdì 9.00 - 13.00</apertura>
-    <chiusura>sabato e domenica chiusa</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a venerdì 9.00 - 13.00</apertura>
+    <chiusura>sabato e domenica chiusa</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2275,8 +2274,8 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <indirizzo>Piazza Indipendenza, 1</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Biblioteca consultabile solo su appuntamento</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Biblioteca consultabile solo su appuntamento</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2304,8 +2303,8 @@ ordine è caratterizzato dal grande finestrone, volute e mensole aggettanti. Nel
     <indirizzo>Via Filippo Patti</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>martedì' e giovedì: dalle 9,00 alle 18,00 mercoledì, venerdì, sabato, domenica e festivi: dalle 9,00 alle 13,30</apertura>
-    <chiusura>lunedì chiuso</chiusura>
+    <orari><giorni></giorni><apertura>martedì' e giovedì: dalle 9,00 alle 18,00 mercoledì, venerdì, sabato, domenica e festivi: dalle 9,00 alle 13,30</apertura>
+    <chiusura>lunedì chiuso</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2335,8 +2334,8 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <indirizzo>Parco della Favorita</indirizzo>
     <cap>90151</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>chiusa al pubblico per inagibilità territoriale.</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>chiusa al pubblico per inagibilità territoriale.</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2364,8 +2363,8 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <indirizzo>Via Gualtiero da Caltagirone</indirizzo>
     <cap>90149</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>chiuse al pubblico per inagibilità territoriale</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>chiuse al pubblico per inagibilità territoriale</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2393,8 +2392,8 @@ accesso, una torre circolare, e sono riemersi i fossati occidentali.</informazio
     <indirizzo>Corso Calatafimi,100</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 9.00 - 19.00 domenica, lunedì e festivi infrasettimanali dalle 9.00 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 9.00 - 19.00 domenica, lunedì e festivi infrasettimanali dalle 9.00 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2423,8 +2422,8 @@ incinerazione. Tra febbraio e giugno del 2004 si è completato lo scavo di quest
     <indirizzo>Fondo Picciullo</indirizzo>
     <cap></cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Biglietto: 10,00 ridotto ¿ 8 per gruppi min 15 pax.</prezzi>
     <servizi></servizi>
     <visite>Visite effettuabili solo su prenotazione al 3498178288 o 091329407</visite></orari>
@@ -2453,8 +2452,8 @@ notizia bibliografica dei Qanat risale al 1722 ma le opere cunicolari del Gesuit
     <indirizzo>Piazza Vittoria</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visitabile su prenotazione</visite></orari>
@@ -2484,8 +2483,8 @@ carattere termale. Dall'atrio, attraverso una sorta di vestibolo, decorato al ce
     <indirizzo>Via Nunzio Nasi, 18</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a venerdì 9.00 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a venerdì 9.00 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Biglietto intero ¿ 2,50 Biglietto ridotto: 1,50 (studenti)</prezzi>
     <servizi></servizi>
     <visite>Visitabile su prenotazione per gruppi telefonando al 3392937159.</visite></orari>
@@ -2513,8 +2512,8 @@ carattere termale. Dall'atrio, attraverso una sorta di vestibolo, decorato al ce
     <indirizzo>Piazza Duomo</indirizzo>
     <cap>90046</cap>
     <citta>Monreale</citta>
-    <orari><apertura>lunedì, domenica e festivi infrasettimanali: 9.00 - 13.00 martedì - sabato: 9.00 - 19.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>lunedì, domenica e festivi infrasettimanali: 9.00 - 13.00 martedì - sabato: 9.00 - 19.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2543,8 +2542,8 @@ stilizzato, con figure in piedi, teste e foglie a rilievo. L'acqua fuoriesce in 
     <indirizzo>Piazza Guglielmo il Buono</indirizzo>
     <cap>90135</cap>
     <citta>Palermo</citta>
-    <orari><apertura>martedì - sabato dalle 9.00 alle 19.00 lunedì, domenica e festivi infrasettimanali dalle 9.00 alle 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>martedì - sabato dalle 9.00 alle 19.00 lunedì, domenica e festivi infrasettimanali dalle 9.00 alle 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2573,8 +2572,8 @@ in senso rotatorio. Il pavimento della sala è attraversato da una canaletta che
     <indirizzo>Corso Calatafimi,100</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>martedì - sabato 9.00 - 19.00 domenica, lunedì e festivi infrasettimanali 9.00 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>martedì - sabato 9.00 - 19.00 domenica, lunedì e festivi infrasettimanali 9.00 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Biglietto ridotto (18-25 anni): 1.00; under 18 e over 65 gratuito. Ingresso libero per gli appartenenti alle facoltà di lettere e filosofia, storia dell'arte e architettura muniti di tesserino di riconoscimento.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2603,8 +2602,8 @@ necessario per rinfrescare l'aria. La sala centrale era abbellita da muqarnas, s
     <indirizzo>Via di Villa Napoli</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>Chiusa momentaneamente per restauro</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>Chiusa momentaneamente per restauro</chiusura><note></note>
     <prezzi>¿ 2,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2633,8 +2632,8 @@ necessario per rinfrescare l'aria. La sala centrale era abbellita da muqarnas, s
     <indirizzo>Vicolo Castellaccio</indirizzo>
     <cap>90124</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visitabile su prenotazione in base all'andamento dei lavori di restauro</visite></orari>
@@ -2663,8 +2662,8 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <indirizzo>Via Matteo Bonello</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Il sito è aperto solo in occasione di eventi e/o mostre</visite></orari>
@@ -2692,8 +2691,8 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <indirizzo>Via Matteo Bonello, 2</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2721,8 +2720,8 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <indirizzo>Piazza Bologni, 18</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>Chiuso per restauri</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>Chiuso per restauri</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2750,8 +2749,8 @@ Santi Filippo e Giacomo, posta sul lato nord-occidentale del castello, si presen
     <indirizzo>Via Bara All'Olivella, 2</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>periodo novembre - febbraio da martedì a venerdì 9.30 - 14.30 sabato e domenica 9.30 - 19.30 periodo marzo - ottobre da martedì a domenica: 9.30 - 19.30</apertura>
-    <chiusura>lunedì chiuso</chiusura>
+    <orari><giorni></giorni><apertura>periodo novembre - febbraio da martedì a venerdì 9.30 - 14.30 sabato e domenica 9.30 - 19.30 periodo marzo - ottobre da martedì a domenica: 9.30 - 19.30</apertura>
+    <chiusura>lunedì chiuso</chiusura><note></note>
     <prezzi>Il costo del biglietto è al prezzo intero di 7 euro; ridotto di 5 euro (per gruppi di almeno 15 persone, maggiori di 65 anni e categorie convenzionate); gratuito per le scuole e minori di 18 anni. L'ingresso alla biblioteca è gratuito.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2780,8 +2779,8 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <indirizzo>Via Garibaldi, 44</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2809,8 +2808,8 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <indirizzo>Via Maqueda, 100</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>lunedì - venerdì 9.30 - 10.30, 11.30 - 12.30 e 15.30 - 16.30</apertura>
-    <chiusura>sabato, domenica e festivi chiuso</chiusura>
+    <orari><giorni></giorni><apertura>lunedì - venerdì 9.30 - 10.30, 11.30 - 12.30 e 15.30 - 16.30</apertura>
+    <chiusura>sabato, domenica e festivi chiuso</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2838,8 +2837,8 @@ rappresenta un raro esempio ancora esistente di composizione architettonica lign
     <indirizzo>Piazza Indipendenza</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>venerdì - sabato - lunedì 8.15 - 17.40 (ultimo turno ore 17.00) domenica e festivi 8.15 - 13.00 (ultimo turno ore 12.15)</apertura>
-    <chiusura>Giorni di chiusura anticipata: i giorni 15 luglio e 4 settembre la chiusura è prevista alle ore 13.00. Nei giorni 24 e 31 dicembre, quando non sono festivi, la chiusura è prevista alle ore 15.00.</chiusura>
+    <orari><giorni></giorni><apertura>venerdì - sabato - lunedì 8.15 - 17.40 (ultimo turno ore 17.00) domenica e festivi 8.15 - 13.00 (ultimo turno ore 12.15)</apertura>
+    <chiusura>Giorni di chiusura anticipata: i giorni 15 luglio e 4 settembre la chiusura è prevista alle ore 13.00. Nei giorni 24 e 31 dicembre, quando non sono festivi, la chiusura è prevista alle ore 15.00.</chiusura><note></note>
     <prezzi>Costi: intero ¿ 8,00 - ridotto ¿ 5,00 per ragazzi dai 18 ai 25 anni ed ed over 65, facenti parte della Comunità Europea e corpo docente. Gratuito x scolaresche (previa prenotazione) sotto 18. Nei giorni di lunedì, venerdì, sabato e domenica è possibile acquistare il pacchetto Palazzo Reale + Cappella Palatina a ¿ 8.50, ridotto ¿ 6.50.</prezzi>
     <servizi>Per motivi istituzionali gli Appartamenti Reali possono essere interdetti in modo imprevisto Giorni di chiusura: 25 dicembre e 1 gennaio.</servizi>
     <visite></visite></orari>
@@ -2868,8 +2867,8 @@ stati collocati dei mosaici a motivi naturalistici su un fondo di tessere dorate
     <indirizzo>Via Dante, 53</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2898,8 +2897,8 @@ per mostre temporanee.</informazioni_storiche>
     <indirizzo>Piazza Pretoria, 1</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 9.00 - 13.00 e 15.00 - 18.00</apertura>
-    <chiusura>chiuso domenica e festivi</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 9.00 - 13.00 e 15.00 - 18.00</apertura>
+    <chiusura>chiuso domenica e festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2928,8 +2927,8 @@ dove si riunisce la Giunta Comunale; la Sala delle Lapidi, così chiamata per le
     <indirizzo>Via G. Garibaldi, 23</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 9.00 - 13.30</apertura>
-    <chiusura>chiuso domenica, lunedì e festivi</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 9.00 - 13.30</apertura>
+    <chiusura>chiuso domenica, lunedì e festivi</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2958,8 +2957,8 @@ secoli. Di particolare interesse è la sala da ballo dal soffitto affrescato da 
     <indirizzo>Via Vittorio Emanuele, 365</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a domenica 10.00 - 20.00</apertura>
-    <chiusura>lunedì chiuso</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a domenica 10.00 - 20.00</apertura>
+    <chiusura>lunedì chiuso</chiusura><note></note>
     <prezzi>¿ 6,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -2988,8 +2987,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Piazza Marina, 46</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Il sito è visitabile su prenotazione.</visite></orari>
@@ -3017,8 +3016,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Via Lincoln, 71</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Non visitabile tranne che in occasione di mostre.</visite></orari>
@@ -3046,8 +3045,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Via Merlo, 2</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Da martedì a sabato 9.00 -18.00.</apertura>
-    <chiusura>Domenica, lunedì e festivi chiuso.</chiusura>
+    <orari><giorni></giorni><apertura>Da martedì a sabato 9.00 -18.00.</apertura>
+    <chiusura>Domenica, lunedì e festivi chiuso.</chiusura><note></note>
     <prezzi>¿ 4,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3076,8 +3075,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Via del IV Aprile, 2</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Sede del Museo Enologico.</servizi>
     <visite>Il sito è visitabile su prenotazione.</visite></orari>
@@ -3105,8 +3104,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Via Maqueda, 83</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Il palazzo è visitabile soltanto in occasione di mostre e/o eventi.</visite></orari>
@@ -3134,8 +3133,8 @@ ed Emilio Isgro', fino a Croce Taravella, Alessandro Bazan, Laboratorio Saccardi
     <indirizzo>Via delle Pergole, 74</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orari di apertura dal lunedì al venerdì 9.00 - 13.00 mercoledi 15.30 - 17.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orari di apertura dal lunedì al venerdì 9.00 - 13.00 mercoledi 15.30 - 17.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi>sede della Biblioteca etnografica.</servizi>
     <visite></visite></orari>
@@ -3165,8 +3164,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Piazza Niscemi</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Edificio: lunedì - sabato (previo accordo) Parco: tutti i giorni dalle 9.00 al tramonto domenica e festivi 9.00 - 13.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Edificio: lunedì - sabato (previo accordo) Parco: tutti i giorni dalle 9.00 al tramonto domenica e festivi 9.00 - 13.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3194,8 +3193,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Viale Regina Margherita, 38</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 9.00 - 13.30</apertura>
-    <chiusura>chiuso domenica, lunedì e festivi.</chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 9.00 - 13.30</apertura>
+    <chiusura>chiuso domenica, lunedì e festivi.</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3223,8 +3222,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Via Antonio Salinas, 3</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i i giorni dalle 7.00 al tramonto</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i i giorni dalle 7.00 al tramonto</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visite guidate su prenotazione.</visite></orari>
@@ -3252,8 +3251,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Via Dante, 167</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 9.00 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 9.00 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>l'ingresso alla Villa è gratuito.</prezzi>
     <servizi></servizi>
     <visite>Visita guidata.</visite></orari>
@@ -3281,8 +3280,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Via Francesco Speciale</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da martedì a sabato 09.00 - 18.30 domenica e festivi 09.00 - 13.30</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da martedì a sabato 09.00 - 18.30 domenica e festivi 09.00 - 13.30</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3310,8 +3309,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Via Libertà, 52</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3339,8 +3338,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Via Dante Alighieri, 167</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a sabato 9.00 - 13.00</apertura>
-    <chiusura>domenica e festivi chiuso</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a sabato 9.00 - 13.00</apertura>
+    <chiusura>domenica e festivi chiuso</chiusura><note></note>
     <prezzi>Ingresso gratuito.</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3368,8 +3367,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Viale Lazio</indirizzo>
     <cap>90144</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni dalle 8.30 alle 19.00</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni dalle 8.30 alle 19.00</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3397,8 +3396,8 @@ circa 3 mila volumi donati dal professore Bonomo, oltre a numerosi periodici e a
     <indirizzo>Viale della Libertà, 63</indirizzo>
     <cap>90143</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Tutti i giorni 8.00 - 20.00</apertura>
-    <chiusura>n.b. in caso di condizioni climatiche avverse, il Giardino rimarrà chiuso al pubblico.</chiusura>
+    <orari><giorni></giorni><apertura>Tutti i giorni 8.00 - 20.00</apertura>
+    <chiusura>n.b. in caso di condizioni climatiche avverse, il Giardino rimarrà chiuso al pubblico.</chiusura><note></note>
     <prezzi></prezzi>
     <servizi>all'interno del Giardino servizio "spazio gioco" (bambini da 0 a 3 anni) e "spazio bimbi piccoli" (fino a 5 anni) della "Ludoteca del Giardino",dal Lunedì al Venerdì dalle 9.30 alle 12.30 e dalle 16 alle 19, Sabato dalle 9.30 alle 12.30. Info 091.6268360 / 335.1079380 - www.laludotecadelgiardino.it</servizi>
     <visite>Visite guidate su prenotazione. Per info tel. 091.8431605.</visite></orari>
@@ -3427,8 +3426,8 @@ gruppo dei "Fratelli", nel laghetto centrale, opera di Mario Rutelli. Nell'area 
     <indirizzo>Piazza Marina</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni dalle 8.00 fino al tramonto</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni dalle 8.00 fino al tramonto</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visite guidate su prenotazione. Per info tel. 091.8431605.</visite></orari>
@@ -3457,8 +3456,8 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <indirizzo>Corso Re Ruggero</indirizzo>
     <cap>90134</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a venerdì 9.00 - 13.00 e 15.00 - 18.00 sabato e domenica 9.00 - 13.00</apertura>
-    <chiusura>chiuso i festivi.</chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a venerdì 9.00 - 13.00 e 15.00 - 18.00 sabato e domenica 9.00 - 13.00</apertura>
+    <chiusura>chiuso i festivi.</chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3486,8 +3485,8 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <indirizzo>Via Antonio Salinas, 3</indirizzo>
     <cap>90141</cap>
     <citta>Palermo</citta>
-    <orari><apertura>da lunedì a domenica dalle 7.00 fino al tramonto</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>da lunedì a domenica dalle 7.00 fino al tramonto</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3515,8 +3514,8 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <indirizzo>Via Francesco Speciale</indirizzo>
     <cap>90129</cap>
     <citta>Palermo</citta>
-    <orari><apertura></apertura>
-    <chiusura>Chiuso momentaneamente per restauro.</chiusura>
+    <orari><giorni></giorni><apertura></apertura>
+    <chiusura>Chiuso momentaneamente per restauro.</chiusura><note></note>
     <prezzi>¿ 2,00</prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3544,8 +3543,8 @@ troviamo busti scultorei tra i quali appunto quello di Giuseppe Garibaldi, Rosol
     <indirizzo></indirizzo>
     <cap></cap>
     <citta></citta>
-    <orari><apertura>tutti i giorni dalle 7.30 alle 18.30 (21 ottobre - 21 marzo) tutti i giorni dalle 7.30 alle 18.30 (22 marzo - 20 ottobre)</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni dalle 7.30 alle 18.30 (21 ottobre - 21 marzo) tutti i giorni dalle 7.30 alle 18.30 (22 marzo - 20 ottobre)</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3574,8 +3573,8 @@ di Querce; il Teatro all'Aperto; la Radura delle Palme dove è stata creata un'a
     <indirizzo>Via dei Quartieri, 2</indirizzo>
     <cap>90146</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i i giorni dalle 9.00 al tramonto</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i i giorni dalle 9.00 al tramonto</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite></visite></orari>
@@ -3603,8 +3602,8 @@ di Querce; il Teatro all'Aperto; la Radura delle Palme dove è stata creata un'a
     <indirizzo>Via Lincoln</indirizzo>
     <cap>90133</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni dalle 8.00 fino al tramonto</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni dalle 8.00 fino al tramonto</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi></prezzi>
     <servizi></servizi>
     <visite>Visite guidate su prenotazione. Per info tel. 091.8431605</visite></orari>
@@ -3634,8 +3633,8 @@ orologio solare, eseguito su progetto del matematico Lorenzo Feredici nel 1784 e
     <indirizzo>Piazza Vittorio Emanuele Orlando, 49</indirizzo>
     <cap>90138</cap>
     <citta>Palermo</citta>
-    <orari><apertura>Orari di apertura da lunedì a domenica, aperto tutto il giorno.</apertura>
-    <chiusura></chiusura>
+    <orari><giorni></giorni><apertura>Orari di apertura da lunedì a domenica, aperto tutto il giorno.</apertura>
+    <chiusura></chiusura><note></note>
     <prezzi>Ogni ora o frazione: 1.60, tariffa massima giornaliera (24 ore): 12.00</prezzi>
     <servizi>Parcheggio multipiano interrato, 337 posti auto.</servizi>
     <visite></visite></orari>
@@ -3663,8 +3662,8 @@ orologio solare, eseguito su progetto del matematico Lorenzo Feredici nel 1784 e
     <indirizzo>via Pietro Bonanno</indirizzo>
     <cap>90142</cap>
     <citta>Palermo</citta>
-    <orari><apertura>tutti i giorni 7.30 - 18.30 (orario solare) e fino alle 19.30 (ora legale).</apertura>
-    <chiusura>La grotta rimane chiusa nei giorni feriali dalle 12.30 alle 14.00</chiusura>
+    <orari><giorni></giorni><apertura>tutti i giorni 7.30 - 18.30 (orario solare) e fino alle 19.30 (ora legale).</apertura>
+    <chiusura>La grotta rimane chiusa nei giorni feriali dalle 12.30 alle 14.00</chiusura><note></note>
     <prezzi></prezzi>
     <servizi>Messe: feriali 17.00 (ora legale 18.00); festivi: 11.00 e 17.00 (18.00)</servizi>
     <visite></visite></orari>

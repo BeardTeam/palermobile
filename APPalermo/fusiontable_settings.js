@@ -25,7 +25,7 @@ function queryDetailsCard(nome) {
       queryPage += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"";
       
   function jsonpCallback(data) {
-    console.log(data);
+//     console.log(data);
     var html = "<div>";
     html += "<h4 class='infobox-header'>"+data.nome+"</h4>"; // nome
     html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
@@ -72,8 +72,43 @@ function queryDetailsCard(nome) {
       html += "<div>alle:"+Number(data['divertimento-e-ristoro#orari#chiusura']).toFixed(2)+"</div>";
       html += "<div>note:"+data['divertimento-e-ristoro#orari#note']+"</div>";     
     }
-    /*if (data.tipi.indexOf('divertimento')) { // divertimento section
-    }*/
+
+    if (data.tipi.indexOf('visitare')>=0) {
+      html += "<div class='visitare'>";
+            
+      var orari_note = data['luogo-da-visitare#orari#note'];
+      if (orari_note !== "") {
+	html += "<div><i>Orari:</i> "+orari_note+"</div>";
+      }
+      
+      var orari_servizi = data['luogo-da-visitare#orari#servizi'];
+      if (orari_servizi !== "") {
+	html += "<div><i>Servizi:</i> "+orari_servizi+"</div>";
+      }
+      
+      var orari_visite = data['luogo-da-visitare#orari#visite'];
+      if (orari_visite)
+	html += "<div><i>Visite:</i> "+orari_visite+"</div>";
+      
+      var orari_prezzi = data['luogo-da-visitare#orari#prezzi'];
+      if (orari_prezzi)
+	html += "<div><i>Prezzi:</i> "+orari_prezzi+"</div>";
+      
+      var informazioni_storiche = data['luogo-da-visitare#informazioni-storiche'];
+      if (informazioni_storiche)
+	html += "<div><i>Informazioni storiche:</i> "+informazioni_storiche+"</div>";
+      
+      var note = data['luogo-da-visitare#note'];
+      if (note)
+	html += "<div><i>Note:</i> "+note+"</div>";
+      
+      var gestore_telefono = data['luogo-da-visitare#gestore#telefono'];
+      if (gestore_telefono)
+	html += "<div><i>Gestione:</i> "+gestore_telefono+"</div>";
+      
+      
+      html += "</div>"; // end visitare
+    }
     html += "</div>";
     
     html += "<p><b>Contatti:</b>";
@@ -135,7 +170,8 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
     // See https://developers.google.com/fusiontables/docs/v1/migration_guide for more info
 
     // The encrypted Table ID of your Fusion Table (found under File => About)
-    MapsLib.fusionTableId = "14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
+//     MapsLib.fusionTableId = "14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";    
+    MapsLib.fusionTableId = "1GoRdfUwTRJjyNeuZeE4fLWAh9ksKPXzxSxllPBsh";
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.

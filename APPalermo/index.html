@@ -228,9 +228,9 @@
 	
 	<script type="text/javascript">
 		$(document).on('change', 'select', function() {
-			console.log($(this).val() + "	" + $(this).find("option:selected").text()); // the selected options’s value
+// 			console.log($(this).val() + "	" + $(this).find("option:selected").text()); // the selected options’s value
 			if ($(this).val().indexOf("'ristoro'") !== -1 ) {
-				console.log("Entrato nel caso ristoro");
+// 				console.log("Entrato nel caso ristoro");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleRistoroElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -241,7 +241,7 @@
 				slideToggleConsolatoElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'ristorante'") !== -1 ) {
-				console.log("Entrato nel caso tipi di cucina");
+// 				console.log("Entrato nel caso tipi di cucina");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleCucinaElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -251,7 +251,7 @@
 				slideToggleConsolatoElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'luoghi da visitare'") !== -1 ) {
-				console.log("Entrato nel caso luoghi da visitare");
+// 				console.log("Entrato nel caso luoghi da visitare");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleLuoghiDaVisitareElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -261,7 +261,7 @@
 				slideToggleConsolatoElements(true);
 				slideToggleCucinaElements(true);
 			} else if ($(this).val().indexOf("'consolato'") !== -1 ) {
-				console.log("Entrato nel caso consolato");
+// 				console.log("Entrato nel caso consolato");
 				//slider relativi a consolato appaiono
 				slideToggleConsolatoElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -271,7 +271,7 @@
 				slideToggleCucinaElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'divertimento'") !== -1 ) {
-				console.log("Entrato nel caso divertimento");
+// 				console.log("Entrato nel caso divertimento");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleDivertimentoElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -282,7 +282,7 @@
 				slideToggleConsolatoElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'wine bar','cocktail bar','bar'") !== -1 ) {
-				console.log("Entrato nel caso aperitivo");
+// 				console.log("Entrato nel caso aperitivo");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleAperitivoElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -293,7 +293,7 @@
 				slideToggleConsolatoElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
 			} else if ($(this).val().indexOf("'accoglienza'") !== -1 ) {
-				console.log("Entrato nel caso dove alloggiare");
+// 				console.log("Entrato nel caso dove alloggiare");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleAccoglienzaElements(false);
 				//le altre label e contenitori di tipi specifici scompaiono
@@ -315,15 +315,15 @@
 					|| $(this).val().indexOf("'Hotel'") !== -1 || $(this).val().indexOf("'Bed and Breakfast'") !== -1 
 					|| $(this).val().indexOf("'Affittacamere'") !== -1 || $(this).val().indexOf("'Ostello'") !== -1 
 					|| $(this).val().indexOf("'Casa ferie'") !== -1 || $(this).val().indexOf("'Residence'") !== -1 ) {
-				console.log("Entrato nel caso dei nodi foglia");
+// 				console.log("Entrato nel caso dei nodi foglia");
 				//do nothing
 			} else if ($(this).val().indexOf("'pizzeria'") !== -1 || $(this).val().indexOf("'pub'") !== -1
 					|| $(this).val().indexOf("'american bar'") !== -1 || $(this).val().indexOf("'sushi bar'") !== -1
 					|| $(this).val().indexOf("'street food'") !== -1 || $(this).find("option:selected").text() == "Qualunque tipo di ristoro") {
-				console.log("Entrato nel caso in cui la dropdown dei tipi di cucina deve essere chiusa");
+// 				console.log("Entrato nel caso in cui la dropdown dei tipi di cucina deve essere chiusa");
 				slideToggleCucinaElements(true);
 			} else {
-				console.log("Entrato nel caso dove gli altri elementi devono essere chiusi");
+// 				console.log("Entrato nel caso dove gli altri elementi devono essere chiusi");
 				//tutti gli elementi specifici vengono nascosti se viene
 				//selezionato un tipo non specificato precedentemente
 				slideToggleAccoglienzaElements(true);

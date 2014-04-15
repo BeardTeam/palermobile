@@ -19,7 +19,7 @@ $.extend(MapsLib, {
     searchRadiusCircle: null,
     userPosition:       null,
     nearbyPosition:     null,
-    overrideCenter:     false, 
+    overrideCenter:     false,
     centerQueued:       false,
     ignoreIdle:         false,
     mapState:           true,
@@ -45,7 +45,7 @@ $.extend(MapsLib, {
     mapOverlayLayers:   [],
     mapOverlayOrder:    [],
     // k0z
-    map_centroid:       new google.maps.LatLng(38.115132,13.362185), // center on Palermo if all else fails
+    map_centroid:       new google.maps.LatLng(38.115752,13.36126), // center on Palermo if all else fails
     // end k0z
     defaultZoom:        9,
 
@@ -438,7 +438,7 @@ $.extend(MapsLib, {
 
         // request list of columns
         var qstr = "https://www.googleapis.com/fusiontables/v1/tables/" + MapsLib.fusionTableId + "?maxResults=100&callback=MapsLib.setColumns&key=" + MapsLib.googleApiKey;
-        console.log("Query: " + qstr);
+//         console.log("Query: " + qstr);
         $.ajax({
             url: qstr,
             dataType: "jsonp"
@@ -950,10 +950,10 @@ $.extend(MapsLib, {
                 }
                 break;
 
-                case "slider":
-                {
-					if ($.inArray(cdata.column, MapsLib.numericalColumns) == -1 && $.inArray(cdata.column, MapsLib.dateColumns) == -1)
-						console.log("WARNING: using slider for non-numerical, non-date column (" + cdata.column + ")!  Your searches won't work properly.");
+                case "slider": {                
+		    if ($.inArray(cdata.column, MapsLib.numericalColumns) == -1 && $.inArray(cdata.column, MapsLib.dateColumns) == -1) {
+		      console.log("WARNING: using slider for non-numerical, non-date column (" + cdata.column + ")!  Your searches won't work properly.");
+		    }
                     
                     var safename = MapsLib.safeField(cdata.column);
                     var range = MapsLib.columnRanges[cdata.column];
@@ -1292,7 +1292,7 @@ $.extend(MapsLib, {
     },
     submitSearch: function(whereClause, map, location) {
         //get using all filters
-        console.log("SQL Query: " + whereClause);
+//         console.log("SQL Query: " + whereClause);
 
         MapsLib.searchrecords.setOptions({
           query: {
@@ -1367,7 +1367,7 @@ $.extend(MapsLib, {
 
         var sql = encodeURIComponent(queryStr.join(" "));
         var qstr = "https://www.googleapis.com/fusiontables/v1/query?sql=" + sql + "&callback=" + callback + "&key=" + MapsLib.googleApiKey;
-        console.log("Query: " + qstr);
+//         console.log("Query: " + qstr);
         $.ajax({
             url: qstr,
             dataType: "jsonp"
@@ -1522,7 +1522,7 @@ $.extend(MapsLib, {
             subset = columnRangeQueries.slice(i, i + chunk);
             var sql = encodeURIComponent("SELECT " + subset.join(", ") + " FROM " + MapsLib.fusionTableId);
             var qstr = "https://www.googleapis.com/fusiontables/v1/query?sql=" + sql + "&callback=MapsLib.sliderMinMaxResult&key=" + MapsLib.googleApiKey;
-            console.log("Query: " + qstr);
+//             console.log("Query: " + qstr);
             $.ajax({
                 url: qstr,
                 dataType: "jsonp"

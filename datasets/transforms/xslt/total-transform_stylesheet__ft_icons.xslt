@@ -65,31 +65,31 @@
 	  <informazioni><xsl:value-of select="./divertimento-e-ristoro/informazioni"/></informazioni>
 	</divertimento-e-ristoro>
 	
-	<luoghi-da-visitare>
+	<luogo-da-visitare>
 	  <orari>
-	    <giorni><xsl:value-of select="./orari/giorni"/></giorni>
-	    <apertura><!--xsl:value-of select="./orari/apertura"/--></apertura>
-	    <chiusura><!--xsl:value-of select="./orari/chiusura"/--></chiusura>
-	    <note><!--xsl:value-of select="./orari/apertura"/>  <xsl:value-of select="./orari/chiusura"/--><xsl:value-of select="./orari/note"/></note>
-	    <visite><xsl:value-of select="./orari/visite"/></visite>
-	    <servizi><xsl:value-of select="./orari/servizi"/></servizi>
-	    <prezzi><xsl:value-of select="./orari/prezzi"/></prezzi>
+	    <giorni><xsl:value-of select="./luogo-da-visitare/orari/giorni"/></giorni>
+	    <apertura><!--xsl:value-of select="./luogo-da-visitare/orari/apertura"/--></apertura>
+	    <chiusura><!--xsl:value-of select="./luogo-da-visitare/orari/chiusura"/--></chiusura>
+	    <note><xsl:value-of select="./luogo-da-visitare/orari/apertura"/>  -- <!--xsl:value-of select="./luogo-da-visitare/orari/chiusura"/--><xsl:value-of select="./luogo-da-visitare/orari/note"/></note>
+	    <visite><xsl:value-of select="./luogo-da-visitare/orari/visite"/></visite>
+	    <servizi><xsl:value-of select="./luogo-da-visitare/orari/servizi"/></servizi>
+	    <prezzi><xsl:value-of select="./luogo-da-visitare/orari/prezzi"/></prezzi>
 	  </orari>
-	  <informazioni_storiche><xsl:value-of select="./informazioni_storiche"/></informazioni_storiche>
-	  <note><xsl:value-of select="./note"/></note>
+	  <informazioni-storiche><xsl:value-of select="./luogo-da-visitare/informazioni-storiche"/></informazioni-storiche>
+	  <note><xsl:value-of select="./luogo-da-visitare/note"/></note>
 	  
 	  <gestore>
-	    <nome><xsl:value-of select="./gestore/nome"/></nome>
-	    <indirizzo><xsl:value-of select="./gestore/indirizzo"/></indirizzo>
-	    <cap><xsl:value-of select="./gestore/cap"/></cap>
-	    <localita><xsl:value-of select="./gestore/localita"/></localita>
-	    <mobile><xsl:value-of select="./gestore/mobile"/></mobile>
-	    <telefono><xsl:value-of select="./gestore/telefono"/></telefono>
-	    <fax><xsl:value-of select="./gestore/fax"/></fax>
-	    <email><xsl:value-of select="./gestore/email"/></email>
-	    <web><xsl:value-of select="./gestore/web"/></web>
+	    <nome><xsl:value-of select="./luogo-da-visitare/gestore/nome"/></nome>
+	    <indirizzo><xsl:value-of select="./luogo-da-visitare/gestore/indirizzo"/></indirizzo>
+	    <cap><xsl:value-of select="./luogo-da-visitare/gestore/cap"/></cap>
+	    <localita><xsl:value-of select="./luogo-da-visitare/gestore/localita"/></localita>
+	    <mobile><xsl:value-of select="./luogo-da-visitare/gestore/mobile"/></mobile>
+	    <telefono><xsl:value-of select="./luogo-da-visitare/gestore/telefono"/></telefono>
+	    <fax><xsl:value-of select="./luogo-da-visitare/gestore/fax"/></fax>
+	    <email><xsl:value-of select="./luogo-da-visitare/gestore/email"/></email>
+	    <web><xsl:value-of select="./luogo-da-visitare/gestore/web"/></web>
 	  </gestore>      
-	</luoghi-da-visitare>
+	</luogo-da-visitare>
 	
 	<icon>
 	  <xsl:choose><xsl:when test="contains(tipi,'Agenzia')">shopping</xsl:when><xsl:when test="contains(tipi,'Consolato')">govtbldgs</xsl:when><xsl:when test="tipi-specifici = 'Hotel'"><!--<xsl:choose>

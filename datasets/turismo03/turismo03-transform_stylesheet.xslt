@@ -23,17 +23,17 @@
     <tipi-specifici><xsl:value-of select="tipi-specifici"/></tipi-specifici>
     
     
-    <luoghi-da-visitare>
+    <luogo-da-visitare>
       <orari>
       	<giorni><xsl:value-of select="./orari/giorni"/></giorni>
       	<apertura><!--xsl:value-of select="./orari/apertura"/--></apertura>
       	<chiusura><!--xsl:value-of select="./orari/chiusura"/--></chiusura>
-      	<note><!--xsl:value-of select="./orari/apertura"/> <xsl:value-of select="./orari/chiusura"/> --><xsl:value-of select="./orari/note"/></note>
+      	<note><xsl:value-of select="./orari/apertura"/> -- <!--xsl:value-of select="./orari/chiusura"/> --><xsl:value-of select="./orari/note"/></note>
       	<visite><xsl:value-of select="./orari/visite"/></visite>
       	<servizi><xsl:value-of select="./orari/servizi"/></servizi>
       	<prezzi><xsl:value-of select="./orari/prezzi"/></prezzi>
       </orari>
-      <informazioni_storiche><xsl:value-of select="./informazioni_storiche"/></informazioni_storiche>
+      <informazioni-storiche><xsl:value-of select="./informazioni_storiche"/></informazioni-storiche>
       <note><xsl:value-of select="./note"/></note>
       
       <gestore>
@@ -47,7 +47,7 @@
 	<email><xsl:value-of select="./gestore/email"/></email>
 	<web><xsl:value-of select="./gestore/web"/></web>
       </gestore>      
-    </luoghi-da-visitare>
+    </luogo-da-visitare>
     
   </luogo>
   </xsl:for-each>

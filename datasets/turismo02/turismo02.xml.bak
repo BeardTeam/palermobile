@@ -3708,7 +3708,7 @@
     <email>chapeaupalermo@live.com</email>
     <web/>
     <tipi>ristoro</tipi>
-    <tipi-specifici>Ristorante, pub</tipi-specifici>
+    <tipi-specifici>Ristorante, Pub</tipi-specifici>
     <divertimento-e-ristoro>
       <cucina>mediterranea</cucina>
       <orari>
@@ -3828,7 +3828,7 @@
     <email/>
     <web/>
     <tipi>ristoro</tipi>
-    <tipi-specifici>Ristorante, trattoria</tipi-specifici>
+    <tipi-specifici>Ristorante, Trattoria</tipi-specifici>
     <divertimento-e-ristoro>
       <cucina/>
       <orari>
@@ -4836,7 +4836,7 @@
     <email/>
     <web/>
     <tipi>ristoro</tipi>
-    <tipi-specifici>Ristorante,pizzeria</tipi-specifici>
+    <tipi-specifici>Ristorante, Pizzeria</tipi-specifici>
     <divertimento-e-ristoro>
       <cucina/>
       <orari>

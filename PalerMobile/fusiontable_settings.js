@@ -1,22 +1,12 @@
-/*!
- * Customization file for Fusion Table Mobile Templates
- * See maps_lib.js for license and repository
+/*
+ * Copyleft BeardTeam, 2014
+ * Released under GPLv3
  *
- * REPLACE THE SETTINGS BELOW TO REFER TO YOUR OWN DATA.
- * COLUMN NAMES ARE CASE-SENSITIVE!
+ * Author: Antonio Notarangelo https://plus.google.com/104954524097130358596
+ * Contribution: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
  *
- * Required:
- * 1. Fusion Table IDs
+ * based on https://github.com/sfbrigade/Mobile-Fusion-Tables *
  *
- * Overrides (optional):
- * 2. Search Settings
- *     - Default is a field for every column if you don't set this
- * 3. Custom Content
- *     - Title
- *     - About Page
- *     - Infobox (popup when you click on a location)
- * 4. Map Preferences
- *     - How It Should Use Your Nearby Location
  */
 
 // k0z 
@@ -176,7 +166,7 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.
-    MapsLib.googleApiKey ="AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY";
+    MapsLib.googleApiKey = "AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY";
     
 
     // DONE!  YOU COULD DELETE EVERYTHING AFTER THIS POINT AND STILL HAVE A WORKING APP.
@@ -473,6 +463,7 @@ $.extend(MapsLib, {
       if (tipi == 'ristoro') {
 	html += "<div class='ristoro'><i>"+tipi_specifici;
 	// CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
+	// ONE OF THESE DAYS I'LL CUT YOU
 	var cucina = row['divertimento-e-ristoro_cucina'];
 	if (cucina) {
 	  html += " con particolare cucina "+cucina;

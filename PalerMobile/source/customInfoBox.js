@@ -4,16 +4,23 @@ function customInfoboxHtmlFunction(row, isListView) {
   var html = "";
   // start outer div
   if (isListView == true || isListView == "true") { // specify if list or map
-    console.log("isListView: "+isListView);
-    html += "<div>";
+//    console.log("isListView: "+isListView);
+    html += "<div class='infobox-list' style='margin-top:-40px'>";
   } else {
     html += "<div class='infobox-map'>";
   }
   
   var nome = row.nome;
-  html += "<div class='infobox-header'><b>"+nome+"</b></div>"; // nome
+//  html += "<div";
+//  if (isListView == true || isListView == "true") { 
+//   html += "class='infobox-header'";
+//  }
+//  html += "><b>"+nome+"</b></div>"; // nome
+   html += "<div class='infobox-header' style='margin-top:20px;'><div class='nome'><b>"+nome+"</b></div></div>"; // nome
   
-  html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
+
+  
+  html += "<div class='ui-li-desc infobox-subheader' style='margin-top:-30px;'>"; // start subheader
   
   html += "<div class='tipo'>";
   // start accoglienza
@@ -64,11 +71,11 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='internet'>"; // start email/mobile
   var email = row.email;
   if (email) {
-      html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:15px; margin-top: -2px;'>"+email+"</a></div>";
+      html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:5px; margin-top: -2px;'>"+email+"</a></div>";
   }
   var web = row.web;
   if (web) {
-      html += "<div><i>web:</i> <a href="+web+" style='margin-left:15px;'>"+web+"</a></div>";
+      html += "<div><i>web:</i> <a href="+web+" style='margin-left:5px;'>"+web+"</a></div>";
   }
   
   html += "</div>"; // end email/mobile
@@ -84,11 +91,11 @@ function customInfoboxHtmlFunction(row, isListView) {
   // end dettagli
   // dettagli with page
   html += "<div class='details' style='margin-top:4px;'><a href=#page-details";
-  html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:15px;'>Dettagli</a>";
+  html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:10px;'>Dettagli</a>";
   html += "</div>";
   // end dwp
   
-  html += "</p>"; // end subheader
+  html += "</div>"; // end subheader
   html += "</div>"; // end outer div
   
   return html;

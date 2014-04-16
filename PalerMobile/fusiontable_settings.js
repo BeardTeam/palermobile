@@ -371,7 +371,7 @@ $.extend(MapsLib, {
     aboutPage: " \
         <div> \
         <h3>Info su {title}</h3> \
-        <p>Questa applicazione nasce dall'esigenza dei turisti di avere tutto a portata di smartphone. PalerMobile permette di trovare tutto ciò che un turista desidera da una città come Palermo, dai giardini ai luoghi da visitare, dai ristoranti agli hotel,ecc. Attraverso una interfaccia semplice ed intuitiva è possibile ottenere immediatamente informazioni sulla propria meta, capire in quali orari l'offerta e fruibile e come raggiungerla.</p> \
+        <p>Questa applicazione nasce dall'esigenza dei turisti di avere tutto a portata di smartphone. PalerMobile permette di trovare tutto ciò che un turista desidera da una città come Palermo, dai giardini ai luoghi da visitare, dai ristoranti agli hotel,ecc. Attraverso una interfaccia semplice ed intuitiva è possibile ottenere immediatamente informazioni sulla propria meta, capire in quali orari l'offerta è fruibile e come raggiungerla.</p> \
         <p>PalerMobile è un progetto Open Source rilasciato su licenza GNU/GPL i cui sorgenti sono accessibili tramite questo link: <a href='https://bitbucket.org/BeardTeam/palermobile' target='_blank'>accedi alla repository</a></p> \
         <p> \
         <div>Autori:</div> \
@@ -390,6 +390,7 @@ $.extend(MapsLib, {
     // This will go in your style block.  Useful if customizing your infoboxes.
     customCSS: " \
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
+        .infobox-list { margin-top:-10px; } \
         .infobox-map { width:auto; height:auto;} \
         .infobox-header { display:inline; padding-right: 10px; } \
         .infobox-subheader { padding-top: 3px; } \
@@ -400,7 +401,7 @@ $.extend(MapsLib, {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
-        .internet, .address, .phone, .details { margin-top: 1px; } \
+        .internet, .address, .phone, .details, .nome { margin-left: 10px; } \
         .tipo { margin-top: 2px; } \
     ",
 
@@ -427,7 +428,7 @@ $.extend(MapsLib, {
     
     // start k0z
     customInfoboxHtml: customInfoboxHtmlFunction,
-    customInfoboxHtmlOLDWORK: function(row, isListView) {
+/*    customInfoboxHtmlOLDWORK: function(row, isListView) {
       
       var html = "";
       // start outer div
@@ -502,15 +503,14 @@ $.extend(MapsLib, {
       
       html += "</div>"; // end email/mobile
       
-      // dettagli, pointing to card
-      /*
-      html += "<div><a href=";
-      html += "\"https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
-      html += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"" ;
-      html += " target='_self'>Dettagli</a>";
-      html += "</div>";
-      */
+      // dettagli, pointing to card      
+//      html += "<div><a href=";
+//      html += "\"https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
+//      html += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"" ;
+//      html += " target='_self'>Dettagli</a>";
+//      html += "</div>";      
       // end dettagli
+
       // dettagli with page
       html += "<div class='details' style='margin-top:4px;'><a href=#page-details";
       html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:15px;'>Dettagli</a>";
@@ -522,6 +522,7 @@ $.extend(MapsLib, {
       
       return html;
     },
+   */
     // end k0z
 
     customInfoboxHtmlNO: " \

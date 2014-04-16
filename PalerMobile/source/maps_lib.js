@@ -1618,7 +1618,10 @@ $.extend(MapsLib, {
 
             var row_html = '<li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="d" class="ui-btn ui-btn-icon-right ui-li-has-arrow ui-li ui-btn-up-d"><div class="ui-btn-inner ui-li"><div class="ui-btn-text"><a href="#page-map" id="listrow-' + ix + '" data-transition="slidedown" class="ui-link-inherit">';
             row_html += MapsLib.infoboxContent(row, true);
-            row_html += '</a></div><span class="ui-icon ui-icon-arrow-r ui-icon-shadow">&nbsp;</span></div></li>';
+            row_html += '</a></div>';
+            // k0z
+            row_html += '<span class="ui-icon ui-icon-arrow-r ui-icon-shadow">&nbsp;</span>';
+            row_html += '</div></li>';
 
             $("ul#listview").append(row_html);
 

@@ -131,6 +131,10 @@ function queryDetailsCard(nome) {
     
     $('#details-content').html( html );
   }
+  function failure(arg) {
+     var html = "<div>Spiacente, non è stato possibile ottenere ulteriori dettagli</div>";
+     return html;
+  }
 
   var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
   
@@ -138,8 +142,9 @@ function queryDetailsCard(nome) {
     url: queryPage,
     async: false,
     dataType: 'jsonp',
-    timeout: 2000,
-    success: jsonpCallback
+    timeout: 10000,
+    success: jsonpCallback,
+    failure: failureCallback
   });
   
   return true;

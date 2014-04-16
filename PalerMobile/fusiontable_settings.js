@@ -390,7 +390,7 @@ $.extend(MapsLib, {
     // This will go in your style block.  Useful if customizing your infoboxes.
     customCSS: " \
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
-        .infobox-list { margin-top:-10px; } \
+        .infobox-list { margin-top:-37px; } \
         .infobox-map { width:auto; height:auto;} \
         .infobox-header { display:inline; padding-right: 10px; } \
         .infobox-subheader { padding-top: 3px; } \
@@ -401,8 +401,9 @@ $.extend(MapsLib, {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
-        .internet, .address, .phone, .details, .nome { margin-left: 10px; } \
-        .tipo { margin-top: 2px; } \
+        .internet, .address, .phone, .details, .nome, .accoglienza { margin-left: 10px; } \
+        .internet { margin-top: -10px; } \
+        .tipo { margin: 2px 0px 1px 0px; } \
     ",
 
     // customInfoboxHtml can be defined as a string or a function:
@@ -428,128 +429,9 @@ $.extend(MapsLib, {
     
     // start k0z
     customInfoboxHtml: customInfoboxHtmlFunction,
-/*    customInfoboxHtmlOLDWORK: function(row, isListView) {
-      
-      var html = "";
-      // start outer div
-      if (isListView == true || isListView == "true") { // specify if list or map
-	console.log("isListView: "+isListView);
-	html += "<div>";
-      } else {
-	html += "<div class='infobox-map'>";
-      }
-      
-      var nome = row.nome;
-      html += "<div class='infobox-header'><b>"+nome+"</b></div>"; // nome
-      
-      html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
-      
-      html += "<div class='tipo'>";
-      // start accoglienza
-      var tipi = row.tipi;
-      var tipi_specifici = row['tipi-specifici'];
-      if (tipi == 'accoglienza') {
-	// CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
-	var howStelle = row['accoglienza_stelle'];
-	html += "<div class='accoglienza'><i>"+tipi_specifici;
-	if (howStelle == 1) {
-	  html += " a "+howStelle+" stella";
-	}
-	if (howStelle > 1) {
-	  html += " a "+howStelle+" stelle";
-	}
-	html += "</i></div>";
-      } // end accoglienza
-      // start ristoro
-      if (tipi == 'ristoro') {
-	html += "<div class='ristoro'><i>"+tipi_specifici;
-	// CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
-	// ONE OF THESE DAYS I'LL CUT YOU
-	var cucina = row['divertimento-e-ristoro_cucina'];
-	if (cucina) {
-	  html += " con particolare cucina "+cucina;
-	}
-	html += "</i></div>";
-      } // end ristoro
-      html += "</div>";
-      
-      html += "<div class='address'>"+row.indirizzo+" "+row['numero-civico']; // start address block
-      if (isListView) {
-	if (row.quartiere) {
-	  html += "(quartiere "+row.quartiere+")";
-	}
-      }
-      html += "</div>"; // end address block
-      
-      html += "<div class='phone'>"; // start telefono/mobile
-      if (row.telefono) {
-	  html += "<div><i>tel:</i> "+row.telefono+"</div>";
-      } else { 
-	if (row.mobile) {
-	  html += "<div><i>mobile:</i> "+row.mobile+"</div>";
-	}
-      }
-      html += "</div>"; // end telefono/mobile
-      
-      html += "<div class='internet'>"; // start email/mobile
-      var email = row.email;
-      if (email) {
-	  html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:15px; margin-top: -2px;'>"+email+"</a></div>";
-      }
-      var web = row.web;
-      if (web) {
-	  html += "<div><i>web:</i> <a href="+web+" style='margin-left:15px;'>"+web+"</a></div>";
-      }
-      
-      html += "</div>"; // end email/mobile
-      
-      // dettagli, pointing to card      
-//      html += "<div><a href=";
-//      html += "\"https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
-//      html += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"" ;
-//      html += " target='_self'>Dettagli</a>";
-//      html += "</div>";      
-      // end dettagli
-
-      // dettagli with page
-      html += "<div class='details' style='margin-top:4px;'><a href=#page-details";
-      html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:15px;'>Dettagli</a>";
-      html += "</div>";
-      // end dwp
-      
-      html += "</p>"; // end subheader
-      html += "</div>"; // end outer div
-      
-      return html;
-    },
-   */
     // end k0z
 
-    customInfoboxHtmlNO: " \
-        {{#if isListView}} \
-            <div> \
-        {{else}} \
-            <div class='infobox-map'> \
-        {{/if}} \
-        <div class='score {{row.last_score_category}}'><span id='score-text'>{{row.last_score}}</span></div> \
-        <h4 class='infobox-header'>{{row.name}}</h4> \
-        <p class='ui-li-desc infobox-subheader'> \
-        {{#if isListView}} \
-            {{row.address}}</p> \
-        {{else}} \
-            <strong>Last inspected: {{row.last_inspection_date}}</strong> \
-            <br>{{row.address}}</p> \
-            <p class='ui-li-desc infobox-subheader'> \
-            {{#if row.violations}} \
-                <b>Recent violations ({{row.violations.length}}):</b> \
-                {{#each row.violations}} \
-                    <br>- {{this}} \
-                {{/each}} \
-            {{else}} \
-                <b>Recent violations:</b> None \
-            {{/if}} \
-        {{/if}} \
-        </p></div>",
+
 
     // Infoboxes will also appear (unless blank) on your nearby or search address pins.
     // HTML is OK.  Use "{address}" to denote the entered address for addressPinInfobox.
@@ -575,7 +457,7 @@ $.extend(MapsLib, {
         center: "Palermo, PA, Italy",
 
         // "X miles" or "X meters"
-        radius: "50000 meters"
+        radius: "7000 meters"
     },
 
     // Set useNearbyLocation to false if you don't want to get the user's location.
@@ -595,7 +477,7 @@ $.extend(MapsLib, {
         // false (default)   = never snap to zoom level
         // int               = snap to zoom level if ratio between current and nearby zoom radii
         //                       is greater than this (in either direction)
-        snapToNearbyZoomIfRatioGreaterThan: 8
+        snapToNearbyZoomIfRatioGreaterThan: 14
     },
 
     // mapOverlays is an array of overlays, where each overlay can be either of the following:

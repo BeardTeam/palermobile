@@ -264,3 +264,4 @@ function slideToggleConsolatoElements(visibility) {
 		$('#sc_max_consolato_orari_chiusura').slider('refresh');
 	}
 }
+

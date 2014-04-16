@@ -8245,7 +8245,8 @@ $.widget( "mobile.selectmenu", $.mobile.widget, $.extend( {
 		
 		//visualizzo inizialmente solo le checkbox, i dropwdown e gli slider generici
 		//quando l'anchor page-search viene caricato
-		console.log("Richiamata funzione di inizializzazione");
+//		console.log("Richiamata funzione di inizializzazione");
+//		eventualmente sposta le modifiche grosse che hai fatto in questo file in un altro, e qui invochi solo la funzione
 		$('#search_radius').closest('.ui-select').show();
 		$('#sc_Cosa_cerchi').closest('.ui-select').show();
 		$('div.ui-checkbox').hide();

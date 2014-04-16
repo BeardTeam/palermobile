@@ -47,7 +47,7 @@ $.extend(MapsLib, {
     // k0z
     map_centroid:       new google.maps.LatLng(38.115752,13.36126), // center on Palermo if all else fails
     // end k0z
-    defaultZoom:        9,
+    defaultZoom:        11,
 
     // markers
     addrMarker:         null,
@@ -351,6 +351,7 @@ $.extend(MapsLib, {
                                 MapsLib.currentPinpoint = MapsLib.defaultMapBounds.center;
                                 MapsLib.map.setCenter(MapsLib.defaultMapBounds.center);
                                 MapsLib.map.setZoom(MapsLib.defaultZoom);
+//                                MapsLib.map.setZoom(12);
                                 MapsLib.map_centroid = MapsLib.defaultMapBounds.center;
                             } 
                             else
@@ -379,6 +380,7 @@ $.extend(MapsLib, {
         {
             MapsLib.defaultMapBounds.radius = MapsLib.metersFromString(MapsLib.defaultMapBounds.radius);
             MapsLib.defaultZoom = MapsLib.zoomFromRadiusMeters(MapsLib.defaultMapBounds.radius);
+
         } 
         else
         {
@@ -401,8 +403,9 @@ $.extend(MapsLib, {
                 startAtNearbyLocation: true,
                 boundsExceededMessage: "You're currently outside the furthest data point from center.  Defaulting to geographical center of data.",
                 nearbyZoom: MapsLib.defaultZoom + 5,
-                snapToNearbyZoomIfRatioGreaterThan: 8
+                snapToNearbyZoomIfRatioGreaterThan: 11
             }; // leave onlyWithinDefaultMapBounds undefined
+//            console.log("non sei a palermo");
             for (key in nearbyLocationDefaults)
             {
                 if (!(key in MapsLib.useNearbyLocation)) 
@@ -435,6 +438,7 @@ $.extend(MapsLib, {
                 MapsLib.maxDistanceFromDefaultCenter = MapsLib.defaultMapBounds.radius;
             }
         }
+//        console.log(MapsLib.defaultZoom+" "+nearbyLocationDefaults.nearbyZoom);
 
         // request list of columns
         var qstr = "https://www.googleapis.com/fusiontables/v1/tables/" + MapsLib.fusionTableId + "?maxResults=100&callback=MapsLib.setColumns&key=" + MapsLib.googleApiKey;
@@ -575,6 +579,7 @@ $.extend(MapsLib, {
             {
                 MapsLib.currentPinpoint = MapsLib.defaultMapBounds.center;
                 MapsLib.map.setCenter(MapsLib.defaultMapBounds.center);
+
                 MapsLib.map.setZoom(MapsLib.defaultZoom);
                 MapsLib.map_centroid = MapsLib.defaultMapBounds.center;
             } 

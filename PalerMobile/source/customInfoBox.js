@@ -5,7 +5,7 @@ function customInfoboxHtmlFunction(row, isListView) {
   // start outer div
   if (isListView == true || isListView == "true") { // specify if list or map
 //    console.log("isListView: "+isListView);
-    html += "<div class='infobox-list' style='margin-top:-40px'>";
+    html += "<div class='infobox-list' >";
   } else {
     html += "<div class='infobox-map'>";
   }
@@ -71,11 +71,11 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='internet'>"; // start email/mobile
   var email = row.email;
   if (email) {
-      html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:5px; margin-top: -2px;'>"+email+"</a></div>";
+      html += "<div><i>email:</i> <a href=mailto:"+email+" style='margin-left:-30px; margin-top: -2px;'>"+email+"</a></div>";
   }
   var web = row.web;
   if (web) {
-      html += "<div><i>web:</i> <a href="+web+" style='margin-left:5px;'>"+web+"</a></div>";
+      html += "<div><i>web:</i> <a href="+web+" style='margin-left:18px;'>"+web+"</a></div>";
   }
   
   html += "</div>"; // end email/mobile
@@ -91,7 +91,7 @@ function customInfoboxHtmlFunction(row, isListView) {
   // end dettagli
   // dettagli with page
   html += "<div class='details' style='margin-top:4px;'><a href=#page-details";
-  html += " onclick=\"queryDetailsCard('"+nome+"');\" style='margin-left:10px;'>Dettagli</a>";
+  html += " onclick=\"queryDetailsCard('"+nome+"');\" >Dettagli</a>";
   html += "</div>";
   // end dwp
   

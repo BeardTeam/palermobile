@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <!-- 
-  Authors: TeamBeard
-    Antonio Notarangelo: https://plus.google.com/u/0/104954524097130358596
-    Massimiliano Leone: https://plus.google.com/+MassimilianoLeone
-    
-  Copyleft 2014, GPLv3 license
-  
-  based on https://github.com/sfbrigade/Mobile-Fusion-Tables
+    To customize this page for your own data, open fusiontable_settings.js and follow instructions.
+    You should not have to touch this file.
 -->
 
 <html>
@@ -255,7 +250,7 @@
 				slideToggleAccoglienzaElements(true);
 				slideToggleConsolatoElements(true);
 				slideToggleLuoghiDaVisitareElements(true);
-			} else if ($(this).val().indexOf("'luoghi da visitare'") !== -1 ) {
+			} else if ($(this).val().indexOf("'luogo da visitare'") !== -1 ) {
 // 				console.log("Entrato nel caso luoghi da visitare");
 				//label e dropdown relativi a ristoro appaiono
 				slideToggleLuoghiDaVisitareElements(false);
@@ -435,37 +430,6 @@
 				$('#sc_Dimore_e_Ville_storiche').prop('checked', false).checkboxradio("refresh");
 				$('#sc_Santuari').prop('checked', false).checkboxradio("refresh");
 			}
-			
-			/*{ label: "Chiese", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'chiesa'"},
-			{ label: "Teatri storici", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'teatro storico'"},
-			{ label: "Oratori", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'oratorio'"},
-			{ label: "Gallerie di arte e musei", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'museo'"},
-			{ label: "Biblioteche", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'biblioteca'"},
-			{ label: "Zone archeologiche", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'zona archeologica'"},
-			{ label: "Monumenti", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'monumento'"},
-			{ label: "Palazzi", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'palazzo'"},
-			{ label: "Dimore e Ville Storiche", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'dimora'"},
-			{ label: "Santuari", type: "checkbox", 
-                is_checked: false,
-                checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'santuario'"},*/
 		}
 	</script>
 	
@@ -519,7 +483,7 @@
 			if ($('#sc_consolato_orari_apertura').is(":visible") == true) {
 				$('#sc_min_consolato_orari_apertura').val(8.3);
 				$('#sc_min_consolato_orari_apertura').slider('refresh');
-				$('#sc_max_consolato_orari_apertura').val(16,3);
+				$('#sc_max_consolato_orari_apertura').val(16.3);
 				$('#sc_max_consolato_orari_apertura').slider('refresh');
 				$('#sc_min_consolato_orari_chiusura').val(12);
 				$('#sc_min_consolato_orari_chiusura').slider('refresh');

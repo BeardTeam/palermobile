@@ -1,15 +1,4 @@
 /*!
- * 
- * Authors: TeamBeard
-    Antonio Notarangelo: https://plus.google.com/u/0/104954524097130358596
-    Massimiliano Leone: https://plus.google.com/+MassimilianoLeone
-    
-  Copyleft 2014, GPLv3 license
-  
-  based on https://github.com/sfbrigade/Mobile-Fusion-Tables
- * 
- * 
- * 
  * Customization file for Fusion Table Mobile Templates
  * See maps_lib.js for license and repository
  *
@@ -287,10 +276,10 @@ $.extend(MapsLib, {
                 ["Dove alloggiare", "'tipi' CONTAINS IGNORING CASE 'accoglienza'"],
                 ["Divertimenti", "'tipi' CONTAINS IGNORING CASE 'divertimento'"],
                 ["Ristoro", "'tipi' CONTAINS IGNORING CASE 'ristoro'"],
-                ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('wine bar','cocktail bar','bar')"],
-                ["Luoghi da visitare", "'tipi' CONTAINS IGNORING CASE 'luoghi da visitare'"],
-                ["Parcheggi", "'tipi' CONTAINS IGNORING CASE 'parcheggi'"],
-                ["Spazi verdi", "'tipi' CONTAINS IGNORING CASE 'spazi verdi'"]
+                ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('Wine bar','Cocktail bar','Bar')"],
+                ["Luoghi da visitare", "'tipi' CONTAINS IGNORING CASE 'luogo da visitare'"],
+                ["Parcheggi", "'tipi' CONTAINS IGNORING CASE 'parcheggio pubblico'"],
+                ["Spazi verdi", "'tipi' CONTAINS IGNORING CASE 'spazio verde'"]
             ] },
 			{ label: "Chiese", type: "checkbox", 
                 is_checked: false,

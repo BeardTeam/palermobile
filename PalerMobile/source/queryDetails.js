@@ -6,15 +6,16 @@
  *
  */
 
-function queryDetailsCard(nome) {
+function queryDetailsCard(nome,previousLocation) {
+
   var queryPage = "https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+"+PalerMobile.Global.fusionTableID;
       queryPage += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"";
-      
-  function jsonpCallback(data) {
-//     console.log(data);
+  
+  function jsonpCallback(data, textStatus, jqXHR) {
+//    console.log("previousLocation: "+previousLocation);
     var html = "<div>";
     html += "<h4 class='infobox-header'>"+data.nome+"</h4>"; // nome
-    html += "<p class='ui-li-desc infobox-subheader'>"; // start subheader
+    html += "<p class='infobox-subheader'>"; // start subheader
     
     html += "<div class='tipo'>";
     var tipi_specifici = data['tipi-specifici'];
@@ -24,11 +25,15 @@ function queryDetailsCard(nome) {
       html += "<div>giorni: "+data['consolato#orari#giorni']+"</div>";
       html += "<div>dalle:"+Number(data['consolato#orari#apertura']).toFixed(2)+"</div>";
       html += "<div>alle:"+Number(data['consolato#orari#chiusura']).toFixed(2)+"</div>";
-      html += "<div>note:"+data['consolato#orari#note']+"</div>";
+      var note = data['consolato#orari#note'];
+      if (note) {
+         html += "<div>note:"+note+"</div>";
+      }
     }
-    if (data['accoglienza#stelle']) { // accoglienza section
+    var stelle = data['accoglienza#stelle'];
+    if ( isNaN(stelle) == false ) { // accoglienza section
       html += "<div><b>Categoria: </b>"+tipi_specifici+"</div>";
-      html += "<div><b>Stelle: </b>"+data['accoglienza#stelle']+"</div>";
+      html += "<div><b>Stelle: </b>"+stelle+"</div>";
       html += "<div><b>Camere: </b>"+data['accoglienza#camere']+"</div>";
       if (data['accoglienza#sale_meeting']) {
 	html += "<div><b>Sale Meeting: </b>"+data['accoglienza#sale_meeting']+"</div>";
@@ -52,7 +57,7 @@ function queryDetailsCard(nome) {
       if (data['divertimento-e-ristoro#cucina']) {
 	html += "<div><b>Cucina:</b> "+data['divertimento-e-ristoro#cucina']+"</div>";
       }
-      html += "<div><b>Orari di apertura:</b></div>";
+      html += "<div class='details-orari'><b>Orari di apertura:</b></div>";
       html += "<div>giorni: "+data['divertimento-e-ristoro#orari#giorni']+"</div>";
       html += "<div>dalle:"+Number(data['divertimento-e-ristoro#orari#apertura']).toFixed(2)+"</div>";
       html += "<div>alle:"+Number(data['divertimento-e-ristoro#orari#chiusura']).toFixed(2)+"</div>";
@@ -98,7 +103,7 @@ function queryDetailsCard(nome) {
     }
     html += "</div>";
     
-    html += "<p><b>Contatti:</b>";
+    html += "<div class='details-contatti'><b>Contatti:</b>";
     html += "<div class='phone'>"; // start telefono/mobile
     if (data.telefono) {
 	html += "<div><i>telefono:</i> "+data.telefono+"</div>";
@@ -119,33 +124,57 @@ function queryDetailsCard(nome) {
     }
     html += "</div>"; // end email/mobile
     
-    html += "<div class='address'>"+data.indirizzo+" "+data['numero-civico']; // start address block
+    html += "<div class='details-address'><div><b>Indirizzo:</b></div><div>"+data.indirizzo+" "+data['numero-civico']; // start address block
     if (data.quartiere) {
       html += "(quartiere "+data.quartiere+")";
     }
-    html += "</div>"; // end address block
-    html += "</p>";
-    
+    html += "</div></div>"; // end address block
+
+    html += "</div>";
     
     html += "</p></div>";
     
     $('#details-content').html( html );
   }
-  function failure(arg) {
-     var html = "<div>Spiacente, non è stato possibile ottenere ulteriori dettagli</div>";
-     return html;
+  function failureCallback(jqXHR, textStatus, errorThrown) {
+     if (jqXHR.status == 200 && textStatus == 'OK') { // not error - workaround
+        console.log(jqXHR);
+     } else {
+      var html = "<div>Spiacente, non è stato possibile ottenere ulteriori dettagli</div>";
+      $('#details-content').html( html );
+      setTimeout(function(){
+         window.location.hash = previousLocation;
+      }, 3000);
+     }
+  }
+  function completedCallback(jhXHR, textStatus) {
+//     console.log("complete - previousLocation: "+previousLocation);
+     if (previousLocation !== "") {
+//        window.onload = function() {
+//        $(window).load( function() {
+         setTimeout(function() {        
+           console.log($('#list_back').attr("href"));
+//           $('#list_back').attr("href","index.html"+previousLocation);
+           $('#list_back').click(function(){
+              window.location = "index.html"+previousLocation;
+           };)
+           console.log($('#list_back').attr("href"));
+        },1000);
+     }
   }
 
   var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
   
   $.ajax({
-    url: queryPage,
-    async: false,
-    dataType: 'jsonp',
-    timeout: 10000,
-    success: jsonpCallback,
-    failure: failureCallback
+   url: queryPage,
+   async: false,
+   dataType: 'jsonp',
+   timeout: 10000,
+   success: jsonpCallback
+  ,error: failureCallback
+  ,complete: completedCallback
   });
+
   
   return true;
 }

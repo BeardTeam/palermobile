@@ -1,4 +1,11 @@
-// start k0z
+/*
+ * Copyleft BeardTeam, 2014
+ * Released under GPLv3
+ *
+ * Author: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
+ *
+ * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
+ */
 function customInfoboxHtmlFunction(row, isListView) {
 
   if (isListView == true || isListView == "true") { // specify if list or map

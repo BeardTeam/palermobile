@@ -4,6 +4,7 @@
  *
  * Author: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
  *
+ * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
  */
 
 function queryDetailsCard(nome,previousLocation) {
@@ -12,12 +13,11 @@ function queryDetailsCard(nome,previousLocation) {
       queryPage += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"";
   
   function jsonpCallback(data, textStatus, jqXHR) {
-//    console.log("previousLocation: "+previousLocation);
     var html = "<div>";
     html += "<h4 class='infobox-header'>"+data.nome+"</h4>"; // nome
     html += "<p class='infobox-subheader'>"; // start subheader
     
-    html += "<div class='tipo'>";
+    html += "<div class='details-tipo'>";
     var tipi_specifici = data['tipi-specifici'];
     if (data['consolato#console']) { // consolato section      
       html += "<div><b>Console: </b>"+data['consolato#console']+"</div>";
@@ -65,7 +65,7 @@ function queryDetailsCard(nome,previousLocation) {
     }
 
     if (data.tipi.indexOf('visitare')>=0) {
-      html += "<div class='visitare'>";
+      html += "<div class='details-visitare'>";
       html += "<div><i>"+tipi_specifici+"</i></div>";
             
       var orari_note = data['luogo-da-visitare#orari#note'];
@@ -104,7 +104,7 @@ function queryDetailsCard(nome,previousLocation) {
     html += "</div>";
     
     html += "<div class='details-contatti'><b>Contatti:</b>";
-    html += "<div class='phone'>"; // start telefono/mobile
+    html += "<div class='details-phone'>"; // start telefono/mobile
     if (data.telefono) {
 	html += "<div><i>telefono:</i> "+data.telefono+"</div>";
     } else { 
@@ -114,7 +114,7 @@ function queryDetailsCard(nome,previousLocation) {
     }
     html += "</div>"; // end telefono/mobile
     
-    html += "<div class='internet'>"; // start email/mobile
+    html += "<div class='details-internet'>"; // start email/mobile
     if (data.email) {
 	html += "<div><i>email:</i> <a href=mailto:"+data.email+">"+data.email+"</a></div>";
     } else {
@@ -145,8 +145,10 @@ function queryDetailsCard(nome,previousLocation) {
       setTimeout(function(){
          window.location.hash = previousLocation;
       }, 3000);
+      $('#details-content').html( "Caricamento dei dati..." );
      }
   }
+  /*
   function completedCallback(jhXHR, textStatus) {
 //     console.log("complete - previousLocation: "+previousLocation);
      if (previousLocation !== "") {
@@ -154,14 +156,14 @@ function queryDetailsCard(nome,previousLocation) {
 //        $(window).load( function() {
          setTimeout(function() {        
            console.log($('#list_back').attr("href"));
-//           $('#list_back').attr("href","index.html"+previousLocation);
+           $('#list_back').attr("href","index.html"+previousLocation);
            $('#list_back').click(function(){
               window.location = "index.html"+previousLocation;
-           };)
+           });
            console.log($('#list_back').attr("href"));
         },1000);
      }
-  }
+  }*/
 
   var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
   
@@ -172,7 +174,7 @@ function queryDetailsCard(nome,previousLocation) {
    timeout: 10000,
    success: jsonpCallback
   ,error: failureCallback
-  ,complete: completedCallback
+//   ,complete: completedCallback
   });
 
   

@@ -1,10 +1,20 @@
-// start k0z
+/*
+ * Copyleft BeardTeam, 2014
+ * Released under GPLv3
+ *
+ * Author: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
+ *
+ * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
+ */
 function customInfoboxHtmlFunction(row, isListView) {
-      
+
+  if (isListView == true || isListView == "true") { // specify if list or map
+    
+  }
+  
   var html = "";
   // start outer div
   if (isListView == true || isListView == "true") { // specify if list or map
-//    console.log("isListView: "+isListView);
     html += "<div class='infobox-list'>";
   } else {
     html += "<div class='infobox-map'>";
@@ -14,37 +24,39 @@ function customInfoboxHtmlFunction(row, isListView) {
   var nome = row.nome;
   html += "<div class='";
   if (isListView == true || isListView == "true") {
-//    html += "style='margin-top:10px;";
-      html += "list-nome"
+      html += "list"
   } else {
-     html += "nome"
+     html += "map"
   }
-  html += "'><b>"+nome+"</b></div>"; // nome
+  html += "-nome'><b>"+nome+"</b></div>"; // nome
   html += "</div>"; // header
-
-//  html += "><b>"+nome+"</b></div>"; // nome
-//  html += "<div class='infobox-header' style='margin-top:20px;'><div class='nome'><b>"+nome+"</b></div></div>"; // nome
-     
-  
-
   
   html += "<div class='ui-li-desc infobox-subheader"; // start subheader
   if (isListView == true || isListView == "true") {
-   html += " list-subheader";
+    html += " list-subheader";
+  } else {
+    html += " map-subheader";
   }
   html += "'>";
   
-  html += "<div class='tipo'>";
+  html += "<div class='";  
+  if (isListView == true || isListView == "true") {
+      html += "list-"
+  } else {
+     html += "map-"
+  }
+  html += "tipo'>";
   // start accoglienza
   var tipi = row.tipi;
   var tipi_specifici = row['tipi-specifici'];
   if (tipi == 'accoglienza') {
     // CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
     var howStelle = row['accoglienza_stelle'];
-//    html += "<div class='accoglienza'>";
     html += "<div class='"; // start accoglienza
     if (isListView == true || isListView == "true") {
        html += "list-";
+    } else {
+     html += "map-"
     }
     html += "accoglienza'>";
     html += "<i>"+tipi_specifici;
@@ -58,10 +70,11 @@ function customInfoboxHtmlFunction(row, isListView) {
   } // end accoglienza
   // start ristoro
   if (tipi == 'ristoro') {
-//    html += "<div class='ristoro'>";
     html += "<div class='"; // start address
     if (isListView == true || isListView == "true") {
       html += "list-";
+    } else {
+     html += "map-"
     }
     html += "ristoro'>";
     html += "<i>"+tipi_specifici;
@@ -74,12 +87,13 @@ function customInfoboxHtmlFunction(row, isListView) {
   } // end ristoro
   html += "</div>";
   
-//  html += "<div class='list-address'>"+row.indirizzo+" "+row['numero-civico']; // start address block
   html += "<div class='"; // start address
   if (isListView == true || isListView == "true") {
      html += "list-";
+  } else {
+     html += "map-"
   }
-  html += "address'>";
+  html += "address'><i>Indirizzo:</i> ";
   html += row.indirizzo+" "+row['numero-civico'];
   if (isListView) {
     if (row.quartiere) {
@@ -91,6 +105,8 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='"; // start telefono/mobile
   if (isListView == true || isListView == "true") {
      html += "list-";
+  } else {
+     html += "map-"
   }
   html += "phones'>";
   if (row.telefono) {
@@ -105,6 +121,8 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='"; // start internet (email/web)
   if (isListView == true || isListView == "true") {
      html += "list-";
+  } else {
+     html += "map-"
   }
   html += "internet'>";
   var email = row.email;
@@ -139,11 +157,12 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='"; // start internet (email/web)
   if (isListView == true || isListView == "true") {
      html += "list-";
+  } else {
+     html += "map-"
   }
   html += "details'>";
   html += "<a href=#page-details";
   var actualLocation = window.location.hash;
-//  console.log("actualLocation: "+actualLocation);
   html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >Dettagli</a>";
   html += "</div>";
   // end dwp

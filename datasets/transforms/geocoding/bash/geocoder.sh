@@ -4,6 +4,8 @@ MAPSAPIURL="http://maps.googleapis.com/maps/api/geocode/json"
 
 IN="$1"
 OUT="$2"
+
+[ $# -lt 2 ] && exit 1
  
 LAR="last_address_results.json"
 [ -f ${OUT} ] && rm ${OUT}

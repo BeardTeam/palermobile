@@ -3,66 +3,45 @@
       {
          "address_components" : [
             {
-               "long_name" : "Piazza Orlando Vittorio Emanuele",
-               "short_name" : "Piazza Orlando Vittorio Emanuele",
-               "types" : [ "route" ]
-            },
-            {
-               "long_name" : "Palermo",
-               "short_name" : "Palermo",
-               "types" : [ "locality", "political" ]
-            },
-            {
-               "long_name" : "Palermo",
-               "short_name" : "PA",
-               "types" : [ "administrative_area_level_2", "political" ]
-            },
-            {
-               "long_name" : "Sicilia",
-               "short_name" : "Sicilia",
-               "types" : [ "administrative_area_level_1", "political" ]
+               "long_name" : "90151",
+               "short_name" : "90151",
+               "types" : [ "postal_code" ]
             },
             {
                "long_name" : "Italy",
                "short_name" : "IT",
                "types" : [ "country", "political" ]
-            },
-            {
-               "long_name" : "90138",
-               "short_name" : "90138",
-               "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "Piazza Orlando Vittorio Emanuele, 90138 Palermo, Italy",
+         "formatted_address" : "90151, Italy",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 38.1195719,
-                  "lng" : 13.3523632
+                  "lat" : 38.224745,
+                  "lng" : 13.3313081
                },
                "southwest" : {
-                  "lat" : 38.1193041,
-                  "lng" : 13.3506925
+                  "lat" : 38.188224,
+                  "lng" : 13.28109
                }
             },
             "location" : {
-               "lat" : 38.1195719,
-               "lng" : 13.3506925
+               "lat" : 38.2014404,
+               "lng" : 13.3067562
             },
-            "location_type" : "GEOMETRIC_CENTER",
+            "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 38.1207869802915,
-                  "lng" : 13.3528768302915
+                  "lat" : 38.224745,
+                  "lng" : 13.3313081
                },
                "southwest" : {
-                  "lat" : 38.1180890197085,
-                  "lng" : 13.3501788697085
+                  "lat" : 38.188224,
+                  "lng" : 13.28109
                }
             }
          },
-         "partial_match" : true,
-         "types" : [ "route" ]
+         "types" : [ "postal_code" ]
       }
    ],
    "status" : "OK"

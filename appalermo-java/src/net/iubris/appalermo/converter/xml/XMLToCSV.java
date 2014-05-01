@@ -1,14 +1,11 @@
 package net.iubris.appalermo.converter.xml;
 
 import java.io.FileNotFoundException;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 
 import net.iubris.appalermo.converter.json.JsonFlattener;
+import net.iubris.appalermo.utils.FileUtils;
 
 import org.json.CDL;
 import org.json.JSONArray;
@@ -34,12 +31,7 @@ public class XMLToCSV {
 //		"tot_esclusi_03_e_visitabili.csv";
 		
 		
-		String xmlAsString = "";
-		try {
-			xmlAsString+= readFile(xmlFile, Charset.defaultCharset());
-		} catch (IOException e1) {
-			e1.printStackTrace();
-		}
+		String xmlAsString = FileUtils.readFile(xmlFile, Charset.defaultCharset());
 		
 		
 		// xmlsimple way
@@ -61,41 +53,30 @@ public class XMLToCSV {
 
 		// the crockford way
 			
-			JSONObject xmlJSONObj = XML.toJSONObject(xmlAsString);
-			
-			JSONObject luoghiJsonObject = xmlJSONObj
-					.getJSONObject("palermo-opendata")
-					.getJSONObject("luoghi");
-			JSONArray allLuogoJsonArray = luoghiJsonObject.getJSONArray("luogo");
-			
-			JSONArray flattenJsonArray = new JSONArray();
-			
-			int length = allLuogoJsonArray.length();
-			for (int i=0; i< length; i++) {
-				JSONObject luogoJsonObject = allLuogoJsonArray.getJSONObject(i);
-				String luogoFlattenString = JsonFlattener.encode(luogoJsonObject);
+		JSONObject xmlJSONObj = XML.toJSONObject(xmlAsString);
+		
+		JSONObject luoghiJsonObject = xmlJSONObj
+				.getJSONObject("palermo-opendata")
+				.getJSONObject("luoghi");
+		JSONArray allLuogoJsonArray = luoghiJsonObject.getJSONArray("luogo");
+		
+		JSONArray flattenJsonArray = new JSONArray();
+		
+		int length = allLuogoJsonArray.length();
+		for (int i=0; i< length; i++) {
+			JSONObject luogoJsonObject = allLuogoJsonArray.getJSONObject(i);
+			String luogoFlattenString = JsonFlattener.encode(luogoJsonObject);
 
-				flattenJsonArray.put(new JSONObject(luogoFlattenString));				
-			}
+			flattenJsonArray.put(new JSONObject(luogoFlattenString));				
+		}
 			
 //			writeToFile(flattenJsonArray.toString(), "tot_esclusi_03_e_visitabili__flatten.json");
 			
-			String csv = CDL.toString(flattenJsonArray);
+		String csv = CDL.toString(flattenJsonArray);
 //			System.out.println(csv);
-			
-			writeToFile(csv, csvOutputFile );			
-			System.out.println(csvOutputFile+" written");
-	}
-	
-	protected static String readFile(String path, Charset encoding) throws IOException {
-	  byte[] encoded = Files.readAllBytes(Paths.get(path));
-	  return encoding.decode(ByteBuffer.wrap(encoded)).toString();
-	}
-	
-	protected static void writeToFile(String jsonAsString, String jsonFileName) throws IOException {
-	    FileWriter fw = new FileWriter(jsonFileName);
-	    fw.write(jsonAsString);
-	    fw.close();
+		
+		FileUtils.writeToFile(csv, csvOutputFile );
+		System.out.println(csvOutputFile+" written");
 	}
 
 }

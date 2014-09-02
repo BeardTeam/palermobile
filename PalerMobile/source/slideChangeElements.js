@@ -178,7 +178,7 @@ function slideToggleCucinaElements(visibility) {
 
 function slideToggleLuoghiDaVisitareElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
-	if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == visibility){
+	if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == visibility) {
 		$("span:contains('Chiese')").closest('.ui-checkbox').slideToggle();
 		$("span:contains('Teatri storici')").closest('.ui-checkbox').slideToggle();
 		$("span:contains('Oratori')").closest('.ui-checkbox').slideToggle();

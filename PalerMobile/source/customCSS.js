@@ -9,7 +9,7 @@
 function customCSSFunction() {
   var cssString = " \
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
-        .infobox-list { margin:-37px 0px 0px 7px; } \
+        .infobox-list { margin: 0px 0px 0px 7px; } \
         .infobox-map { width:auto; height:auto;} \
         .infobox-header { display:inline; padding-right: 10px; } \
         .moreinfo { margin-left:7px; min-width:18px; position:absolute; \
@@ -25,9 +25,21 @@ function customCSSFunction() {
         .map-address, .map-phones, .map-internet, .map-details { padding-top: 2px; } \
         .list-subheader { margin-top: -25px; } \
         .list-nome, .list-accoglienza, .list-ristoro, .list-address, .list-phones, .list-internet, .list-details  { margin-left: 10px; } \
-        .list-internet { margin-top: -25px; } \
+        .list-internet { margin-top: 0px; } \
         .list-tipo { margin: 2px 0px 1px 0px; } \
+        .list-details { margin-top: 5px; } \
         .details-orari, .details-contatti, .details-address { margin-top: 10px; } \
     ";
     return cssString;
 }
+/* old: .infobox-list { margin: 0px 0px 0px 7px; } \ */
+function fixCSS() {
+  setTimeout(function() {
+  $('a.ui-link-inherit').filter( function() { 
+    if (this.id.match(/listrow-[0-9]/) && (this.innerHTML == "")) { 
+      $(this).hide();
+    }
+    console.log('applied fixcss');
+  }), 2500 });  
+}
+fixCSS();

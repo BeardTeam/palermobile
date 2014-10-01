@@ -930,7 +930,7 @@ $.extend(MapsLib, {
 		      html.push("<hr><label for='sc_" + field_id + "'>" + cdata.label + "</label>");
 		    
 		    html.push("<select data-ref='custom' id='sc_" + field_id + "' name=''>");
-					
+
                     var template = cdata.template;
                     var foreach = cdata.foreach;
                     var entries = cdata.entries;
@@ -1605,4 +1605,3 @@ $.extend(MapsLib, {
     // This also applies to the convertToPlainString function above
     //-----end of custom functions-----------------------------------------------
 });
-

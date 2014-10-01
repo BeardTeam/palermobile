@@ -1,24 +1,29 @@
-
 //function initialize() {
 $(function() {
     MapsLib.initialize();
-
+    
     $("#about").click(function() { 
       MapsLib.onExitMap(); 
       // localization
-      if (PalerMobile.Global.language_default != PalerMobile.Global.language)
+//       if (PalerMobile.Global.language_default != PalerMobile.Global.language)
+      if (Localize.locale != undefined)
 	Localize.about();
     });
     $("#search_page").click(function() { 
       MapsLib.onExitMap();
-      if (PalerMobile.Global.language_default != PalerMobile.Global.language) {
+      // localization
+//       if (PalerMobile.Global.language_default != PalerMobile.Global.language) 
+      if (Localize.locale != undefined) {
+// 	console.log("localize with: "+PalerMobile.Global.language)
 	Localize.searchpage();
       }
     });
     $("#listview").click(function(){
       MapsLib.onExitMap();
       MapsLib.getListView();
-      if (PalerMobile.Global.language_default != PalerMobile.Global.language)
+      // localization
+//       if (PalerMobile.Global.language_default != PalerMobile.Global.language)
+      if (Localize.locale != undefined)
 	Localize.searchpage();
       fixCSS();
     });

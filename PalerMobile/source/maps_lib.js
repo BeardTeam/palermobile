@@ -53,7 +53,7 @@ $.extend(MapsLib, {
     addrMarker:         null,
     localMarker:        null,
     addrMarkerImage:    '//maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png',
-    blueDotImage:       '//maps.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png',
+    blueDotImage:       '//maps.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png',
     currentPinpoint:    null,
     defaultPixelOffset: new google.maps.Size(0,-30),
 
@@ -62,7 +62,7 @@ $.extend(MapsLib, {
     infoboxCompiled:    null,
     queueInfobox:       false,
     // k0z
-    nearbyPinInfobox:   MapsLib.nearbyPinInfobox || "Tu sei qui.",
+//     nearbyPinInfobox:   MapsLib.nearbyPinInfobox || "Tu sei qui.",
     // end k0z
     addressPinInfobox:  MapsLib.addressPinInfobox || "{address}",
 

@@ -6,7 +6,7 @@ function checkLocale() {
 //   if (lang.match(/it/i)) {
 //     return "it";
 //   };
-  if (lang.match(/en/i)) {
+  if (!lang.match(/it/i)) {
     return "en";
   };
   // default

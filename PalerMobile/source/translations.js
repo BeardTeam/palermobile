@@ -4,7 +4,7 @@ var Localization = {
     id_labels: ["search_address_label", "search_radius_label","search","search_reset"]
   },
   en: {
-//     you_are_here: "You are here",
+//     you_are_here: "You are here",    
     id: {
       leaf: {
 	// home page
@@ -163,7 +163,8 @@ var Localization = {
 	"Orari di chiusura del consolato:" : "Consulate closing hour:",
 	"Stelle:": "Stars:"
       }
-    }
+    },
+    alert_message_text: "You are too far from Palermo. The map will be centered there."
     
   }
 }

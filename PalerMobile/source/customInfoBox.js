@@ -125,6 +125,7 @@ function customInfoboxHtmlFunction(row, isListView) {
      html += "map-"
   }
   html += "internet'>";
+  var webMargin = "0";
   var email = row.email;
   if (email) {
       html += "<div><i>email:</i> <a href=mailto:"+email;
@@ -132,14 +133,16 @@ function customInfoboxHtmlFunction(row, isListView) {
          html += " style='margin-left:-30px; margin-top: -2px;"
       }
       html += "'>"+email+"</a></div>";
+      webMargin = "8";
   }
   var web = row.web;
   if (web) {
-   html += "<div><i>web:</i> <a href="+web+" style='margin-left:";
+   html += "<div><i>web:</i> <a href="+web+" style='margin-top: 1px; margin-left:";
    if (isListView == true || isListView == "true") {
       html += "1";
    }
-   html += "8px;'>"+web+"</a></div>";
+   
+   html += webMargin+"px;'>"+web+"</a></div>";
   }
   html += "</div>"; // end email/mobile
   

@@ -12,10 +12,12 @@
 var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
 // The encrypted Table ID of your Fusion Table (found under File => About)
-MapsLib.fusionTableId = "1GoRdfUwTRJjyNeuZeE4fLWAh9ksKPXzxSxllPBsh";
+MapsLib.fusionTableId = PalerMobile.Global.fusionTableID;
+//"1GoRdfUwTRJjyNeuZeE4fLWAh9ksKPXzxSxllPBsh";
 
 // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
-MapsLib.googleApiKey = "AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY";
+MapsLib.googleApiKey = PalerMobile.Global.googleApiKey;
+//"AIzaSyASPwrtAnBgnY3a5Sl2m-yaAPdSPcthpCY";
     
 
 
@@ -88,62 +90,64 @@ $.extend(MapsLib, {
       distanceFilter: { 
 	entries: [ 
 	  ["Illimitato", "0", true], 
-	  ["100 metri","100 meters"], 
-	  ["200 metri","200 meters"], 
-	  ["500 metri","500 meters"], 
+	  ["100 m","100 meters"], 
+	  ["200 m","200 meters"], 
+	  ["500 m","500 meters"], 
 	  ["1 km","1000 meters"], 
 	  ["2 km","2000 meters"], 
 	  ["5 km","5000 meters"], 
 	  ["10 km","10000 meters"], 
 	  ["20 km","20000 meters"], 
-	  ["50 km","50000 meters"] ]
-        },
-        columns: [ 
-	  { label: "Nome:", type: "text", column: "nome"},
-	  { label: "Cosa cerchi?", type: "dropdown", entries: [
-	    ["Qualunque attività", "", true],
-	    ["Agenzie di Viaggi", "'tipi' CONTAINS IGNORING CASE 'agenzia di viaggi'"],
-	    ["Consolati", "'tipi' CONTAINS IGNORING CASE 'consolato'"],
-	    ["Dove alloggiare", "'tipi' CONTAINS IGNORING CASE 'accoglienza'"],
-	    ["Divertimenti", "'tipi' CONTAINS IGNORING CASE 'divertimento'"],
-	    ["Ristoro", "'tipi' CONTAINS IGNORING CASE 'ristoro'"],
-	    ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('Wine bar','Cocktail bar','Bar')"],
-	    ["Luoghi da visitare", "'tipi' CONTAINS IGNORING CASE 'luogo da visitare'"],
-	    ["Parcheggi", "'tipi' CONTAINS IGNORING CASE 'parcheggio pubblico'"],
-	      ["Spazi verdi", "'tipi' CONTAINS IGNORING CASE 'spazio verde'"]
-	  ] },
-	  { label: "Chiese", type: "checkbox", 
+	  ["50 km","50000 meters"] 
+	]
+      },
+      columns: [
+	{ label: "Nome:", type: "text", column: "nome"},
+	{ label: "Cosa cerchi?", type: "dropdown", entries: [
+	  ["Qualunque attività", "", true],
+	  ["Agenzie di Viaggi", "'tipi' CONTAINS IGNORING CASE 'agenzia di viaggi'"],
+	  ["Consolati", "'tipi' CONTAINS IGNORING CASE 'consolato'"],
+	  ["Dove alloggiare", "'tipi' CONTAINS IGNORING CASE 'accoglienza'"],
+	  ["Divertimenti", "'tipi' CONTAINS IGNORING CASE 'divertimento'"],
+	  ["Ristoro", "'tipi' CONTAINS IGNORING CASE 'ristoro'"],
+	  ["Aperitivo - Bar - Caffè", "'tipi-specifici' IN ('Wine bar','Cocktail bar','Bar')"],
+	  ["Luoghi da visitare", "'tipi' CONTAINS IGNORING CASE 'luogo da visitare'"],
+	  ["Parcheggi", "'tipi' CONTAINS IGNORING CASE 'parcheggio pubblico'"],
+	  ["Spazi verdi", "'tipi' CONTAINS IGNORING CASE 'spazio verde'"] ] 
+	},
+	{ label: "Chiese", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'chiesa'"	    
+	},
+	{ label: "Teatri storici", type: "checkbox", 
 	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'chiesa'"	    
-	  },
-	  { label: "Teatri storici", type: "checkbox", 
-	      is_checked: false,
-	      checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'teatro storico'"	    
-	  },
-	  { label: "Oratori", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'oratorio'"},
-	  { label: "Gallerie artistiche e musei", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'galleria artistica'"},
-	  { label: "Biblioteche", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'biblioteca'"},
-	  { label: "Zone archeologiche", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'zona archeologica'"},
-	  { label: "Monumenti", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'monumento'"},
-	  { label: "Palazzi", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'palazzo'"},
-	  { label: "Dimore e Ville Storiche", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'dimora'"},
-	  { label: "Santuari", type: "checkbox", 
-	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'santuario'"},
+	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'teatro storico'"	    
+	},
+	{ label: "Oratori", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'oratorio'"},
+	{ label: "Gallerie artistiche e musei", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'galleria artistica'"},
+	{ label: "Biblioteche", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'biblioteca'"},
+	{ label: "Zone archeologiche", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'zona archeologica'"},
+	{ label: "Monumenti", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'monumento'"},
+	{ label: "Palazzi", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'palazzo'"},
+	{ label: "Dimore e Ville Storiche", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'dimora'"},
+	{ label: "Santuari", type: "checkbox", 
+	  is_checked: false,
+	  checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'santuario'"
+	},
 	{ label: "Tipi di ristoro:", type: "dropdown", entries: [
 	  ["Qualunque tipo di ristoro", "", true],
 	  ["Ristorante", "'tipi-specifici' CONTAINS IGNORING CASE 'ristorante'"],
@@ -151,25 +155,29 @@ $.extend(MapsLib, {
 	  ["Pub", "'tipi-specifici' CONTAINS IGNORING CASE 'pub'"],
 	  ["American Bar", "'tipi-specifici' CONTAINS IGNORING CASE 'american bar'"],
 	  ["Sushi Bar", "'tipi-specifici' CONTAINS IGNORING CASE 'sushi bar'"],
-	  ["Street Food", "'tipi-specifici' CONTAINS IGNORING CASE 'street food'"]
-	] },
+	  ["Street Food", "'tipi-specifici' CONTAINS IGNORING CASE 'street food'"] ] 
+	},
 	{ label: "Tipi di divertimento:", type: "dropdown", entries: [
 	    ["Qualunque tipo di divertimento", "", true],
 	    ["Discoteca", "'tipi-specifici' CONTAINS IGNORING CASE 'discoteca'"],
-	    ["Discopub", "'tipi-specifici' CONTAINS IGNORING CASE 'discopub'"]
-	] },
+	    ["Discopub", "'tipi-specifici' CONTAINS IGNORING CASE 'discopub'"] ] 
+	},
 	{ label: "Wine bar", type: "checkbox", 
 	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'wine bar'"},
+	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'wine bar'"
+	},
 	{ label: "Cocktail bar", type: "checkbox", 
 	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'cocktail bar'"},
+	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'cocktail bar'"
+	},
 	{ label: "Bar", type: "checkbox", 
 	    is_checked: false,
-	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'bar'"},
+	    checked_query: "'tipi-specifici' CONTAINS IGNORING CASE 'bar'"
+	},
 	{ label: "Sale meeting", type: "checkbox", 
 	    is_checked: false,
-	    checked_query: "'accoglienza#sale_meeting' NOT EQUAL TO ''"},
+	    checked_query: "'accoglienza#sale_meeting' NOT EQUAL TO ''"
+	},
 	{ label: "Tipi di alloggio:", type: "dropdown", entries: [
 	  ["Qualunque tipo di alloggio", "", true],
 	  ["Hotel", "'tipi-specifici' CONTAINS IGNORING CASE 'Hotel'"],
@@ -177,8 +185,8 @@ $.extend(MapsLib, {
 	  ["Affittacamere", "'tipi-specifici' CONTAINS IGNORING CASE 'Affittacamere'"],
 	  ["Ostello", "'tipi-specifici' CONTAINS IGNORING CASE 'Ostello'"],
 	  ["Casa ferie", "'tipi-specifici' CONTAINS IGNORING CASE 'Casa ferie'"],
-	  ["Residence", "'tipi-specifici' CONTAINS IGNORING CASE 'Residence'"]
-	] },
+	  ["Residence", "'tipi-specifici' CONTAINS IGNORING CASE 'Residence'"] ] 
+	},
 	{ label: "Stelle:", type: "slider", column: "accoglienza#stelle"},
 	{ label: "Orari di apertura per divertimento e ristoro:", type: "slider", column: "divertimento-e-ristoro#orari#apertura"},
 	{ label: "Orari di chiusura per divertimento e ristoro:", type: "slider", column: "divertimento-e-ristoro#orari#chiusura"},
@@ -195,8 +203,8 @@ $.extend(MapsLib, {
 	    ["Europea", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'europea'"],
 	    ["Spagnola", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'spagnola'"],
 	    ["Fusion", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'fusion'"],
-	    ["Mediterranea", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'mediterranea'"]
-	  ] },
+	    ["Mediterranea", "'divertimento-e-ristoro#cucina' CONTAINS IGNORING CASE 'mediterranea'"] ] 
+	},
       ],
     },
 

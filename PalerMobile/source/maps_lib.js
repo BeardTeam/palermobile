@@ -100,24 +100,21 @@ $.extend(MapsLib, {
         var nonMaps = ["#page-search", "#page-about", "#page-list", "page-details"];
 	// end k0z
         var inMap = true;
-        $.each(nonMaps, function(i, tag)
-        {
+        $.each(nonMaps, function(i, tag) {
             if (window.location.href.indexOf(tag) != -1)
             {
                 inMap = false;
                 return false;
             }
         });
-        if (inMap)
-        {
+        if (inMap) {
             if (MapsLib.mapState == false)
             {
                 // entered map via browser
                 MapsLib.onEnterMap();
             }
         } 
-        else if (MapsLib.mapState == true)
-        {
+        else if (MapsLib.mapState == true) {
             // exited map via browser
             MapsLib.onExitMap();
         }
@@ -131,22 +128,19 @@ $.extend(MapsLib, {
     },
     updateTitle: function() {
         var aboutContent = MapsLib.getDefault(MapsLib.defaultAboutPage, MapsLib.aboutPage);
-        if (typeof MapsLib.title != 'undefined' && MapsLib.title != undefined)
-        {
+        if (typeof MapsLib.title != 'undefined' && MapsLib.title != undefined) {
             document.title = MapsLib.title;
             $("#titlebar").text(MapsLib.title);
             $("#section-about").html(aboutContent.replace("{title}", MapsLib.title));
         } 
-        else
-        {
+        else {
             $("#section-about").html(aboutContent);
         }
     },
     getDateString: function(val)
     {
         var dateVal = val;
-        if (!(val instanceof Date))
-        {
+        if (!(val instanceof Date)) {
             dateVal = new Date();
             dateVal.setTime(val);
         }
@@ -162,13 +156,11 @@ $.extend(MapsLib, {
     },
     // saves the min and max dates for sliders
     sliderMinMaxResult: function(json) {
-        var minMaxHelper = function(val)
-        {
+        var minMaxHelper = function(val) {
             return isNaN(val) ? new Date(val) : val;
         }
         var numcols = json["columns"].length;
-        for (var i = 0; i < numcols; i += 2)
-        {
+        for (var i = 0; i < numcols; i += 2) {
             colname = json["columns"][i];
             colname = colname.substring(8, colname.length-1);
             var range = {
@@ -181,8 +173,7 @@ $.extend(MapsLib, {
             }
             MapsLib.columnRanges[colname] = range;
         }
-        if (--MapsLib.outstandingQueries <= 0)
-        {
+        if (--MapsLib.outstandingQueries <= 0) {
             // HACK: the sliders' layouts are messed up unless we repopulate the html after slider()
             $("#section-search").html(MapsLib.searchHtml());
             MapsLib.initSearchFieldCallbacks();
@@ -209,8 +200,7 @@ $.extend(MapsLib, {
     metersFromString: function(str) {
         var tokens = str.split(" ");
         var meters = tokens[0] * 1;
-        if (!isNaN(meters) && meters > 0 && (tokens[1] == "miles" || tokens[1] == "mile"))
-        {
+        if (!isNaN(meters) && meters > 0 && (tokens[1] == "miles" || tokens[1] == "mile")) {
             meters *= 1610;
         }
         return meters;
@@ -230,38 +220,32 @@ $.extend(MapsLib, {
             filterListResults: true,
             entries: [] 
         };
-        for (key in searchPageDefaults)
-        {
+        for (key in searchPageDefaults) {
             if (!(key in MapsLib.searchPage)) 
                 MapsLib.searchPage[key] = searchPageDefaults[key];
         }
-        for (key in distanceFilterDefaults)
-        {
+        for (key in distanceFilterDefaults) {
             if (!(key in MapsLib.searchPage.distanceFilter)) 
                 MapsLib.searchPage.distanceFilter[key] = distanceFilterDefaults[key];
         }
-        if (MapsLib.searchPage.addressAutocomplete != false && !("country" in MapsLib.searchPage.addressAutocomplete))
-        {
+        if (MapsLib.searchPage.addressAutocomplete != false && !("country" in MapsLib.searchPage.addressAutocomplete)) {
             // default to US
             MapsLib.searchPage.addressAutocomplete.country = "us";
         }
     },
     conformSchema: function() {
-        if (MapsLib.schemaVersion == 2)
-        {
+        if (MapsLib.schemaVersion == 2) {
             return;
         }
 
         // conform old settings schema to new layout
         var usingOldSchema = false;
-        if (("distanceFilter" in MapsLib.searchPage) && ("dropDown" in MapsLib.searchPage.distanceFilter))
-        {
+        if (("distanceFilter" in MapsLib.searchPage) && ("dropDown" in MapsLib.searchPage.distanceFilter)) {
             usingOldSchema = true;
             MapsLib.searchPage.distanceFilter.entries = MapsLib.searchPage.distanceFilter.dropDown;
             delete MapsLib.searchPage.distanceFilter.dropDown;
         }
-        if (MapsLib.searchPage.dropDowns != undefined)
-        {
+        if (MapsLib.searchPage.dropDowns != undefined) {
             $.each(MapsLib.searchPage.dropDowns, function(i, cdata) {
                 usingOldSchema = true;
                 cdata.type = "dropdown";
@@ -278,8 +262,7 @@ $.extend(MapsLib, {
                 delete cdata.range;
             }
         });
-        if (usingOldSchema)
-        {
+        if (usingOldSchema) {
             console.log('WARNING: Your fusiontable_settings.js is using deprecated attributes for "searchPage".  Please refer to the samples directory to see current examples.');
         }
     },
@@ -287,8 +270,7 @@ $.extend(MapsLib, {
     initialize: function() {
         // override table ID if passed in through URL
         var urltokens = window.location.href.split("?");
-        if (urltokens.length >= 2)
-        {
+        if (urltokens.length >= 2) {
             var first_arg = urltokens[1].split("#")[0].split("&")[0];
             if (first_arg.indexOf("key=") == 0)
             {
@@ -297,8 +279,7 @@ $.extend(MapsLib, {
             }
         }
 
-        if (MapsLib.stringExists(MapsLib.customCSS))
-        {
+        if (MapsLib.stringExists(MapsLib.customCSS)) {
             var css = document.createElement("style");
             css.type = "text/css";
             css.innerHTML = MapsLib.customCSS;
@@ -306,8 +287,7 @@ $.extend(MapsLib, {
         }
 
         // set default secondary location column
-        switch (MapsLib.locationColumn)
-        {
+        switch (MapsLib.locationColumn) {
         case "latitude":
             MapsLib.secondaryLocationColumn = "longitude";
             break;
@@ -327,8 +307,7 @@ $.extend(MapsLib, {
         MapsLib.initDefaults();
         MapsLib.conformSchema();
 
-        if ("center" in MapsLib.defaultMapBounds)
-        {
+        if ("center" in MapsLib.defaultMapBounds) {
             if (MapsLib.defaultMapBounds.center instanceof Array)
             {
                 MapsLib.map_centroid = new google.maps.LatLng(MapsLib.defaultMapBounds.center[0], MapsLib.defaultMapBounds.center[1]);
@@ -368,22 +347,19 @@ $.extend(MapsLib, {
                 );
             }
         } 
-        else
-        {
+        else {
             MapsLib.defaultMapBounds.center = MapsLib.map_centroid;
             if (MapsLib.searchPage.addressAutocomplete != false)
             {
                 MapsLib.searchPage.addressAutocomplete.useDefaultMapBounds = false;
             }
         }
-        if ("radius" in MapsLib.defaultMapBounds)
-        {
+        if ("radius" in MapsLib.defaultMapBounds) {
             MapsLib.defaultMapBounds.radius = MapsLib.metersFromString(MapsLib.defaultMapBounds.radius);
             MapsLib.defaultZoom = MapsLib.zoomFromRadiusMeters(MapsLib.defaultMapBounds.radius);
 
         } 
-        else
-        {
+        else {
             MapsLib.defaultMapBounds.radius = MapsLib.radiusMetersFromZoom(MapsLib.defaultZoom);
         }
         MapsLib.defaultMapBounds.bounds = new google.maps.Circle({
@@ -391,13 +367,11 @@ $.extend(MapsLib, {
             radius: MapsLib.defaultMapBounds.radius
         }).getBounds();
 
-        if (MapsLib.useNearbyLocation == false)
-        {
+        if (MapsLib.useNearbyLocation == false) {
             MapsLib.maxDistanceFromDefaultCenter = 0;
             $("#nearby-name").text("Home");
         } 
-        else 
-        {
+        else  {
             // fill in defaults for useNearbyLocation settings
             var nearbyLocationDefaults = {
                 startAtNearbyLocation: true,
@@ -448,16 +422,14 @@ $.extend(MapsLib, {
             dataType: "jsonp"
         });
 
-        if (typeof MapsLib.customInfoboxHtml == "string")
-        {
+        if (typeof MapsLib.customInfoboxHtml == "string") {
             if (MapsLib.customInfoboxHtml != "")
             {
                 // compile template
                 MapsLib.infoboxCompiled = Handlebars.compile(MapsLib.customInfoboxHtml);;
             }
         } 
-        else if (MapsLib.customInfoboxHtml != undefined)
-        {
+        else if (MapsLib.customInfoboxHtml != undefined) {
             // customInfoboxHtml is already a function
             MapsLib.infoboxCompiled = MapsLib.customInfoboxHtml;
         }
@@ -485,8 +457,7 @@ $.extend(MapsLib, {
         
         // add map overlays
         var overlayIndices = [];
-        $.each(MapsLib.mapOverlays, function(i, entry)
-        {
+        $.each(MapsLib.mapOverlays, function(i, entry) {
             if (typeof entry == 'string')
             {
                 // entry is a FusionTable ID
@@ -636,12 +607,10 @@ $.extend(MapsLib, {
             }
             return false;
         }
-        if (MapsLib.useNearbyLocation && MapsLib.useNearbyLocation.startAtNearbyLocation)
-        {
+        if (MapsLib.useNearbyLocation && MapsLib.useNearbyLocation.startAtNearbyLocation) {
             getlocation();
         } 
-        else
-        {
+        else {
             updateCenter(null);
         }
 
@@ -689,8 +658,7 @@ $.extend(MapsLib, {
     },
     updateAutocompleteBounds: function() {
         var settings = MapsLib.searchPage.addressAutocomplete;
-        if (settings != false)
-        {
+        if (settings != false) {
             // initialize Autocomplete
             var options = {};
             if (settings.country)
@@ -708,8 +676,7 @@ $.extend(MapsLib, {
     },
     initSearchFieldCallbacks: function() {
         MapsLib.updateAutocompleteBounds();
-        if ('ontouchstart' in window || 'onmsgesturechange' in window)
-        {
+        if ('ontouchstart' in window || 'onmsgesturechange' in window) {
             // Touch screens only: dismiss keyboard when user hits return in input fields
             $('input').keypress( function( e ) {
                 var code = e.keyCode || e.which;
@@ -721,8 +688,7 @@ $.extend(MapsLib, {
                 }
             })
         }
-        if (window.location.href.indexOf("#page-search") != -1)
-        {
+        if (window.location.href.indexOf("#page-search") != -1) {
             // launched directly into the search page: redraw search fields
             $("#section-search").trigger('create');
             $("#section-search").css("visibility", "visible");
@@ -731,43 +697,36 @@ $.extend(MapsLib, {
     // RECURSIVE HACK: There's a race condition between Google Maps and JQuery Mobile
     // So the following code resolves map redraw and centering issues on mobile devices
     reCenterWhenReady: function() {
-        if ($("#map_canvas").width() == 0 || $("#map_canvas").height() == 0 || MapsLib.queueInfobox == true)
-        {
+        if ($("#map_canvas").width() == 0 || $("#map_canvas").height() == 0 || MapsLib.queueInfobox == true) {
             // window still size 0, keep waiting
             setTimeout("MapsLib.reCenterWhenReady()", 500);
         } 
-        else 
-        {
-            MapsLib.ignoreIdle = false;
-            google.maps.event.trigger(MapsLib.map, 'resize');
+        else  {
+	  MapsLib.ignoreIdle = false;
+	  google.maps.event.trigger(MapsLib.map, 'resize');
 
-            if (MapsLib.queueInfobox != false)
-            {
-                MapsLib.map_centroid = MapsLib.infoWindow.location ? MapsLib.infoWindow.location : MapsLib.queueInfobox;
-                MapsLib.map.setCenter(MapsLib.map_centroid);
-                MapsLib.queueInfobox = false;
-                MapsLib.infoWindow.open(MapsLib.map);
-            } 
-            else
-            {
-                // returning from list view sometimes triggers an additional idle call before map.getCenter() is ready
-                MapsLib.overrideCenter = true;
-                setTimeout("MapsLib.overrideCenter = false", 500);
-            }
+	  if (MapsLib.queueInfobox != false) {
+	    MapsLib.map_centroid = MapsLib.infoWindow.location ? MapsLib.infoWindow.location : MapsLib.queueInfobox;
+	    MapsLib.map.setCenter(MapsLib.map_centroid);
+	    MapsLib.queueInfobox = false;
+	    MapsLib.infoWindow.open(MapsLib.map);
+	  } 
+	  else {
+	    // returning from list view sometimes triggers an additional idle call before map.getCenter() is ready
+	    MapsLib.overrideCenter = true;
+	    setTimeout("MapsLib.overrideCenter = false", 500);
+	  }
         }
     },
     resetSearch: function() {
         var settings = MapsLib.searchPage;
-        if (settings.addressShow)
-        {
+        if (settings.addressShow) {
             $("#search_address").val("");
         }
 
-        if (settings.distanceFilter.entries.length > 0)
-        {
+        if (settings.distanceFilter.entries.length > 0) {
             var distances = settings.distanceFilter.entries;
-            for (var i = 0; i < distances.length; i++)
-            {
+            for (var i = 0; i < distances.length; i++) {
                 var distEntry = distances[i]; // format: [zoom, label, true if selected]
                 if (distEntry.length > 2 && distEntry[2] == true)
                 {
@@ -778,12 +737,9 @@ $.extend(MapsLib, {
             }
         }
 
-        $.each(settings.columns, function(i, cdata)
-        {
-            switch (cdata.type)
-            {
-                case "dropdown":
-                {
+        $.each(settings.columns, function(i, cdata) {
+            switch (cdata.type) {
+                case "dropdown": {
                     var safename = MapsLib.safeField(cdata.label);
                     var full_id = "#sc_" + safename;
                     var entries = cdata.entries;
@@ -800,16 +756,14 @@ $.extend(MapsLib, {
                 }
                 break;
 
-                case "checkbox":
-                {
+                case "checkbox": {
                     var safename = MapsLib.safeField(cdata.label);
                     var full_id = '#sc_' + safename;
                     $(full_id).attr("checked",(cdata.is_checked == true)).checkboxradio("refresh");
                 }
                 break;
 
-                case "slider":
-                {
+                case "slider": {
                     var safename = MapsLib.safeField(cdata.column);
                     var range = MapsLib.columnRanges[cdata.column];
 
@@ -825,8 +779,7 @@ $.extend(MapsLib, {
                 }
                 break;
 
-                case "text":
-                {
+                case "text": {
                     var safename = MapsLib.safeField(cdata.column);
                     var full_id = '#sc_' + safename;
                     $(full_id).val("");
@@ -841,18 +794,15 @@ $.extend(MapsLib, {
     searchHtml: function() {
         var html = [];
         var settings = MapsLib.searchPage;
-        if (settings.addressShow)
-        {
-            html.push("<label for='search_address'>Indirizzo:</label>");
+        if (settings.addressShow) {
+            html.push("<label for='search_address' id='search_address_label'>Indirizzo:</label>");
             html.push("<input class='input-block-level' data-clear-btn='true' id='search_address' placeholder='Se non specificato riporterà al centro della mappa' type='text' />");
         }
-        if (settings.distanceFilter.entries.length > 0)
-        {
-            html.push("<hr><label for='search_radius'>Raggio di ricerca:</label>");
+        if (settings.distanceFilter.entries.length > 0) {
+            html.push("<hr><label for='search_radius' id='search_radius_label'>Raggio di ricerca:</label>");
             html.push("<select class='input-small' id='search_radius'>");
             var distances = settings.distanceFilter.entries;
-            for (var i = 0; i < distances.length; i++)
-            {
+            for (var i = 0; i < distances.length; i++) {
                 var distEntry = distances[i]; // format: [zoom, label, true if selected]
                 var label = distEntry[0];
                 var zoomstring = (distEntry.length > 1) ? distEntry[1] : distEntry[0];
@@ -864,24 +814,20 @@ $.extend(MapsLib, {
         }
 
         var searchFields = settings.columns;
-        if (settings.allColumns || settings.allColumnsExactMatch)
-        {
+        if (settings.allColumns || settings.allColumnsExactMatch) {
             var customColumns = [];
             // remove custom columns from searchFields, they'll be reinserted in column order
             searchFields = [];
             $.each(settings.columns, function(i, cdata) {
-                if (cdata.column == undefined)
-                {
+                if (cdata.column == undefined) {
                     searchFields.push(cdata);
                 }
-                else
-                {
+                else {
                     customColumns.push(cdata.column);
                 }
             });
 
-            $.each(MapsLib.columns, function(i, cname)
-            {
+            $.each(MapsLib.columns, function(i, cname) {
                 var colLower = cname.toLowerCase();
                 if ($.inArray(colLower, ["latitude", "longitude", "geometry", "shape"]) != -1) 
                     return true;
@@ -890,62 +836,51 @@ $.extend(MapsLib, {
                     return true;
 
                 var cIndex = $.inArray(cname, customColumns);
-                if (cIndex >= 0)
-                {
+                if (cIndex >= 0) {
                     searchFields.push(settings.columns[cIndex]);
                 } 
-                else if (cname in MapsLib.columnRanges)
-                {
-                    searchFields.push({
-                        type: "slider",
-                        column: cname,
-                        label: cname
-                    });
+                else if (cname in MapsLib.columnRanges) {
+		  searchFields.push({
+		    type: "slider",
+		    column: cname,
+		    label: cname
+		  });
                 }
-                else
-                {
-                    searchFields.push({
-                        type: "text",
-                        column: cname,
-                        label: cname,
-                        exact_match: settings.allColumnsExactMatch
-                    });
+                else {
+		  searchFields.push({
+		    type: "text",
+		    column: cname,
+		    label: cname,
+		    exact_match: settings.allColumnsExactMatch
+		  });
                 }
             });
         }
 
         MapsLib.searchColumns = [];
-        $.each(searchFields, function(i, cdata)
-        {
-            switch (cdata.type)
-            {
-                case "text":
-                {
+        $.each(searchFields, function(i, cdata) {
+            switch (cdata.type) {
+                case "text": {
                     var safename = MapsLib.safeField(cdata.column);
                     MapsLib.searchColumns.push(cdata.column);
                     var comparator = cdata.comparison;
                     var placeholder = "";
-                    if (comparator == undefined)
-                    {
-                        if ($.inArray(cdata.column, MapsLib.numericalColumns) != -1 || $.inArray(cdata.column, MapsLib.dateColumns) != -1)
-                        {
-                            comparator = "=";
-                            placeholder = "Exact match";
+                    if (comparator == undefined) {
+                        if ($.inArray(cdata.column, MapsLib.numericalColumns) != -1 || $.inArray(cdata.column, MapsLib.dateColumns) != -1) {
+			  comparator = "=";
+			  placeholder = "Exact match";
                         } 
-                        else if (cdata.exact_match)
-                        {
-                            comparator = "=";
-                            placeholder = "Exact match (case-sensitive)";
+                        else if (cdata.exact_match) {
+			  comparator = "=";
+			  placeholder = "Exact match (case-sensitive)";
                         }
-                        else
-                        {
-                            comparator = "CONTAINS IGNORING CASE";
-                            placeholder = "Cercherà qualunque nome contenente questo testo";
+                        else {
+			  comparator = "CONTAINS IGNORING CASE";
+			  placeholder = "Cercherà qualunque nome contenente questo testo";
                         }
                     } 
-                    else
-                    {
-                        placeholder = "Uses " + comparator + " operator";
+                    else {
+		      placeholder = "Uses " + comparator + " operator";
                     }
 
                     html.push("<hr><label for='sc_" + safename + "'>" + cdata.label + "</label>");
@@ -983,45 +918,41 @@ $.extend(MapsLib, {
                 }
                 break;
 
-                case "dropdown":
-                {
+                case "dropdown": {
                     var field_id = MapsLib.safeField(cdata.label);
-					//controllo il valore della label e lo nascondo se si tratta di un tipo specifico
-					if (cdata.label === "Tipi di cucina:" || cdata.label === "Tipi di ristoro:" || cdata.label === "Tipi di divertimento:" || cdata.label === "Tipi di alloggio:")
-						html.push("<hr><label style='display:none' for='sc_" + field_id + "'>" + cdata.label + "</label>");
-					else
-						html.push("<hr><label for='sc_" + field_id + "'>" + cdata.label + "</label>");
-					
-					html.push("<select data-ref='custom' id='sc_" + field_id + "' name=''>");
-					
+		    //controllo il valore della label e lo nascondo se si tratta di un tipo specifico
+		    if ( cdata.label === "Tipi di cucina:" 	|| 
+			 cdata.label === "Tipi di ristoro:" 	|| 
+			 cdata.label === "Tipi di divertimento:" || 
+			 cdata.label === "Tipi di alloggio:")
+		      html.push("<hr><label style='display:none' for='sc_" + field_id + "'>" + cdata.label + "</label>");
+		    else
+		      html.push("<hr><label for='sc_" + field_id + "'>" + cdata.label + "</label>");
+		    
+		    html.push("<select data-ref='custom' id='sc_" + field_id + "' name=''>");
+
                     var template = cdata.template;
                     var foreach = cdata.foreach;
                     var entries = cdata.entries;
-                    if (typeof entries != 'undefined')
-                    {    
-                        for (var j = 0; j < entries.length; j++)
-                        {
-                            var option = entries[j];
-                            if (option instanceof Array)
-                            {
-                                if (option.length > 1)
-                                {
-                                    var selected = (option.length > 2 && option[2] == true) ? ' selected="selected"' : "";
-                                    html.push('<option value="' + option[1] + '"' + selected + ">" + option[0] + "</option>");
-                                } 
-                                else if (MapsLib.stringExists(template))
-                                {
-                                    html.push('<option value="' + template.replace(/{text}/g, option[0]) + '">' + option[0] + "</option>");
-                                }
-                            } 
-                            else if (MapsLib.stringExists(template))
-                            {
-                                html.push('<option value="' + template.replace(/{text}/g, option) + '">' + option + "</option>");
-                            }
-                        }
+                    if (typeof entries != 'undefined') {
+		      for (var j = 0; j < entries.length; j++) {
+			var option = entries[j];
+			if (option instanceof Array) {
+			  if (option.length > 1) {
+			      var selected = (option.length > 2 && option[2] == true) ? ' selected="selected"' : "";
+			      html.push('<option value="' + option[1] + '"' + selected + ">" + option[0] + "</option>");
+			  }
+			  else if (MapsLib.stringExists(template)) {
+			      html.push('<option value="' + template.replace(/{text}/g, option[0]) + '">' + option[0] + "</option>");
+			  }
+			}
+			else if (MapsLib.stringExists(template))
+			{
+			  html.push('<option value="' + template.replace(/{text}/g, option) + '">' + option + "</option>");
+			}
+		      }
                     }
-                    if (MapsLib.stringExists(foreach))
-                    {
+                    if (MapsLib.stringExists(foreach)) {
                         var foreachSafe = "'" + foreach + "'";
                         MapsLib.in_query = "sc_" + field_id;
                         MapsLib.query(foreachSafe + ", Count()", "", "", foreachSafe, "MapsLib.updateSearchForeach");
@@ -1030,8 +961,7 @@ $.extend(MapsLib, {
                 }
                 break;
 
-                case "checkbox":
-                {
+                case "checkbox": {
                     var field_id = MapsLib.safeField(cdata.label);
                     var checked_tag = (cdata.is_checked == true) ? "checked" : "";
                     html.push('<input type="checkbox" data-ref="checkbox" id="sc_' + field_id + '" name="" data-checked="' + cdata.checked_query + '" data-unchecked="' + cdata.unchecked_query + '" ' + checked_tag + ' />');
@@ -1047,10 +977,8 @@ $.extend(MapsLib, {
     // Generates search query according to generated HTML for Search section
     doSearch: function(firstSearch) {
 
-        if (firstSearch)
-        {
-            if (window.location.href.indexOf("#page-search") != -1)
-            {
+        if (firstSearch) {
+            if (window.location.href.indexOf("#page-search") != -1) {
                 // launched directly into the search page: hide search fields during setup
                 $("#section-search").css("visibility", "hidden");
             }
@@ -1066,59 +994,51 @@ $.extend(MapsLib, {
         var whereClauses = [];
         $("input[data-ref='column']").each(function( index ) {
             var value = $(this).val();
-            if (MapsLib.stringExists(value))
-            {
-                value = value.replace("'", "''"); // escape single quotes for SQL query
-                var comparator = $(this).attr("data-compare");
-                var name = $(this).attr("data-field");
-                if (name in MapsLib.columnRanges)
-                {
-                    // skip if range is set to full range
-                    var range = MapsLib.columnRanges[name];
-                    if ($.inArray(name, MapsLib.dateColumns) != -1)
-                    {
-                        if ((comparator == ">" || comparator == ">=") && (value == MapsLib.getDateString(range.minVal))) 
-                            return true;
-                        if ((comparator == "<" || comparator == "<=") && (value == MapsLib.getDateString(range.maxVal))) 
-                            return true;
-                    } 
-                    else
-                    {
-                        if ((comparator == ">" || comparator == ">=") && (value == range.minVal)) 
-                            return true;
-                        if ((comparator == "<" || comparator == "<=") && (value == range.maxVal)) 
-                            return true;
-                    }
-                    // TODO: use equals operator if min and max set to same- this requires getting both values
-                }
-                whereClauses.push("'" + $(this).attr("data-field") + "' " + $(this).attr("data-compare") + " '" + value + "'");
+            if (MapsLib.stringExists(value)) {
+	      value = value.replace("'", "''"); // escape single quotes for SQL query
+	      var comparator = $(this).attr("data-compare");
+	      var name = $(this).attr("data-field");
+	      if (name in MapsLib.columnRanges) {
+		// skip if range is set to full range
+		var range = MapsLib.columnRanges[name];
+		if ($.inArray(name, MapsLib.dateColumns) != -1) {
+		    if ((comparator == ">" || comparator == ">=") && (value == MapsLib.getDateString(range.minVal))) 
+			return true;
+		    if ((comparator == "<" || comparator == "<=") && (value == MapsLib.getDateString(range.maxVal))) 
+			return true;
+		} 
+		else {
+		    if ((comparator == ">" || comparator == ">=") && (value == range.minVal)) 
+			return true;
+		    if ((comparator == "<" || comparator == "<=") && (value == range.maxVal)) 
+			return true;
+		}
+		// TODO: use equals operator if min and max set to same- this requires getting both values
+	      }
+	      whereClauses.push("'" + $(this).attr("data-field") + "' " + $(this).attr("data-compare") + " '" + value + "'");
             }
         });
 
         $("select[data-ref='custom']").each(function( index ) {
             var clause = $(this).find(":selected").val();
-            if ((typeof clause != 'undefined') && clause.length > 0)
-            {
+            if ((typeof clause != 'undefined') && clause.length > 0) {
                 whereClauses.push(clause);
             }
         });
 
         $("input[data-ref='checkbox']").each(function( index ) {
             var clause = $(this).attr("data-checked");
-            if ($(this).attr("checked") != "checked")
-            {
+            if ($(this).attr("checked") != "checked") {
                 clause = $(this).attr("data-unchecked");
             }
-            if ((clause != 'undefined') && (clause != ''))
-            {
+            if ((clause != 'undefined') && (clause != '')) {
                 whereClauses.push(clause);
             }
         });
 
         MapsLib.customSearchFilter = whereClauses.join(" AND ");
         var whereClause = MapsLib.locationColumn + " not equal to ''";
-        if (MapsLib.customSearchFilter.length > 0)
-        {
+        if (MapsLib.customSearchFilter.length > 0) {
             whereClause += " AND " + MapsLib.customSearchFilter;
         }
         //-------end of custom filters--------
@@ -1132,8 +1052,7 @@ $.extend(MapsLib, {
 
                     MapsLib.map.setCenter(MapsLib.currentPinpoint);
                     MapsLib.map_centroid = MapsLib.currentPinpoint;
-                    if (MapsLib.searchRadiusMeters > 0)
-                    {
+                    if (MapsLib.searchRadiusMeters > 0) {
                         MapsLib.map.setZoom(MapsLib.zoomFromRadiusMeters(MapsLib.searchRadiusMeters));
                     }
 
@@ -1146,8 +1065,7 @@ $.extend(MapsLib, {
                         title: address
                     });
 
-                    if (MapsLib.stringExists(MapsLib.addressPinInfobox))
-                    {
+                    if (MapsLib.stringExists(MapsLib.addressPinInfobox)) {
                         google.maps.event.addListener(MapsLib.addrMarker, 'click', function() {
                             MapsLib.infoWindow.setOptions({
                                 content: '<div class="infobox-container">' + MapsLib.addressPinInfobox.replace("{address}", address.split(",")[0]) + '</div>',
@@ -1157,106 +1075,88 @@ $.extend(MapsLib, {
                             MapsLib.infoWindow.open(MapsLib.map);
                         });
                     }
-                    if (MapsLib.searchPage.distanceFilter.filterSearchResults && MapsLib.searchRadiusMeters > 0)
-                    {
+                    if (MapsLib.searchPage.distanceFilter.filterSearchResults && MapsLib.searchRadiusMeters > 0) {
                         whereClause += " AND ST_INTERSECTS(" + MapsLib.locationColumn + ", CIRCLE(LATLNG" + MapsLib.currentPinpoint.toString() + "," + MapsLib.searchRadiusMeters + "))";
                         MapsLib.drawSearchRadiusCircle(MapsLib.currentPinpoint);
                     }
                     MapsLib.submitSearch(whereClause, MapsLib.map, MapsLib.currentPinpoint);
                 } 
-                else 
-                {
+                else {
                     alert("We could not find your address: " + status);
                 }
             });
         } 
-        else if ((MapsLib.searchPage.distanceFilter.entries.length > 0 || MapsLib.searchPage.addressShow) && (firstSearch == undefined || firstSearch == false) && MapsLib.map_centroid != undefined)
-        {
-            // search w/ current location
-            MapsLib.currentPinpoint = MapsLib.map_centroid;
-            MapsLib.safeShow(MapsLib.localMarker, true);
-            MapsLib.safeShow(MapsLib.addrMarker, false);
-            if (MapsLib.searchRadiusMeters > 0)
-            {
-                if (MapsLib.searchPage.distanceFilter.filterSearchResults)
-                {
-                    whereClause += " AND ST_INTERSECTS(" + MapsLib.locationColumn + ", CIRCLE(LATLNG" + MapsLib.map_centroid.toString() + "," + MapsLib.searchRadiusMeters + "))";
-                }
-                MapsLib.map.setZoom(MapsLib.zoomFromRadiusMeters(MapsLib.searchRadiusMeters));
-                MapsLib.drawSearchRadiusCircle(MapsLib.map_centroid);
-            }
-            MapsLib.submitSearch(whereClause, MapsLib.map, MapsLib.map_centroid);
+        else if ((MapsLib.searchPage.distanceFilter.entries.length > 0 || MapsLib.searchPage.addressShow) && (firstSearch == undefined || firstSearch == false) && MapsLib.map_centroid != undefined) {
+	  // search w/ current location
+	  MapsLib.currentPinpoint = MapsLib.map_centroid;
+	  MapsLib.safeShow(MapsLib.localMarker, true);
+	  MapsLib.safeShow(MapsLib.addrMarker, false);
+	  if (MapsLib.searchRadiusMeters > 0) {
+	      if (MapsLib.searchPage.distanceFilter.filterSearchResults)
+	      {
+		  whereClause += " AND ST_INTERSECTS(" + MapsLib.locationColumn + ", CIRCLE(LATLNG" + MapsLib.map_centroid.toString() + "," + MapsLib.searchRadiusMeters + "))";
+	      }
+	      MapsLib.map.setZoom(MapsLib.zoomFromRadiusMeters(MapsLib.searchRadiusMeters));
+	      MapsLib.drawSearchRadiusCircle(MapsLib.map_centroid);
+	  }
+	  MapsLib.submitSearch(whereClause, MapsLib.map, MapsLib.map_centroid);
         } 
-        else
-        {
+        else {
             // non-user search or address fields disabled
             MapsLib.submitSearch(whereClause, MapsLib.map);
         }
     },
-    safeField: function(val)
-    {
+    safeField: function(val) {
         return (val == undefined) ? "" : val.replace(/ /g, "_").replace(/\./g, "").replace(/:/g, "").replace(/\?/g, "").replace(/#/g, "_").replace(/\$/g, "_");
     },
     safeShow: function(testobj, visible) {
-        if (testobj != null)
-        {
+        if (testobj != null) {
             testobj.setVisible(visible);
         }
     },
     infoboxContent: function(row, isListView, defaultContent) {
-        if (typeof row == 'undefined' || row == null)
-        {
+        if (typeof row == 'undefined' || row == null) {
             return null;
         }
         if (typeof isListView == 'undefined') 
             isListView = false;
         var safe_row = {}
-        for (key in row)
-        {
-            var safekey = MapsLib.safeField(key);
-            var safevalue = $(document.createElement('div')).html(row[key].value).text().replace(MapsLib.unicodeSet, ""); // using jQuery to decode "&amp;"->"&" and so on
-            if (MapsLib.delimitedColumns != undefined && key in MapsLib.delimitedColumns)
-            {
-                // split value by delimiter
-                if (safevalue.length == 0)
-                {
-                    safevalue = [];
-                } 
-                else
-                {
-                    safevalue = safevalue.split(MapsLib.delimitedColumns[key]);
-                }
-            }
-            safe_row[safekey] = safevalue;
+        for (key in row) {
+	  var safekey = MapsLib.safeField(key);
+	  var safevalue = $(document.createElement('div')).html(row[key].value).text().replace(MapsLib.unicodeSet, ""); // using jQuery to decode "&amp;"->"&" and so on
+	  if (MapsLib.delimitedColumns != undefined && key in MapsLib.delimitedColumns) {
+	    // split value by delimiter
+	    if (safevalue.length == 0) {
+		safevalue = [];
+	    }
+	    else {
+		safevalue = safevalue.split(MapsLib.delimitedColumns[key]);
+	    }
+	  }
+	  safe_row[safekey] = safevalue;
         }
 
         var infoboxContent = "";
-        if (MapsLib.infoboxCompiled != null)
-        {
+        if (MapsLib.infoboxCompiled != null) {
             // using custom infobox
             var compiled = "";
-            if (typeof MapsLib.customInfoboxHtml == "string")
-            {
+            if (typeof MapsLib.customInfoboxHtml == "string") {
                 compiled = MapsLib.infoboxCompiled({
                     isListView: isListView ? "true" : "",
                     row: safe_row
                 });
             } 
-            else
-            {
+            else {
                 compiled = MapsLib.infoboxCompiled(safe_row, isListView);
             }
             infoboxContent = '<div class="infobox-container">' + compiled + '</div>';
         } 
-        else if (isListView || MapsLib.customInfoboxHtml != "")
-        {
+        else if (isListView || MapsLib.customInfoboxHtml != "") {
             if ((typeof defaultContent != 'undefined' || defaultContent != undefined) &&
-            defaultContent.indexOf("geometry:") == -1) // no geometry information in the infobox
-            {
+            defaultContent.indexOf("geometry:") == -1) { // no geometry information in the infobox
                 infoboxContent = defaultContent;
             } 
-            else
-            {
+            else {
                 // Generate own infoboxContent, ignoring location column and empty values.
                 infoboxContent = isListView ? '<div class="infobox-container">' : '<div class="googft-info-window">';
                 infoboxContent += '<p class="infobox-default">';
@@ -1280,17 +1180,14 @@ $.extend(MapsLib, {
         return infoboxContent;
     },
     setLayerVisibility: function(layerOrder) {
-        if (typeof layerOrder != 'undefined')
-        {
+        if (typeof layerOrder != 'undefined') {
             MapsLib.mapOverlayOrder = layerOrder;
         }
         MapsLib.searchrecords.setMap(null);
-        $.each(MapsLib.mapOverlayLayers, function(i, layer)
-        {
+        $.each(MapsLib.mapOverlayLayers, function(i, layer) {
             layer.setMap(null);
         });
-        $.each(MapsLib.mapOverlayOrder, function(i, index)
-        {
+        $.each(MapsLib.mapOverlayOrder, function(i, index) {
             MapsLib.mapOverlayLayers[index].setMap(MapsLib.map);
         });
         MapsLib.searchrecords.setMap(MapsLib.map);
@@ -1338,8 +1235,7 @@ $.extend(MapsLib, {
         MapsLib.customSearchFilter = "";
     },
     drawSearchRadiusCircle: function(point) {
-        if (typeof MapsLib.searchRadiusCircle != 'undefined' && MapsLib.searchRadiusCircle != null)
-        {
+        if (typeof MapsLib.searchRadiusCircle != 'undefined' && MapsLib.searchRadiusCircle != null) {
             MapsLib.searchRadiusCircle.setMap(null);
         }
         var circleOptions = {
@@ -1401,14 +1297,12 @@ $.extend(MapsLib, {
         if (MapsLib.handleError(json)) {
             return false;
         }
-        if (typeof MapsLib.title == 'undefined' || MapsLib.title == undefined)
-        {
+        if (typeof MapsLib.title == 'undefined' || MapsLib.title == undefined) {
             MapsLib.title = json["name"];
             MapsLib.updateTitle();
         }
 
-        if (MapsLib.aboutPage == undefined && "description" in json && json.description.length > 0)
-        {
+        if (MapsLib.aboutPage == undefined && "description" in json && json.description.length > 0) {
             $("#section-about").html(json.description.replace(/\n/g, "<br/>"));
         }
 
@@ -1428,8 +1322,7 @@ $.extend(MapsLib, {
         var foundPriority = 0;
         var grabNextColumn = false;
         var secondType = "";
-        for (var i = 0; i < num_columns; i++)
-        {
+        for (var i = 0; i < num_columns; i++) {
             var name = json["columns"][i]["name"];
             var type = json["columns"][i]["type"];
             all_columns.push(name);
@@ -1481,8 +1374,7 @@ $.extend(MapsLib, {
         }
 
         // make sure location column has single quotes if it contains a space
-        if (MapsLib.locationColumn.indexOf(" ") != -1)
-        {
+        if (MapsLib.locationColumn.indexOf(" ") != -1) {
             MapsLib.locationColumn = "'" + MapsLib.locationColumn + "'";
             MapsLib.locationColumn = MapsLib.locationColumn.replace(/''/g, "'");
         }
@@ -1496,8 +1388,7 @@ $.extend(MapsLib, {
 
         var columnRangeQueries = [];
         var columnsToCheck = (MapsLib.searchPage.allColumns) ? MapsLib.all_columns : MapsLib.searchPage.columns;
-        $.each(MapsLib.columns, function(i, column)
-        {
+        $.each(MapsLib.columns, function(i, column) {
             if ($.inArray(column, MapsLib.numericalColumns) == -1 && $.inArray(column, MapsLib.dateColumns) == -1) 
             {
                 MapsLib.variantColumns.push(MapsLib.safeField(column));
@@ -1534,8 +1425,7 @@ $.extend(MapsLib, {
             });
         }
 
-        if (columnRangeQueries.length == 0)
-        {
+        if (columnRangeQueries.length == 0) {
             MapsLib.initSearchFieldCallbacks();
         }
     },
@@ -1554,12 +1444,10 @@ $.extend(MapsLib, {
         var limitClause = " LIMIT " + (MapsLib.listViewRows.length + 10);
         var centerPoint = (MapsLib.currentPinpoint != null) ? MapsLib.currentPinpoint : MapsLib.map.getCenter();
 
-        if (centerPoint == null)
-        {
+        if (centerPoint == null) {
             whereClause += limitClause;
         } 
-        else if (MapsLib.searchRadiusMeters > 0 && MapsLib.searchPage.distanceFilter.filterListResults)
-        {
+        else if (MapsLib.searchRadiusMeters > 0 && MapsLib.searchPage.distanceFilter.filterListResults) {
             whereClause += " AND ST_INTERSECTS(" + MapsLib.locationColumn + ", CIRCLE(LATLNG" + centerPoint.toString() + "," + MapsLib.searchRadiusMeters + "))";
             if (MapsLib.listViewSortByColumn)
             {
@@ -1567,15 +1455,13 @@ $.extend(MapsLib, {
             }
             whereClause += limitClause;
         } 
-        else
-        {
+        else {
             // FusionTable query limitation: There can at most be one spatial condition or "order by distance" condition.  We can't do both.
             orderClause = MapsLib.listViewSortByColumn || "ST_DISTANCE(" + MapsLib.locationColumn + ", LATLNG" + centerPoint.toString() + ")";
             orderClause += limitClause;
         }
 
-        if (MapsLib.listViewRows.length == 0)
-        {
+        if (MapsLib.listViewRows.length == 0) {
             $("ul#listview").html('<li data-corners="false" data-shadow="false" data-iconshadow="true" data-theme="d">Loading results...</li>');
         }
         if (!MapsLib.in_query) MapsLib.in_query = true;
@@ -1604,8 +1490,7 @@ $.extend(MapsLib, {
         }
         // Empty the listview object.
         var existingRows = MapsLib.listViewRows.length;
-        if (existingRows == 0)
-        {
+        if (existingRows == 0) {
             $("ul#listview").html("");
         }
 
@@ -1621,12 +1506,16 @@ $.extend(MapsLib, {
             }
             MapsLib.listViewRows.push(row);
 
-            var row_html = '<li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="d" class="ui-btn ui-btn-icon-right ui-li-has-arrow ui-li ui-btn-up-d"><div class="ui-btn-inner ui-li"><div class="ui-btn-text"><a href="#page-map" id="listrow-' + ix + '" data-transition="slidedown" class="ui-link-inherit">';
+            var row_html = '<li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="d" class="ui-btn ui-btn-icon-right ui-li-has-arrow ui-li ui-btn-up-d">'
+	      +'<div class="ui-btn-inner ui-li">'
+		+'<div class="ui-btn-text">'
+		  +'<a href="#page-map" id="listrow-' + ix + '" data-transition="slidedown" class="ui-link-inherit">';
             row_html += MapsLib.infoboxContent(row, true);
             row_html += '</a></div>';
             // k0z
             row_html += '<span class="ui-icon ui-icon-arrow-r ui-icon-shadow">&nbsp;</span>';
             row_html += '</div></li>';
+	    fixCSS();
 
             $("ul#listview").append(row_html);
 
@@ -1716,4 +1605,3 @@ $.extend(MapsLib, {
     // This also applies to the convertToPlainString function above
     //-----end of custom functions-----------------------------------------------
 });
-

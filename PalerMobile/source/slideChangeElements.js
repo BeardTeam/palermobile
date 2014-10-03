@@ -114,7 +114,7 @@ $(document).on('change', 'select', function() {
 function slideToggleDivertimentoElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
 	if ($('#sc_Tipi_di_divertimento').closest('.ui-select').is(":visible") == visibility){
-		$("label:contains('Tipi di divertimento:')").slideToggle();
+		$("label[for='sc_Tipi_di_divertimento']").slideToggle();
 		$('#sc_Tipi_di_divertimento').closest('.ui-select').slideToggle();
 		$('#sc_divertimento-e-ristoro_orari_apertura').slideToggle();
 		$('#sc_divertimento-e-ristoro_orari_chiusura').slideToggle();
@@ -139,7 +139,7 @@ function slideToggleDivertimentoElements(visibility) {
 function slideToggleRistoroElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
 	if ($('#sc_Tipi_di_ristoro').closest('.ui-select').is(":visible") == visibility){
-		$("label:contains('Tipi di ristoro:')").slideToggle();
+		$("label[for='sc_Tipi_di_ristoro']").slideToggle();
 		$('#sc_Tipi_di_ristoro').closest('.ui-select').slideToggle();
 		$('#sc_divertimento-e-ristoro_orari_apertura').slideToggle();
 		$('#sc_divertimento-e-ristoro_orari_chiusura').slideToggle();
@@ -164,7 +164,7 @@ function slideToggleRistoroElements(visibility) {
 function slideToggleCucinaElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
 	if ($('#sc_Tipi_di_cucina').closest('.ui-select').is(":visible") == visibility){
-		$("label:contains('Tipi di cucina:')").slideToggle();
+		$("label[for='sc_Tipi_di_cucina']").slideToggle();
 		$('#sc_Tipi_di_cucina').closest('.ui-select').slideToggle();
 	}
 	//setto i dropdown dei tipi specifici ai loro valori di default
@@ -177,45 +177,55 @@ function slideToggleCucinaElements(visibility) {
 
 
 function slideToggleLuoghiDaVisitareElements(visibility) {
-	//se gli elementi sono visibili allora verranno nascosti, e viceversa
-	if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == visibility){
-		$("span:contains('Chiese')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Teatri storici')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Oratori')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Gallerie artistiche e musei')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Biblioteche')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Zone archeologiche')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Monumenti')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Palazzi')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Dimore e Ville Storiche')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Santuari')").closest('.ui-checkbox').slideToggle();
-	}
-	//setto le checkbox dei tipi specifici ai loro valori di default
-	if ($("span:contains('Chiese')").closest('.ui-checkbox').is(":visible") == true) {
-		$('#sc_Chiese').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Teatri_storici').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Oratori').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Gallerie_artistiche_e_musei').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Biblioteche').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Zone_archeologiche').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Monumenti').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Palazzi').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Dimore_e_Ville_storiche').prop('checked', false).checkboxradio("refresh");
-		$('#sc_Santuari').prop('checked', false).checkboxradio("refresh");
-	}
+  //se gli elementi sono visibili allora verranno nascosti, e viceversa
+  if ($("#sc_Chiese").closest('.ui-checkbox').is(":visible") == visibility) {
+    $("#sc_Chiese").closest('.ui-checkbox').slideToggle();
+    $("#sc_Teatri_storici").closest('.ui-checkbox').slideToggle();
+    $("#sc_Oratori").closest('.ui-checkbox').slideToggle();
+    $("#sc_Gallerie_artistiche_e_musei").closest('.ui-checkbox').slideToggle();
+    $("#sc_Biblioteche").closest('.ui-checkbox').slideToggle();
+    $("#sc_Zone_archeologiche").closest('.ui-checkbox').slideToggle();
+    $("#sc_Monumenti").closest('.ui-checkbox').slideToggle();
+    $("#sc_Palazzi").closest('.ui-checkbox').slideToggle();
+    $("#sc_Dimore_e_Ville_Storiche").closest('.ui-checkbox').slideToggle();
+    $("#sc_Santuari").closest('.ui-checkbox').slideToggle();
+  }
+  //setto le checkbox dei tipi specifici ai loro valori di default
+  if ($("#sc_Chiese").closest('.ui-checkbox').is(":visible") == true) {
+    console.log("here");
+    $('#sc_Chiese').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Teatri_storici').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Oratori').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Gallerie_artistiche_e_musei').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Biblioteche').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Zone_archeologiche').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Monumenti').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Palazzi').prop('checked', false).checkboxradio("refresh");
+    $('#sc_Dimore_e_Ville_Storiche').prop('checked', false).checkboxradio("refresh");
+//     console.log  ( $('#sc_Dimore_e_Ville_Storiche') );
+    $('#sc_Santuari').prop('checked', false).checkboxradio("refresh");
+  }
 }
 
 
 
 function slideToggleAperitivoElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
-	if ($("span:contains('Wine bar')").closest('.ui-checkbox').is(":visible") == visibility){
-		$("span:contains('Wine bar')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Cocktail bar')").closest('.ui-checkbox').slideToggle();
-		$("span:contains('Bar')").closest('.ui-checkbox').slideToggle();
+// 	if ($("span:contains('Wine bar')").closest('.ui-checkbox').is(":visible") == visibility) {
+	if ($("#sc_Wine_bar").closest('.ui-checkbox').is(":visible") == visibility) {
+// 		$("span:contains('Wine bar')")
+	  $('#sc_Wine_bar')
+		.closest('.ui-checkbox').slideToggle();
+// 		$("span:contains('Cocktail bar')")
+	  $('#sc_Cocktail_bar')
+		.closest('.ui-checkbox').slideToggle();
+	  $('#sc_Bar')
+// 		$("span:contains('Bar')")
+		.closest('.ui-checkbox').slideToggle();
 	}
 	//setto le checkbox dei tipi specifici ai loro valori di default
-	if ($("span:contains('Wine bar')").closest('.ui-checkbox').is(":visible") == true) {
+// 	if ($("span:contains('Wine bar')").closest('.ui-checkbox').is(":visible") == true) {
+	if ($("#sc_Wine_bar").closest('.ui-checkbox').is(":visible") == true) {
 		$('#sc_Wine_bar').prop('checked', false).checkboxradio("refresh");
 		$('#sc_Cocktail_bar').prop('checked', false).checkboxradio("refresh");
 		$('#sc_Bar').prop('checked', false).checkboxradio("refresh");
@@ -223,17 +233,19 @@ function slideToggleAperitivoElements(visibility) {
 }
 
 
-
 function slideToggleAccoglienzaElements(visibility) {
 	//se gli elementi sono visibili allora verranno nascosti, e viceversa
-	if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == visibility){
-		$("span:contains('Sale meeting')").closest('.ui-checkbox').slideToggle();
+// 	if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == visibility){
+	if ($("#sc_Sale_meeting").closest('.ui-checkbox').is(":visible") == visibility) {
+// 		$("span:contains('Sale meeting')").closest('.ui-checkbox').slideToggle();
+		$("#sc_Sale_meeting").closest('.ui-checkbox').slideToggle();
 		$('#sc_accoglienza_stelle').slideToggle();
-		$("label:contains('Tipi di alloggio:')").slideToggle();
+		$("label[for='sc_Tipi_di_alloggio']").slideToggle();
 		$('#sc_Tipi_di_alloggio').closest('.ui-select').slideToggle();
 	}
 	//setto le checkbox e lo slider dei tipi specifici ai loro valori di default
-	if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == true) {
+// 	if ($("span:contains('Sale meeting')").closest('.ui-checkbox').is(":visible") == true) {
+	if ($("#sc_Sale_meeting").closest('.ui-checkbox').is(":visible") == visibility) {
 		$('#sc_Sale_meeting').prop('checked', false).checkboxradio("refresh");
 		$('#sc_min_accoglienza_stelle').val(1);
 		$('#sc_min_accoglienza_stelle').slider('refresh');
@@ -264,4 +276,3 @@ function slideToggleConsolatoElements(visibility) {
 		$('#sc_max_consolato_orari_chiusura').slider('refresh');
 	}
 }
-

@@ -4,6 +4,7 @@ var Localization = {
     id_labels: ["search_address_label", "search_radius_label","search","search_reset"]
   },
   en: {
+//     you_are_here: "You are here",
     id: {
       leaf: {
 	// home page

@@ -540,8 +540,12 @@ $.extend(MapsLib, {
                         useNearbyPosition = false;
                         if (MapsLib.stringExists(MapsLib.useNearbyLocation.boundsExceededMessage))
                         {
+			  if (MapsLib.stringExists(Localization[Localize.locale].alert_message_text))
+			    $( "#alertMessageText" ).text(Localization[Localize.locale].alert_message_text)
+			  else
                             $( "#alertMessageText" ).text(MapsLib.useNearbyLocation.boundsExceededMessage);
-                            $( "#popupDialog" ).popup( "open" );
+                            
+			  $( "#popupDialog" ).popup( "open" );
                         }
                     }
                 }

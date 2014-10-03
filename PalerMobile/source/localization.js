@@ -171,6 +171,9 @@ function setLocaleFunctions() {
 // 	  console.log(label_for_attribute+" -> "+ $('#'+label_for_attribute).html() +" -> "+to_change);
 	}
       }
+      
+      // alert message
+      MapsLib.useNearbyLocation.boundsExceededMessage = Localization[Localize.locale].alert_message_text;
 
     },100);
   };

@@ -4,59 +4,65 @@ var Localization = {
     id_labels: ["search_address_label", "search_radius_label","search","search_reset"]
   },
   en: {
-//     you_are_here: "You are here",    
-    id: {
-      leaf: {
-	// home page
-	homepage: {
+    button: {
+      homepage: {
+	id: {
 	  "nearby-name": "Find me"
-	}
-      },
-      class: {
-	"ui-btn-inner_ui-btn-text": {
-	  // home page
-	  homepage: {
+	},
+	classes: {
+	  "ui-btn-inner_ui-btn-text": {
 	    "about": "About",
 	    "search_page": "Filter",
 	    "listview": "Results list"
-	  },
-	  // about page
-	  aboutpage: {	
-	    "about_back": "Map"
-	  },	
-	  //search page
-	  searchpage: {
-	    "search_back": "Map",
-	    "search_top": "Search"
 	  }
 	}
+      },
+      search_page: {
+	id: {
+	  "search_back": "Map",
+	  "search_top": "Map"
+	}
+      },
+      list_page: {
+	back_to_map: "Back to map"
+      },
+      about_page: {
+	"about_back": "Map"
+      },
+      details_page: {
+	"back": "Back"
       }
-    },
+    },    
+    
     title: {
       // about page
-      aboutpage: {
+      about_page: {
 	"about_page_title": "About Us"
       },      
       //search page
-      searchpage: {
+      search_page: {
 	"search_page_title": "Filter"
+      },
+      list_page: {
+	"page-list-title": "Results list",
+	"list_back": "Map",
+	"search": "Search",
+      },
+      details_page: {
+	"details": "Details"
       }
+      
     },
-    
-    "page-list-title": "Results list",
-    "list_back": "Map",
-    "search": "Search",
-    
-    
+
     
     label: {
-      searchpage: {
+      search_page: {
 	fixed: {
 	  // this below must have same name of that specified in MapsLib.searchpage.columns.column in fusiontable_settings.js !
 // 	  "nome": "Name",
 	  "nome": "Name:"
 	},
-	"by_id": {
+	id: {
 	  // fixed, don't touch below!
 	  leaf: {
 	    "search_address_label": "Address:",
@@ -75,7 +81,7 @@ var Localization = {
 	},
 	
 	various: {
-	  // same name of fields in: "MapsLib.searchpage.columns.label"
+	  // same name of fields in: "MapsLib.search_page.columns.label"
 	  "Cosa cerchi?": "Searching for?",
 	  "Tipi di alloggio:": "Accomodate type:",
 	  "Tipi di divertimento:" : "Amusement type:",
@@ -85,11 +91,68 @@ var Localization = {
 	
 // 	,"min_accoglienza_stelle": "Stelle"
 // 	,search_for_dropdown: {	}	
+      },
+      list_page: {
+	class: {	  
+	  "listpage-address": "Address: ",
+	  "listpage-district": "district ",
+	  'listpage-email': 'Email: ',
+	  'listpage-web': 'Web: ',
+	  "listpage-accomodate-stars": "Stars: ",
+	  'listpage-cooking': "with cooking",
+	  "listpage-hotel-stars-prefix": ": ",
+	  "listpage-hotel-star-suffix": "stella",
+	  "listpage-hotel-stars-suffix": "stelle",
+	  "listpage-details-link": "Click to see details"	  
+	}
+      },
+      details_page: {
+	class: {
+	  "details-tipo-opening_hours": "Opening hours: ",
+	  "details-tipo-days": "Days: ",
+	  "details-tipo-begin_hour": "Since ",
+	  "details-tipo-end_hour": "to ",
+	  "details-tipo-note": "Notes: ",
+	  
+	  "details-tipo-consulate": "Consul: ",
+	  "details-tipo-monument": "Monument",
+	  
+	  "details-accomodate-category": "Category: ",
+	  "details-accomodate-stars": "Stars: ",
+	  'details-accomodate-rooms': "Rooms: ",
+	  
+	  
+	  'details-accomodate-meeting': "Meeting rooms: ",
+	  'details-accomodate-residences': "Residences: ",
+	  'details-accomodate-manager': "Manager: ",
+	  'details-accomodate-management': "Management: ",
+	  'details-accomodate-informations': "Informations: ",
+	  
+	  'details-cooking': "Cooking: ",
+	  
+	  'details-services': 'Services: ',
+	  'details-allowing-visit': 'Entering: ',
+	  'details-price': 'Price: ',
+	  'details-historical_informations': 'Historical informations: ',
+	  'details-place-manager-phone': 'Management: ',
+	  
+	  'details-contacts': 'Contacts: ',
+	  'details-landphone': 'Phone: ',
+	  'details-mobile': 'Mobile: ',
+	  
+	  'details-email': 'Email: ',
+	  'details-web': 'Web: ',
+	  
+	  'details-address-prefix': 'Address: ',
+	  'details-district': 'District: ' // quartiere  
+	  
+	  
+	}
       }
     },
     
     dropdown: {
-      searchpage: {
+      search_page: {
 	"radius_unlimited": "Unlimited",	
 // 	"activity_type:"
 	// search_for dropdown
@@ -138,7 +201,7 @@ var Localization = {
       }
     },
     checkbox: {
-      searchpage: {
+      search_page: {
 	"Chiese":"Churches",
 	"Teatri storici":"Historical Theatres",
 	"Oratori":"Horatories",
@@ -156,7 +219,7 @@ var Localization = {
       }
     },
     slider: {
-      searchpage: {
+      search_page: {
 	"Orari di apertura per divertimento e ristoro:" :"Amusement and Refreshement opening hour:",
 	"Orari di chiusura per divertimento e ristoro:" :"Amusement and Refreshement closing hour:",
 	"Orari di apertura del consolato:" :"Consulate opening hour:",
@@ -164,7 +227,17 @@ var Localization = {
 	"Stelle:": "Stars:"
       }
     },
-    alert_message_text: "You are too far from Palermo. The map will be centered there."
+    
+    message: {
+      map: {
+	alert_message_text: "You are too far from Palermo. The map will be centered there."
+      },
+      details: {
+	'no_details': 'Sorry, no further details are available.',
+	'data_loading': 'Loading data...'
+      }
+    }
+    
     
   }
 }

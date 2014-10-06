@@ -7,171 +7,218 @@
  * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
  */
 
-function queryDetailsCard(nome,previousLocation) {
+function queryDetailsCard(nome, previousLocation) {
 
   var queryPage = "https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+"+PalerMobile.Global.fusionTableID;
       queryPage += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"";
   
   function jsonpCallback(data, textStatus, jqXHR) {
     var html = "<div>";
-    html += "<h4 class='infobox-header'>"+data.nome+"</h4>"; // nome
-    html += "<p class='infobox-subheader'>"; // start subheader
+    html += "<h3 class='infobox-header'>"+data.nome+"</h3>"; // nome
+    html += "<p class='infobox-subheader'></p>"; // start subheader
     
     html += "<div class='details-tipo'>";
-    var tipi_specifici = data['tipi-specifici'];
-    if (data['consolato#console']) { // consolato section      
-      html += "<div><b>Console: </b>"+data['consolato#console']+"</div>";
-      html += "<div><b>Orari di apertura:</b></div>";
-      html += "<div>giorni: "+data['consolato#orari#giorni']+"</div>";
-      html += "<div>dalle:"+Number(data['consolato#orari#apertura']).toFixed(2)+"</div>";
-      html += "<div>alle:"+Number(data['consolato#orari#chiusura']).toFixed(2)+"</div>";
+    
+    if (data['consolato#console']) { // consolato section
+      html += "<div><b class='details-tipo-consulate'>Console: </b>"+data['consolato#console']+"</div>";
+      html += "<div><b class='details-tipo-opening_hours'>Orari di apertura:</i></div>";
+      html += "<div><i class='details-tipo-days'>giorni: </i>"+data['consolato#orari#giorni']+"</div>";
+      html += "<div><i class='details-tipo-begin_hour'>dalle:</i>"+Number(data['consolato#orari#apertura']).toFixed(2)+"</div>";
+      html += "<div><i class='details-tipo-end-hour'>alle:</i>"+Number(data['consolato#orari#chiusura']).toFixed(2)+"</div>";
       var note = data['consolato#orari#note'];
       if (note) {
-         html += "<div>note:"+note+"</div>";
+         html += "<div><b class='details-tipo-note'>note:</b>"+note+"</div>";
       }
-    }
+    } // end consolato
+    
+    var tipi_specifici = data['tipi-specifici'];
+    
+    // accoglienza section
     var stelle = data['accoglienza#stelle'];
-    if ( isNaN(stelle) == false ) { // accoglienza section
-      html += "<div><b>Categoria: </b>"+tipi_specifici+"</div>";
-      html += "<div><b>Stelle: </b>"+stelle+"</div>";
-      html += "<div><b>Camere: </b>"+data['accoglienza#camere']+"</div>";
+    if ( isNaN(stelle) == false ) { 
+      html += "<div><b class='details-accomodate-category'>Categoria: </b><span>"+tipi_specifici+"</span></div>";
+      html += "<div><b class='details-accomodate-stars'>Stelle: </b><span>"+stelle+"</span></div>";
+      html += "<div><b class='details-accomodate-rooms'>Camere: </b><span>"+data['accoglienza#camere']+"</span></div>";
       if (data['accoglienza#sale_meeting']) {
-	html += "<div><b>Sale Meeting: </b>"+data['accoglienza#sale_meeting']+"</div>";
+	html += "<div><b class='details-accomodate-meeting'>Sale Meeting: </b><span>"+data['accoglienza#sale_meeting']+"</span></div>";
       }
       if (data['accoglienza#residences']) {
-	html += "<div><b>Residences: </b>"+data['accoglienza#residences']+"</div>";
+	html += "<div><b class='details-accomodate-residences'>Residences: </b><span>"+data['accoglienza#residences']+"</span></div>";
       }
-      if (data['accoglienza#direttore']) {
-	html += "<div><b>Direttore: </b>"+data['accoglienza#direttore']+"</div>";
+      if (data['accoglienza#manager']) {
+	html += "<div><b class='details-accomodate-director'>Direttore: </b><span>"+data['accoglienza#direttore']+"</span></div>";
       }
       if (data['accoglienza#gestione']) {
-	html += "<div><b>Gestione: </b>"+data['accoglienza#gestione']+"</div>";
+	html += "<div><b class='details-accomodate-management'>Gestione: </b><span>"+data['accoglienza#gestione']+"</span></div>";
       }
       if (data['accoglienza#informazioni']) {
-	html += "<div><b>Informazioni: </b>"+data['accoglienza#informazioni']+"</div>";
+	html += "<div><b class='details-accomodate-informations'>Informazioni: </b><span>"+data['accoglienza#informazioni']+"</span></div>";
       }  
-    }
-    if (data.tipi.indexOf('ristoro')>=0 || data.tipi.indexOf('divertimento')>=0) { // ristoro/divertimento section
-      
+    } // end accoglienza
+    
+    if (data.tipi.indexOf('ristoro')>=0 || data.tipi.indexOf('divertimento')>=0) { // ristoro/divertimento section      
       html += "<div><i>"+tipi_specifici+"</i></div>";
       if (data['divertimento-e-ristoro#cucina']) {
-	html += "<div><b>Cucina:</b> "+data['divertimento-e-ristoro#cucina']+"</div>";
+	html += "<div><b class='details-cooking'>Cucina:</b><span> "+data['divertimento-e-ristoro#cucina']+"</span></div>";
       }
-      html += "<div class='details-orari'><b>Orari di apertura:</b></div>";
-      html += "<div>giorni: "+data['divertimento-e-ristoro#orari#giorni']+"</div>";
-      html += "<div>dalle:"+Number(data['divertimento-e-ristoro#orari#apertura']).toFixed(2)+"</div>";
-      html += "<div>alle:"+Number(data['divertimento-e-ristoro#orari#chiusura']).toFixed(2)+"</div>";
-      html += "<div>note:"+data['divertimento-e-ristoro#orari#note']+"</div>";     
-    }
+      html += "<div class='details-orari'><b class='details-tipo-opening_hours'>Orari di apertura:</b></div>";
+      html += "<div><i class='details-tipo-days'>giorni: </i><span>"+data['divertimento-e-ristoro#orari#giorni']+"</span></div>";
+      html += "<div><i class='details-tipo-begin_hour'>dalle:</i><span>"+Number(data['divertimento-e-ristoro#orari#apertura']).toFixed(2)+"</span></div>";
+      html += "<div><i class='details-tipo-end_hour'>alle:</i><span>"+Number(data['divertimento-e-ristoro#orari#chiusura']).toFixed(2)+"</span></div>";
+      html += "<div><i class='details-tipo-note'>note:</i><span>"+data['divertimento-e-ristoro#orari#note']+"</span></div>";
+    } // end divertimento/ristoro
 
     if (data.tipi.indexOf('visitare')>=0) {
       html += "<div class='details-visitare'>";
       html += "<div><i>"+tipi_specifici+"</i></div>";
             
       var orari_note = data['luogo-da-visitare#orari#note'];
-      if (orari_note !== "") {
-	html += "<div><i>Orari:</i> "+orari_note+"</div>";
-      }
+      if (orari_note != undefined)
+	html += "<div><i class='details-tipo-opening_hours'>Orari di apertura:</i><span> "+orari_note+"</span></div>";
       
       var orari_servizi = data['luogo-da-visitare#orari#servizi'];
-      if (orari_servizi !== "") {
-	html += "<div><i>Servizi:</i> "+orari_servizi+"</div>";
-      }
+      if (orari_servizi != undefined)
+	html += "<div><i class='services'>Servizi:</i><span> "+orari_servizi+"</span></div>";
       
       var orari_visite = data['luogo-da-visitare#orari#visite'];
       if (orari_visite)
-	html += "<div><i>Visite:</i> "+orari_visite+"</div>";
+	html += "<div><i class='details-allowing-visit'>Visite:</i><span> "+orari_visite+"</span></div>";
       
       var orari_prezzi = data['luogo-da-visitare#orari#prezzi'];
       if (orari_prezzi)
-	html += "<div><i>Prezzi:</i> "+orari_prezzi+"</div>";
+	html += "<div><i class='details-prices'>Prezzi:</i><span> "+orari_prezzi+"</span></div>";
       
       var informazioni_storiche = data['luogo-da-visitare#informazioni-storiche'];
       if (informazioni_storiche)
-	html += "<div><i>Informazioni storiche:</i> "+informazioni_storiche+"</div>";
+	html += "<div><i class='details-historical_informations'>Informazioni storiche:</i><span> "+informazioni_storiche+"</span></div>";
       
       var note = data['luogo-da-visitare#note'];
       if (note)
-	html += "<div><i>Note:</i> "+note+"</div>";
+	html += "<div><i class='details-tipo-note'>Note:</i><span> "+note+"</span></div>";
       
       var gestore_telefono = data['luogo-da-visitare#gestore#telefono'];
       if (gestore_telefono)
-	html += "<div><i>Gestione:</i> "+gestore_telefono+"</div>";
+	html += "<div><i class='details-place-manager-phone'>Gestione:</i><span> "+gestore_telefono+"</span></div>";
       
       
       html += "</div>"; // end visitare
     }
-    html += "</div>";
+    html += "</div>"; // end details-tipo
     
-    html += "<div class='details-contatti'><b>Contatti:</b>";
-    html += "<div class='details-phone'>"; // start telefono/mobile
-    if (data.telefono) {
-	html += "<div><i>telefono:</i> "+data.telefono+"</div>";
-    } else { 
-      if (data.mobile) {
-	html += "<div><i>mobile:</i> "+data.mobile+"</div>";
+    var telefono = data.telefono;
+    var mobile = data.mobile;
+    var email = data.email;
+    var web = data.web;
+    if (hasValue(telefono) || hasValue(mobile) || hasValue(email) || hasValue(web)) {
+      html += "<div class='details-contatti'><b class='details-contacts'>Contatti:</b>";
+    
+      if ( hasValue(telefono) || hasValue(mobile) ) {
+	html += "<div class='details-phone'>"; // start telefono/mobile
+  //       console.log(telefono+" "+mobile);
+	if (hasValue(telefono)) {
+	  html += "<div><i class='details-landphone'>telefono:</i><span> "+telefono+"</span></div>";
+	}
+	if (hasValue(mobile)) {
+	  html += "<div><i class='details-mobile'>mobile:</i><span> "+mobile+"</span></div>";
+	}
+	html += "</div>"; // end details-phone
       }
-    }
-    html += "</div>"; // end telefono/mobile
     
-    html += "<div class='details-internet'>"; // start email/mobile
-    if (data.email) {
-	html += "<div><i>email:</i> <a href=mailto:"+data.email+">"+data.email+"</a></div>";
-    } else {
-      if (data.web) {
-	html += "<div><i>email:</i> <a href="+data.web+">"+data.web+"</a></div>";
+    
+      // start email/mobile    
+      if (email || web) {
+	html += "<div class='details-internet'>";
+	if (email)
+	    html += "<div><i class='details-email'>email:</i> <a href=mailto:"+email+">"+email+"</a></div>";
+	if (web)
+	  html += "<div><i class='details-web'>web:</i> <a href="+web+">"+web+"</a></div>";
+	html += "</div>"; // end details-internet
+      } // end email/mobile
+      
+      html += "</div>"; // end details-contatti
+    }
+    
+    // start address block
+    var indirizzo = data.indirizzo;
+    if (hasValue(indirizzo)) {
+      html += "<div class='details-address'>";
+      html += "<b class='details-address-prefix'>Indirizzo:</b><span>"+indirizzo+" "+data['numero-civico']+"</span>";
+      if (data.quartiere.length>1 ) {
+	html += "<span class='details-district'>, quartiere</span><span> "+data.quartiere+"</span>";
       }
+      html += "</div>"; // end address block
     }
-    html += "</div>"; // end email/mobile
     
-    html += "<div class='details-address'><div><b>Indirizzo:</b></div><div>"+data.indirizzo+" "+data['numero-civico']; // start address block
-    if (data.quartiere) {
-      html += "(quartiere "+data.quartiere+")";
-    }
-    html += "</div></div>"; // end address block
-
-    html += "</div>";
-    
-    html += "</p></div>";
+//     html += "</p></div>"; // end infobox-subheader, e div iniziale
+    html += "</div>"; // div iniziale
     
     $('#details-content').html( html );
+    
+    if (PalerMobile.Global.language != undefined) { // translate
+          
+      var classes = Localization[Localize.locale].label.details_page.class;      
+      for (var cl in classes) {
+	if ( $('.'+cl).length > 0 ) {
+	  $('.'+cl).html( classes[cl] );
+	}
+      }
+      
+      setTimeout(function() {
+	$('#list_back .ui-btn-inner .ui-btn-text').html( Localization[Localize.locale].button.details_page.back );
+	$("h3.ui-title[role='heading'][aria-level='1']:not(:has(*))").html( Localization[Localize.locale].title.details_page.details);
+      },150);
+      
+      
+      
+    }
+    
   }
+  
   function failureCallback(jqXHR, textStatus, errorThrown) {
      if (jqXHR.status == 200 && textStatus == 'OK') { // not error - workaround
         console.log(jqXHR);
      } else {
-      var html = "<div>Spiacente, non è stato possibile ottenere ulteriori dettagli</div>";
+      var html = "<div class='details-no_details'>Spiacente, non è stato possibile ottenere ulteriori dettagli</div>";
       $('#details-content').html( html );
       setTimeout(function(){
          window.location.hash = previousLocation;
       }, 3000);
-      $('#details-content').html( "Caricamento dei dati..." );
+      if (Localization[Localize.locale].id.leaf.details_page.id.data_loading != undefined)	
+	$('#details-content').html( Localization[Localize.locale].id.leaf.details_page.id.data_loading );
+      else
+	$('#details-content').html( "Caricamento dei dati..." );      
      }
   }
-  /*
-  function completedCallback(jhXHR, textStatus) {
-//     console.log("complete - previousLocation: "+previousLocation);
-     if (previousLocation !== "") {
-//        window.onload = function() {
-//        $(window).load( function() {
-         setTimeout(function() {        
-           console.log($('#list_back').attr("href"));
-           $('#list_back').attr("href","index.html"+previousLocation);
-           $('#list_back').click(function(){
-              window.location = "index.html"+previousLocation;
-           });
-           console.log($('#list_back').attr("href"));
-        },1000);
-     }
-  }*/
+  
+  function hasValue(value) {
+    if (value=="")
+      return false;
+    if (value==="")
+      return false;
+    if (value === undefined)
+      return false;
+    if (value == undefined)
+      return false;
+    if (value == null)
+      return false;
+    if (value === null)
+      return false;
+    if (value.length === 0)
+      return false;
+    if (value.length == 0)
+      return false;
+//     console.log("value: "+value+" returning true");
+    return true;
+  }
 
+  // webservice script url: https://script.google.com/macros/d/MoqSkcdItQkEw5tEIC49z0hNrVEl51b0O/edit?uiv=2&mid=ACjPJvEUHECrY0ReMnOvXp6yB4AaNFSFrQJhjO1C7mBkhDVbxsYoHonStDmqswtmqKR9HDvL5xKNKVrJ1ipTnLUkmm5P_QniCq81cfEtMbErpB7CG-E87tGx0mL38Wa-IFm0SQZ4mjSmVjE
   var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
   
   $.ajax({
    url: queryPage,
    async: false,
    dataType: 'jsonp',
-   timeout: 10000,
+   timeout: 7000,
    success: jsonpCallback
   ,error: failureCallback
 //   ,complete: completedCallback

@@ -39,7 +39,7 @@ function fixCSS() {
     if (this.id.match(/listrow-[0-9]/) && (this.innerHTML == "")) { 
       $(this).hide();
     }
-    console.log('applied fixcss');
+//     console.log('applied fixcss');
   }), 2500 });  
 }
 fixCSS();

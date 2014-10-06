@@ -6,15 +6,14 @@
  *
  * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
  */
-function customInfoboxHtmlFunction(row, isListView) {
+function customInfoboxHtmlFunction(row, view) {
 
-  if (isListView == true || isListView == "true") { // specify if list or map
-    
-  }
+  // specify if list or map    
+//   if (isListView(view)) { }
   
   var html = "";
   // start outer div
-  if (isListView == true || isListView == "true") { // specify if list or map
+  if (isListView(isListView)) { // specify if list or map
     html += "<div class='infobox-list'>";
   } else {
     html += "<div class='infobox-map'>";
@@ -23,24 +22,24 @@ function customInfoboxHtmlFunction(row, isListView) {
   html += "<div class='infobox-header'>";
   var nome = row.nome;
   html += "<div class='";
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
       html += "list"
   } else {
      html += "map"
   }
-  html += "-nome'><b>"+nome+"</b></div>"; // nome
-  html += "</div>"; // header
+  html += "-nome' style='font-weight:bold;'>"+nome+"</div>"; // nome
+  html += "</div>"; // end infobox-header
   
   html += "<div class='ui-li-desc infobox-subheader"; // start subheader
-  if (isListView == true || isListView == "true") {
-    html += " list-subheader";
+  if (isListView(view)) {
+    html += " list";
   } else {
-    html += " map-subheader";
+    html += " map";
   }
-  html += "'>";
+  html += "-subheader'>";
   
   html += "<div class='";  
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
       html += "list-"
   } else {
      html += "map-"
@@ -50,76 +49,83 @@ function customInfoboxHtmlFunction(row, isListView) {
   var tipi = row.tipi;
   var tipi_specifici = row['tipi-specifici'];
   if (tipi == 'accoglienza') {
-    // CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
+    // CAREFUL WITH THAT AXE, EUGENE !! original "#" must be replaced here with "_"
     var howStelle = row['accoglienza_stelle'];
+//     console.log(row);
     html += "<div class='"; // start accoglienza
-    if (isListView == true || isListView == "true") {
+    if (isListView(view)) {
        html += "list-";
     } else {
-     html += "map-"
+     html += "map-";
     }
     html += "accoglienza'>";
-    html += "<i>"+tipi_specifici;
-    if (howStelle == 1) {
-      html += " a "+howStelle+" stella";
+    html += "<span>"+tipi_specifici+" </span>";
+    
+    if (howStelle != null) {
+//       console.log(nome+" "+howStelle);
+      html += "<span class='listpage-hotel-stars-prefix'> a <span>";
+      html += "<span>"+howStelle+"</span>";
+      if (howStelle == 1) {
+	html += "<span class='listpage-hotel-star-suffix'> stella<span>";
+      }
+      if (howStelle > 1) {
+	html += "<span class='listpage-hotel-stars-suffix'> stelle<span>";
+      }
     }
-    if (howStelle > 1) {
-      html += " a "+howStelle+" stelle";
-    }
-    html += "</i></div>";
+    html += "</div>";
   } // end accoglienza
   // start ristoro
   if (tipi == 'ristoro') {
     html += "<div class='"; // start address
-    if (isListView == true || isListView == "true") {
+    if (isListView(view)) {
       html += "list-";
     } else {
      html += "map-"
     }
     html += "ristoro'>";
-    html += "<i>"+tipi_specifici;
+    html += "<span>"+tipi_specifici+"</span>";
     // CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
     var cucina = row['divertimento-e-ristoro_cucina'];
     if (cucina) {
-      html += " con particolare cucina "+cucina;
+      html += "<span class='listpage-cooking'> con particolare cucina </span>"+"<span>"+cucina+"</span>";
     }
-    html += "</i></div>";
+    html += "</div>";
   } // end ristoro
   html += "</div>";
   
   html += "<div class='"; // start address
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
      html += "list-";
   } else {
      html += "map-"
   }
-  html += "address'><i>Indirizzo:</i> ";
-  html += row.indirizzo+" "+row['numero-civico'];
+  html += "address'><i class='listpage-address'>Indirizzo:</i> ";
+  html += "<span>"+row.indirizzo+" "+row['numero-civico']+"</span>";
   if (isListView) {
     if (row.quartiere) {
-      html += "(quartiere "+row.quartiere+")";
+      html += "(<span id='listpage-district'>quartiere<span>"+"<span>"+row.quartiere+"</span>)";
     }
   }
   html += "</div>"; // end address block
  
   html += "<div class='"; // start telefono/mobile
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
      html += "list-";
   } else {
      html += "map-"
   }
   html += "phones'>";
   if (row.telefono) {
-      html += "<div><i>tel:</i> "+row.telefono+"</div>";
+      html += "<div><i class='listpage-tel'>tel:</i> "+"<span>"+row.telefono+"</span>"+"</div>";
   } else { 
     if (row.mobile) {
-      html += "<div><i>mobile:</i> "+row.mobile+"</div>";
+      html += "<div><i class='listpage-mobile'>mobile:</i> "+"<span>"+row.mobile+"</span>"+"</div>";
     }
   }
   html += "</div>"; // end telefono/mobile
   
   html += "<div class='"; // start internet (email/web)
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
      html += "list-";
   } else {
      html += "map-"
@@ -128,8 +134,8 @@ function customInfoboxHtmlFunction(row, isListView) {
   var webMargin = "0";
   var email = row.email;
   if (email) {
-      html += "<div><i>email:</i> <a href=mailto:"+email;
-      if (isListView == true || isListView == "true") {
+      html += "<div><i class='listpage-email'>email:</i> <a href=mailto:"+email;
+      if (isListView(view)) {
          html += " style='margin-left:-30px; margin-top: -2px;"
       }
       html += "'>"+email+"</a></div>";
@@ -137,8 +143,8 @@ function customInfoboxHtmlFunction(row, isListView) {
   }
   var web = row.web;
   if (web) {
-   html += "<div><i>web:</i> <a href="+web+" style='margin-top: 1px; margin-left:";
-   if (isListView == true || isListView == "true") {
+   html += "<div><i class='listpage-web'>web:</i><a href="+web+" style='margin-top: 1px; margin-left:";
+   if (isListView(view)) {
       html += "1";
    }
    
@@ -158,20 +164,28 @@ function customInfoboxHtmlFunction(row, isListView) {
   // dettagli with page
 //  html += "<div class='list-details' style='margin-top:4px;'><a href=#page-details";
   html += "<div class='"; // start internet (email/web)
-  if (isListView == true || isListView == "true") {
+  if (isListView(view)) {
      html += "list-";
   } else {
      html += "map-"
   }
   html += "details'>";
-  html += "<a href=#page-details";
+  html += "<a class='listpage-details-link' href=#page-details";
   var actualLocation = window.location.hash;
-  html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >Dettagli</a>";
+  html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >Clicka per dettagli</a>";
   html += "</div>";
   // end dwp
   
   html += "</div>"; // end subheader
   html += "</div>"; // end outer div
   
+//   console.log(html);
+  
   return html;
+}
+
+function isListView(view) {
+  if (view == true || view == "true")
+    return true;
+  return false;
 }

@@ -40,13 +40,13 @@ function customInfoboxHtmlFunction(row, view) {
     
     if (howStelle != null) {
 //       console.log(nome+" "+howStelle);
-      html += "<span class='listpage-hotel-stars-prefix'> a </span>";
+      html += "<span class='"+isListView(view)+"page-hotel-stars-prefix'> a </span>";
       html += "<span>"+howStelle+"</span>";
       if (howStelle == 1) {
-	html += "<span class='listpage-hotel-star-suffix'> stella</span>";
+	html += "<span class='"+isListView(view)+"page-hotel-star-suffix'> stella</span>";
       }
       if (howStelle > 1) {
-	html += "<span class='listpage-hotel-stars-suffix'> stelle</span>";
+	html += "<span class='"+isListView(view)+"page-hotel-stars-suffix'> stelle</span>";
       }
     }
     html += "</div>";
@@ -58,7 +58,7 @@ function customInfoboxHtmlFunction(row, view) {
     // CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
     var cucina = row['divertimento-e-ristoro_cucina'];
     if (cucina) {
-      html += "<span class='listpage-cooking'> con particolare cucina </span><span>"+cucina+"</span>";
+      html += "<span class='"+isListView(view)+"page-cooking'> con particolare cucina </span><span>"+cucina+"</span>";
     }
     html += "</div>";
   } // end ristoro
@@ -67,18 +67,18 @@ function customInfoboxHtmlFunction(row, view) {
   // start address
   var indirizzo = row.indirizzo;
   if (indirizzo != "") {
-    html += "<div class='"+isListView(view)+"-address'><i class='listpage-address'>Indirizzo:</i> ";
+    html += "<div class='"+isListView(view)+"-address'><i class='"+isListView(view)+"page-address'>Indirizzo:</i> ";
     var numeroCivico = row['numero-civico'];
 // console.log(row);
     var indirizzoCompleto = indirizzo+" "+numeroCivico+", "+row.citta;
     html += "<a href='geo:"+indirizzoCompleto+"'><span ";
     if (isListView(view) == "list") {
-      html += "style='margin-left:-30px;'"
+      html += "style='margin-left:-35px;'"
     }
     html +=">"+indirizzo+" "+numeroCivico+"</span></a>";
     if (isListView(view) == "list") {
       if (row.quartiere) {
-	html += "(<span id='listpage-district'>quartiere<span>"+"<span>"+row.quartiere+"</span>)";
+	html += "(<span id='"+isListView(view)+"page-district'>quartiere<span>"+"<span>"+row.quartiere+"</span>)";
       }
     }
     html += "</div>";
@@ -90,10 +90,10 @@ function customInfoboxHtmlFunction(row, view) {
   var telefono = row.telefono;
   var mobile = row.mobile;
   if (telefono) {
-      html += "<div><i class='listpage-tel'>tel:</i><a href='tel:"+telefono+"'><span>"+telefono+"</span></a></div>";
+      html += "<div><i class='"+isListView(view)+"page-tel'>tel:</i><a href='tel:"+telefono+"'><span>"+telefono+"</span></a></div>";
   } 
   if (mobile) {
-    html += "<div><a href='tel:"+mobile+"'><i class='listpage-mobile'>mobile:</i><span>"+mobile+"</span></a></div>";
+    html += "<div><i class='"+isListView(view)+"page-mobile'>mobile:</i><a href='tel:"+mobile+"'><span>"+mobile+"</span></a></div>";
   }  
   html += "</div>"; 
   // end telefono/mobile
@@ -103,7 +103,7 @@ function customInfoboxHtmlFunction(row, view) {
   var webMargin = "0";
   var email = row.email;
   if (email) {
-      html += "<div><i class='listpage-email'>email:</i><a href=mailto:"+email;
+      html += "<div><i class='"+isListView(view)+"page-email'>email:</i><a href=mailto:"+email;
       if (isListView(view)=="list") {
          html += " style='/*margin-left:-30px;*/ margin-top: -2px;"
       }
@@ -112,17 +112,18 @@ function customInfoboxHtmlFunction(row, view) {
   }
   var web = row.web;
   if (web) {
-   html += "<div><i class='listpage-web'>web:</i><a href="+web+" style='margin-top: 1px; margin-left:";
+   html += "<div><i class='"+isListView(view)+"page-web'>web:</i><a href="+web+" style='margin-top: 1px; "; /*margin-left:";*/
    if (isListView(view)=="list") {
       html += "1";
    }
-   html += webMargin+"px;'>"+web+"</a></div>";
+//    html += webMargin+"px;"
+   html += "'>"+web+"</a></div>";
   }
   html += "</div>"; // end email/mobile
     
   // start details link
   html += "<div class='"+isListView(view)+"-details'>";
-  html += "<a class='listpage-details-link' href=#page-details";
+  html += "<a class='"+isListView(view)+"page-details-link' href=#page-details";
   var actualLocation = window.location.hash;
   html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >» Dettagli «</a>";
   html += "</div>";

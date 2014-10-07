@@ -141,9 +141,9 @@ function queryDetailsCard(nome, previousLocation) {
     // start address block
     var indirizzo = data.indirizzo;
     if (hasValue(indirizzo)) {
-      console.log("indiriss: "+indirizzo);
+//       console.log("indiriss: "+indirizzo);
       html += "<div class='details-address'>";
-      html += "<b class='details-address-prefix'>Indirizzo:</b><span>"+indirizzo+" "+data['numero-civico']+"</span>";
+      html += "<b class='details-address-prefix'>Indirizzo:</b><span>"+indirizzo+" "+data['numero-civico']+", "+data.citta+"</span>";
       if (data.quartiere.length>1 ) {
 	html += "<span class='details-district'>, quartiere</span><span> "+data.quartiere+"</span>";
       }
@@ -184,10 +184,15 @@ function queryDetailsCard(nome, previousLocation) {
       setTimeout(function(){
          window.location.hash = previousLocation;
       }, 3000);
-      if (Localization[Localize.locale].id.leaf.details_page.id.data_loading != undefined)	
-	$('#details-content').html( Localization[Localize.locale].id.leaf.details_page.id.data_loading );
+      
+//       var loadingHtml = "<img src='images/ajax-loader.gif'>";
+      if (Localization[Localize.locale].id.leaf.details_page.id.data_loading != undefined)
+// 	loadingHtml += "<span>"+Localization[Localize.locale].id.leaf.details_page.id.data_loading+"</span>";
+	loadingHtmlText = Localization[Localize.locale].id.leaf.details_page.id.data_loading;
       else
-	$('#details-content').html( "Caricamento dei dati..." );      
+// 	loadingHtml += "<span>Caricamento dei dati...</span>";
+	loadingHtmlText = "Caricamento dei dati...";
+      $('#details-content-text').html( loadingHtmlText );
      }
   }
   

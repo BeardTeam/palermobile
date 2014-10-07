@@ -19,18 +19,20 @@ function customCSSFunction() {
         .score.ltblu_blank { background-color: #55d7d7; color: white; } \
         .score.orange_blank { background-color: #ff9c00; color: white; } \
         .score.red_blank { background-color: #fb6155; color: white; } \
-        .map-subheader { margin-top: -10px; } \
+        .map-subheader { margin-top: -15px; } \
         .map-nome { margin-top: -15px; } \
         .map-tipo {} \
         .map-address, .map-phones, .map-internet, .map-details { padding-top: 2px; } \
         .list-subheader { margin-top: -15px; } \
         .list-ristoro, .list-accoglienza { margin-top: -12px; margin-bottom: -10px; } \
+        .map-accoglienza, .map-ristoro { margin-bottom: 10px; } \
         .list-nome, .list-accoglienza, .list-ristoro, .list-address, .list-phones, .list-internet, .list-details  { margin-left: 10px; } \
         .list-address, .list-phones, .list-internet, .list-details { margin-top: 0.5em; } \
         .list-email { margin-left: 2px; } \
-        .listpage-tel { padding-right: 3px; } \
         .list-tipo { margin: 2px 0px 1px 0px; } \
         .list-details { margin-top: 5px; } \
+        .listpage-email, .listpage-web, .listpage-tel, .mappage-email, .mappage-web, .mappage-tel, .mappage-mobile { margin-right: 5px; } \
+        .mappage-details-link { margin-top: 10px; margin-left: 15px; } \
         .details-orari, .details-contatti, .details-address { margin-top: 10px; } \
     ";
     return cssString;
@@ -42,7 +44,18 @@ function fixCSS() {
     if (this.id.match(/listrow-[0-9]/) && (this.innerHTML == "")) { 
       $(this).hide();
     }
-//     console.log('applied fixcss');
-  }), 2500 });  
+  }), 2500 });
+  
+  $('.infobox-container').livequery( function() {
+    var ic = $(this).find('.infobox-container');
+    if ( ic.length != 0) {
+      var infobox = $(ic).parent().parent().parent().parent().children()[0].children[0].children[1];
+      infobox.style["background-color"] = "#ffffff";
+      infobox.style["border-radius"] = "10px";
+      $(".gm-style-iw").parent().parent().children()[0].children[0].children[3].style["background-color"] = null
+    }
+  }, function() {
+    
+  })
 }
 fixCSS();

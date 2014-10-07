@@ -4,7 +4,7 @@
  *
  * Author: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
  *
- * based on https://github.com/sfbrigade/Mobile-Fusion-Tables
+ * addon for https://github.com/sfbrigade/Mobile-Fusion-Tables
  */
 
 function queryDetailsCard(nome, previousLocation) {

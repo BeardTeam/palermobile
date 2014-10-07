@@ -237,7 +237,5 @@ var Localization = {
 	'data_loading': 'Loading data...'
       }
     }
-    
-    
   }
 }

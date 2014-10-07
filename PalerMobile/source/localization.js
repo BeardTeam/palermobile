@@ -1,3 +1,12 @@
+/*
+ * Copyleft BeardTeam, 2014
+ * Released under GPLv3
+ *
+ * Author: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
+ *
+ * addon for https://github.com/sfbrigade/Mobile-Fusion-Tables
+ */
+
 function checkLocale() {
   var lang = navigator.language;
   if (lang === null) {

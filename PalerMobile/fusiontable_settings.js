@@ -2,7 +2,7 @@
  * Copyleft BeardTeam, 2014
  * Released under GPLv3
  *
- * Author: Antonio Notarangelo https://plus.google.com/104954524097130358596
+ * Edited by: Antonio Notarangelo https://plus.google.com/104954524097130358596
  * Contribution: Massimiliano Leone https://plus.google.com/+MassimilianoLeone
  *
  * based on https://github.com/sfbrigade/Mobile-Fusion-Tables

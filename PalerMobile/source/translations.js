@@ -99,11 +99,11 @@ var Localization = {
 	  'listpage-email': 'Email: ',
 	  'listpage-web': 'Web: ',
 	  "listpage-accomodate-stars": "Stars: ",
-	  'listpage-cooking': "with cooking",
+	  'listpage-cooking': " with cooking ",
 	  "listpage-hotel-stars-prefix": ": ",
 	  "listpage-hotel-star-suffix": "stella",
 	  "listpage-hotel-stars-suffix": "stelle",
-	  "listpage-details-link": "Click to see details"	  
+	  "listpage-details-link": "» Details «"
 	}
       },
       details_page: {

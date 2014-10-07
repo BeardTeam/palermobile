@@ -15,7 +15,7 @@ function queryDetailsCard(nome, previousLocation) {
   function jsonpCallback(data, textStatus, jqXHR) {
     var html = "<div>";
     html += "<h3 class='infobox-header'>"+data.nome+"</h3>"; // nome
-    html += "<p class='infobox-subheader'></p>"; // start subheader
+    html += "<p class='infobox-subheader'>"; // start subheader
     
     html += "<div class='details-tipo'>";
     
@@ -141,6 +141,7 @@ function queryDetailsCard(nome, previousLocation) {
     // start address block
     var indirizzo = data.indirizzo;
     if (hasValue(indirizzo)) {
+      console.log("indiriss: "+indirizzo);
       html += "<div class='details-address'>";
       html += "<b class='details-address-prefix'>Indirizzo:</b><span>"+indirizzo+" "+data['numero-civico']+"</span>";
       if (data.quartiere.length>1 ) {
@@ -149,8 +150,8 @@ function queryDetailsCard(nome, previousLocation) {
       html += "</div>"; // end address block
     }
     
-//     html += "</p></div>"; // end infobox-subheader, e div iniziale
-    html += "</div>"; // div iniziale
+    html += "</p></div>"; // end infobox-subheader, e div iniziale
+//     html += "</div>"; // div iniziale
     
     $('#details-content').html( html );
     

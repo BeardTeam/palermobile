@@ -11,7 +11,7 @@ $(function() {
       MapsLib.onExitMap();
       // localization
       if (Localize.locale != undefined) {
-	Localize.searchpage();
+	Localize.search_page();
       }
     });
     $("#listview").click(function(){
@@ -19,13 +19,13 @@ $(function() {
       MapsLib.getListView();
       // localization
       if (Localize.locale != undefined)
-	Localize.listpage();
+	Localize.list_page();
       fixCSS();
     });
     $('#page-list').on(function(){ 
       fixCSS(); 
       if (Localize.locale != undefined)
-	Localize.listpage();
+	Localize.list_page();
     });
 
     $("#about_back").click(function() { MapsLib.onEnterMap(); });

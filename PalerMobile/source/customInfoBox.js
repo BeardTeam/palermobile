@@ -13,130 +13,99 @@ function customInfoboxHtmlFunction(row, view) {
   
   var html = "";
   // start outer div
-  if (isListView(isListView)) { // specify if list or map
-    html += "<div class='infobox-list'>";
-  } else {
-    html += "<div class='infobox-map'>";
-  }
-  
-  html += "<div class='infobox-header'>";
+  html += "<div class='infobox-"+isListView(view)+"'>"; 
+
   var nome = row.nome;
-  html += "<div class='";
-  if (isListView(view)) {
-      html += "list"
-  } else {
-     html += "map"
-  }
-  html += "-nome' style='font-weight:bold;'>"+nome+"</div>"; // nome
-  html += "</div>"; // end infobox-header
-  
-  html += "<div class='ui-li-desc infobox-subheader"; // start subheader
-  if (isListView(view)) {
-    html += " list";
-  } else {
-    html += " map";
-  }
-  html += "-subheader'>";
-  
-  html += "<div class='";  
-  if (isListView(view)) {
-      html += "list-"
-  } else {
-     html += "map-"
-  }
-  html += "tipo'>";
-  // start accoglienza
   var tipi = row.tipi;
   var tipi_specifici = row['tipi-specifici'];
+  
+  html += "<div class='infobox-header'>";
+//   html += "<img src='http://maps.google.com/mapfiles/kml/paddle/"+row.icon+".png'>"
+  html += "<div class='"+isListView(view)+"-nome' style='font-weight:bold;'>"+nome+"</div>"; // nome
+  html += "</div>"; // end infobox-header
+  
+  html += "<div class='ui-li-desc infobox-subheader "+isListView(view)+"-subheader'>"; // start subheader 
+  
+  // tipo
+//   html += "<div class='"+isListView(view)+"-tipo'>";
+//   html += "</div>";
+  // end tipo
+  
+  // start accoglienza  
   if (tipi == 'accoglienza') {
     // CAREFUL WITH THAT AXE, EUGENE !! original "#" must be replaced here with "_"
     var howStelle = row['accoglienza_stelle'];
-//     console.log(row);
-    html += "<div class='"; // start accoglienza
-    if (isListView(view)) {
-       html += "list-";
-    } else {
-     html += "map-";
-    }
-    html += "accoglienza'>";
-    html += "<span>"+tipi_specifici+" </span>";
+//     console.log(howStelle);
+    html += "<div class='"+isListView(view)+"-accoglienza'><span>"+tipi_specifici+"</span>";
     
     if (howStelle != null) {
 //       console.log(nome+" "+howStelle);
-      html += "<span class='listpage-hotel-stars-prefix'> a <span>";
+      html += "<span class='listpage-hotel-stars-prefix'> a </span>";
       html += "<span>"+howStelle+"</span>";
       if (howStelle == 1) {
-	html += "<span class='listpage-hotel-star-suffix'> stella<span>";
+	html += "<span class='listpage-hotel-star-suffix'> stella</span>";
       }
       if (howStelle > 1) {
-	html += "<span class='listpage-hotel-stars-suffix'> stelle<span>";
+	html += "<span class='listpage-hotel-stars-suffix'> stelle</span>";
       }
     }
     html += "</div>";
   } // end accoglienza
+  
   // start ristoro
   if (tipi == 'ristoro') {
-    html += "<div class='"; // start address
-    if (isListView(view)) {
-      html += "list-";
-    } else {
-     html += "map-"
-    }
-    html += "ristoro'>";
-    html += "<span>"+tipi_specifici+"</span>";
+    html += "<div class='"+isListView(view)+"-ristoro'><span>"+tipi_specifici+"</span>";
     // CAREFUL WITH THAT AXE, EUGENE !! original # must be replaced here with _
     var cucina = row['divertimento-e-ristoro_cucina'];
     if (cucina) {
-      html += "<span class='listpage-cooking'> con particolare cucina </span>"+"<span>"+cucina+"</span>";
+      html += "<span class='listpage-cooking'> con particolare cucina </span><span>"+cucina+"</span>";
     }
     html += "</div>";
   } // end ristoro
-  html += "</div>";
   
-  html += "<div class='"; // start address
-  if (isListView(view)) {
-     html += "list-";
-  } else {
-     html += "map-"
-  }
-  html += "address'><i class='listpage-address'>Indirizzo:</i> ";
-  html += "<span>"+row.indirizzo+" "+row['numero-civico']+"</span>";
-  if (isListView) {
-    if (row.quartiere) {
-      html += "(<span id='listpage-district'>quartiere<span>"+"<span>"+row.quartiere+"</span>)";
+  
+  // start address
+  var indirizzo = row.indirizzo;
+  if (indirizzo != "") {
+    html += "<div class='"+isListView(view)+"-address'><i class='listpage-address'>Indirizzo:</i> ";
+    var numeroCivico = row['numero-civico'];
+// console.log(row);
+    var indirizzoCompleto = indirizzo+" "+numeroCivico+", "+row.citta;
+    html += "<a href='geo:"+indirizzoCompleto+"'><span ";
+    if (isListView(view) == "list") {
+      html += "style='margin-left:-30px;'"
     }
+    html +=">"+indirizzo+" "+numeroCivico+"</span></a>";
+    if (isListView(view) == "list") {
+      if (row.quartiere) {
+	html += "(<span id='listpage-district'>quartiere<span>"+"<span>"+row.quartiere+"</span>)";
+      }
+    }
+    html += "</div>";
   }
-  html += "</div>"; // end address block
+  // end address block
  
-  html += "<div class='"; // start telefono/mobile
-  if (isListView(view)) {
-     html += "list-";
-  } else {
-     html += "map-"
-  }
-  html += "phones'>";
-  if (row.telefono) {
-      html += "<div><i class='listpage-tel'>tel:</i> "+"<span>"+row.telefono+"</span>"+"</div>";
-  } else { 
-    if (row.mobile) {
-      html += "<div><i class='listpage-mobile'>mobile:</i> "+"<span>"+row.mobile+"</span>"+"</div>";
-    }
-  }
-  html += "</div>"; // end telefono/mobile
+  // start telefono/mobile
+  html += "<div class='"+isListView(view)+"-phones'>";
+  var telefono = row.telefono;
+  var mobile = row.mobile;
+  if (telefono) {
+      html += "<div><i class='listpage-tel'>tel:</i><a href='tel:"+telefono+"'><span>"+telefono+"</span></a></div>";
+  } 
+  if (mobile) {
+    html += "<div><a href='tel:"+mobile+"'><i class='listpage-mobile'>mobile:</i><span>"+mobile+"</span></a></div>";
+  }  
+  html += "</div>"; 
+  // end telefono/mobile
   
-  html += "<div class='"; // start internet (email/web)
-  if (isListView(view)) {
-     html += "list-";
-  } else {
-     html += "map-"
-  }
-  html += "internet'>";
+  // start internet (email/web)
+  html += "<div class='"+isListView(view)+"-internet'>";
   var webMargin = "0";
   var email = row.email;
   if (email) {
-      html += "<div><i class='listpage-email'>email:</i> <a href=mailto:"+email;
-      if (isListView(view)) {
-         html += " style='margin-left:-30px; margin-top: -2px;"
+      html += "<div><i class='listpage-email'>email:</i><a href=mailto:"+email;
+      if (isListView(view)=="list") {
+         html += " style='/*margin-left:-30px;*/ margin-top: -2px;"
       }
       html += "'>"+email+"</a></div>";
       webMargin = "8";
@@ -144,35 +113,18 @@ function customInfoboxHtmlFunction(row, view) {
   var web = row.web;
   if (web) {
    html += "<div><i class='listpage-web'>web:</i><a href="+web+" style='margin-top: 1px; margin-left:";
-   if (isListView(view)) {
+   if (isListView(view)=="list") {
       html += "1";
    }
-   
    html += webMargin+"px;'>"+web+"</a></div>";
   }
   html += "</div>"; // end email/mobile
-  
-  // dettagli, pointing to card
-  /*
-  html += "<div><a href=";
-  html += "\"https://www.google.com/fusiontables/embedviz?viz=CARD&q=select+*+from+14DYSzHoVW7cnhnC5qE8NXQpmBwbwcOT5gjMJZ44F";
-  html += "+where+'nome'='"+nome+"'&tmplt=2&cpr=3\"" ;
-  html += " target='_self'>Dettagli</a>";
-  html += "</div>";
-  */
-  // end dettagli
-  // dettagli with page
-//  html += "<div class='list-details' style='margin-top:4px;'><a href=#page-details";
-  html += "<div class='"; // start internet (email/web)
-  if (isListView(view)) {
-     html += "list-";
-  } else {
-     html += "map-"
-  }
-  html += "details'>";
+    
+  // start details link
+  html += "<div class='"+isListView(view)+"-details'>";
   html += "<a class='listpage-details-link' href=#page-details";
   var actualLocation = window.location.hash;
-  html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >Clicka per dettagli</a>";
+  html += " onclick=\"queryDetailsCard('"+nome+"','"+actualLocation+"');\" >» Dettagli «</a>";
   html += "</div>";
   // end dwp
   
@@ -185,7 +137,9 @@ function customInfoboxHtmlFunction(row, view) {
 }
 
 function isListView(view) {
-  if (view == true || view == "true")
-    return true;
-  return false;
+  if ((typeof view) === "boolean")
+    if (view == true || view == "true")
+      return "list";
+    if (view == false || view == "false")
+      return "map";
 }

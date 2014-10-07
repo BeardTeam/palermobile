@@ -10,7 +10,7 @@ function customCSSFunction() {
   var cssString = " \
         .infobox-header, .ui-li-desc, li, #score-text { font-family: Arial, Helvetica, Geneva, sans-serif; white-space:normal;} \
         .infobox-list { margin: 0px 0px 0px 7px; } \
-        .infobox-map { width:auto; height:auto;} \
+        .infobox-map { width:auto; height:auto; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;} \
         .infobox-header { display:inline; padding-right: 10px; } \
         .moreinfo { margin-left:7px; min-width:18px; position:absolute; \
                 top:45%; bottom:45%; min-height:18px; } \
@@ -23,9 +23,12 @@ function customCSSFunction() {
         .map-nome { margin-top: -15px; } \
         .map-tipo {} \
         .map-address, .map-phones, .map-internet, .map-details { padding-top: 2px; } \
-        .list-subheader { margin-top: -25px; } \
+        .list-subheader { margin-top: -15px; } \
+        .list-ristoro, .list-accoglienza { margin-top: -12px; margin-bottom: -10px; } \
         .list-nome, .list-accoglienza, .list-ristoro, .list-address, .list-phones, .list-internet, .list-details  { margin-left: 10px; } \
-        .list-internet { margin-top: 0px; } \
+        .list-address, .list-phones, .list-internet, .list-details { margin-top: 0.5em; } \
+        .list-email { margin-left: 2px; } \
+        .listpage-tel { padding-right: 3px; } \
         .list-tipo { margin: 2px 0px 1px 0px; } \
         .list-details { margin-top: 5px; } \
         .details-orari, .details-contatti, .details-address { margin-top: 10px; } \

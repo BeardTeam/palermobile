@@ -97,7 +97,7 @@ $.extend(MapsLib, {
     },
     onPopState: function() {
         // k0z
-        var nonMaps = ["#page-search", "#page-about", "#page-list", "page-details"];
+        var nonMaps = ["#page-search", "#page-about", "#page-list", "#page-details"];
 	// end k0z
         var inMap = true;
         $.each(nonMaps, function(i, tag) {

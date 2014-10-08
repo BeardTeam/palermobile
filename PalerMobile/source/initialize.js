@@ -30,7 +30,14 @@ $(function() {
 
     $("#about_back").click(function() { MapsLib.onEnterMap(); });
     $("#search_back").click(function() { MapsLib.onEnterMap(); });
-    $("#list_back").click(function() { MapsLib.onEnterMap(); });
+    $("#list_back").click(function() { 
+      MapsLib.onEnterMap(); 
+      resetDetailsPage( getLocalizedInitDetailsPage() );
+    });
+    $("#details_back").click(function() { 
+      MapsLib.onEnterMap(); 
+      resetDetailsPage( getLocalizedInitDetailsPage() );
+    });
 
     $("#search").click(function(){
       MapsLib.onEnterMap();

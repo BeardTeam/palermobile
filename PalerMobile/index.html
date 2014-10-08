@@ -168,14 +168,17 @@
       <div data-theme="a" data-role="header">
 	<a data-role="button" data-direction="reverse"
 	  data-transition="slideup" href="index.html#page-map"
-	  data-icon="arrow-l" data-iconpos="left" class="ui-btn-left" id="list_back">Indietro</a>
+	  data-icon="arrow-l" data-iconpos="left" class="ui-btn-left" id="details_back">Indietro</a>
 
 	<h3>Dettagli</h3>
       </div>
 
       <div data-role="content">
 <!-- 	<div data-role="page" id="detailsview" data-divider-theme="" data-inset="false"> -->
-	  <div data-theme="c" id="details-content" align="center"><img src="source/images/ajax-loader.gif"><div id="details-content-text">Caricamento dei dati...</div></div>
+	  <div data-theme="c" id="details-content" ></div>
+	  <script type="text/javascript">
+	    resetDetailsPage();
+	  </script>
 <!-- 	</div> -->
       </div>
     </div>

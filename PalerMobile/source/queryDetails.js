@@ -169,8 +169,6 @@ function queryDetailsCard(nome, previousLocation) {
 	$("h3.ui-title[role='heading'][aria-level='1']:not(:has(*))").html( Localization[Localize.locale].title.details_page.details);
       },150);
       
-      
-      
     }
     
   }
@@ -184,15 +182,19 @@ function queryDetailsCard(nome, previousLocation) {
       setTimeout(function(){
          window.location.hash = previousLocation;
       }, 3000);
-      
-//       var loadingHtml = "<img src='images/ajax-loader.gif'>";
-      if (Localization[Localize.locale].id.leaf.details_page.id.data_loading != undefined)
-// 	loadingHtml += "<span>"+Localization[Localize.locale].id.leaf.details_page.id.data_loading+"</span>";
-	loadingHtmlText = Localization[Localize.locale].id.leaf.details_page.id.data_loading;
-      else
-// 	loadingHtml += "<span>Caricamento dei dati...</span>";
-	loadingHtmlText = "Caricamento dei dati...";
-      $('#details-content-text').html( loadingHtmlText );
+
+// //       console.log(Localize.locale);
+//       console.log(Localization[Localize.locale]);
+// //       var loadingHtml = "<img src='images/ajax-loader.gif'>";
+//       if (Localization[Localize.locale].message.details.data_loading != undefined)
+// // 	loadingHtml += "<span>"+Localization[Localize.locale].id.leaf.details_page.id.data_loading+"</span>";
+// 	loadingHtmlText = Localization[Localize.locale].message.details.data_loading;
+//       else
+// // 	loadingHtml += "<span>Caricamento dei dati...</span>";
+// 	loadingHtmlText = "Caricamento dei dati...";
+// //       var details_html = "<img src='source/images/ajax-loader.gif'><div id='details-content-text'>"+loadingHtmlText+"</div>";
+      resetDetailsPage( getLocalizedInitDetailsPage() );
+//       $('#details-content-text').html( details_html );
      }
   }
   
@@ -218,7 +220,9 @@ function queryDetailsCard(nome, previousLocation) {
   }
 
   // webservice script url: https://script.google.com/macros/d/MoqSkcdItQkEw5tEIC49z0hNrVEl51b0O/edit?uiv=2&mid=ACjPJvEUHECrY0ReMnOvXp6yB4AaNFSFrQJhjO1C7mBkhDVbxsYoHonStDmqswtmqKR9HDvL5xKNKVrJ1ipTnLUkmm5P_QniCq81cfEtMbErpB7CG-E87tGx0mL38Wa-IFm0SQZ4mjSmVjE
-  var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+nome+"&callback?";
+  var encodedNome = encodeURIComponent(nome);
+//   console.log(encodedNome);
+  var queryPage = "https://script.google.com/macros/s/AKfycbyeSEK-1Xh1mkDZUsRjG1xKFamNhJQwAtyrQF4s620/dev?nome="+encodedNome+"&callback?";
   
   $.ajax({
    url: queryPage,
@@ -232,4 +236,24 @@ function queryDetailsCard(nome, previousLocation) {
 
   
   return true;
+}
+
+function getLocalizedInitDetailsPage() {
+//   console.log(Localization[Localize.locale]);
+  if (Localization[Localize.locale].message.details.data_loading != undefined)
+    return Localization[Localize.locale].message.details.data_loading;
+  else
+    return "Caricamento dei dati...";
+}
+
+function resetDetailsPage(loadingHtmlText) {
+  var lht;
+  if (loadingHtmlText != undefined)
+    lht = loadingHtmlText;
+  else
+    lht = "Caricamento dei dati...";
+  
+//   $('#details-content-text').html( details_html );
+  var detailsHtml = "<div align='center'><img src='source/images/ajax-loader.gif'><div id='details-content-text'>"+lht+"</div></div>"
+  $('#details-content').html( detailsHtml );
 }

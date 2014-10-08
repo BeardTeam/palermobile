@@ -49,10 +49,13 @@ function fixCSS() {
   $('.infobox-container').livequery( function() {
     var ic = $(this).find('.infobox-container');
     if ( ic.length != 0) {
-      var infobox = $(ic).parent().parent().parent().parent().children()[0].children[0].children[1];
-      infobox.style["background-color"] = "#ffffff";
-      infobox.style["border-radius"] = "10px";
-      $(".gm-style-iw").parent().parent().children()[0].children[0].children[3].style["background-color"] = null
+      try {
+	var infobox = $(ic).parent().parent().parent().parent().children()[0].children[0].children[1];
+	infobox.style["background-color"] = "#ffffff";
+	infobox.style["border-radius"] = "10px";
+      
+	$(".gm-style-iw").parent().parent().children()[0].children[0].children[3].style["background-color"] = null;
+      } catch(e) {}
     }
   }, function() {
     

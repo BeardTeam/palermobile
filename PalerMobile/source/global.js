@@ -6,5 +6,3 @@ PalerMobile = {
       language: ""
    }
 }
-
-//    "AIzaSyCE52c6f98loed2n33zkSL0USEWa14oEE8",
